@@ -1,0 +1,146 @@
+# langfile metno version 3.0 2014-07-29 11:00
+charset|UTF-8|
+# days of the week long
+langlookup|Sunday|Dimanche|
+langlookup|Monday|Lundi|
+langlookup|Tuesday|Mardi|
+langlookup|Wednesday|Mercredi|
+langlookup|Thursday|Jeudi|
+langlookup|Friday|Vendredi|
+langlookup|Saturday|Samedi|
+# day-parts
+langlookup|this|cette|
+langlookup|evening|soirée|
+langlookup|night|nuit|
+langlookup|morning|matin|
+langlookup|afternoon|l&#39;après-midi|
+# month names long
+langlookup|January|janvier|
+langlookup|February|février|
+langlookup|March|mars|
+langlookup|April|avril|
+langlookup|May|mai|
+langlookup|June|juin|
+langlookup|July|juillet|
+langlookup|August|Août|
+langlookup|September|septembre|
+langlookup|October|octobre|
+langlookup|November|novembre|
+langlookup|December|décembre|
+# time created
+langlookup|Updated|Mise à jour|
+langlookup|Next update|Prochaine mise à jour|
+langlookup|MetNoForecast.|Prévisions météorologiques pour: |
+langlookup|yourArea|yourArea|
+langlookup|by:|Préparé par: |
+#  tab names
+langlookup|Graphs|Graphiques|
+langlookup|Forecast by 6 hour intervals|Prévisions de 6 heures d&#39;intervalle|
+langlookup|48 hour details|Détaillées 48 heures|
+langlookup|Forecast details|Prévisions détaillées|
+# column headers
+langlookup|Period|Période|
+langlookup|Forecast|prévisions|
+langlookup|Temperature|Température|
+langlookup|Precipitation|Précipitations|
+langlookup|Wind|Vent|
+langlookup|Humidity|Humidité|
+langlookup|Pressure|Pression baro|
+langlookup|Cloud cover|Couverture nuageuse|
+# beafort wind names
+langlookup|Calm|Calme|
+langlookup|Fresh breeze|Bonne brise|
+langlookup|Gale|Coup de vent|
+langlookup|Gentle breeze|Petite brise|
+langlookup|Hurricane|Ouragan|
+langlookup|Light air|Très légère brise|
+langlookup|Light breeze|Légère brise|
+langlookup|Moderate breeze|Jolie brise|
+langlookup|Near gale|Grand frais|
+langlookup|Storm|Tempête|
+langlookup|Strong breeze|Vent frais|
+langlookup|Strong gale|Fort coup de vent|
+langlookup|Violent storm|Violente tempête|
+# wind direction compass headings
+langlookup|from the|de la|
+langlookup|E|E|
+langlookup|ENE|ENE|
+langlookup|ESE|ESE|
+langlookup|East|Est|
+langlookup|N|N|
+langlookup|NE|NE|
+langlookup|NNE|NNE|
+langlookup|NNW|NNO|
+langlookup|NW|NO|
+langlookup|North|North|
+langlookup|S|S|
+langlookup|SE|SE|
+langlookup|SSE|SSE|
+langlookup|SSW|SSO|
+langlookup|SW|SO|
+langlookup|South|Sud|
+langlookup|W|O|
+langlookup|WNW|ONO|
+langlookup|WSW|OSO|
+langlookup|West|Ouest|
+# heat words
+langlookup|Cold|froid|
+langlookup|Comfortable|Confortable|
+langlookup|Cool|frais|
+langlookup|Extreme Cold|extrêmement froid|
+langlookup|Extreme Heat Caution|fort risque de chaleur|
+langlookup|Extreme Heat Danger|extrême danger de chaleur|
+langlookup|Extremely Hot|extrêmement chaud|
+langlookup|Heat Danger|danger de chaleur|
+langlookup|Hot|Chaud|
+langlookup|Uncomfortably Cold|inconfortablement froid|
+langlookup|Uncomfortably Hot|inconfortablement chaud|
+langlookup|Unknown|inconnu|
+langlookup|Very Cold|Très froid|
+langlookup|Warm|modérément chaud|
+# other
+langlookup|-|-|
+langlookup|Daylength|La longueur du jour|
+# conditions  1.9
+langlookup|Cloud|Nuage|
+langlookup|Clear|Ciel dégagé|
+langlookup|Drizzle|Bruine|
+langlookup|DrizzleSun|Bruine, ciel dégagé| 
+langlookup|DrizzleThunder|Bruine, orages|
+langlookup|DrizzleThunderSun|Bruine, ciel dégagé, orages|
+langlookup|Fog|Brouillard|
+langlookup|HeavySleet|Beaucoup de pluie verglaçante|
+langlookup|HeavySleetSun|Beaucoup de pluie verglaçante, ciel dégagé|
+langlookup|HeavySleetThunder|Beaucoup de pluie verglaçante, orages|
+langlookup|HeavySleetThunderSun|Beaucoup de pluie verglaçante, ciel dégagé, orages|
+langlookup|HeavysnowSun|Averses de neige fortes, ciel dégagé| 
+langlookup|HeavySnowThunder|Averses de neige fortes, orages|
+langlookup|HeavySnowThunderSun|Averses de neige fortes, ciel dégagé, orages|
+langlookup|LightCloud|Quelques nuages|
+langlookup|LightRain|Pluie faible|
+langlookup|LightRainSun|Pluie faible, ciel dégagé|
+langlookup|LightRainThunder|Très nuageux avec Orages|
+langlookup|LightRainThunderSun|Très nuageux avec Orages|
+langlookup|LightSleet|Neige fondue|
+langlookup|LightSleetSun|Neige fondue, ciel dégagé|
+langlookup|LightSleetThunder|Neige fondue avec Orages|
+langlookup|LightSleetThunderSun|Neige fondue avec Orages|
+langlookup|LightSnow|Légères chutes de neige|
+langlookup|LightSnowSun|Légères chutes de neige, ciel dégagé|
+langlookup|LightSnowThunder|Légères chutes de neige avec Orages|
+langlookup|LightSnowThunderSun|Légères chutes de neige avec Orages, ciel dégagé||
+langlookup|PartlyCloud|Partiellement nuageux|
+langlookup|Rain|Pluie|
+langlookup|RainSun|Pluie,  ciel dégagé|
+langlookup|RainThunder|Pluie avec Orages|
+langlookup|RainThunderSun|Pluie avec Orages|, ciel dégagé|
+langlookup|Sleet|Neige fondue|
+langlookup|SleetSun|Neige fondue, ciel dégagé|
+langlookup|SleetSunThunder|Neige fondue avec Orages, ciel dégagé|
+langlookup|SleetThunder|Neige fondue avec Orages|
+langlookup|Snow|Neige|
+langlookup|SnowSun|Neige, ciel dégagé| 
+langlookup|SnowSunThunder|Neige, ciel dégagé, Orages|
+langlookup|SnowThunder|Neige, Orages|
+langlookup|Thunder|Orages|
+langlookup|Sun|Ciel dégagé|

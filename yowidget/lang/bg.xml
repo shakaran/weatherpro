@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Отказвам се от неограничен лиценз"/>
+  <s key="Absent" value="Липсва"/>
+  <s key="Add" value="Добави"/>
+  <s key="Animate" value="Анимация"/>
+  <s key="Apply" value="Приложи"/>
+  <s key="Astronomy" value="Астрономия"/>
+  <s key="Day Length" value="Продължителност на деня"/>
+  <s key="Moon Phase" value="Фаза на Луната"/>
+  <s key="Sunrise" value="Изгрев на Слънцето"/>
+  <s key="Sunset" value="Залез на Слънцето"/>
+  <s key="Auto update weather" value="Автоматично обновяване на времето"/>
+  <s key="Bad ICAO code" value="Грешен ICAO код"/>
+  <s key="Buy YoWindow Unlimited!" value="Купи YoWindow Unlimited!"/>
+  <s key="Calendar" value="Календар"/>
+  <s key="Cancel" value="Отказ"/>
+  <s key="Change" value="Промяна"/>
+  <s key="Code" value="Код"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Прогноза за времето от {0}, предоставена от Норвежкия Метеорологичен Институт и NRK"/>
+  <s key="Forecast from {0}" value="Прогноза от {0}"/>
+  <s key="Current weather" value="Времето в момента"/>
+  <s key="Friday" value="Петък"/>
+  <s key="Monday" value="Понеделник"/>
+  <s key="Saturday" value="Събота"/>
+  <s key="Sunday" value="Неделя"/>
+  <s key="Thursday" value="Четвъртък"/>
+  <s key="Tuesday" value="Вторник"/>
+  <s key="Wednesday" value="Сряда"/>
+  <s key="Fr" value="Пт"/>
+  <s key="Mo" value="Пн"/>
+  <s key="Sa" value="Сб"/>
+  <s key="Su" value="Нед"/>
+  <s key="Th" value="Чт"/>
+  <s key="Tu" value="Вт"/>
+  <s key="We" value="Сря"/>
+  <s key="day ago" value="ден"/>
+  <s key="days ago" value="преди дни"/>
+  <s key="Default" value="По подразбиране"/>
+  <s key="Blowing" value="Виелица"/>
+  <s key="Clear" value="Ясно"/>
+  <s key="Cloudy" value="Облачно"/>
+  <s key="Overcast" value="Облачно"/>
+  <s key="Drizzle" value="Ръми"/>
+  <s key="Fair" value="Ясно"/>
+  <s key="Fog" value="мъгливо"/>
+  <s key="Freezing" value="Замръз"/>
+  <s key="Hail" value="Градушка"/>
+  <s key="Haze" value="Омара"/>
+  <s key="Heavy" value="Проливен"/>
+  <s key="Ice Crystals" value="Ледени кристали"/>
+  <s key="Ice Pellets" value="Ледени топчета"/>
+  <s key="In Vicinity" value="наблизо"/>
+  <s key="Light" value="Лек"/>
+  <s key="Low Drifting" value="Ниска облачност"/>
+  <s key="Mist" value="Мъгливо"/>
+  <s key="Mostly Cloudy" value="Предимно облачно"/>
+  <s key="Partial" value="Частично"/>
+  <s key="Partly Cloudy" value="Незначителна облачност"/>
+  <s key="Patches" value="На отделни места"/>
+  <s key="Rain" value="Дъжд"/>
+  <s key="Rain And Thunder" value="Дъжд и гръмотевици"/>
+  <s key="Sand" value="Пясък"/>
+  <s key="Shallow" value="Плитък"/>
+  <s key="Shower" value="Дъжд"/>
+  <s key="Shower With Thunder" value="Дъжд с гръмотевици"/>
+  <s key="Sleet" value="Мокър сняг"/>
+  <s key="Small Hail" value="Дребна градушка"/>
+  <s key="Smoke" value="Дим"/>
+  <s key="Snow" value="Сняг"/>
+  <s key="Snow And Thunder" value="Сняг и Гръм"/>
+  <s key="Snow Grains" value="Суграшица"/>
+  <s key="Snow Showers" value="Снеговалеж"/>
+  <s key="Thunderstorm" value="Гръмотевична буря"/>
+  <s key="Unknown Precipitation" value="Неопределено количество валежи"/>
+  <s key="Widespread Dust Haze" value="Стелеща се гъста мъгла"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Невалиден лицензионен ключ. Опитайте отново. Уверете се, че сте въвели правилно ключа. Опитайте да копирате/поставите ключа."/>
+  <s key="Wrong license key" value="Грешен лицензионен ключ"/>
+  <s key="You will have to restart the application for this to take effect" value="Ще трябва да рестартирате програмата, за да влязат в сила промените"/>
+  <s key="Language change" value="Смяна на езика"/>
+  <s key="No limits!" value="Без ограничения!"/>
+  <s key="Buy now!" value="Купи сега!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Купи лиценз за премахване на ограниченията."/>
+  <s key="Not now" value="Не сега"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="За да завършите регистрацията, въведете лицензионният ключ, който сме ви изпратили. Съвет: използвайте копиране/поставяне."/>
+  <s key="License registration" value="Регистриране на лиценз"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Благодарим Ви за регистрацията на YoWindow! Всички ограничения са премахнати. Наслаждавайте се!"/>
+  <s key="Distance" value="Разстояние"/>
+  <s key="Down" value="Надолу"/>
+  <s key="Download" value="Изтегляне"/>
+  <s key="Enter weather source URL please" value="Въведете URL адреса на източника, моля"/>
+  <s key="Error" value="Грешка"/>
+  <s key="The location is already added" value="Мястото вече е добавено"/>
+  <s key="Exit" value="Изход"/>
+  <s key="To get started, pick your home location" value="Избор на домашно местоположение"/>
+  <s key="Forecast Panel" value="Панел с прогнозата"/>
+  <s key="Full Screen" value="Цял екран"/>
+  <s key="Help" value="Помощ"/>
+  <s key="Highlight weather station parameters" value="Маркиране на параметрите на метеорологичната станция"/>
+  <s key="Home" value="Дом"/>
+  <s key="h" value="ч"/>
+  <s key="Inspector" value="Информационен монитор"/>
+  <s key="Landscape" value="Пейзаж"/>
+  <s key="Foreground" value="Преден план"/>
+  <s key="Landscape Options" value="Настройки на пейзажите"/>
+  <s key="Landscape pictures" value="Снимки на пейзажи"/>
+  <s key="Landscapes" value="Пейзажи"/>
+  <s key="Language:" value="Език:"/>
+  <s key="English" value="Английски"/>
+  <s key="System Default" value="По подразбиране за системата"/>
+  <s key="Latitude" value="Географска ширина"/>
+  <s key="{0} locations" value="{0} места"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Можете да добавите {0} местоположения. В неограниченото издание можете да добавите неограничен брой местоположения."/>
+  <s key="Weather auto-update is off" value="Автоматичното обновяване на времето е изключено"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Натиснете F5 за актуализиране на прогнозата. Тя се обновява автоматично в Неограниченото издание."/>
+  <s key="{0} weather forecast days only" value="Прогноза за времето само за {0} дни"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Вие имате достъп до {0} дни от прогнозата за времето. Неограниченото издание позволява {1} дневна прогноза."/>
+  <s key="Licence key" value="Лицензионен ключ"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Времето е автоматично обновено в неограничената версия"/>
+  <s key="LIVE" value="В момента"/>
+  <s key="Load weather from personal weather station" value="Зареждане на прогнозата от лична метеорологична станция"/>
+  <s key="Loading" value="Зареждане"/>
+  <s key="Loading landscape..." value="Зареждане на пейзаж..."/>
+  <s key="Location" value="Местоположение"/>
+  <s key="Location ID" value="ID на местоположението"/>
+  <s key="Location Properties" value="Особености на местоположението"/>
+  <s key="id_internet_link" value="Интернет връзка с прогнозата за времето"/>
+  <s key="Locations" value="Местоположения"/>
+  <s key="All locations" value="Всички"/>
+  <s key="All regions" value="Всички региони"/>
+  <s key="All states" value="Всички държави"/>
+  <s key="Change landscape" value="Смяна на пейзажа"/>
+  <s key="Select a location" value="Изберете място"/>
+  <s key="The location is already added" value="Мястото вече е добавено"/>
+  <s key="Location is not selected yet" value="Местоположението все още не е избрано"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Големи градове (с над 100000 население)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Неуспешно свързване, информацията за местолположението не е достъпна. Местоположението не може да бъде избрано в момента."/>
+  <s key="No locations in scope" value="Не е намерено местоположението"/>
+  <s key="Scope" value="Обхват"/>
+  <s key="Region" value="Регион"/>
+  <s key="Cannot find a location?" value="Не може да се намери място?"/>
+  <s key="Set as Home" value="Задай като Дом"/>
+  <s key="Current Location" value="Текущо местоположение"/>
+  <s key="Unknown" value="Неизвестен"/>
+  <s key="Longitude" value="Географска дължина"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Изглед към Север (Западният вятър духа от ляво)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Изглед към Юг (Западният вятър духа от дясно)"/>
+  <s key="April" value="Април"/>
+  <s key="August" value="Август"/>
+  <s key="December" value="Декември"/>
+  <s key="February" value="Февруари"/>
+  <s key="January" value="Януари"/>
+  <s key="July" value="Юли"/>
+  <s key="June" value="Юни"/>
+  <s key="March" value="Март"/>
+  <s key="May" value="Май"/>
+  <s key="November" value="Ноември"/>
+  <s key="October" value="Октомври"/>
+  <s key="September" value="Септември"/>
+  <s key="About" value="За програмата"/>
+  <s key="Facebook Edition" value="Версия за Facebook"/>
+  <s key="License Agreement" value="Лицензионно споразумение"/>
+  <s key="Program" value="Програма"/>
+  <s key="Visit our Forum" value="Посетете форума"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow за вашия сайт или блог"/>
+  <s key="m" value="м"/>
+  <s key="{0} minutes back" value="преди {0} минути"/>
+  <s key="{0} minutes forward" value="след {0} минути"/>
+  <s key="Name" value="Име"/>
+  <s key="Network error" value="Грешка при свързване"/>
+  <s key="Network not available" value="Няма налична мрежова връзка"/>
+  <s key="It is available on {0}" value="Валидна е от {0}"/>
+  <s key="New version released" value="Налична е нова версия"/>
+  <s key="Next Day" value="Следващ ден"/>
+  <s key="No" value="Не"/>
+  <s key="No weather" value="Няма метеорологична прогноза"/>
+  <s key="N/A" value="Няма данни"/>
+  <s key="Notify me when a new version is available" value="Уведоми ме, когато е налична нова версия"/>
+  <s key="Online" value="Онлайн"/>
+  <s key="Open {0}" value="Отвори {0}"/>
+  <s key="Options" value="Настройки"/>
+  <s key="Advanced" value="Повече"/>
+  <s key="Application choice" value="Избор на програма"/>
+  <s key="Date" value="Дата"/>
+  <s key="Display" value="Екран"/>
+  <s key="Animate clouds" value="Анимация на облаците"/>
+  <s key="Default" value="По подразбиране"/>
+  <s key="Full screen mode" value="Цял екран"/>
+  <s key="Quality" value="Качество"/>
+  <s key="Custom" value="Потребителско"/>
+  <s key="Excellent" value="Високо"/>
+  <s key="Moderate" value="Средно"/>
+  <s key="Number of days to display:" value="Брой на дните за показване:"/>
+  <s key="Tile contents:" value="Съдържание на мозайка:"/>
+  <s key="General" value="Общи"/>
+  <s key="Contents" value="Съдържание"/>
+  <s key="Show N/A parameters" value="Покажи невалидните параметри"/>
+  <s key="Live indicator" value="Индикатор на текущото време"/>
+  <s key="Locations" value="Местоположения"/>
+  <s key="Operation successful!" value="Операцията е успешна!"/>
+  <s key="Refresh locations DB" value="Обнови данните за местоположенията"/>
+  <s key="Reset to defaults" value="Връщане на опциите по подразбиране"/>
+  <s key="Add" value="Добави"/>
+  <s key="User interface" value="Потребителски интерфейс"/>
+  <s key="Screen saver" value="Скрийнсейвър"/>
+  <s key="Time Bar" value="Поле с часа"/>
+  <s key="Unit system:" value="Мерни единици:"/>
+  <s key="Units" value="Единици"/>
+  <s key="Auto-detected" value="Автоматично намерени"/>
+  <s key="Custom" value="Потребителско"/>
+  <s key="Distance:" value="Разстояние:"/>
+  <s key="Metric" value="Десетични"/>
+  <s key="Russia" value="Русия"/>
+  <s key="Finland" value="Финландия"/>
+  <s key="Pressure:" value="Налягане:"/>
+  <s key="Temperature:" value="Температура:"/>
+  <s key="US" value="САЩ"/>
+  <s key="Wind speed:" value="Скорост на вятъра:"/>
+  <s key="Landscape Options" value="Настройки на пейзажите"/>
+  <s key="Show Daylight Diagram" value="Показване на диаграма на положението на Слънцето"/>
+  <s key="Show Forecast Panel" value="Покажи Панел с прогнозата"/>
+  <s key="Show Full Screen button" value="Покажи бутона за цял екран"/>
+  <s key="Show Inspector" value="Покажи текущото време"/>
+  <s key="Show Time Bar" value="Покажи поле с часа"/>
+  <s key="Show User interface" value="Покажи Потребителският интерфейс"/>
+  <s key="Show forecast when current weather is expired" value="Покажи изтеклите прогнози"/>
+  <s key="Organize" value="Организира"/>
+  <s key="Organize locations" value="Организиране на местоположения"/>
+  <s key="Organize pictures" value="Организиране снимки"/>
+  <s key="Pictures" value="Снимки"/>
+  <s key="press" value="натиснете"/>
+  <s key="Falling" value="Спадане"/>
+  <s key="Falling Rapidly" value="Бързо спадане"/>
+  <s key="Rising" value="Покачване"/>
+  <s key="Rising Rapidly" value="Бързо покачване"/>
+  <s key="Steady" value="Устойчиво"/>
+  <s key="Previous Day" value="Предходен ден"/>
+  <s key="Properties" value="Информация"/>
+  <s key="Refresh Locations data base" value="Обнови база данни за Местоположенията"/>
+  <s key="Register" value="Регистрация"/>
+  <s key="Remove" value="Изтриване"/>
+  <s key="Rename" value="Преименуване"/>
+  <s key="Rename location" value="Преименуване на местоположение"/>
+  <s key="Rename picture" value="Преименуване на снимка"/>
+  <s key="Retry" value="Повторен опит"/>
+  <s key="Run with Windows (minimized to tray)" value="Стартиране с Windows (при системните икони)"/>
+  <s key="Season map" value="Карта на сезоните"/>
+  <s key="Select" value="Изберете"/>
+  <s key="Select country" value="Изберете държава"/>
+  <s key="Select a landscape" value="Изберете пейзаж"/>
+  <s key="Select location" value="Изберете място"/>
+  <s key="Select region" value="Изберете област"/>
+  <s key="Select state" value="Избор на щат"/>
+  <s key="Set as default" value="Задай по подразбиране"/>
+  <s key="Set YoWindow as ScreenSaver" value="Комплект YoWindow като Скрийнсейвър"/>
+  <s key="Setup" value="Настройка"/>
+  <s key="Show" value="Показване"/>
+  <s key="Show again" value="Покажи отново"/>
+  <s key="Speed" value="Скорост"/>
+  <s key="Time" value="Бар с индикация на часа"/>
+  <s key="{0} ago" value="преди {0}"/>
+  <s key="Time zone" value="Часова зона"/>
+  <s key="Today" value="Днес"/>
+  <s key="Tomorrow" value="Утре"/>
+  <s key="Tom." value="Утре"/>
+  <s key="Tonight" value="Тази вечер"/>
+  <s key="Add New Location" value="Добави ново място"/>
+  <s key="Open Calendar..." value="Отворете Календар..."/>
+  <s key="Show Less Days" value="Покажи по-малко дни"/>
+  <s key="Show More Days" value="Виж повече дни"/>
+  <s key="Update Weather" value="Актуализация на времето"/>
+  <s key="Unknown" value="Неизвестен"/>
+  <s key="Up" value="Нагоре"/>
+  <s key="Update interval" value="Интервал на актуализация"/>
+  <s key="Update weather" value="Актуализация на прогнозата"/>
+  <s key="Updating weather" value="Актуализиране на прогнозата"/>
+  <s key="View" value="Изглед"/>
+  <s key="Please wait..." value="Изчакайте моля..."/>
+  <s key="Weather" value="Време"/>
+  <s key="Daily rain total" value="Общо дъжд за днес"/>
+  <s key="Weather expired" value="Прогнозата е изтекла"/>
+  <s key="Feels like" value="Усеща се като"/>
+  <s key="Day maximum temperature" value="Максимална дневна температура"/>
+  <s key="Day minimum temperature" value="Минимална дневна температура"/>
+  <s key="Weather forecast" value="Прогноза за времето"/>
+  <s key="Forecast issued" value="Прогнозата е от"/>
+  <s key="Hail" value="Градушка"/>
+  <s key="Humidity" value="Влажност"/>
+  <s key="Observed" value="Обновено"/>
+  <s key="Pressure" value="Налягане"/>
+  <s key="PWS only" value="PWS само"/>
+  <s key="Rain" value="Дъжд"/>
+  <s key="Rain/Snow rate" value="Ниво на Дъжд/Сняг"/>
+  <s key="Description" value="Описание"/>
+  <s key="Sky image" value="Снимка на небето"/>
+  <s key="Snow" value="Сняг"/>
+  <s key="Snow level" value="Снежна покривка"/>
+  <s key="Weather station properties" value="Опции на метеорологична станция"/>
+  <s key="Temperature" value="Температура"/>
+  <s key="Temperature range" value="Температурен диапазон"/>
+  <s key="Update error" value="Грешка при обновяване"/>
+  <s key="Update time" value="Време за актуализация"/>
+  <s key="UV index" value="Индекс на ултравиолетовите лъчи"/>
+  <s key="Visibility" value="Видимост"/>
+  <s key="Unlimited" value="Неогр."/>
+  <s key="Wind" value="Вятър"/>
+  <s key="Calm" value="Без вятър"/>
+  <s key="Variable" value="Променлив"/>
+  <s key="Welcome to YoWindow!" value="Добре дошли в YoWindow!"/>
+  <s key="Wind direction:" value="Посока на вятъра:"/>
+  <s key="East" value="Източен"/>
+  <s key="North" value="Северен"/>
+  <s key="South" value="Южен"/>
+  <s key="West" value="Западен"/>
+  <s key="Yes" value="Да"/>
+  <s key="Close screensaver on mouse move" value="Затвори скрийнсейвъра при преместване на мишката"/>
+  <s key="Color" value="Цвят"/>
+  <s key="Background" value="Фон"/>
+  <s key="Choose color" value="Избери цвят"/>
+  <s key="System tray" value="Системен трей"/>
+  <s key="Transparent" value="Прозрачност"/>
+  <s key="Precipitation chance" value="Изгледи за валежи"/>
+  <s key="Rain chance" value="Изгледи за дъжд"/>
+  <s key="Snow chance" value="Изгледи за сняг"/>
+  <s key="{0} only" value="{0} само"/>
+  <s key="US" value="САЩ"/>
+  <s key="Dew point" value="Точка на оросяване"/>
+  <s key="I want to have fun" value="Искам да се забавлявам"/>
+  <s key="Enable surprises" value="Включва на изненадите"/>
+  <s key="NWS forecasts for the USA" value="Прогнози за САЩ от NWS"/>
+  <s key="h" value="ч"/>
+  <s key="min" value="мин"/>
+  <s key="Open" value="Отвори"/>
+  <s key="Browse" value="Преглед"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Въведете пътя до снимка или пейзаж в Интернет или от компютъра си"/>
+  <s key="Landscape load error" value="Грешка при зареждане на пейзажа"/>
+  <s key="Picture load error" value="Грешка при зареждане на снимката"/>
+  <s key="The landscape is already added" value="Пейзажът вече е добавен"/>
+  <s key="Landscape collection" value="Колекция от пейзажи"/>
+  <s key="Turn your photo into Landscape" value="Направи пейзаж от своя снимка"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Научете се{1} как да направите пейзаж от своя снимка"/>
+  <s key="Village" value="Село"/>
+  <s key="Seaside" value="Морски бряг"/>
+  <s key="Airport" value="Аерогара"/>
+  <s key="Oriental" value="Ориенталски"/>
+  <s key="Sky" value="Небе"/>
+  <s key="Landscape made from picture" value="Пейзаж, създаден от снимка"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Ние ще ви направляваме по време на процеса на създаване на пейзаж за YoWindow от ваша снимка."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Моля, прочетете предварително нашето ръководство {0}Как да направим пейзаж от снимка?{1}"/>
+  <s key="Click Next to continue..." value="Натиснете Напред, за да продължите..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Изберете снимката, която искате да използвате за пейзаж."/>
+  <s key="How to pick the best landscape picture?" value="Как да изберем най-подходящата снимка?"/>
+  <s key="Source picture" value="Изберете снимка"/>
+  <s key="The landscape will be created in the following folder" value="Пейзажът ще бъде създаден в следната папка:"/>
+  <s key="Landscape folder name" value="Име на папката на пейзажа"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Натиснете бутона &quot;Създай&quot;, за да създадете пейзажа {0}"/>
+  <s key="{0} landscape has been created successfully!" value="Пейзажът {0} беше създаден успешно!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Сега отворете {0} с любимия си редактор на изображения. Трябва да премахнете небето от снимката. Ще намерите изображението в {1}папката на пейзажа{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Лесно е да се премахне небето. Прочетете нашето кратко {0}ръководство{1}."/>
+  <s key="Auto" value="Автоматично"/>
+  <s key="Horizon Level Setup" value="Настройка на нивото на хоризонта"/>
+  <s key="Keys: Up/Down" value="Клавиши: Нагоре/Надолу"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Искате да изтриете изображението с пейзажа {0}. Процесът е необратим. Сигурни ли сте?"/>
+  <s key="Edit Landscape" value="Редактиране на пейзаж"/>
+  <s key="Edit Horizon Level" value="Редактиране на нивото на хоризонта"/>
+  <s key="File not found." value="Файлът не е намерен."/>
+  <s key="The name is empty" value="Името е празно"/>
+  <s key="The folder already exists" value="Папката вече съществува"/>
+  <s key="Illegal folder name" value="Невалидно име на папка"/>
+  <s key="The file format is not supported." value="Форматът на файла не се поддържа."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Снимката е твърде голяма за YoWindow. Размерът на снимката трябва да не надвишава 2880 пиксела на широчина и височина."/>
+  <s key="Landscape Image" value="Изображение на пейзажа"/>
+  <s key="Landscape Folder" value="Папка на пейзажа"/>
+  <s key="About Landscape" value="За Пейзажа"/>
+  <s key="Picture {0} imported successfully" value="Снимката {0} е импортирана успешно"/>
+  <s key="Remind Me Later" value="Напомни ми по-късно"/>
+  <s key="Skip This Version" value="Прескочи тази версия"/>
+  <s key="Loading" value="Зареждане"/>
+  <s key="Next" value="Напред"/>
+  <s key="Back" value="Назад"/>
+  <s key="Finish" value="Край"/>
+  <s key="Create" value="Създай"/>
+  <s key="Import" value="Импортирай"/>
+  <s key="Delete" value="Изтрий"/>
+  <s key="Path" value="Път"/>
+  <s key="Options" value="Настройки"/>
+  <s key="Select the options you like" value="Изберете опциите, които желаете"/>
+  <s key="Set YoWindow as default screen saver" value="Настройте YoWindow като скрийн сейвър по подразбиране"/>
+  <s key="Start with Windows (minimized to system tray)" value="Стартирай с Windows (минимизиран в системния трей)"/>
+  <s key="Add a shortcut to quick launch bar" value="Добави пряк път към лентата за бързо стартиране"/>
+  <s key="You are about to upgrade YoWindow." value="Искате ли да обновите YoWindow."/>
+  <s key="Click OK to install the new version." value="Натиснете OK, за да инсталирате новата версия."/>
+  <s key="You must close YoWindow before you can continue." value="Трябва да затворите YoWindow за да можете да продължите."/>
+  <s key="After you have closed YoWindow, select Retry." value="След като сте затворили YoWindow, изберете Опитай отново."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Ако искате да отмените прицеса на премахването, изберете Отмени."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Ако искате да се опитате да инсталирате все пак, изберете Игнорирай."/>
+  <s key="If you wish to abort the installation, select Abort." value="Ако искате да прекратите инсталацията, изберете Прекрати."/>
+  <s key="Final step" value="Последна стъпка"/>
+  <s key="Start YoWindow on system startup" value="Стартирай YoWindow при стартиране на системата"/>
+  <s key="Check for new version..." value="Провери за нова версия..."/>
+  <s key="YoWindow is up to date!" value="YoWindow е актуализиран!"/>
+  <s key="You have the latest version" value="Разполагате с последната версия"/>
+  <s key="Download new version!" value="Свалете новата версия!"/>
+  <s key="Preview" value="Визуализация"/>
+  <s key="Show small YoWindow logo" value="Показвай малко лого на YoWindow"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Пейзажът е достъпен само в неограничената версия."/>
+  <s key="id_short_hour" value="ч"/>
+  <s key="id_short_minute" value="мин"/>
+  <s key="id_unit_short_millimetres" value="мм"/>
+  <s key="id_unit_short_centimetres" value="см"/>
+  <s key="id_unit_short_metres" value="м"/>
+  <s key="id_unit_short_kilometres" value="км"/>
+  <s key="id_unit_short_feet" value="фута"/>
+  <s key="id_unit_short_miles" value="мили"/>
+  <s key="id_unit_short_miles_per_hour" value="мили/ч"/>
+  <s key="id_unit_short_kilometres_per_hour" value="км/ч"/>
+  <s key="id_unit_short_metres_per_second" value="м/с"/>
+  <s key="id_unit_short_knots" value="възела"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="мб"/>
+  <s key="id_unit_short_kilopascal" value="кПа"/>
+  <s key="id_unit_short_hectopascal" value="хПа"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Показване на &quot;?&quot;"/>
+  <s key="Hide parameter" value="Скриване на параметъра"/>
+  <s key="When weather parameter is not available" value="Когато прогнозата не е валидна"/>
+  <s key="Information" value="Информация"/>
+  <s key="id_information_all" value="Всички"/>
+  <s key="Temperature and Time" value="Температура и време"/>
+  <s key="This is Unlimited Edition." value="Тази версия е без ограничения."/>
+  <s key="It is already registered." value="Тя вече е регистрирана."/>
+  <s key="Free edition" value="Безплатна версия"/>
+  <s key="Unlimited edition" value="Версия без ограничения"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="За да работи YoWindow трябва да бъде инсталиран Flash Player за (for Internet Explorer) {0} или по-нова."/>
+  <s key="Get Adobe Flash Player" value="Свалете Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Отключване на пейзажа"/>
+  <s key="YoWindow for Chrome" value="YoWindow за Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow за Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow за Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow за iPhone и iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Вижте YoWindow във Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Вижте YoWindow в Twitter"/>
+  <s key="Landscape trial, days left:" value="Пробен период на пейзажа, оставащи дни:"/>
+  <s key="Landscape trial period is over" value="Пробният период на пейзажа е изтекъл"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="Пейзажът &quot;{0}&quot; е част от YoWindow Unlimited."/>
+  <s key="Details" value="Подробно"/>
+  <s key="View direction" value="Посока на изглед"/>
+  <s key="Fixed sky" value="Фиксирано небе"/>
+  <s key="Edit" value="Редактиране"/>
+  <s key="Reload" value="Презареждане"/>
+  <s key="Minimized" value="Минимизирано"/>
+  <s key="affects wind only" value="влияе само на посоката на вятъра"/>
+  <s key="Broadcast" value="Излъчване"/>
+  <s key="Share" value="Сподели"/>
+  <s key="Publishing" value="Публикация"/>
+  <s key="Authorizing" value="Авторизация"/>
+  <s key="Published!" value="Публикувано!"/>
+  <s key="Space" value="Интервал"/>
+  <s key="Weather now in {0}" value="Времето в моментa в {0}"/>
+  <s key="Weather forecast for {0} in {1}" value="Прогноза за {0} в {1}"/>
+  <s key="Today in {0} (forecast)" value="Днес в {0} (прогноза)"/>
+  <s key="Tomorrow in {0} (forecast)" value="Утре в {0} (прогноза)"/>
+  <s key="Forecast" value="Прогноза"/>
+  <s key="Sound" value="Звук"/>
+  <s key="Enable sound" value="Включване на звука"/>
+  <s key="Volume" value="Сила на звука"/>
+  <s key="Skip" value="Пропускане"/>
+  <s key="Presented in Stereo" value="Стерео"/>
+  <s key="Override current season" value="Замяна на текущия сезон"/>
+  <s key="Winter" value="Зима"/>
+  <s key="Spring" value="Пролет"/>
+  <s key="Summer" value="Лято"/>
+  <s key="Autumn" value="Есен"/>
+  <s key="Naked" value="Неактивен сезон"/>
+  <s key="Countries" value="Държави"/>
+  <s key="Vote!" value="Напишете отзив!"/>
+  <s key="Vote for YoWindow, thank you" value="Гласувайте за YoWindow, благодаря ви!"/>
+  <s key="More YoWindow" value="YoWindow за други ОС"/>
+  <s key="Swipe the screen to see weather changes over time" value="Скролнете по екрана, за да видите промените на времето"/>
+  <s key="And one more time" value="... и още веднъж"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Натиснете бутона 'В момента' за да се върнете в текущото време"/>
+  <s key="Watch weather with pleasure" value="Проследявайте прогнозата за времето с удоволствие"/>
+  <s key="Disable Auto-Lock" value="Забрана на автоматично заключване на екрана"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Поддържане на дисплея включен, ако устройството се зарежда или нивото на батерията е над 25%."/>
+  <s key="More" value="Повече"/>
+  <s key="Parallax effect" value="Паралакс ефект"/>
+  <s key="An illusion of 3D space when you tilt the device" value="3D ефект при наклон на устройството"/>
+  <s key="Temperature in Status Bar" value="Температура в Статус бара"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Покажи температурта за &quot;ДОМ&quot;"/>
+  <s key="Not enough free space." value="Няма достатъчно свободно място."/>
+  <s key="YoWindow may run unstable." value="YoWindow може да работи нестабилно."/>
+  <s key="{0} MB minimum required." value="Необходими са минимум {0} MB."/>
+  <s key="YoWindow Weather" value="Прогноза за времето YoWindow"/>
+  <s key="YoWindow Zero" value="YoWindow Нула"/>
+  <s key="Get Full Version" value="Изтеглете пълната версия"/>
+  <s key="No ads, no limitations, all landscapes available" value="Без добавки, без ограничения, всички пейзажи са достъпни"/>
+  <s key="No advertising" value="Без реклама"/>
+  <s key="Remove ads" value="Премахване на рекламите"/>
+  <s key="Weather forecast is limited" value="Прогнозата е ограничена"/>
+  <s key="Demo" value="Демонстрация"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="Достъпът до пейзажа &quot;{0}&quot; е ограничен."/>
+  <s key="Connecting to {0}" value="Свързване с {0}"/>
+  <s key="Camera" value="Камера"/>
+  <s key="Photos" value="Снимки"/>
+  <s key="Wallpaper" value="Тапет"/>
+  <s key="Enable animations" value="Включване на анимациите"/>
+  <s key="Show weather" value="Показване на времето"/>
+  <s key="No animation - almost no battery power consumed." value="Без анимация - почти без консумация на енергия."/>
+  <s key="Widget Settings" value="Настройки на притурката"/>
+  <s key="Create Widget" value="Създаване на притурката"/>
+  <s key="Tap to search for a location" value="Натиснете, за да търсите местоположение"/>
+  <s key="Show background" value="Показване на фона"/>
+  <s key="Move On Top" value="Преместване най-отгоре"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Премахнете безплатната версия на &quot;YoWindow&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Имате инсталирани и пълната, и безплатната версия на YoWindow."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Моля, деинсталирайте безплатната версия, за да избегнете конфликт."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Използвайте добавките на YoWindow - проследявайте прогнозата с повече комфорт"/>
+  <s key="Tap to continue" value="Натиснете тук, за да научите повече"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow е инсталирана на външната памет."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="ВНИМАНИЕ: Тапета и притурките на YoWindow може да бъдат НЕДОСТЪПНИ, когато програмата е инсталирана във външната памет (SD картата)."/>
+  <s key="Location Search" value="Търсене на местоположение"/>
+  <s key="Redeem code" value="Въведете промоционален код"/>
+  <s key="Full Version privilege granted." value="Предоставени са ви функциите на пълната версия."/>
+  <s key="Advertising removed, no limitations." value="Рекламата е премахната. Програмата работи без ограничения."/>
+  <s key="Unexpected code" value="Неизвестен код"/>
+  <s key="Restore privileges" value="Възстановяване на привилегиите"/>
+  <s key="Set As Wallpaper" value="Задай като тапет"/>
+  <s key="Post" value="Публикуване"/>
+  <s key="Enter the message" value="Въведете съобщение"/>
+  <s key="Fill in the weather" value="Добави в прогнозата"/>
+  <s key="You just have posted to Facebook!" value="Току-що публикувахте съобщение във Facebook!"/>
+</body>

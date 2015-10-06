@@ -1,0 +1,147 @@
+# langfile metno version 3.0 2014-07-29 11:00
+charset|UTF-8|
+# days of the week long
+langlookup|Sunday|Sonntag|
+langlookup|Monday|Montag|
+langlookup|Tuesday|Dienstag|
+langlookup|Wednesday|Mittwoch|
+langlookup|Thursday|Donnerstag|
+langlookup|Friday|Freitag|
+langlookup|Saturday|Samstag|
+# day-parts
+langlookup|this|heute|
+langlookup|evening|Abend|
+langlookup|night|Nacht|
+langlookup|morning|Morgen|
+langlookup|afternoon|Nachmittag|
+# month names long
+langlookup|January|Januar|
+langlookup|February|Februar|
+langlookup|March|März|
+langlookup|April|April|
+langlookup|May|Mai|
+langlookup|June|Juni|
+langlookup|July|Juli|
+langlookup|August|August|
+langlookup|September|September|
+langlookup|October|Oktober|
+langlookup|November|November|
+langlookup|December|Dezember|
+# time created
+langlookup|Updated|Aktualisierung|
+langlookup|Next update|Nächste Aktualisierung|
+langlookup|MetNoForecast.|Wettervorhersagen für|
+langlookup|yourArea|Dein Gebiet/Land|
+langlookup|by:|durch:|
+#  tab names
+langlookup|Graphs|Grafiken|
+langlookup|Forecast by 6 hour intervals|Prognose in 6-Stunden-Intervallen|
+langlookup|48 hour details|48 Stunden Details|
+langlookup|Forecast details|Prognose details|
+# column headers
+langlookup|Period|Zeitraum|
+langlookup|Forecast|Vorhersage|
+langlookup|Temperature|Temperatur|
+langlookup|Precipitation|Niederschlag|
+langlookup|Wind|WIND|
+langlookup|Humidity|LUFT-
+FEUCHTE|
+langlookup|Pressure|Luftdruck|
+langlookup|Cloud cover|Bewölkung|
+# beafort wind names
+langlookup|Calm|Windstille|
+langlookup|Fresh breeze|Auffrischende Briese|
+langlookup|Gale|Stürmischer Wind|
+langlookup|Gentle breeze|Mäßige Briese|
+langlookup|Hurricane|Orkan|
+langlookup|Light air|Nahezu Windstill|
+langlookup|Light breeze|Leichte Briese|
+langlookup|Moderate breeze|Mittlere Briese|
+langlookup|Near gale|Kräftiger Wind|
+langlookup|Storm|Sturm|
+langlookup|Strong breeze|Starke Briese|
+langlookup|Strong gale|Stark stürmisch|
+langlookup|Violent storm|Kräftiger Sturm|
+# wind direction compass headings
+langlookup|from the|aus|
+langlookup|E|O|
+langlookup|ENE|ONO|
+langlookup|ESE|OSO|
+langlookup|East|Osten|
+langlookup|N|N|
+langlookup|NE|NO|
+langlookup|NNE|NNO|
+langlookup|NNW|NNW|
+langlookup|NW|NW|
+langlookup|North|Norden|
+langlookup|S|S|
+langlookup|SE|SO|
+langlookup|SSE|SSO|
+langlookup|SSW|SSW|
+langlookup|SW|SW|
+langlookup|South|Süden|
+langlookup|W|W|
+langlookup|WNW|WNW|
+langlookup|WSW|WSW|
+langlookup|West|Westen|
+# heat words
+langlookup|Cold|Kalt|
+langlookup|Comfortable|Angenehm|
+langlookup|Cool|Kühl|
+langlookup|Extreme Cold|Extrem Kalt|
+langlookup|Extreme Heat Caution|Extrem hohe Hitzegefahr|
+langlookup|Extreme Heat Danger|Extreme Hitzegefahr|
+langlookup|Extremely Hot|Sehr heiss|
+langlookup|Heat Danger|Hitzegefahr|
+langlookup|Hot|Heiss|
+langlookup|Uncomfortably Cold|Unangenehm kalt|
+langlookup|Uncomfortably Hot|Unangenehm heiss|
+langlookup|Unknown|Unbekannt|
+langlookup|Very Cold|Sehr kalt|
+langlookup|Warm|Warm|
+# other
+langlookup|-|-|
+langlookup|Daylength|Tageslänge|
+# conditions  1.9
+langlookup|Cloud|Wolken|
+langlookup|Clear|klar|
+langlookup|Drizzle|Nieselregen|
+langlookup|DrizzleSun|Nieselregen, Klar|
+langlookup|DrizzleThunder|Nieselregen, Gewitter|
+langlookup|DrizzleThunderSun|Nieselregen, Klar, Gewitter|
+langlookup|Fog|Nebel|
+langlookup|HeavySleet|Starker gefrierender Regen|
+langlookup|HeavySleetSun|Starker gefrierender Regen, Klar| 
+langlookup|HeavySleetThunder|Starker gefrierender Regen, Gewitter|
+langlookup|HeavySleetThunderSun|Starker gefrierender Regen, Klar, Gewitter|
+langlookup|HeavysnowSun|Schwere Schneefälle, Klar|
+langlookup|HeavySnowThunder|Schwere Schneefälle, Gewitter|
+langlookup|HeavySnowThunderSun|Schwere Schneefälle, Klar, Gewitter|
+langlookup|LightCloud|Teilweise bewölkt|
+langlookup|LightRain|Leichter Regen|
+langlookup|LightRainSun|Leichter Regen, Klar| 
+langlookup|LightRainThunder|Leichter Regen, Gewitter|
+langlookup|LightRainThunderSun|Leichter Regen, Klar, Gewitter|
+langlookup|LightSleet|Leichter Schneeregen|
+langlookup|LightSleetSun|Leichter Schneeregen, Klar|
+langlookup|LightSleetThunder|Leichter Schneeregen, Gewitter|
+langlookup|LightSleetThunderSun|Leichter Schneeregen, Gewitter, Klar|
+langlookup|LightSnow|Leichter Schneefall|
+langlookup|LightSnowSun|Leichter Schneefall, Klar|
+langlookup|LightSnowThunder|Leichter Schneefall, Gewitter|
+langlookup|LightSnowThunderSun|Leichter Schneefall, Gewitter, Klar|
+langlookup|PartlyCloud|Teilweise bewölkt|
+langlookup|Rain|Regen|
+langlookup|RainSun|Regen, Klar|
+langlookup|RainThunder|Regen, Gewitter|
+langlookup|RainThunderSun|Regen, Gewitter, clear|
+langlookup|Sleet|Schneeregen|
+langlookup|SleetSun|Schneeregen, Klar|
+langlookup|SleetSunThunder|Schneeregen, Klar, Gewitter|
+langlookup|SleetThunder|Schneeregen, Klar|
+langlookup|Snow|Schnee|
+langlookup|SnowSun|Schnee, Klar|
+langlookup|SnowSunThunder|Schnee, Klar, Gewitter|
+langlookup|SnowThunder|Schnee, Gewitter|
+langlookup|Thunder|Gewitter|
+langlookup|Sun|Klar|

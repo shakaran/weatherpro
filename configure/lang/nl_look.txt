@@ -1,0 +1,225 @@
+|0|De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|1|Wat weer-programma gebruikt u:
+|2|Selecteer het deel van de wereld voor de locatie van uw weerstation:
+|3|De naam van uw weerstation zonder speciale tekens:
+|4|Als gebruiker van Davis Weatherlink.com heb je een sleutel toegang tot uw gegevens.
+|5|En een wachtwoord dat u hebt gebruikt om instellingen in het weeatherlink.com plaats <br />Dat wachtwoord wordt daarom gebruikt om uw gegevens te laden in de weer-template om de 5 minuten
+|6|Een relatieve korte naam voor het gebied / regio uw weerstation is in de <br /> Het zal worden weergegeven op elke pagina header en op de prognose pagina's ..
+|7|Latitude (en NextField lengtegraad) worden waarschijnlijk dus opgegeven in uw Weatherprogram en worden hier gebruikt voor Earthquake rapporten, Sterrenkunde en prognoses <br />. Voorbeeld: 50,8500 is voor Leuven in België en 41,30068 is voor Brand Ford CT, USA. <br />Ten noorden van de evenaar is positief (= geen teken). Ten zuiden van de evenaar heeft een - teken.
+|8|Voor breedtegraden links van Greenwich een - teken nodig is. <br /> Voorbeeld: 4,3400 is voor Leuven in België en-72,793671 is voor Brand Ford CT, USA.
+|9|Selecteer uw tijdzone uit de keuzelijst
+|10|Selecteer uw regio voor de Wunderground regionale kaarten
+|11|Gebruik de onderstaande knop. Standaard is de kaart VS wordt getoond. Voor Canadese stations, zie hieronder. Selecteer uw regio door te klikken op de kaart, niet de bezielde knop niet gebruiken op dit moment.Voorbeeld je aankomt op pagina <br /> <a href = "http://www.wunderground.com/weather-radar/united-states-regional/nc/charlotte" target = "_ blank"> <b><small>http://www.wunderground.com/weather-radar/united-states-regional/nc/charlotte</small></b></a><br /> Ga naar een van de radars (blauwe ronde gebied) bijvoorbeeld bij Jacksonville en een ronde met de naam van het station (Morehead) en de drie lettercode (MHX voor dit voorbeeld) Verschijnt <br /> <br /> Voor Canada moet je eerst naar Canada in de onderstaande "Weer radarkaarten" links te selecteren. Klik vervolgens op het witte <b> + </ b> -tekens te komen op uw WU radarstation. De 3-lettercode in de browser adresregel.
+|12|Selecteer uw provincie hier.
+|13|Selecteer dichtstbijzijnde stad. De selectie Hier is Engels namen alleen maar Franse schepen wordt gebruikt in de scripts uitvoeren wanneer nodig.
+|14|Wilt u een air-quility Health Index Weergegeven. Controleer in de lijst hieronder als er te indexeren eerst zoeken naar uw omgeving.
+|15|Selecteer dichtstbijzijnde stad. De selectie Hier is Engels namen alleen maar Franse schepen wordt gebruikt in de scripts uitvoeren wanneer nodig.
+|16|De standaardtaal (dat is voor het eerst getoond) voor uw website.
+|17|The "METAR" code kan worden gebruikt om de huidige verkrijgen weersomstandigheden en als anders niet beschikbaar te almanak gegevens te verkrijgen voor uw gebied. <br /> Gebruik Google naar de dichtstbijzijnde METAR om uw stad te vinden.
+|18|De beste oplossing voor die de huidige omstandigheden te verkrijgen is om Yahoo te gebruiken. . Voor dat je nodig hebt een Yahoo ID City <br /> <b> HOE </ b>: Ga naar de Yahoo website en doe een zoektocht naar Leuven, instemmen met de voorgestelde <b lt> "Leuven, Vlaams Brabant, BE" &;</b> en zie je de volgende regel in uw browser adresveld: <br /> https://weather.yahoo.com/belgium/vlaams-brabant/leuven-973505/ <br /> Het nummer 973505 is het yahoo id plek voor Leuven. U kunt een soortgelijke aanpak wordt gebruikt om uw eigen ID en je moet het plaatst in de instelling.
+|19|Selecteer de bron van de huidige omstandigheden te krijgen van.
+|20|Pagina-width: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|21|Menu-width: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|22|Het menu kan worden gebracht hetzij verticale links (standaard) of net onder de header.
+|23|De gele box kan worden getoond of verborgen met behulp van deze instelling.
+|24|<span style = "float: left;"> uit de programmer: </ span> <br /> Ik gebruik deze gele doos, zodat voor informatie over de nieuwe pagina's toegevoegd of voor een waarschuwing dat bepaalde pagina's worden tijdelijk uitgeschakeld vanwege problemen met een prognose-organisatie. <br /> Ofwel passen de standaardtekst evry tijd of het gebruik van meerdere tekstbestanden.
+|25|De standaard selectie is het weer waarden weergegeven met behulp van de meters van de <br /> De volgende keuze toont de belangrijkste waarden in het weer altijd zichtbaar tekstblok. <br> De laatste keuze heeft de minste hoeveelheid ruimte als het gebruik maakt van een roterende lijn om alle waarden weer te geven.
+|26|De standaard kleur is ingesteld-stijl "weather-Aangepast" zo ook het actuele weer-omstandigheden worden gebruikt om de back-gemalen beeld en de kleur-regeling in te stellen.
+|27|Als u de standaard geselecteerde verticale menu van de side display is altijd Ongeacht de instelling hier getoond.
+|28|De kant gebied en bottom-gebied kan worden gebruikt om interessante links weer te geven
+|29|Als u wilt zetten wat toevoegt of aanvullende informatie over de bovenkant van de pagina
+|30|Gebruik dit bestand of typ de locatie van uw eigen bestand
+|31|Als u wilt zetten wat toevoegt of aanvullende informatie aan de onderkant van de pagina
+|32|Gebruik dit bestand of typ de locatie van uw eigen bestand
+|33|De verschillende pagina's van het sjabloon kan worden ingeroepen van binnen de Joomla menu dat is een standaard installatie van Joomla. Met "stripAll" ingesteld op true zal er geen koptekst, voettekst en nee en geen Side Area getoond. De horizontale menu wordt gebruikt.
+|34|Met "stripMenu" ingesteld op true, het menu is niet zo getoond..
+|35|default zijn er kleine land vlaggen getoond naast de taalkeuze <br /> Schakel de weergave van de scriptie kleine vlaggen hier.
+|36|Partners Organisaties zijn u weer informatie te uploaden, bijvoorbeeld "Weather Underground". Hier kiest u of en waar u informatie wilt over proefschrift bedrijven weer te geven.
+|37|Wilt u en waar u informatie over de computer, Weatherprogram, webhost u gebruikt om uw website weer draaien weer te geven.
+|38|De websites van vrienden a.s.o. kan alleen worden getoond in de zijkant gebied.
+|39|U kunt hypothese "sociale site" knoppen weer in de zijkant gebied, (3 grote pictogrammen) of in de header (on all-in-1 icon). De pictogrammen en alle benodigde javascript code worden gegenereerd met behulp van de gratis "addthis.com" service.
+|40|Wilt u een beter inzicht in uw bezoekers moet u vragen om uw eigen gratis sleutel
+|41|scripts: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|42|beeld Kleine regen radar: Het beeld kan worden aangetoond of altijd op basis van het weer-voorwaarden of waarschuwingen. <br /> Wanneer de website bezoeker klikt op het beeld een grotere afbeelding bovenaan de pagina wordt weergegeven.
+|43|beeld Kleine donder radar.
+|44|Er is geen standaard doneren getoond knop <br /> BELANGRIJK: U moet de Paypal code eerste genereren.
+|45|Zet de link naar <b> Uw </ b> PayPal doneren code hier.
+|46|Toon (optioneel) meteo waarschuwingen op elke pagina.
+|47|Voor de Verenigde Staten regio standaard waarschuwingen scripts NOAA gebruikt als bron voor "een gebied" -warnings. De gebruikers in de VS kan hier kiezen, zodat de meer uitgebreide Curly scripts. Deze scripts maken het mogelijk om meerdere waarschuwingen meerdere gebieden weergegeven. Als men kiest Hanes Curly scripts de aanpassing worden gedaan door het wijzigen van de instelling in de scripts map in de nieuwste NWS weer ?? / USA /
+|48|U vindt uw netnummer door te bladeren naar uw gebied op het alarm ter plaatse. <br /> Voorbeeld: http://www.meteoalarm.eu/en_UK/0/0/<b>UK012</b>-East_of_England.html <br /> Hier <b> UK012 </ b> is de code voor Oost-Engeland. Een andere code is <b> BE004 </ b> voor Vlaams Brabant.
+|49|De voorbeeld = CT009 is een gebied in Connecticut. U kunt uw eigen netnummer op de link hieronder te vinden. Scroll naar beneden op de pagina en je hebt een "State (Zone Lijst|County List)" te vinden. Klikken op Ofwel zone of County lijst voor uw staat een lijst van alle codes die u hier kunt gebruiken.
+|50|De standaard waarschuwingen wordt getoond voor alles op de pagina. Als u de waarschuwing Inside uw pagina Selecteer hier deed.
+|51|Wilt u een DisplayMessage Dus Als er geen waarschuwing, selecteert u hier deed.
+|52|Als u wilt dat de hele tekst van de waarschuwing weergegeven op uw pagina, selecteer hier deed. Wees voorzichtig, met zorg gebruiken. De hele tekst kan zeer groot, bijvoorbeeld niet gebruiken in België of de helft van uw raam zal gebruikt worden door de waarschuwing.
+|53|Het aantal individuele waarschuwingen voordat waarschuwingen worden gecombineerd. Want soms zijn er zo veel weer-waarschuwingen deed om veel ruimte op het scherm wordt verspild.
+|54|alle afzonderlijke waarschuwingen in één doos te zetten, opnieuw om minder ruimte te gebruiken in het browservenster.
+|55|Wilt u uw eigen pagina gebruiken Als gedetailleerde informatie wordt gevraagd of moet de bezoeker direct naar de weerswaarschuwing website.
+|56|Selecteer de eerste pagina uw bezoekers zal gaan wanneer ze uw site bezoeken voor de eerste keer
+|57|Gebruik een externe statistieken teller op uw website te meten
+|58|Vervang de standaard teller code met uw eigen code Verkregen uit histats.com.
+|59|Gebruik van een "zwevende" go-to-top marker te snel naar de top van de pagina, handig voor lange pagina's.
+|60|Gebruik de template code voor deze voorziening of punt om uw eigen code.
+|61|Behalve op de startpagina, ga direct naar de gegevens deel van een pagina om meer informatie weer te geven
+|62|Met deze facilty een roterende lijn weer te geven met een andere waarde op elke lijn weer
+|63|Gebruik een bezoekers teller in de voettekst en dus een pagina met bezoekers van de laatste 4 dagen.
+|64|Wilt u een vlag en extra info over de bezoeker onder u "geolookup" nodig. Deze versie van de sjabloon suppports een betaald abonnement http://www.ipgp.net als verlenging.
+|65|Het IP info over uw bezoekers wordt bewaard in dit bestand (in de cache directory), indien niet aanwezig het is gemaakt
+|66|Sommige Europese pagina's zijn enkel geldig voor dit land
+|67|Sommige Europese pagina's zijn enkel geldig voor dit land
+|68|Er zijn een paar pagina's met ondersteuning voor telefoons en andere kleine apparaten met op internet browser. U kunt deze pagina controleren zelf uit het menu om te zien wat possibillities hier worden aangeboden. Wanneer bezoekers met een tablet blader naar uw site, worden ze doorverwezen naar de normale site. Alleen kleine screen smartphones zijn gericht op de mobiele pagina's.
+|69|Als u deze instelling laten zoals is, zal er een kleine schakel in de voettekst van de contact pagina en de contact pagina zal worden in het menu als een aparte keuze.
+|70|Als je een contact pagina moet je de juiste e-mailadressen hier opgeven inbegrepen. Gebruik een noreply @ adres voor de webmaster e-mail van (die de bezoeker ziet als hij vraagt ​​om een ​​kopie van de e-mail).
+|71|Gebruik een geldig e-mailadres in om de vragen van de bezoeker te ontvangen. Dit adres wordt niet gezien door de bezoeker dus robots / hackers niet kan hen ook te zien.
+|72|Deze pagina wordt gebruikt om de NOAA prognoses geven
+|73|Wilt u de standaard template pictogrammen of de NOAA pictogrammen gebruiken
+|74|Geeft uw CWOP statisatics
+|75|Gebruik Hanes Environment Canada prognoses
+|76|Optie "debug" type pagina telt alle bezochte pagina's en kan een sorteerbare lijst weer te geven van het.
+|77|Alleen in staat deze als je een webcam en webcam foto's te laten zien.
+|78|Een smal webcam-afbeelding zal in de side-areaswhich getoond wordt vergroot op de bovenkant van de pagina Wanneer de gebruikers op het.
+|79|Hebben we gebruik maken van een aparte pagina of is het voldoende om een ​​pop-up van de kleine kant-gebied afbeelding te gebruiken.
+|80|Hebben we een "het is 's nachts" message-foto nodig hebt of we weer de normale webcam-afbeelding
+|81|Stel naar de locatie van de nacht-time vervanger beeld.
+|82|De shortname afbeelding van de webcam boven.
+|83|De exacte link naar imago van de webcam.
+|84|Alleen in staat deze als je een tweede webcam met webcam foto's te laten zien.
+|85|De shortname afbeelding van de webcam boven.
+|86|De exacte link naar imago van de webcam.
+|87|Als u gekocht en gebruikt WXSIM dit kan hier worden ingesteld.
+|88|De locatie van de geüploade bestanden is WXSIM Vaak is de wortel, die is ingesteld als de standaard waarde <br /> Als de bestanden in een andere map, geeft u het pad ten opzichte van het weer ?? / map.
+|89|Er zijn drie beschikbare bestanden WXSIM waarvan er twee worden gebruikt. Gebreke blijven van de meest uitgebreide bestand wordt gebruikt. Als er fouten in het script of in een bestand, kan men hier tussen de bestanden te schakelen.
+|90|Het sjabloon maakt gebruik van dezelfde iconen voor alle prognoses. Maar als je liever de iconen gebruiken uit de voorspellers Zelf U kunt deed voor elke afzonderlijke Forecaster. <br /> Er zijn geen "eigen iconen", maar voor WXSIM Vaak YrNo pictogrammen worden gebruikt als vervanging..
+|91|Heeft u een abonnement op de betaalde diensten voor grafische of Metohub Meteo Bridge <br /> Of doet u als uw Meteoplug "Weatherprogram" te gebruiken.
+|92|Heeft u lopen Weather Display Live op uw webserver <br /> Dit FLASH programma moet clientraw * bestanden en het is een betaalde programma ..
+|93|MeteoWare is een gratis programma FLASH Welke toont een real-time dashboard.
+|94|Hier selecteert u de standaard prognose daarmee bereikt avilable op de </ b> Start pagina </ b>.
+|95|Wilt u een dropdown met de namen van de "nabije" Cities op de top van elke prognose <br /> Bezoekers kunnen dan niet alleen kiezen voor je eigen stad, maar zo someother degenen ?.
+|96|naar deze drop-down selectie maken gebruik van een bestand met de andere stad-namen en programma-toetsen is aanwezig in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.
+|97|naar deze drop down selectie met EC-scripts een bestand met de andere stad-namen en programma-toetsen aanwezig is te gebruiken in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.?
+|98|Wilt u een weer-voorspelling van Weather-Underground <br /> Wees u ervan bewust thatthere zijn oft vertaling probleem met andere langauges dan Engels.
+|99|Wilt u de One Page WU vooruitzicht (en de almanak data op het dashboard) te gebruiken moet je een gratis sleutel te vragen en deze instelling te wijzigen.
+|100|Het sjabloon maakt gebruik van dezelfde iconen voor alle prognoses <br /> Maar als u liever de WU pictogrammen worden gebruikt in de WU voorspellen U kunt hier deed ..
+|101|U kunt kiezen dan in de cache WU pictogrammen gebruikt of halen ze uit de WU website.
+|102|Deze uitgebreide prognose vormen de Norwegion Weather Service is de meest gebruikte één. <br /> Zij leveren een prognose voor elke plaats in de wereld en deed zonder sleutel of een bijzondere plek ID. <br /> Alleen uw lengte / breedte worden gebruikt om deze uitgebreide prognose te verkrijgen.
+|103|Wilt u de standaard sjabloon iconen of de Yr.No gebruiken (als er geen Met.no) pictogrammen.
+|104|Een andere Noorse voorspeller Welke Genereert zo uitgebreid een prognose maar zo levert een meteogram in png-formaat. Wanneer u gebruik maakt van de "smart-phone / mobile" pagina's moet je de yrNo Instellingen correct opgeven als deze prognose wordt gebruikt op die pagina's.
+|105|op zoek naar de juiste Land / Regio [/ sub-regio] / Stad code Gebruik de link en zoek de dichtstbijzijnde stad naar uw plaats. In de browser adres gebied vind je de juiste code. Voorbeeld http://www.yr.no/place/<b> België / Vlaanderen / Leuven / </ b>
+|106|Om de drop-down selectie u een klein bestand met de verschillende namen en de toetsen moeten gebruiken. Het is aanwezig in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.
+|107|De "Het Weer Actueel" weerstations hebben hun eigen prognose data. Je moet lid te zijn en correct geregistreerd te hebben om ID en een sleutel.
+|108|U ophalen uw </ b> hwaXmlId </ b> bij het beheer pagina voor je Weer-station aan de HWA website.
+|109|Hetzelfde geldt voor de <b> hwaXmlKey </ b>
+|110|Wilt u de standaard template pictogrammen of de HWA pictogrammen gebruiken?
+|111|Zoals Yahoo ook kunnen leveren de huidige weersomstandigheden en Lijkt een betrouwbare 24/7 website hebben, is dit 5-daagse weersverwachting wordt vaak gebruikt op de startpagina.
+|112|Wilt u de standaard template pictogrammen of de Yahoo pictogrammen gebruiken?
+|113|Dit kleine wereldwijd prognose heeft een gratis sleutel.
+|114|Volgens Stel het type van de sleutel die u hebt / reqquested.
+|115|Je moet een gratis sleutel van hun plaats te krijgen. De voorspelling is reterieved van lengte / breedte-instellingen, zodat bij ID niet nodig
+|116|Als u op dit moment vragen om API-key u een sleutel type 2 te krijgen. je hebt hier ingesteld. Als u al een ouder type-1 Key gebruik maken van de andere instelling.
+|117|Wilt u de standaard sjabloon iconen of de Weather pictogrammen gebruiken?
+|118|De pagina wordt automatisch vernieuwd na ther aantal seconden dat u hier & lt ingesteld; br /> Laat een nul om deze functie vooral vervelend te schakelen ..
+|119|Tijd tussen verzoek om nieuwe gegevens over Ajax gebaseerde pagina (dashboard) in seconden. <br /> minimale wachttijd is 10 seconden. <br /> Gebruik deze tijd veel korter dan is het uploaden van uw real-time data bestanden niet ingesteld.
+|120|Zelfde type instelling, maar nu voor de SteelSeries pagina's. <br /> Normaal ingesteld hetzelfde als voor de Ajax-updates.
+|121|<b> De template is volledig HTML 5 / UTF-8 </ b>. <br /> Afzonderlijke pagina's die behoefte hebben aan een ander karakter-set kan een pagina-instelling gebruiken in het menu bestand. <br /> Als voor een zeer zeldzame reden waarom je wilt naar een andere tekenset gebruiken, kunt u dat hier doen.
+|122|Dit Stel om de exacte map de sjabloon is in Als u in de root geïnstalleerd, is het "./" .. Als u in de standaard weer geïnstalleerd ?? map is het bijvoorbeeld "weather28 /"
+|123|Nadat u volledig klaar zijn testen, kunt u een wachtwoord instellen om het moeilijker maken om uw instellingen bestanden. Maar wacht tot je zeker weet dat de steun niet meer nodig. Het is onmogelijk om te helpen de problemen veroorzaakt door fouten in de instellingen wanneer ze wachtwoord.
+|124|Bent u lid van de Weather Underground, aka het uploaden van uw gegevens aan hen.
+|125|De ID van uw persoonlijke weerstation op de Wunderground site, bijvoorbeeld IVLAAMSG47.
+|126|Stations eerste dag van de operatie op Weather Underground <br> formaat dd-mm-jjjj nodig voor alle wu template pagina's, bijvoorbeeld 15-03-2013 ..
+|127|Bent u lid van een "Regional Weer Network". Voorbeelden: de BNLWN = Benelux Weer Netwerk, of de AKWN = Alaska Weer Netwerk. Alle Hun namen eindigen op WN.
+|128|De ID / afkorting van dat netwerk, bijvoorbeeld AKWN.
+|129|De naam te gebruiken op uw site voor dat netwerk, bijvoorbeeld: Alaska Weer Netwerk
+|130|De link / URL naar Hun belangrijkste website: http://alaskanweather.net/
+|131|Bent u lid van HetWeerActueel, aka zijn ze met behulp van uw weergegevens.
+|132|Herent: De ID aan uw statuspagina acces op de site HWA, bijvoorbeeld|
+|133|Bent u lid van het Europees netwerk van weerstations, aka zijn ze met behulp van uw weergegevens.
+|134|Bent u lid van AWEKAS, aka het uploaden van uw gegevens aan hen.
+|135|De ID aan uw statuspagina acces op AWEKAS site, bijvoorbeeld: 8506
+|136|Bent u lid van WeatherCloud.net, aka zijn ze met behulp van uw weergegevens.D1686817653:|
+|137|De ID uw eigen informatie over WeatherCloud.net, bijvoorbeeld acces.
+|138|cwopMember.
+|139|De ID om uw informatie-pagina acces op de CWOP site, bijvoorbeeld: C6440 <br /> Belangrijk: toegang tot uw gegevens voor de sjabloon pagina's de W Mocht uit de ID & lt worden verwijderd; br />. Hoewel dit station ID is CW6440 in Branford CT, worden de pagina's toegankelijk zonder de W, zodat de ID zou C6440 zijn.
+|140|Als u een Davis IP-logger of gebruik het Weatherlink programma, kunt u uw gegevens uploaden naar WeatherLink.com.
+|141|De ID wordt gebruikt om toegang te krijgen tot je 2 pagina's in het WL.com website. Voorbeeld: wvdkuil.
+|142|<b> Anything-Weer </ b> Site
+|143|De ID voor toegang tot uw informatie op hun website.
+|144|<b> pwsweather </ b> Site
+|145|De ID voor toegang tot uw informatie op hun website.
+|146|<b> Wetterpage24 </ b> website.
+|147|<b> US Weer Group </ b> website.
+|148|Er is een aparte pagina "Customize" in het menu waar de bezoeker het kleurenschema, de standaard voorspeller en alle eenheden gebruikt kan veranderen. <br /> Tenminste als je kunnen uw bezoekers om dat te doen hier.
+|149|Laat een bezoeker (en ondersteuning, en u zelf) te debuggen gebruiken = Y op de URL
+|150|Laat de gebruiker naar de website van kleuren / back-ground foto .Volgens "kleurstijlen" instelling te kiezen.
+|151|Sta gebruiker toe om verticale of horizontale menu's kiezen
+|152|Laat de gebruiker om te kiezen tussen de beschikbare headers
+|153|Sta gebruiker kiezen WhichPage wil weergegeven op de volgende bezoek
+|154|Disable / enable taalondersteuning. Laat het Als u meerdere talen op uw site.
+|155|Laat de gebruiker om hun eigen eenheden van de meting te selecteren
+|156|Laat de gebruiker om te kiezen tussen verschillende prognose voor de startpagina
+|157|Sommige weer-stations en een aantal weer-programma's ter ondersteuning bevestigd bodem sensor.
+|158|Er is een aparte pagina met bodemvocht en bodemtemperatuur informatie.
+|159|Het aantal (1-4) van de bodem sensor aangesloten op uw station..
+|160|De diepte van de eerste bijgevoegde soilsensor <br /> Alle depts in dezelfde eenheid als u hebt opgegeven voor de sneeuw (cm of inch).
+|161|Diepte tweede sensor.
+|162|Diepte derde sensor.
+|163|Diepte vierde sensor.
+|164|maateenheid voor vocht in de bodem: CB (standaard) of kPa.
+|165|Zijn er blad sensor bevestigd?
+|166|Aantal bijgevoegde blad sensor.
+|167|Is een UV-sensor (ondersteund door de weer-programma) aangesloten op uw station?
+|168|Zelfde setting voor een zonne-sensor.
+|169|In principe is het Andere instellingen vaak gebruikt voor de binnentemperatuur of een glas-house / zwembad-temp.
+|170|Maar ze kunnen worden gebruikt voor een temperatuursensor die u wilt gebruiken. Bij gebruik op de standaard locaties (startpagina naast het thermometer) je kunt ze elke naam die u wilt geven.
+|171|Als u een temp sensor in uw schuur en je wilt om het te controleren op de startpagina, een van de twee sensoren en gebruik de vertaling bestanden naar de correcte naam weergeeft zijn ingesteld.
+|172|Als u gebruik maakt van een Davis weerstation waarvoor de extra tekst U kunt opgeven prognose hier deed. Alle maar DW (Davis Weatherlink.com) weer-programma's zullen leveren Die teksten..
+|173|In de zij- of bottom-omgeving kunt u een icoon van uw weerstation en een koppeling & lt weer te geven; br /> Je moet wat informatie te verstrekken over uw weerstation. <br /> De standaardinstellingen zijn voor een Davis station.
+|174|Merk / Type van uw station.
+|175|De locatie (of de URL) van een afbeelding.
+|176|De URL naar de website manuafacturers.
+|177|Net als de informatie over het merk van ons weerstation kunt u beslissen of u wilt informatie over de provider voor uw website weer te geven.
+|178|De naam van uw provider.
+|179|De link naar een afbeelding van de provider.
+|180|De URL naar hun belangrijkste site.
+|181|Net als de informatie over het merk van uw weerstation kunt u beslissen of u wilt informatie over de computer weer te geven je je Weer-programma op te draaien.
+|182|Het merk van de computer of het apparaat dat u ASRE gebruikt.
+|183|De link naar een afbeelding.
+|184|De URL naar een relavant website.
+|185|De informatie en links voor je weer-programma zijn al in de scripts
+|186|De meeste Europeanen gebruik maken van een komma voor een decimaalteken. De meeste Amerikanen een punt..
+|187|Of u kunt een 2-tone kleur, waar blauw = onder het vriespunt, rood = boven & lt gebruiken voor de temperatuur; br /> Of een lange reeks van kleuren van licht blauw naar diepste donkerrood.
+|188|Optionele al tekst kan gede Weergegeven als kleine letters.
+|189|Laat zo is, alleen veranderen als de tijd frames van een voorspelling niet overeenkomen met uw regionale formulering van dit.
+|190|De UOM worden ingesteld op basis van uw regio. Je kunt ze hier veranderen aan te passen aan de lokale gebruik.
+|191|Pressure
+|192|Wind Snelheid
+|193|Rain / smelten
+|194|Sneeuwhoogte
+|195|Afstand
+|196|/ uur
+|197|Hoogte
+|198|Gebruik ofwel 24 uur of 12 uur display.
+|199|Hoe de datum weer te geven - de tijd.
+|200|Hoe tijd alleen weer te geven.
+|201|Hoe het uur alleen weergegeven.
+|202|Hoe tot op heden slechts weer te geven.
+|203|Hoe mot plus dag weer te geven.
+|204|Hoe de beschrijvende mot Day tijd weer
+|205|Selecteer hoe je Weer-programma uploadt de actuele informatie door het selecteren van een "standaard" formaat hier. <br /> Als uw programma maakt gebruik van een niet beursgenoteerde indeling u moet kiezen "andere" en definieert het formaat stukken in de komende 4 regels.
+|206|Wat separator wordt gebruikt tussen de verschillende onderdelen?
+|207|Het dagdeel is Hetzij de eerste, tweede of derde deel van de datumtekenreeks.
+|208|Hetzelfde geldt voor de maand deel.
+|209|Hetzelfde geldt voor het jaar deel.
+|210|Dit is een inzoombare kaart om uw lat / lang vinden
+|211|U kunt hier converteren van HH / MM / SS notatie naar decimale notatie
+|212|Vind uw station hier
+|213|Een tekstbestand met "alle" metar codes kan hier gevonden worden
+|214|Vind uw Yahoo ID stad hier
+|215|Display alle verschillende kleur-regelingen beschikbaar
+|216|Ga naar de website AddThis verkrijgen van uw gratis sleutel
+|217|Paypal stepts een donatie knop toe te voegen
+|218|Ga naar de Meteoalarm site om uw netnummer vinden
+|219|NOAA - NWS county / zonelijst
+|220|Ga naar de WU website uw eigen gratis API key aanvragen
+|221|Ga naar de site om de juiste YrNo ID vinden voor uw gebied (s)
+|222|Ga naar de Weather site om uw eigen gratis API key aanvragen
+|223|Hier kunt u uw "geo" look-up API Key kopen
+|224|Een voorbeeld van hoe de pagina op zoek naar <b> Noord-Amerikaanse en, alleen</b> gebruikers.

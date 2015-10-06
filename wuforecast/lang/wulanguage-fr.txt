@@ -1,0 +1,66 @@
+# langfile modified on: 2014-06-07		(YYYY-MM-DD)
+charset|UTF-8|
+# months  weeks and other date texts
+langlookup|wufct_date|Date|
+langlookup|wufct_January|Janvier|
+langlookup|wufct_February|Fèvrier|
+langlookup|wufct_March|Mars|
+langlookup|wufct_April|Avril|
+langlookup|wufct_May|Mai|
+langlookup|wufct_June|Juin|
+langlookup|wufct_July|Juillet|
+langlookup|wufct_August|Août|
+langlookup|wufct_September|Septembre|
+langlookup|wufct_October|Octobre|
+langlookup|wufct_November|Novembre|
+langlookup|wufct_December|Décembre|
+# 
+langlookup|wufct_Sunday|Dimanche|
+langlookup|wufct_Monday|Lundi|
+langlookup|wufct_Tuesday|Mardi|
+langlookup|wufct_Wednesday|Mercredi|
+langlookup|wufct_Thursday|Jeudi|
+langlookup|wufct_Friday|Vendredi|
+langlookup|wufct_Saturday|Samedi|
+# weather values
+langlookup|wufct_chance of|Risque de|
+langlookup|wufct_Precipation|Précipitation|
+langlookup|wufct_Wind|Vent|
+langlookup|wufct_Temperature|Température|
+langlookup|wufct_Humidity|Humidité|
+langlookup|wufct_icon|icône|
+langlookup|wufct_humidity|Humidité|
+langlookup|wufct_rain|Pluie|
+langlookup|wufct_wind|Vent|
+# headings and credits
+langlookup|wufct_Original script by|Scénario original de|
+langlookup|wufct_Forecast for|Prévisions pour|
+langlookup|wufct_updated|Mise à jour|
+langlookup|wufct_forecast|Prévisions|
+langlookup|wufct_day forecast for|jours de prévisions pour|
+langlookup|wufct_Icons|Icônes|
+langlookup|wufct_Graphs|Graphiques|
+langlookup|wufct_Table|Tableau|
+# weather descriptions
+langlookup|wufct_chanceflurries|Risque d'averses de neige|
+langlookup|wufct_chancerain|Risque de pluie|
+langlookup|wufct_chancesleet|Risque de verglas|
+langlookup|wufct_chancesnow|Risques de neige|
+langlookup|wufct_chancetstorms|Risque d'orages|
+langlookup|wufct_clear|Ciel dégagé|
+langlookup|wufct_cloudy|Nuageux|
+langlookup|wufct_flurries|Averses de neige|
+langlookup|wufct_fog|Brouillard|
+langlookup|wufct_hazy|Brumeux|
+langlookup|wufct_mostlycloudy|Partiellement nuageux|
+langlookup|wufct_mostlysunny|Généralement ensoleillé|
+langlookup|wufct_partlycloudy|Partiellement nuageux|
+langlookup|wufct_partlysunny|Partiellement ensoleillé|
+langlookup|wufct_rain|Pluie|
+langlookup|wufct_sleet|Verglas|
+langlookup|wufct_snow|Neige|
+langlookup|wufct_sunny|Ensoleillé|
+langlookup|wufct_tstorms|Orages|
+# others
+langlookup|wufct_Weather forecast by|Prévisions météo|
+

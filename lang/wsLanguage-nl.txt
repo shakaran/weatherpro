@@ -1,0 +1,1258 @@
+# langfile generated on: 27-02-2013 10:04
+charset|UTF-8|
+# ajax-dashboard
+langlookup|/hr|/uur|
+langlookup|Baro Trend|Baro trend|
+langlookup|Barometer|Barometer|
+langlookup|Cooler|Koeler|
+langlookup|Currently|Huidige|
+langlookup|Decreased by|Afgenomen met|
+langlookup|Dew Point|Dauwpunt|
+langlookup|Enable JavaScript for live updates|Aktiveer JavaScript voor live updates|
+langlookup|Falling|Dalend|
+langlookup|Feels like|Voelt aan als|
+langlookup|Forecast|Vooruitzicht|
+langlookup|Gust|Windvlaag|
+langlookup|Gust today|Windvlaag vandaag|
+langlookup|High:|Hoog:|
+langlookup|Humidity|Vochtigheid|
+langlookup|Illuminated|Verlicht|
+langlookup|Increased by|Toegenomen met|
+langlookup|Inside|Binnen|
+langlookup|Language|Taal|
+langlookup|Last updated:|Bijgewerkt op:|
+langlookup|Low:|Laag:|
+langlookup|Max|Max|
+langlookup|Max:|Max:|
+langlookup|Min|Min|
+langlookup|Moonrise|Maan opkomst|
+langlookup|Moonset|Maan ondergang|
+langlookup|Now:|Nu:|
+langlookup|Pool|Water|
+langlookup|Rain|Regen|
+langlookup|Rain Rate|Intensiteit|
+langlookup|Rain Today|Regen vandaag|
+langlookup|Rising|Stijgend|
+langlookup|Season Total|Jaar totaal|
+langlookup|Solar Radiation|Zonneschijn|
+langlookup|Summary|Samenvatting|
+langlookup|Sunrise|Zonsopkomst|
+langlookup|Sunset|Zonsondergang|
+langlookup|Temperature|Temperatuur|
+langlookup|This Month|Deze maand|
+langlookup|Today|Vandaag|
+langlookup|Trend|Trend|
+langlookup|UV Index|UV Index|
+langlookup|Updates paused - reload page to start|Bijwerken gestopt - Herlaad pagina  om opnieuw te beginnen|
+langlookup|Warmer|Warmer|
+langlookup|Yesterday|Gisteren|
+langlookup|at|om|
+langlookup|days with rain this month|dagen met regen deze maand|
+langlookup|forecast|Verwachting|
+langlookup|forecasts|verwacht|
+langlookup|inside|binnen|
+langlookup|m/s| m/s|
+langlookup|mm| mm|
+langlookup|seconds ago|secondes geleden|
+langlookup|than last hour|dan het laatste uur|
+langlookup|the last hour|afgelopen uur|
+langlookup|today|Vandaag|
+# astro
+langlookup|Astronomy|Almanak van zon en maan|
+langlookup|Autumn Equinox|Herfst equinox|
+langlookup|Daylight|Daglicht|
+langlookup|Lunar cycle|Maancyclus|
+langlookup|Moon|Maan|
+langlookup|Moon age|Ouderdom maan|
+langlookup|Moon at day|De maan op dag|
+langlookup|Our home|Ons thuis|
+langlookup|Our home on our planet as seen from space|Ons thuis gezien vanuit de ruimte|
+langlookup|Seasons|Seizoenen|
+langlookup|Start of Fall|Begin van de herfst|
+langlookup|Start of Spring|Begin van de lente|
+langlookup|Start of Summer|Begin van de zomer|
+langlookup|Start of Winter|Begin van de winter|
+langlookup|Summer Solstice|Zomerzonnewende|
+langlookup|Sun&nbsp;|Zon |
+langlookup|Vernal Equinox|Lente equinox|
+langlookup|Winter Solstice|Winterzonnewende|
+langlookup|of the mooncycle|van de maancyclus|
+# barometer trend
+langlookup|Falling Rapidly|Snel dalend|
+langlookup|Falling Slowly|Langzaam dalend|
+langlookup|Rising Rapidly|Snel stijgend|
+langlookup|Rising Slowly|Langzaam stijgend|
+langlookup|Steady|Bestendig|
+# beafort wind names
+langlookup|Calm|Kalm|
+langlookup|Fresh breeze|Vrij krachtig|
+langlookup|Gale|Stormachtig|
+langlookup|Gentle breeze|Matig|
+langlookup|Hurricane|Orkaankracht|
+langlookup|Light air|Zwak|
+langlookup|Light breeze|Zwak|
+langlookup|Moderate breeze|Matig|
+langlookup|Near gale|Hard|
+langlookup|Storm|Zware storm|
+langlookup|Strong breeze|Krachtig|
+langlookup|Strong gale|Storm|
+langlookup|Violent storm|Zeer zware storm|
+langlookup|Wind from|Wind vanuit|
+# buoy
+langlookup|Air|Lucht|
+langlookup|Air Temperature|Lucht temperatuur|
+langlookup|Baro|Baro|
+langlookup|Barometer Trend|Barometer Trend|
+langlookup|Water|Water|
+langlookup|Water Temperature|Water temperatuur|
+langlookup|Wave Height|Golf hoogte|
+langlookup|Waves|Golven|
+langlookup|Wind Direction @ Speed|Wind richting @ snelheid|
+langlookup|Wind Gust Speed|Windvlaag snelheid|
+# clientraw
+langlookup|(or davis)|(of davis)|
+langlookup|- for east of gmt|- voor ten oosten van gmt|
+langlookup|- for southern hemisphere|- voor het zuidelijk halfrond|
+langlookup|9am|9:00 uur ochtend|
+langlookup|The requested file|Dit bestand|
+langlookup|This Station Clientraw|Clientraw bestanden van dit weerstation|
+langlookup|This stations|Onze bestanden|
+langlookup|Xref Clientraw|Xref Clientraw|
+langlookup|Y|J|
+langlookup|actual_date|huidige datum|
+langlookup|age|leeftijd|
+langlookup|alltime|ooit|
+langlookup|also: baro max|ook: baro max|
+langlookup|also: baro min|ook: baro min|
+langlookup|apparent|voelbaar|
+langlookup|avg|gemiddeld|
+langlookup|avg over daylight|gemiddelde tijdens de dag|
+langlookup|avg over night|gemiddelde tijdens de nacht|
+langlookup|avg over night time|gemiddelde tijdens de nacht|
+langlookup|baro|baro|
+langlookup|batt|batterij|
+langlookup|bearing|richting|
+langlookup|beginning|begin|
+langlookup|bulb|bol|
+langlookup|cloud|bewolking|
+langlookup|coldest|koudste|
+langlookup|contains the following raw data|bevat de volgende gegevens|
+langlookup|continues at pos 562|vervolg op positie 562|
+langlookup|continues at pos 566|vervolg op positie 566|
+langlookup|continues at pos 570|vervolg op positie 570|
+langlookup|continues at pos 574|vervolg op positie 574|
+langlookup|continues at pos 578|vervolg op positie 578|
+langlookup|continues at pos 582|vervolg op positie 582|
+langlookup|continues at pos 586|vervolg op positie 586|
+langlookup|continues at pos 590|vervolg op positie 590|
+langlookup|count|telling|
+langlookup|current|huidige|
+langlookup|d = day n = night|d = dag n = nacht|
+langlookup|daily|-dag|
+langlookup|dallas|dallas|
+langlookup|davis|davis|
+langlookup|depth|diepte|
+langlookup|desc|beschrijving|
+langlookup|dewpoint|dauwpunt|
+langlookup|dir|richting|
+langlookup|display|display|
+langlookup|dist|afstand|
+langlookup|does not include build #|zonder build #|
+langlookup|end|einde|
+langlookup|et|et|
+langlookup|example: !!c10.37f!!|bijvoorbeeld: !!c10.37f!!|
+langlookup|example: !!h10.37f!!|bijvoorbeeld: !!h10.37f!!|
+langlookup|extra|extra|
+langlookup|extra_sensor|extra_sensor|
+langlookup|file|bestand|
+langlookup|flag|flag|
+langlookup|for|voor|
+langlookup|format depends on wd setting|fformaat afhankelijk van instelling in WD|
+langlookup|fri|vrij|
+langlookup|fwi|fwi|
+langlookup|grass|gras|
+langlookup|gust|windvlaag|
+langlookup|heatindex|heatindex|
+langlookup|height|hoogte|
+langlookup|hour|uur|
+langlookup|hours|uren|
+langlookup|hr|uur|
+langlookup|hrs_min_ago|uur-min-geleden|
+langlookup|hum|vocht|
+langlookup|humidex|humidex|
+langlookup|humidity|vochtigheid|
+langlookup|if enabled in wd|indien beschikbaar in wd|
+langlookup|index|index|
+langlookup|indoor|binnen|
+langlookup|inputed|ingevoerd|
+langlookup|install|install|
+langlookup|into|in|
+langlookup|last|last|
+langlookup|last_60_min_for|laatste 60 min voor minuut|
+langlookup|last_60_min_for_min|laatste 60 min voor minuut|
+langlookup|last_hour|laatste uur|
+langlookup|latitude|breedte|
+langlookup|leaf|blad|
+langlookup|lightning|bliksem|
+langlookup|Lightning|Bliksem|
+langlookup|logic|J/N|
+langlookup|longitude|lengte|
+langlookup|lst|laatste|
+langlookup|max|max|
+langlookup|mi|mi|
+langlookup|midnight|middernacht|
+langlookup|min|min|
+langlookup|minute|minuut|
+langlookup|moisture|vocht|
+langlookup|mon|maan|
+langlookup|month|maand|
+langlookup|monthly|-maand|
+langlookup|moon|maan|
+langlookup|moonphase|maansikkel|
+langlookup|moonrise|maanopkomst|
+langlookup|moonset|maanondergang|
+langlookup|mtd|mtd|
+langlookup|name|naam|
+langlookup|nexstorm|nexstorm|
+langlookup|no|geen|
+langlookup|not used|ongebruikt|
+langlookup|number|nummer|
+langlookup|o1 or o0|o1 or o0|
+langlookup|of|van|
+langlookup|or enter your own path-file name|of type uw eigen path-file naam en druk op de bijbehorende knop|
+langlookup|outside|buiten|
+langlookup|rate|intensiteit|
+langlookup|rcd|record|
+langlookup|reading|meting|
+langlookup|record|record|
+langlookup|reset|opnieuw ingesteld|
+langlookup|s1 or s0|s1 or s0|
+langlookup|sat|zat|
+langlookup|season|seizoen|
+langlookup|seconds|seconde|
+langlookup|sensor|sensor|
+langlookup|snow|sneeuw|
+langlookup|soil|grond|
+langlookup|solarwm|solar intensiteit|
+langlookup|station|station|
+langlookup|strikes|inslagen|
+langlookup|strk/hour|inslagen/uur|
+langlookup|sun|zon|
+langlookup|sunrise|zonopkomst|
+langlookup|sunset|zonsondergang|
+langlookup|sunshine|zonneschijn|
+langlookup|temp|temp|
+langlookup|thsws|thsws|
+langlookup|thur|donder|
+langlookup|time|tijd|
+langlookup|timestamp|timestamp|
+langlookup|total|totaal|
+langlookup|trend|Trend|
+langlookup|tues|dins|
+langlookup|type|type|
+langlookup|u1 or u0|u1 or u0|
+langlookup|unused|ongebruikt|
+langlookup|used for wind speed chart|t.b.v. grafieken windsnelheid|
+langlookup|uv|uv|
+langlookup|value|waarde|
+langlookup|value was / by 10 to get correct value|waarde / 10, geeft correcte waarde|
+langlookup|verified|gecontroleerd|
+langlookup|version|versie|
+langlookup|vp|vp|
+langlookup|vpp|vpp|
+langlookup|w/m2|w/m2|
+langlookup|warmest|warmste|
+langlookup|warn|waarschuwing|
+langlookup|wd|wd|
+langlookup|wdl|wdl|
+langlookup|weather|weer|
+langlookup|wed|woens|
+langlookup|wet|nat|
+langlookup|wetness|natheid|
+langlookup|windchill|windchill|
+langlookup|with|met|
+langlookup|wm/2|wm/2|
+langlookup|wmr968|wmr968|
+langlookup|year|jaar|
+langlookup|yearly|-jaar|
+langlookup|yesterday|Gisteren|
+langlookup|ytd|dit jaar|
+# conditions
+langlookup|-|-|
+langlookup|Afternoon|Middag|
+langlookup|Chance of Rain|Kans op regen|
+langlookup|Chance of a Thunderstorm|Kans op Onweer|
+langlookup|Chance of drizzle|Kans op lichte regen|
+langlookup|Chance of freezing rain|Kans op aanvriezende regen|
+langlookup|Chance of rain|Kans op regen|
+langlookup|Chance of rain and or sleet|Kans op winterse omstandigheden|
+langlookup|Chance of showers|Kans op buien|
+langlookup|Chance of sleet|Kans op ijsregen|
+langlookup|Chance of sleet and F|Kans op ijzel|
+langlookup|Chance of sleet and or freezing rain|Kans op ijsregen en of aanvriezende regen|
+langlookup|Chance of sleet and or mix|Kans zeer winterse omstandigheden|
+langlookup|Chance of sleet and or snow|Kans op winterse omstandigheden|
+langlookup|Chance of snow|Kans op sneeuw|
+langlookup|Chance of snow and or rain|Kans op sneeuw en of regen|
+langlookup|Chance of snow and rain|Kans op sneeuw en regen|
+langlookup|Chance ofsleet and snow|Kans op ijzel en sneeuw|
+langlookup|Clear|Helder|
+langlookup|Clearing Late|Later helder|
+langlookup|Clouds|Bewolking|
+langlookup|Clouds Early|Eerst bewolking|
+langlookup|Cloudy|Bewolkt|
+langlookup|Dense fog|Zware mist|
+langlookup|Drizzle|Motregen|
+langlookup|Drizzle Late|Later op de dag motregen|
+langlookup|Fair|Helder|
+langlookup|Few Clouds|Licht bewolkt|
+langlookup|Few Showers|Enkele buien|
+langlookup|Few clouds|Licht bewolkt|
+langlookup|Fog|Mist|
+langlookup|Foggy|Mistig|
+langlookup|Freezing drizzle|Aanvriezende motregen|
+langlookup|Freezing rain|IJsregen|
+langlookup|Freezing Fog|Aanvriezende mist|
+langlookup|Frost heavy|Hevige rijp|
+langlookup|Frost scattered|Verspreide vorst|
+langlookup|Hail|Hagel|
+langlookup|Haze|Nevel|
+langlookup|Heavy Rain|Zware buien|
+langlookup|Heavy Rain Shower|Zware buien|
+langlookup|Heavy dew|Veel dauw|
+langlookup|Heavy frost|Zware vorst|
+langlookup|Heavy rain|Veel regen|
+langlookup|Heavy sleet|Veel ijsregen|
+langlookup|Heavy sleet and or mix|Zeer winterse omstandigheden|
+langlookup|Heavy snow|Veel sneeuw|
+langlookup|Heavy snow and or rain|Veel sneeuw en of regen|
+langlookup|Ice Crystals|IJskristallen|
+langlookup|Ice storm|IJs en hagel|
+langlookup|Late|Later op de dag|
+langlookup|Light Drizzle|Lichte (mot)regen|
+langlookup|Light Freezing Drizzle|Lichte aanvriezende (mot)regen|
+langlookup|Light Ice Pellets|Wat (korrel)hagel|
+langlookup|Light Rain|Wat regen mogelijk|
+langlookup|Light Rain Drizzle|Wat motregen mogelijk|
+langlookup|Light Rain Early|Wat regen mogelijk|
+langlookup|Light Rain Late|Wat regen mogelijk|
+langlookup|Light Rain Shower|Kleinere regenbuien|
+langlookup|Light Rain Showers|Kleine regenbuien|
+langlookup|Light Rain with Thunder|Lichte regen met kans op onweer|
+langlookup|Light Snow|Mogelijk wat sneeuw|
+langlookup|Light Snow Grains|Lichte (mot)sneeuw|
+langlookup|Light Snow Showers|Lichte (mot)sneeuw|
+langlookup|Light dew|Enige dauw|
+langlookup|Light drizzle|Lichte (mot)regen|
+langlookup|Light fog|Wat mist|
+langlookup|Light frost|Lichte rijp|
+langlookup|Light rain|Wat regen|
+langlookup|Light rain and or snow|Wat sneeuw en of regen|
+langlookup|Light rain drizzle|Wat motregen mogelijk|
+langlookup|Light rain shower|Kleine regenbuien|
+langlookup|Light rain showers|Kleine regenbuien|
+langlookup|Light rain, few clouds|Lichte regen, weinig bewolking|
+langlookup|Light sleet|Wat ijsregen|
+langlookup|Light sleet and or mixture|Enige winterse omstandigheden|
+langlookup|Light sleet and or snow|Enige winterse omstandigheden|
+langlookup|Light snow|Wat sneeuw|
+langlookup|Light snow and rain|Enige sneeuw en regen|
+langlookup|lightrain|motregen|
+langlookup|Meteoplug|Meteoplug|
+langlookup|Mist|Nevel|
+langlookup|Moderate dew|Dauw|
+langlookup|Moderate fog|matige mist|
+langlookup|Moderate frost|Matige vorst|
+langlookup|Moderate rain|Matige regen|
+langlookup|Moderate sleet|Wat IJsregen|
+langlookup|Moderate snow|Enige sneeuw|
+langlookup|Morning|Ochtend|
+langlookup|Mostly Clear|Merendeels helder|
+langlookup|Mostly Cloudy|Grotendeels bewolkt|
+langlookup|Mostly Sunny|Zonnig|
+langlookup|Mostly clear|Grotendeels onbewolkt|
+langlookup|Mostly cloudy|Grotendeels bewolkt|
+langlookup|No precip|Geen<br />neerslag|
+langlookup|Overcast|Bewolking|
+langlookup|Partly Cloudy|Gedeeltelijk bewolkt|
+langlookup|Partly cloudy|Gedeeltelijk bewolkt|
+langlookup|Patchy rain nearby|Lichte regen in†de†buurt|
+langlookup|Patches of Fog|Hier en daar mist|
+langlookup|Probably drizzle|Waarschijnlijk motregen|
+langlookup|Probably freezing rain|Waarschijnlijk aanvriezende regen|
+langlookup|Probably rain and or sleet|Waarschijnlijk winterse omstandigheden|
+langlookup|Probably rain and or snow|Waarschijnlijk sneeuw en of regen|
+langlookup|Probably showers|(Regen)buien waarschijnlijk|
+langlookup|Probably sleet|Waarschijnlijk ijsregen|
+langlookup|Probably sleet and or freezing rain|Waarschijnlijk ijsregen en of aanvriezende regen|
+langlookup|Probably sleet and or mixture|Waarschijnlijk  winterse omstandigheden|
+langlookup|Probably sleet and or snow|Waarschijnlijk winterse omstandigheden|
+langlookup|Probably snow|Waarschijnlijk sneeuw|
+langlookup|Rain Shower|Regen bui|
+langlookup|Rain and Sleet|Regen en natte sneeuw|
+langlookup|Rain and Snow|Regen en sneeuw|
+langlookup|Rain and or sleet|Winterse omstandigheden|
+langlookup|Rain showers|Regen buien|
+langlookup|Scattered Showers|Verspreide buien|
+langlookup|Scattered Snow Showers|Kans op sneeuwbuien|
+langlookup|Scattered Thunderstorms|Verspreide onweersbuien|
+langlookup|Scattered frost|Hier en daar rijp|
+langlookup|Showers|Regenbuien|
+langlookup|Showers Early|Eerst wat regenbuien|
+langlookup|Showers Nearby|Regenbuien in de omgeving|
+langlookup|Showers in the Vicinity|Regenbuien in de omgeving|
+langlookup|Sleet|Natte sneeuw|
+langlookup|Sleet and or freezing rain|IJsregen en of aanvriezende regen|
+langlookup|Sleet and or mixture|Winterse omstandigheden|
+langlookup|Sleet and or snow|Winterse omstandigheden|
+langlookup|Sleet showers|Natte sneeuwbuien|
+langlookup|Snow|Sneeuw|
+langlookup|Snow Grains|(mot)sneeuw|
+langlookup|Snow Showers|Sneeuwbuien|
+langlookup|Snow Showers Late|Later wat sneeuwbuien|
+langlookup|Snow accumulation|Sneeuw opeenhoping|
+langlookup|Snow and blizzards|Sneeuw en sneeuwstormen|
+langlookup|Snow and or rain|Sneeuw en of regen|
+langlookup|Snow flurries|Sneeuw buien|
+langlookup|Snow grains|motsneeuw|
+langlookup|Snow showers|Sneeuw buien|
+langlookup|Snow/Ice|winterse neerslag|
+langlookup|Snowdepth|Sneeuwlaag|
+langlookup|Soil|Bodem|
+langlookup|Sprinkles|helder ?|
+langlookup|Stopped snowing|Sneeuwen gestopt|
+langlookup|Sunny|Zonnig|
+langlookup|sunny|Zonnig|
+langlookup|Sunny with haze|Zonnig met wat nevel|
+langlookup|Thunder|Onweer|
+langlookup|Thundershowers|Onweersbuien|
+langlookup|Thunderstorm|Onweer|
+langlookup|Thunderstorms|Onweer|
+langlookup|Thunderstorms Early|Onweer|
+langlookup|What forecast do you want on the main page|Welke weersverwachting komt er op de startpagina|
+langlookup|Wilsele/Leuven|Wilsele/Leuven|
+langlookup|Wind|Wind|
+langlookup|by:|door:|
+langlookup|chance|kans|
+langlookup|chance of|kans op|
+langlookup|chance of rain|kans op regen|
+langlookup|chancerain|Kans op regen|
+langlookup|chancesnow|Kans op sneeuw|
+langlookup|clear|Helder|
+langlookup|cloudy|Bewolkt|
+langlookup|evening|avond|
+langlookup|ewn|ewn|
+langlookup|less than|minder dan|
+langlookup|morning|ochtend|
+langlookup|mostlycloudy|Grotendeels bewolkt|
+langlookup|none|geen|
+langlookup|overnight|s nachts|
+langlookup|partlycloudy|Gedeeltelijk bewolkt|
+langlookup|quantity|hoeveelheid|
+langlookup|thunderstorm|onweer|
+# contact form
+langlookup|An error occured, please try again later|Er is een fout opgetreden bij het verzenden van de email|
+langlookup|Code|Code|
+langlookup|Comments or questions are welcome|Uw opmerkingen en vragen worden gewaardeerd|
+langlookup|Email|Email|
+langlookup|Email, please type again|Email, nog een keer|
+langlookup|Kind regards|Met vriendelijke groeten|
+langlookup|Message|Bericht|
+langlookup|Name|Naam|
+langlookup|Send me a copy|Stuur me een kopie|
+langlookup|Subject|Onderwerp|
+langlookup|Your message is sent, we will react swiftly|Uw bericht is succesvol verzonden, er word zo snel mogelijk gereageerd|
+langlookup|clear fields|leeg velden|
+langlookup|e-mail addresses should be equal|Beide e-mail addressen moeten gelijk zijn|
+langlookup|incorrect|foutief|
+langlookup|required|noodzakelijk|
+langlookup|submit|verzend|
+# customize
+langlookup|, giving us permission to store a cookie.|klikt geeft u toestemming en merkt u verder geen verschil.|
+langlookup|160px header  with pictures|160 px header met afbeeldingen|
+langlookup|Adept to the weatherconditions|Aanpassen aan de weercondities|
+langlookup|After setting your preferences, you can click on|Als u na uw voorkeuren te hebben ingesteld, op|
+langlookup|Always one colour and style|Altijd ÈÈn kleur en stijl|
+langlookup|Automatically adept coulors and backgrounds|Pas de kleuren en de achtergrond automatisch aan|
+langlookup|Celcius|Celcius|
+langlookup|Choose a language|Kies een taal|
+langlookup|Customize|Stel je eigen voorkeuren in|
+langlookup|Customize the appearence of this site|Pas het uiterlijk van de website aan|
+langlookup|Do not want that|Do not want that|
+langlookup|Fahrenheit|Fahrenheit|
+langlookup|Home page|Home|
+langlookup|Horizontal below header|Horizontaal bovenaan|
+langlookup|If you click on|Als u op|
+langlookup|Like nearly all websites we store your preferences in a small file (cookie) in the browser on your PC. On a subsequent visit, you do not have to set your preferences again.|Zoals bijna alle websites  bewaren wij uw voorkeuren in een klein bestandje (cookie) in de browser op uw pc. Bij een volgend bezoek hoeft u uw voorkeuren dan niet opnieuw in te stellen.|
+langlookup|Low 80px header, text only|80px header, alleen tekst|
+langlookup|Reset to website defaults|Zet alles terug naar beginwaardes|
+langlookup|Save your changes|Bewaar uw wijzigingen|
+langlookup|The cookie law requires us to ask you permission for the posting of this file.|De cookie wet verplicht ons u toestemming te vragen voor het plaatsen van dit bestandje.|
+langlookup|Your settings are stored in a cookie|Uw wensen worden bewaard in een cookie|
+langlookup|The first page you want to see when you visit our site|De eerste pagina die u wilt zien als u deze site bezoekt|
+langlookup|Vertical - leftside|Vertikaal - links|
+langlookup|Where do we place the menu|Waar moet het menu komen|
+langlookup|Which header type do you want|Welke kop wilt u per pagina|
+langlookup|Which unit of measurement do you prefer for|Welke maateenheid wilt u gebruiken voor|
+langlookup|hPa|hPa|
+langlookup|in|in|
+langlookup|inHg|inHg|
+langlookup|kts|kts|
+langlookup|mb|mb|
+langlookup|mph|mph|
+langlookup|pressure|luchtdruk|
+langlookup|rain|regen|
+langlookup|windspeed|windsnelheid|
+langlookup|you go back to the starting page without storing your preferences for the next visit.|klikt dan gaat u terug naar de start pagina zonder dat uw voorkeuren worden opgeslagen voor een volgend bezoek.|
+# days of the week long
+langlookup|Friday|Vrijdag|
+langlookup|Monday|Maandag|
+langlookup|Saturday|Zaterdag|
+langlookup|Sunday|Zondag|
+langlookup|Thursday|Donderdag|
+langlookup|Tuesday|Dinsdag|
+langlookup|Wednesday|Woensdag|
+# days of the week short
+langlookup|Fri|Vrij|
+langlookup|Mon|Maan|
+langlookup|Sat|Zater|
+langlookup|Sun|Zon|
+langlookup|Thu|Donder|
+langlookup|Tue|Dins|
+langlookup|Wed|Woens|
+# footer
+langlookup|Bookmark Page|Bookmark Page|
+langlookup|Contact Us|Neem kontakt op|
+langlookup|Never base important decisions on this or any weather information obtained from the Internet|Baseer nooit belangrijke beslissingen op deze of andere weergegevens verkregen via Internet.|
+langlookup|Original script by|Script ontwikkeld door |
+langlookup|Scripts from|Scripts ontwikkeld door|
+langlookup|Top|Begin|
+langlookup|Valid|Valid|
+langlookup|Weather program|Weer programma|
+langlookup|user(s) online|gebruiker(s) online|
+langlookup|user online|gebruiker online|
+# forecast terms
+langlookup|48 hour details|Gedetailleerd 48 uur|
+langlookup|48 hours details|Gedetailleerd 48 uur|
+langlookup|Amount|aantal|
+langlookup|Amount of rain|Neerslag hoeveelheid|
+langlookup|Chance of Snow|Kans op sneeuw |
+langlookup|Chance of Thunder|Kans op onweer|
+langlookup|Cloud|Wolken|
+langlookup|Cloud cover|Bewolking|
+langlookup|Current weather|Het weer nu|
+langlookup|Daylength|Dag lengte|
+langlookup|Description|Toelichting|
+langlookup|Forecast by 3 hour intervals|Verwachting per 3 uur|
+langlookup|Forecast by 6 hour intervals|Verwachtingen per 6 uur|
+langlookup|Forecast generated|Verwachting van:|
+langlookup|Graph|Grafiek|
+langlookup|Grass and soil forecast|Gras en grond|
+langlookup|Grass temperature|Oppervlakte<br />temperatuur|
+langlookup|Het Weer Actueel|Het Weer Actueel|
+langlookup|MetNoForecast.|De weersverwachtingen voor |
+langlookup|Next update|Volgende update|
+langlookup|UV forecast courtesy of and Copyright &copy; KNMI/ESA (http://www.temis.nl/). Used with permission.|UV vooruitzicht  Copyright &copy; KNMI/ESA (http://www.temis.nl/). Toestemming voor gebruik.|
+langlookup|WXSIM Hourly forecast for:|WXSIM verwachtingen voor::|
+langlookup|afternoon|middag|
+langlookup|and|en|
+langlookup|barometer|Barometer|
+langlookup|chance of Snow|kans op sneeuw|
+langlookup|chance of Thunder|kans op onweer|
+langlookup|date|datum|
+langlookup|day forecast for|daagse vooruitzichten voor|
+langlookup|day graphical forecast for|daagse grafische vooruitzichten voor |
+langlookup|direction|richting|
+langlookup|for this station|voor dit weerstation|
+langlookup|from the|vanuit |
+langlookup|icon|icon|
+langlookup|km/h|km/h|
+langlookup|less|minder|
+langlookup|none expected|geen verwachting|
+langlookup|period|periode|
+langlookup|precipitation|neerslag|
+langlookup|probability|waarschijnlijkheid|
+langlookup|shifting|veranderlijk|
+langlookup|speed|snelheid|
+langlookup|temperature|Temperatuur|
+langlookup|this station|dit weerstation|
+langlookup|to|aan|
+langlookup|weather forecast|weersvoorspelling|
+langlookup|Weather Forecast|Weersvoorspelling|
+langlookup|wind|wind|
+langlookup|wsWxsimForecast.|Onze weersvoorspelling voor|
+# graphs
+langlookup|All-in-One|All-in-One|
+langlookup|Graphs generated by|Grafieken gegenereerd door|
+langlookup|Heat Index|Gevoelstemperatuur|
+langlookup|Last 24 Hours|Last 24 Hours|
+langlookup|Last 72 Hours|Last 72 Hours|
+langlookup|Month to Date|Month to Date|
+langlookup|Move the mouse horizontally over the graph and the different values will be displayed|Beweeg de muis horizontaal over de grafiek om de veraschiilende waardes weer te geven.|
+langlookup|Weather Trend Graphs|Grafieken weer trends|
+langlookup|last three days|laatste drie dagen|
+# heat words
+langlookup|Cold|koud|
+langlookup|Comfortable|Comfortabel|
+langlookup|Cool|Koel|
+langlookup|Extreme Cold|Extreem Koud|
+langlookup|Extreme Heat Caution|Opletten: Extreem warm|
+langlookup|Extreme Heat Danger|Extreem gevaarlijk warm|
+langlookup|Extremely Hot|Extreem warm|
+langlookup|Heat Danger|Gevaarlijk warm|
+langlookup|Hot|Heet|
+langlookup|Uncomfortably Cold|Oncomfortabel Koud|
+langlookup|Uncomfortably Hot|Onconfortabel warm|
+langlookup|Unknown|niet gekend|
+langlookup|Very Cold|Zeer Koud|
+langlookup|Warm|Warm|
+# hwa weather maps
+langlookup|Click on a map to get a pop-up with a larger image|Als u op een kaart klikt krijgt u een extra scherm met een grotere versie van de kaart|
+langlookup|HWA weather maps|HWA weerkaarten|
+langlookup|The South-East of Belgium remains light gray, as no weather stations are nearby.|Het Zuid-Oosten van Belgie blijft lichtgrijs, omdat hier geen weerstations in de buurt zijn.|
+langlookup|The map with the actual  windspeed (10 minute average) is constructed 2 times per hour from the current data from all weather stations, provided that the data is less than 1 hour old.|Het kaartje met de actuele wind windsneldheid (10 minuten gemiddelde) wordt 2 keer per uur opgebouwd uit de actuele gegevens van alle weerstations, mits de data minder dan 1 uur oud is.|
+langlookup|The map with the current temperatures is generated  every 10 minutes from the current data from all weather stations, provided that the data is less than 1 hour old.|Het kaartje met de actuele temperatuur wordt iedere 10 minuten opgebouwd uit de actuele gegevens van alle weerstations, mits de data minder dan 1 uur oud is.|
+langlookup|The second map shows the precipitation that has fallen today until the time stated on the map.|Op het tweede kaartje staat de neerslag die vandaag is gevallen tot en met het het tijdstip zoals vermeld in het kaartje.|
+langlookup|Weather maps|Weerkaarten|
+langlookup|Weather maps provided by|Weerkaarten verzorgd door|
+# links
+langlookup|Personal Weather Station Networks|Persoonlijke Weerstation Netwerken|
+langlookup|Separate page with extra info|Naar pagina met extra informatie|
+langlookup|Weather Education|Weer opleidingen|
+langlookup|Weather Station Software|Weerstation Software|
+langlookup|Weather Website PHP Scripts|PHP Scripts voor weer websites|
+langlookup|Weather forums|Weer fora|
+# menu items
+langlookup|About|Over|
+langlookup|Actual weather|Het actuele weer|
+langlookup|Advisories|Waarschuwingen|
+langlookup|Air Quality|Luchtkwaliteit|
+langlookup|Air Quality BE|Luchtkwaliteit BE|
+langlookup|Air Quality NL|Luchtkwaliteit NL|
+langlookup|Air Quality fct|Luchtkwaliteit verwachting|
+langlookup|Air Quality and warnings by Belgian IRCEL/CELINE|Luchtkwaliteit en waarschuwingen door IRCEL/CELINE|
+langlookup|Air Quality and warnings by Dutch RIVM|Luchtkwaliteit en waarschuwingen door RIVM|
+langlookup|Airport weather|Nabijgelegen vliegvelden|
+langlookup|All-in-One graph last 3 days|Alles in 1 grafiek laatste 3 dagen|
+langlookup|All-in-One graph live|Alles in 1 grafiek|
+langlookup|Almanac|Almanak|
+langlookup|Another home page|Nog een startpagina|
+langlookup|Benelux|Benelux|
+langlookup|Benelux Weather Network|Benelux Weer Netwerk|
+langlookup|Buoys and other weather mesuring devices at sea|Boeien en andere weer meetstations op zee|
+langlookup|console|Console|
+langlookup|CWOP Data Check|CWOP data|
+langlookup|CWOP Stats|CWOP Statistiek|
+langlookup|Click on image for the blitzortung.org site with a lot of extra information|Klik op de afbeelding voor veel meer informatie op de blitzortung.org website|
+langlookup|Click on image for the meteox site with a lot of extra information|Klik op de afbeelding voor veel meer informatie op de meteox website|
+langlookup|Clientraw|Clientraw|
+langlookup|Cloud Radar|Wolkenradar|
+langlookup|Cloud Radar by sat24.com|Wolkenradar geleverd door sat24.com|
+langlookup|Contact|Kontact|
+langlookup|Contact page with CATCHA|Kontakt pagina met CATCHA|
+langlookup|Cumulus Tags|Cumulus velden|
+langlookup|Data provided by|Gegevens geleverd door|
+langlookup|demo menu components|demo startpagina onderdelen|
+langlookup|Development|Website Ontwikkeling|
+langlookup|Earthquake activity|Aardbevingen|
+langlookup|EWN weather maps|EWN weerkaarten|
+langlookup|EWN forecast|EWN vooruitzichten|
+langlookup|ewn forecasts|EWN verwachtingen|
+langlookup|example new page|Voorbeeld lege pagina|
+langlookup|Forecast &amp; Advisories|Vooruitzichten & Waarschuwingen|
+langlookup|from Weather-Underground|geleverd door Weather-Underground|
+langlookup|Global Station Map of Affiliated Weather Networks|Wereldkaart met samenwerkende Weerstation Netwerken|
+langlookup|Go to our mobile site|Ga naar onze mobiele site|
+langlookup|Hhistory / almanac|Hhistorie / almanak|
+langlookup|HWA forecast details|HWA vooruitzichten|
+langlookup|Home|Welkom|
+langlookup|Home Page|Welkom|
+langlookup|Icons|Icons|
+langlookup|Icons Used|Iconen in gebruik|
+langlookup|IconsUsed|IconsUsed|
+langlookup|Information from NOAA Space Weather Prediction Center|Informatie geleverd door het NOAA Space Weather Prediction Center|
+langlookup|Links|Links|
+langlookup|Live Data|Actueel weer|
+langlookup|Live weatherdata from|Actueel weer|
+langlookup|Live Weather Data|Actueel weer|
+langlookup|Live Data by Meteoware|Live Data by Meteoware|
+langlookup|Local Weather Exchange Stations|Lokale weerstations|
+langlookup|Maps|Kaarten|
+langlookup|Mesonet|Mesonet|
+langlookup|MeteoHub/plug|MeteoHub/plug|
+langlookup|Meteoalarm test|Meteoalarm test|
+langlookup|Meteohub|Meteohub|
+langlookup|Meteohub Docs|Meteohub Docs|
+langlookup|Meteohub Docs / Weather variables|Meteohub Documentatie / weer parameters|
+langlookup|Meteohub Tags|Meteohub Velden|
+langlookup|Meteohub/plug Live Data|Meteohub/plug Live Data|
+langlookup|Meteoware Live|Meteoware Live|
+langlookup|MetNo forecast|MetNo vooruitzichten|
+langlookup|Mobile site|Mobiele website|
+langlookup|More radar / maps|Meer radars/kaarten|
+langlookup|More advisories|Meer waarschuwingen|
+langlookup|More Forecasts|Meer verwachtingen|
+langlookup|Nearby Buoys|Boeien|
+langlookup|North Sea and Atlantic Ocean weather buoys and platforms|Weerboeien en weerplatforms op de Noordzee en deel Atlantische oceaan|
+langlookup|Other Stuff|Andersoortige informatie|
+langlookup|Our own forecast|Onze weers-verwachtingen|
+langlookup|Partnerships|Samenwerkingen|
+langlookup|Precipitation HWA and Meteox|Neerslagkaarten HWA en Meteox|
+langlookup|Precipitation Radar|Neerslagradar|
+langlookup|Precipitation Radar forecast 3 hours|Neerslagradar verwachting volgende 3 uren|
+langlookup|Precipitation Radar past 2 &amp; coming 3 hours|Neerslagradar verwachting volgende 3 uren|
+langlookup|Precipitation by Meteox.com|Neerslagradar by Meteox.com|
+langlookup|Precipitation forecasts|Neerslag verwachtingen|
+langlookup|Rain radar|Regen radar|
+langlookup|Regional|Regionaal|
+langlookup|Soil moisture and temperature|Bodemvocht en temperatuur|
+langlookup|Soil test|Soil test|
+langlookup|Start page|Beginpagina|
+langlookup|Station Graphs seperate|Grafieken van het weerstation|
+langlookup|Status|Status|
+langlookup|Status of weather software|Status van apparatuur en programmatuur|
+langlookup|Steelseries|Steelseries|
+langlookup|summary|samenvatting|
+langlookup|Sun activity|Activiteit van de zon|
+langlookup|Sun  and moon|Zon en maan|
+langlookup|Sun/Moon Almanac|Almanak Zon/Maan|
+langlookup|Sun/Moon/Earth|Zon/maan/aarde|
+langlookup|Space information|De ruimte - info|
+langlookup|Temperature Worldwide|Temperaturen wereldwijd|
+langlookup|Temperature Worldwide in seperate window|Temperaturen over de gehele wereld (in  een apart venster/tabblad)|
+langlookup|Thunderstorms by blitzortung.org|Onweer geleverd door blitzortung.org|
+langlookup|Thunder radar|Onweer radar|
+langlookup|Translate|Translate|
+langlookup|Trend Graphs|Trend grafieken|
+langlookup|Trends, Sun/Moon, Earthquakes|Trends, zon/maan, aardbevingen|
+langlookup|UV Index Forecast|UV Index vooruitzicht|
+langlookup|UV forecast and warnings by KNMI|UV vooruitzicht en waarschwingendoor het KNMI|
+langlookup|Useful Links|Nuttige links|
+langlookup|WD Live|WD Live|
+langlookup|WD Live Data|WD Live Data|
+langlookup|WD Live Data by Meteohub|WD Live Data door Meteohub|
+langlookup|WD Live Meteoplug|WD Live Meteoplug|
+langlookup|WD-Live Data|WD-Live Data|
+langlookup|weather reports|Weer in kleur|
+langlookup|WU History Txt|WU historie|
+langlookup|WU History Graphs|WU Grafieken|
+langlookup|WU live|WU actueel|
+langlookup|WU forecast|WU vooruitzichten |
+langlookup|WXSIM Forecast|WXSIM verwachtingen|
+langlookup|WXSIM conditions used|WXSIM omschrijvingen|
+langlookup|WXSIM field names|WXSIM veld namen|
+langlookup|WXSIM hourly forecast|WXSIM verwachting per uur|
+langlookup|WXSIM forecast|WXSim verwachtingen|
+langlookup|Watches/Warnings/Advisories|Waarschuwingen / adviezen|
+langlookup|Weather Display Tags|Weather Display Tags|
+langlookup|Weather Station Info|Weerstation Info|
+langlookup|Weather Station Status|Weather Station Status|
+langlookup|Weather Trends|Weertrends|
+langlookup|Weather Trends and high lows this year|Weertrends en hoog- laagwaarden|
+langlookup|Weather Underground History page Text|Weather Underground Historische gegevens|
+langlookup|Weather alarms by European MeteoAlarm|Weerswaarschuwingen door Europesche MeteoAlarm|
+langlookup|Weather graphs last 2 days|Grafieken over de laatste 2 dagen|
+langlookup|Weather graphs last 3 days|Grafieken over de laatste 3 dagen|
+langlookup|Weather outlook|Weersverwachting|
+langlookup|Weather outlook by HetWeerAktueel|Weersvooruitzichten geleverd doo HetWeerAktueel|
+langlookup|Weather outlook by World Weather|Weersvooruitzichten geleverd door World Weather|
+langlookup|Weather outlook by Wunderground|Weersvooruitzichten geleverd door Wunderground|
+langlookup|Weather outlook by YR.NO|Weersvooruitzichten geleverd door YR.NO|
+langlookup|Weather outlook by Yahoo|Weersvooruitzichten geleverd door Yahoo|
+langlookup|Weatherconditions nearby airports|Het weer op de vliegvelden|
+langlookup|Website Map|Website Map|
+langlookup|Who is Online|Wie is Online|
+langlookup|WhoIsOnline|WhoIsOnline|
+langlookup|World Weather forecast details|World Weather vooruitzichten|
+langlookup|World map|Wereldkaart|
+langlookup|YRno forecast details|YRno vooruitzichten|
+langlookup|Yahoo forecast details|Yahoo vooruitzichten|
+langlookup|Yahoo forecast|Yahoo vooruitzichten|
+langlookup|Yr.no 7 day forecast for|Yr.no 7 daagse vooruitzichten|
+langlookup|YRno forecast|YRno vooruitzichten|
+langlookup|YoWindow 7 day graphical forecast|YoWindow 7 daagse vooruitzichten|
+langlookup|by WD live|geleverd door WD live|
+langlookup|day forecast for this station|daagse vooruitzichten voor dit weerstation|
+langlookup|from MeteoHub/MeteoPlug|van MeteoHub/MeteoPlug|
+langlookup|iPhone|iPhone|
+langlookup|World Weather forecast|WorldWeather vooruitzichten|
+langlookup|Zambretti forecast|Zambretti vooruitzicht|
+# mesonet world map
+langlookup|About the Global Map|Over de wereldkaart|
+langlookup|Affiliated Regional Weather Networks|Samenwerkende regionale weernetwerken|
+langlookup|Nets|Netwerken|
+langlookup|Stations in|Weerstations in|
+langlookup|Weather| Weer |
+langlookup|Weather, Lightning| Weer, Bliksem |
+langlookup|Weather, Lightning, WebCam|Weer, Bliksem, WebCam|
+langlookup|Weather, WebCam| Weer, WebCam|
+langlookup|Weather, WebCam, Lightning| Weer, WebCam, Bliksem |
+langlookup|stations in affiliated networks worldwide as of|persoonlijke weerstations in aangesloten netwerken op |
+# metar
+langlookup|Cloud details|Bewolking|
+langlookup|Distance from station|Afstand tot|
+langlookup|Nearby METAR Reports|METAR rapporten vliegvelden|
+langlookup|Updated|Gewijzigd|
+langlookup|Visibility|Zicht|
+langlookup|Wind Chill|Voelt als|
+langlookup|greater than|groter dan|
+langlookup|varies|varieert|
+# mobile site
+langlookup|Current weather for|Huidig weer in|
+# moisture
+langlookup|ERROR no reading|Foute / geen gegevens|
+# month names long
+langlookup|April|april|
+langlookup|August|augustus|
+langlookup|December|december|
+langlookup|February|februari|
+langlookup|January|januari|
+langlookup|July|juli|
+langlookup|June|juni|
+langlookup|March|maart|
+langlookup|November|november|
+langlookup|October|oktober|
+langlookup|September|september|
+# month names short
+langlookup|Apr|apr|
+langlookup|Aug|aug|
+langlookup|Dec|dec|
+langlookup|Feb|feb|
+langlookup|Jan|jan|
+langlookup|Jul|jul|
+langlookup|Jun|jun|
+langlookup|Mar|mrt|
+langlookup|May|mei|
+langlookup|Nov|nov|
+langlookup|Oct|okt|
+langlookup|Sep|sep|
+# moon words
+langlookup|First Quarter|Eerste kwartier|
+langlookup|First Quarter Moon|Eerste kwartier|
+langlookup|Full Moon|Volle maan|
+langlookup|Last Quarter|Laatste kwartier|
+langlookup|Last Quarter Moon|Laatste kwartier|
+langlookup|Moon phases|Schijngestalten van de maan|
+langlookup|New Moon|Nieuwe maan|
+langlookup|Waning Crescent|Afnemende maan|
+langlookup|Waning Crescent Moon|Afnemende maan|
+langlookup|Waning Gibbous|Afnemende maan|
+langlookup|Waning Gibbous Moon|Afnemende maan|
+langlookup|Waxing Crescent|Wassende maan|
+langlookup|Waxing Crescent Moon|Wassende maan|
+langlookup|Waxing Gibbous|Wassende maan|
+langlookup|Waxing Gibbous Moon|Wassende maan|
+# quakes
+langlookup|Adapted for the template by|Aangepast voor de template door|
+langlookup|Cluster - click to expand details|Groep - klik om de details te zien|
+langlookup|Distance to <br />Epicenter|Afstand tot <br />Epicenter|
+langlookup|Distance to Epicenter|Afstand tot epicenter|
+langlookup|Distance to epicenter|Afstand tot epicenter|
+langlookup|Earthquakes|Aarbevingen|
+langlookup|Earthquakes in the past 7 days|Aardbevingen in de afgelopen 7 dagen|
+langlookup|Earthquakes in the past 7 days of magnitude|Aardbevingen in de laatste 7 dagen met een kracht van |
+langlookup|Earthquakes of magnitude|Aarbevingen met een kracht van|
+langlookup|Earthquakes worldwide|Aardbevingen wereldwijd|
+langlookup|Enable JavaScript to view the Google Map.|Schakel JavaScript in om de Google Map te bekijken.|
+langlookup|Epicenter Near|Epicenter in de buurt van|
+langlookup|Link|Link|
+langlookup|Link to<br />Map|Link naar<br />Kaart|
+langlookup|Local Time|Lokale tijd|
+langlookup|Magnitude|Magnitude|
+langlookup|Map and data courtesy of|Kaart en gegevens eigendom van|
+langlookup|No earthquakes of magnitude|Geen aarbevingen met een kracht van|
+langlookup|Note: Click on column heading marked with|Opmerking: Klik op de kolomkop gemarkeerd met|
+langlookup|Originele script ontwikkeld door|Script ontwikkeld door|
+langlookup|United States Geological Survey|United States Geological Survey|
+langlookup|Update time|Laatste wijziging|
+langlookup|Your WeatherstationName|Your WeatherstationName|
+langlookup|earthquakes found. Click on location or map links for more details from the|aardbevingen gevonden.Klik op de kaart voor meer gedetailleerde informatie van de|
+langlookup|km|km|
+langlookup|km reported in last 7 days|km afstand gerapporteerd de laatste 7 dagen|
+langlookup|map|kaart|
+langlookup|or greater within|of groter op|
+langlookup|reported in last 7 days|afstand gerapporteerd de laatste 7 dagen|
+langlookup|to sort column contents.|om de kolommen te sorteren.|
+# side gadgets text
+langlookup|Equipment we use|Apparatuur in gebruik|
+langlookup|Our weatherpage on|Onze weersgegevens op|
+langlookup|Provider|Webleverancier|
+langlookup|Visit our other weathersites|Bezoek onze andere website|
+langlookup|Weatherprogram|Weerprogramma|
+langlookup|Weatherserver|Weercomputer|
+langlookup|Weatherstation|Weerstation|
+langlookup|Webcam|Webcam|
+langlookup|You find our weatherinfo also at|U vindt ons ook hier|
+# soil moisture and temperature
+langlookup|Actual|Nu|
+langlookup|Adequate|Voldoende|
+langlookup|All time|Ooit|
+langlookup|Background information|Achtergrond informatie|
+langlookup|Buttton text|Tekst op de knop|
+langlookup|Current Planting & Watering Guide|Huidige plant & irrigatie status|
+langlookup|Dangerous Dry|Gevaarlijk Droog|
+langlookup|Date|Datum|
+langlookup|Depth|Diepte|
+langlookup|Explanation|Toelichting|
+langlookup|Explanation Soil condition|Toelichting bij de bodem condities|
+langlookup|Grow conditions|Condities voor de gewasgroei|
+langlookup|Irrigate at the upper end of this range in cool humid climates and with higher water-holding capacity soils.|Irrigeer aan de bovenkant van dit bereik in koele vochtige klimaten en bij meer water vasthoudende bodems.|
+langlookup|Irrigation desired|Irrigatie gewenst|
+langlookup|Irrigation needed|Irrigatie noodzakelijk|
+langlookup|Moisture|Vocht|
+langlookup|Optimal growth|Optimale groei|
+langlookup|Record Soil Temperatures|Hoogste / laagste bodem temperaturen|
+langlookup|Saturated|Verzadigd|
+langlookup|Saturated Soil. Occurs for a day or two after irrigation.|De grond is verzadigd. Normale waarde binnen twee dagen na irrigatie.|
+langlookup|Soil is adequately wet (except coarse sands which are drying out at this range)|Grond is voldoende nat<br />(met uitzondering van grove zandgrond die aan het uitdrogen is)|
+langlookup|Soil is becoming dangerously dry for maximum production.|De bodem wordt gevaarlijk droog voor een maximale productie.|
+langlookup|This month|Deze maand|
+langlookup|This year|Dit jaar|
+langlookup|Usual range to irrigate heavy clay soils|Gebruikelijke waardes om zware kleigronden te irrigeren.|
+langlookup|Usual range to irrigate or water (except heavy clay soils).|Bij deze waardes dient water gegeven te worden (met uitzondering van zware kleigronden).|
+langlookup|min/max|min/max|
+# status
+langlookup|Age|Ouderdom|
+langlookup|Component|component|
+langlookup|Current status of the weather systems used in the operation of this website|Huidige status van het weerstation en de apparatuur en programmatuur|
+langlookup|Daily Statistics|Overzicht per dag|
+langlookup|FTP|FTP|
+langlookup|It was last started|Laatste keer opgestart|
+langlookup|Latest update time as of|Laatste wijziging|
+langlookup|NOT Current|Verouderd|
+langlookup|Station Status|Ststus van het weerstation|
+langlookup|Station system is up for|Weerstation is operationeel voor|
+langlookup|This software runs on a|Dit weerstation gebrukt een|
+langlookup|This station uses|Dit weerstation gebruikt|
+langlookup|This website uses|Deze website gebruikt|
+langlookup|computer|computer|
+langlookup|for weather conditions reporting|om de weercondities te rapporteren|
+langlookup|graphs|grafieken|
+langlookup|h:m:s|u:m:s|
+langlookup|realtime|continu|
+langlookup|software|programma|
+langlookup|weather data|weergegevens|
+langlookup|weatherfiles|bestanden met weergegevens|
+# tags and values
+langlookup|For instance: First click on tag-heading will sort the table descending, second click ascending on tag|Bijvorbeeld: Eerste klik op de tag-kop sorteert de tabel dalend, tweede klik opvolgend|
+langlookup|Tags and values used within this template set|Veldnamen en waardes die gebruikt worden met deze template|
+langlookup|Weather Display field|Weather Display veld|
+langlookup|You can sort the table on the first two colomns by clicking in the corresponding heading|U kunt de tabel sorteren op de eerste twee kolommen door op de kolomkop te klikken|
+langlookup|You can sort the table on the values in the columns by clicking in the corresponding heading|U kunt de tabel sorteren op de waarden in de kolommen door te klikken op de kolomnaam|
+langlookup|tag|veldnaam|
+# temperature
+langlookup|Deep freeze|Volledig bevroren|
+langlookup|Frost line|Vorst grens|
+langlookup|Ideal growth|Ideale groei|
+langlookup|Minimum growth|Weinig groei|
+langlookup|Too cold to plant|Te koud om te planten|
+# to be sorted
+langlookup|Colour and style|Kleuren en stijl|
+langlookup|Dewpoint|Dauwpunt|
+langlookup|Dry|Droog|
+langlookup|Hour|uur|
+langlookup|Icon|Condities|
+langlookup|Legenda|Legenda|
+langlookup|Leuven / BelgiÎ|Leuven / BelgiÎ|
+langlookup|Max/Min Temperature|Hoog/laag temperatuur|
+langlookup|Maximum temperature|Maximum temp.|
+langlookup|Minimum temperature|Minimum temp.|
+langlookup|NOAA reports|NOAA reports|
+langlookup|No precipation|Geen neerslag|
+langlookup|Our weatherstation|Ons weerstation|
+langlookup|Overview|Overzicht|
+langlookup|Period|Periode|
+langlookup|Personal Weatherstation|Weerstation|
+langlookup|PoP|Kans op neerslag|
+langlookup|Precipation|Neerslag|
+langlookup|Sol|Zon|
+langlookup|Surface temperature|Temperatuur+<br />10 cm|
+langlookup|Tonight|Vannacht|
+langlookup|UV|UV|
+langlookup|Wind direction and force|Wind richting en kracht|
+langlookup|Windgust|Windvlaag|
+langlookup|Your City|Your City|
+langlookup|amount of rain|Hoeveelheid regen|
+langlookup|and chance|en kans|
+langlookup|and force|en kracht|
+langlookup|day|dag|
+langlookup|daytime|overdag|
+langlookup|max/min|max/min|
+langlookup|meteohub field|Meteohub definitie|
+langlookup|more or less|meer of minder|
+langlookup|night|nacht|
+langlookup|nighttime|nacht|
+langlookup|online for|Online voor|
+langlookup|this|deze|
+langlookup|this current week|Deze week|
+langlookup|thunder|Onweer|
+langlookup|who|wie|
+langlookup|wind direction|Wind richting|
+langlookup|yourArea|yourArea|
+# trends
+langlookup|AGO|geleden|
+langlookup|BAROMETER LOWS|Laagste barometerstanden|
+langlookup|CURRENT|Huidig|
+langlookup|Current|Huidig|
+langlookup|DIR|Richting|
+langlookup|EVAPOTRANSPIRATION|Evapotranspiratie|
+langlookup|GUST|Windvlaag|
+langlookup|Gust/hr|Vlaag/uur|
+langlookup|HUMIDITY|Vochtigheid|
+langlookup|MINUTES|minuten|
+langlookup|Month|maand|
+langlookup|months|maanden|
+langlookup|Now|nu|
+langlookup|PRESSURE|Luchtdruk|
+langlookup|RAIN|Regen|
+langlookup|RAIN HISTORY|Regen historie|
+langlookup|Records and Stats|Records en Statistieken|
+langlookup|SOLAR HIGHS|Zonneschijn max.|
+langlookup|SPEED|Snelheid|
+langlookup|TEMP|Temp|
+langlookup|TEMPERATURE HIGHS|Hoogste temperaturen|
+langlookup|TEMPERATURE LOWS|Laagste Temperaturen|
+langlookup|TIME|TIJD|
+langlookup|Trends as of|Trends van|
+langlookup|UV HIGHS|UV max.|
+langlookup|WIND|Wind|
+langlookup|WIND CHILL LOWS|Gevoelstemperatuur min.|
+langlookup|WIND DIR|Wind-<br/>richting|
+langlookup|WIND GUST|Windvlaag|
+langlookup|WIND GUST HIGHS|Windvlaag Max.|
+langlookup|WIND SPEED|Windsnelheid|
+langlookup|Week|week|
+langlookup|Wind Data|Wind gegevens|
+langlookup|Year|jaar|
+langlookup|years|jaren|
+langlookup|day since last rain|dag sinds laatste regen|
+langlookup|days|dagen|
+langlookup|days since last rain|dagen sinds laatste regen|
+langlookup|last hour|laatste uur|
+langlookup|last month|laatste maand|
+langlookup|more than 30|meer dan 30|
+langlookup|more than|meer dan|
+langlookup|on|op|
+langlookup|over last 7 days|gedurende de laatste 7 dagen|
+langlookup|rain days this month|dagen regen deze maand|
+langlookup|rain days this year|dagen regen dit jaar|
+langlookup|this month|Deze maand|
+# uv words
+langlookup|Extreme|Extreem|
+langlookup|High|Hoog|
+langlookup|Low|Laag|
+langlookup|Medium|Gemiddeld|
+langlookup|None|geen|
+langlookup|Very&nbsp;High|Erg†Hoog|
+# vantage
+langlookup|Clearing, cooler and windy|Helderder met aantrekkende wind.|
+langlookup|Forecast requires 3 hours of recent data|Weersvoorspelling heeft minimaal 3 uur recente data nodig.|
+langlookup|Increasing clouds and cooler|Toenemende bewolking en koeler.|
+langlookup|Increasing clouds and warmer|Toenemende bewolking en warmer.|
+langlookup|Increasing clouds with little temperature change|Toenemende bewolking met kleine temperatuursschommelingen.|
+langlookup|Increasing winds|Aantrekkende wind|
+langlookup|Mostly clear and cooler|Veelal helder en koeler|
+langlookup|Mostly clear and warmer|Meestal helder en warmer|
+langlookup|Mostly clear for 12 hours with little temperature change|Komende 12 uur meestal helder met kleine temperatuursschommelingen.|
+langlookup|Mostly clear for 12 to 24 hours and cooler|Komende 24 uur Meestal helder en frisser.|
+langlookup|Mostly clear with little temperature change|Meestal helder met kleine temperatuursschommelingen.|
+langlookup|Mostly cloudy and cooler|Bewolkt en koeler|
+langlookup|Mostly cloudy with little temperature change|Bewolkt met kleine temperatuursschommelingen.|
+langlookup|Partly cloudy and cooler|Lichtbewolkt en frisser.|
+langlookup|Partly cloudy with little temp. change|Lichtbewolkt met kleine temperatuursschommelingen.|
+langlookup|Partly cloudy with little temperature change|Gedeeltelijk bewolkt met weinig verandering in de temperatuur|
+langlookup|Possible wind shift to the W, NW, or N|Wind draait naar west, noordwest of noord.|
+langlookup|Possible wind shift to the w,nw, or n|Wind draait naar west, noordwest of noord.|
+langlookup|Precipitation continuing|Het blijft regenen.|
+langlookup|Precipitation continuing, possibly heavy at times|Langdurige neerslag met soms hevige buien.|
+langlookup|Precipitation ending within 12 hours|Neerslag eindigd binnen de 12 uur.|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|Neerslag stopt binnen 12 uur. Aantrekkende wind welke draait naar west, noordwest of noord.|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the w,nw, or n|Neerslag stopt binnen 12 uur. Aantrekkende wind welke draait naar west, noordwest of noord.|
+langlookup|Precipitation ending within 6 hours|Neerslag eindigt binnen 6 uur.|
+langlookup|Precipitation likely|Neerslag is waarschijnlijk.|
+langlookup|Precipitation possible and windy within 6 hours|Neerslag en wind mogelijk binnen 6 uur.|
+langlookup|Precipitation possible within 12 hours|Neerslag is mogelijk binnen 12 uur.|
+langlookup|Precipitation possible within 12 hours, possibly heavy at times|Neerslag is mogelijk binnen 12 uur, mogelijk met zware buien.|
+langlookup|Precipitation possible within 12 to 24 hours|Neerslag mogelijk binnen 12 tot 24 uur. |
+langlookup|Precipitation possible within 12 to 24 hours Windy|Neerslag mogelijk binnen 12 tot 24 uur. Aantrekkende wind.|
+langlookup|Precipitation possible within 24 hours|Neerslag is mogelijk binnen 24 uur.|
+langlookup|Precipitation possible within 24 to 48 hours|Neerslag is mogelijk binnen 24 tot 48 uur.|
+langlookup|Precipitation possible within 6 hours|Neerslag mogelijk binnen 6 uur.|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|Neerslag is mogelijk binnen 6 uur. Aantrekkende wind, welke draait naar west, noordwest of noord.|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the w,nw, or n|Neerslag is mogelijk binnen 6 uur. Aantrekkende wind, welke draait naar west, noordwest of noord.|
+langlookup|Precipitation possible within 6 to 12 hours windy|Neerslag is mogelijk binnen 6 tot 12 uur met windvlagen.|
+langlookup|Precipitation possible within 6 to 12 hours, possibly heavy at times|Neerslag mogelijk binnen 6 uur, mogelijk met zware buien.|
+langlookup|Precipitation possibly heavy at times and ending within 12 hrs|Soms hevige buien met windvlagen.|
+langlookup|Windy|Aantrekkende wind.|
+langlookup|Windy with possible wind shift to the W  NW  Or N|Wind draait naar west, noordwest of noord.|
+langlookup|Windy with possible wind shift to the W, NW, or N|Wind draait naar west, noordwest of noord.|
+langlookup|Windy with possible wind shift to the w, nw, or n|Wind draait naar west, noordwest of noord.|
+# warnings
+langlookup|Actual Air quality|Actuele luchtkwaliteit|
+langlookup|Click here to get more details.|Klik hier voor info pagina.|
+langlookup|Nitrogen Dioxyde|Stikstofdioxide|
+langlookup|Ozone|Ozon|
+langlookup|Particulate Matter|Stofdeeltjes|
+langlookup|Provided by|Geleverd door|
+langlookup|Sulphur Dioxyde|Zwavel Dioxyde|
+langlookup|There are weatherwarnings from METEOalarm.EU|Weerwaarschuwingen van METEOalarm.EU|
+langlookup|from|van|
+langlookup|level|niveau|
+langlookup|no warnings|Er zijn geen waarschuwingen afgegeven|
+langlookup|until|tot|
+langlookup|warning for|waarschuwing voor|
+langlookup|wrnAvalanches|Lawines|
+langlookup|wrnCoastal Event|Kustbedreiging|
+langlookup|wrnExtreme high temperature|Extreme hitte|
+langlookup|wrnExtreme low temperature|Extreme koude|
+langlookup|wrnFog|Mist|
+langlookup|wrnForestfire|Bos- en heidebranden|
+langlookup|wrnGreenTxt|Het weer levert geen direct gevaar op.|
+langlookup|wrnOrange|Oranje|
+langlookup|wrnOrangeTxt|Potentieel gevaar voor iedereen|
+langlookup|wrnRain|Regen|
+langlookup|wrnRed|Rood|
+langlookup|wrnRedTxt|Extreem gevaar voor iedereen|
+langlookup|wrnSnow/Ice|Sneeuw/IJzel/Bevriezing|
+langlookup|wrnThunderstorms|Onweer|
+langlookup|wrnWind|Wind|
+langlookup|wrnYellow|Geel|
+langlookup|wrnYellowTxt|Potentieel gevaar bij weergevoelige activiteiten|
+langlookup|wrnMultiple_warnings_in_effect|Er zijn meerdere weer-waarschuwingen. klik op de|
+langlookup|wrnCheck_here|voor meer informatie|
+# wind direction compass headings
+langlookup|E|O|
+langlookup|ENE|ONO|
+langlookup|ESE|OZO|
+langlookup|East|Oosten|
+langlookup|N|N|
+langlookup|NE|NO|
+langlookup|NNE|NNO|
+langlookup|NNW|NNW|
+langlookup|NW|NW|
+langlookup|North|Noorden|
+langlookup|S|Z|
+langlookup|SE|ZO|
+langlookup|SSE|ZZO|
+langlookup|SSW|ZZW|
+langlookup|SW|ZW|
+langlookup|South|Zuiden|
+langlookup|W|W|
+langlookup|WNW|WNW|
+langlookup|WSW|WZW|
+langlookup|West|Westen|
+# wu history
+langlookup|Average|Gemiddeld|
+langlookup|Both|Beide|
+langlookup|Comma Delimited File|Comma Delimited File|
+langlookup|Compliments of|Gegevens verzameld door|
+langlookup|Conditions|Condities|
+langlookup|Custom|Aangepaste|
+langlookup|Custom Date Range Tabular Data|Aangepaste periode tabel|
+langlookup|Daily|Dagelijkse|
+langlookup|Day|Dag|
+langlookup|English|Engels|
+langlookup|Gust Speed|Snelheid windstoot|
+langlookup|Metric|Metrisch|
+langlookup|Monthly|Maandelijkse|
+langlookup|Months Tabular Data|Maandelijkse tabel|
+langlookup|Next|Volgende|
+langlookup|Nil|geen|
+langlookup|Precip|Neerslag|
+langlookup|Precipitation|Neerslag|
+langlookup|Pressure|Luchtdruk|
+langlookup|Previous|Vorige|
+langlookup|Rainfall Rate (Hourly)|Regenval per uur|
+langlookup|Return to Current Day|Terug naar vandaag|
+langlookup|Return to Top|Terug naar boven|
+langlookup|Sea Level Pressure|Luchtdruk zeeniveau|
+langlookup|Solar|Zonneschijn|
+langlookup|Station Historical Data|Historische waardes|
+langlookup|Summary for|Samenvatting |
+langlookup|Tabular Data for|Tabel voor|
+langlookup|Temp|Temp|
+langlookup|Time|Tijd|
+langlookup|Units|Eenheden|
+langlookup|View|View|
+langlookup|WXSIM hourly forecasttest|WXSIM verwachting per uur|
+langlookup|Weekly|Wekelijkse|
+langlookup|Weeks Tabular Data|Wekelijkse tabel|
+langlookup|Wind Gust|Windvlaag|
+langlookup|Wind Speed|Wind snelheid|
+langlookup|Yearly|Jaarlijkse|
+langlookup|Years Tabular Data|Jaarlijkse tabel|
+langlookup|ave|gem|
+langlookup|high|hoog|
+langlookup|low|laag|
+langlookup|solar|Zon|
+langlookup|sum|tot|
+#cumulus forecasts
+langlookup|Settled fine|Stabiel weer|
+langlookup|Fine weather|Lekker weer|
+langlookup|Becoming fine|Het wordt beter weer|
+langlookup|Fine, becoming less settled|Mooi weer, maar wordt minder stabiel|
+langlookup|Fine, possible showers|Mooi maar mogelijke buien|
+langlookup|Fairly fine, improving|Tamelijk mooi, weer wordt beter|
+langlookup|Fairly fine, possible showers early|Tamelijk mooi, mogelijke eerst wat buien|
+langlookup|Fairly fine, showery later|Tamelijk mooi, later bui-achtig|
+langlookup|Showery early, improving|Regenachtig begin, later beter|
+langlookup|Changeable, mending|Wisselachtig weer later stabieler|
+langlookup|Fairly fine, showers likely|Tamelijk mooi, kleine kans op een bui|
+langlookup|Rather unsettled clearing later|Nogal wisselvallig later mogelijk standvastiger|
+langlookup|Unsettled, probably improving|Regenachtig weer|
+langlookup|Showery, bright intervals|Buiachtig, met enkele opklaringen|
+langlookup|Showery, becoming less settled|Regenachtig, en minder stabiel weer|
+langlookup|Changeable, some precipitation|Veranderlijk weer, kans op wat neerslag|
+langlookup|Unsettled, short fine intervals|Veranderlijk weer, met af en toe mooie momenten|
+langlookup|Unsettled, precipitation later|Veranderlijk weer, later neerslag|
+langlookup|Unsettled, some precipitation|Veranderlijk weer, met wat neerslag|
+langlookup|Mostly very unsettled|Onrustig weer|
+langlookup|Occasional precipitation, worsening|Af en toe neerslag, later meer neerslag|
+langlookup|Precipitation at times, very unsettled|Af en toe neerslag, er onrustig weer|
+langlookup|Precipitation at frequent intervals|Perioden met regen|
+langlookup|Precipitation, very unsettled|Neerslag, erg onstuimig weer|
+langlookup|Stormy, may improve|Stormachtig, later verbetering|
+langlookup|Stormy, much precipitation|Stormachtig, veel neerslag|
+#zambretti forecasts
+langlookup|Zambretti fct|Zambretti verwachting|
+langlookup|Northern|Noordelijk|
+langlookup|Southern|Zuidelijk|
+langlookup|No change|Geen verandering|
+langlookup|Forecast calculated using|Verwachting berekend op basis van|
+langlookup|Hemisphere|Halfrond|
+# version 2.7
+langlookup|Graph|Grafiek|
+langlookup|Daylight hh:mm|Daglicht (uu:mm):|
+langlookup|Last year|Vandaag-vorig jaar|
+langlookup|minutes|minuten|
+langlookup|Meteogram|Meteogram|
+langlookup|your station|Ons station|
+langlookup|Demo extra pages|Demo extra pages|
+langlookup|Airplane radar|Vliegtuig radar|
+langlookup|knmi verwachting|Knmi verwachting|
+langlookup|WU stations|WU stations|
+langlookup|wind map|Wind kaart|
+langlookup|wind and forecast|Wind and verwachtingen|
+langlookup|google weather|Google weer|
+langlookup|suncalc|suncalc|
+langlookup|Marine radar|Marine radar|
+langlookup|Inspect uploads & settings|Inspecteer weervelden|
+langlookup|Europe|Europa|
+langlookup|World|Wereld|
+langlookup|Airport weather v3|Steden in de buurt|
+langlookup|Meteoalarm Advisories|Meteoalarm Waarschuwingen|
+langlookup|Weather History|Weer overzicht|
+langlookup|Generate files|Genereer bestanden|
+langlookup|:Data will be reloaded in]|:Data wordt weer op gehaald na]|
+langlookup|My webcam|My webcam|
+langlookup|xyz Weather Network|xyz Weather Network|
+langlookup|Records/today|Records/vandaag|
+langlookup|Normals/today|Normaal|
+langlookup|The weather in interesting cities nearby|Het weer in enkele leuke nabijgelegen steden|
+langlookup|There are no warnings or advisories|Er zijn geen waarschuwingen afgegeven|
+
+langlookup|more information|Meer informatie|
+langlookup|Click image to enlarge|Klik op de afdbeelding om te vergroten|
+langlookup|Configure|Configureer|
+langlookup|steady|Gelijkblijvend|
+langlookup|All done|All done|

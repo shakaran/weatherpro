@@ -1,0 +1,66 @@
+# langfile modified on: 2014-06-07		(YYYY-MM-DD)
+charset|UTF-8|
+# months  weeks and other date texts
+langlookup|wufct_date|Date|
+langlookup|wufct_January|January|
+langlookup|wufct_February|February|
+langlookup|wufct_March|March|
+langlookup|wufct_April|April|
+langlookup|wufct_May|May|
+langlookup|wufct_June|June|
+langlookup|wufct_July|July|
+langlookup|wufct_August|August|
+langlookup|wufct_September|September|
+langlookup|wufct_October|October|
+langlookup|wufct_November|November|
+langlookup|wufct_December|December|
+# 
+langlookup|wufct_Sunday|Sunday|
+langlookup|wufct_Monday|Monday|
+langlookup|wufct_Tuesday|Tuesday|
+langlookup|wufct_Wednesday|Wednesday|
+langlookup|wufct_Thursday|Thursday|
+langlookup|wufct_Friday|Friday|
+langlookup|wufct_Saturday|Saturday|
+# weather values
+langlookup|wufct_chance of|Chance of|
+langlookup|wufct_Precipation|Precipation|
+langlookup|wufct_Wind|Wind|
+langlookup|wufct_Temperature|Temperature|
+langlookup|wufct_Humidity|Humidity|
+langlookup|wufct_icon|icon|
+langlookup|wufct_humidity|Humidity|
+langlookup|wufct_rain|Rain|
+langlookup|wufct_wind|Wind|
+# headings and credits
+langlookup|wufct_Original script by|Original script by|
+langlookup|wufct_Forecast for|Forecast for|
+langlookup|wufct_updated|Updated|
+langlookup|wufct_forecast|Forecast|
+langlookup|wufct_day forecast for|day forecast for|
+langlookup|wufct_Icons|Icons|
+langlookup|wufct_Graphs|Graphs|
+langlookup|wufct_Table|Table|
+# weather descriptions
+langlookup|wufct_chanceflurries|Chance of flurries|
+langlookup|wufct_chancerain|Chance of rain|
+langlookup|wufct_chancesleet|Chance of sleet|
+langlookup|wufct_chancesnow|Chance of snow|
+langlookup|wufct_chancetstorms|Chance of storms|
+langlookup|wufct_clear|Clear|
+langlookup|wufct_cloudy|Cloudy|
+langlookup|wufct_flurries|Flurries|
+langlookup|wufct_fog|Fog|
+langlookup|wufct_hazy|Hazy|
+langlookup|wufct_mostlycloudy|Mostly cloudy|
+langlookup|wufct_mostlysunny|Mostly sunny|
+langlookup|wufct_partlycloudy|Partly cloudy|
+langlookup|wufct_partlysunny|Partly sunny|
+langlookup|wufct_rain|Rain|
+langlookup|wufct_sleet|Sleet|
+langlookup|wufct_snow|Snow|
+langlookup|wufct_sunny|Sunny|
+langlookup|wufct_tstorms|Thunder-<br />storms|
+# others
+langlookup|wufct_Weather forecast by|Weather forecast by|
+

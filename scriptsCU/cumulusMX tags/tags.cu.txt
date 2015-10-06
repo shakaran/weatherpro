@@ -1,0 +1,304 @@
+|pagename|tagsCU_mx|!      http://wiki.sandaysoft.com/a/Webtags
+|version|0.00 2015-06-22|!
+|datetime|<#year><#month><#day><#hour><#minute>00|!
+
+|date|<#year><#month><#day>|!
+|time|<#hour><#minute>00|!
+
+|fromtemp|<#tempunitnodeg>|!  //  values "C" or "F"
+
+|tempAct|<#temp>|!
+|tempDelta|<#temptrend>|!
+
+|tempMinToday|<#tempTL>|!
+|tempMinTodayTime|<#TtempTL>|!
+|tempMinYday|<#tempYL>|!
+|tempMinYdayTime|<#TtempYL>|!
+|tempMinMonth|<#MonthTempL>|!
+|tempMinMonthTime|<#MonthTempLD format=yyyyMMdd><#MonthTempLT format=HHmmss>|!
+|tempMinYear|<#YearTempL>|!
+|tempMinYearTime|<#YearTempLD format=yyyyMMdd><#YearTempLT format=HHmmss>|!
+|tempMinAll|<#tempL>|!
+|tempMinAllTime|<#TtempL format=yyyyMMddHHmmss>|!
+
+|tempMaxToday|<#tempTH>|!
+|tempMaxTodayTime|<#TtempTH>|!
+|tempMaxYday|<#tempYH>|!
+|tempMaxYdayTime|<#TtempYH>|!
+|tempMaxMonth|<#MonthTempH>|!
+|tempMaxMonthTime|<#MonthTempHD format=yyyyMMdd><#MonthTempHT format=HHmmss>|!
+|tempMaxYear|<#YearTempH>|!
+|tempMaxYearTime|<#YearTempHD format=yyyyMMdd><#YearTempHT format=HHmmss>|!
+|tempMaxAll|<#tempH>|!
+|tempMaxAllTime|<#TtempH format=yyyyMMddHHmmss>|!
+
+|dewpAct|<#dew>|!
+|dewpDelta|<#RecentDewPoint m=10>|!
+
+|dewpMinToday|<#dewpointTL>|!
+|dewpMinTodayTime|<#TdewpointTL>|!
+|dewpMinYday|<#dewpointYL>|!
+|dewpMinYdayTime|<#TdewpointYL>|!
+|dewpMinMonth|<#MonthDewPointL> |!
+|dewpMinMonthTime|<#MonthDewPointLD format=yyyyMMdd><#MonthDewPointLT format=HHmmss>|!
+|dewpMinYear|<#YearDewPointL>|!
+|dewpMinYearTime|<#YearDewPointLD format=yyyyMMdd><#YearDewPointLT format=HHmmss>|!
+|dewpMinAll|<#dewpointL>|!
+|dewpMinAllTime|<#TdewpointL format=yyyyMMddHHmmss>|!
+
+
+|dewpMaxToday|<#dewpointTH>|!
+|dewpMaxTodayTime|<#TdewpointTH>|!
+|dewpMaxYday|<#dewpointYH>|!
+|dewpMaxYdayTime|<#TdewpointYH>|!
+|dewpMaxMonth|<#MonthDewPointH> |!
+|dewpMaxMonthTime|<#MonthDewPointHD format=yyyyMMdd><#MonthDewPointHT format=HHmmss>|!
+|dewpMaxYear|<#YearDewPointH>|!
+|dewpMaxYearTime|<#YearDewPointHD format=yyyyMMdd><#YearDewPointHT format=HHmmss>|!
+|dewpMaxAll|<#dewpointH>|!
+|dewpMaxAllTime|<#TdewpointH format=yyyyMMddHHmmss>|!
+
+|appTemp|<#apptemp>|!
+
+|appTempMinToday|<#apptempTL>|
+|appTempMinTodayTime|<#TapptempTL>|
+|appTempMinYday|<#apptempYL>|
+|appTempMinYdayTime|<#TapptempYL>|
+|appTempMinMonth|<#MonthAppTempL>|!
+|appTempMinMonthTime|<#MonthAppTempLD format=yyyyMMdd><#MonthAppTempLT format=HHmmss>|!
+|appTempMinYear|<#YearAppTempL>|!
+|appTempMinYearTime|<#YearAppTempLD format=yyyyMMdd><#YearAppTempLT format=HHmmss>|!
+|appTempMinAll|<#apptempL>|!
+|appTempMinAllTime|<#TapptempL format=yyyyMMddHHmmss>|!
+
+|appTempMaxToday|<#apptempTH>|
+|appTempMaxTodayTime|<#TapptempTH>|
+|appTempMaxYday|<#apptempYH>|
+|appTempMaxYdayTime|<#TapptempYH>|
+|appTempMaxMonth|<#MonthAppTempH>|!
+|appTempMaxMonthTime|<#MonthAppTempHD format=yyyyMMdd><#MonthAppTempHT format=HHmmss>|!
+|appTempMaxYear|<#YearAppTempH>|!
+|appTempMaxYearTime|<#YearAppTempHD format=yyyyMMdd><#YearAppTempHT format=HHmmss>|!
+|appTempMaxAll|<#apptempH>|!
+|appTempMaxAllTime|<#TapptempH format=yyyyMMddHHmmss>|!
+
+|heatAct|<#heatindex>|!
+|heatDelta|<#RecentHeatIndex m=10>|!
+
+|heatMaxToday|<#heatindexTH>|!
+|heatMaxTodayTime|<#TheatindexTH>|!
+|heatMaxYday|<#heatindexYH>|!
+|heatMaxYdayTime|<#TheatindexYH>|!
+|heatMaxMonth|<#MonthHeatIndexH>|!
+|heatMaxMonthTime|<#MonthHeatIndexHD format=yyyyMMdd><#MonthHeatIndexHT format=HHmmss>|!
+|heatMaxYear|<#YearHeatIndexH>|!
+|heatMaxYearTime|<#YearHeatIndexHD format=yyyyMMdd><#YearHeatIndexHT format=HHmmss>|!
+|heatMaxAll|<#heatindexH>|!
+|heatMaxAllTime|<#TheatindexH format=yyyyMMddHHmmss>|!
+
+|chilAct|<#wchill>|!
+|chilDelta|<#RecentWindChill m=10>|!
+
+|chilMinToday|<#wchillTL>|!
+|chilMinTodayTime|<#TwchillTL>|!
+|chilMinYday|<#wchillYL>|!
+|chilMinYdayTime|<#TwchillYL>|!
+|chilMinMonth|<#MonthWChillL>|!
+|chilMinMonthTime|<#MonthWChillLD format=yyyyMMdd><#MonthWChillLT format=HHmmss>|!
+|chilMinYear|<#YearWChillL>|!
+|chilMinYearTime|<#YearWChillLD format=yyyyMMdd><#YearWChillLT format=HHmmss>|!
+|chilMinAll|<#wchillH>|!
+|chilMinAllTime|<#TwchillH format=yyyyMMddHHmmss>|!
+
+|chilMaxToday|--|!
+|chilMaxTodayTime|--|!
+
+|tempActInside|<#intemp>|!
+|tempActExtra1|<#ExtraTemp1>|!
+|tempActExtra2|<#ExtraTemp2>|!
+
+|hudxAct|<#humidex>|!
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|<#pressunit>|!                //  "mb", "hPa", "in"
+
+|baroAct|<#press>|!
+|baroDelta|<#presstrendval>|!
+|baroTrend|<#presstrendenglish>|!
+
+|baroMinToday|<#pressTL>|!
+|baroMinTodayTime|<#TpressTL>|!
+|baroMinYday|<#pressYL>|!
+|baroMinYdayTime|<#TpressYL>|!
+|baroMinMonth|<#MonthPressL>|!
+|baroMinMonthTime|<#MonthPressLD format=yyyyMMdd><#MonthPressLT format=HHmmss>|!
+|baroMinYear|<#YearPressL>|!
+|baroMinYearTime|<#YearPressLD format=yyyyMMdd><#YearPressLT format=HHmmss>|!
+|baroMinAll|<#pressL>|!
+|baroMinAllTime|<#TpressL format=yyyyMMddHHmmss>|!
+
+|baroMaxToday|<#pressTH>|!
+|baroMaxTodayTime|<#TpressTH>|!
+|baroMaxYday|<#pressTH>|!
+|baroMaxYdayTime|<#TpressYH>|!
+|baroMaxMonth|<#MonthPressH>|!
+|baroMaxMonthTime|<#MonthPressHD format=yyyyMMdd><#MonthPressHT format=HHmmss>|!
+|baroMaxYear|<#YearPressH>|!
+|baroMaxYearTime|<#YearPressHD format=yyyyMMdd><#YearPressHT format=HHmmss>|!
+|baroMaxAll|<#pressH>|!
+|baroMaxAllTime|<#TpressH format=yyyyMMddHHmmss>|!
+
+------------------------------------------humidity-----------------------------------
+|humiAct|<#hum>|!
+|humiDelta|<#RecentHumidity m=10>|!
+
+|humiMinToday|<#humTL>|!
+|humiMinTodayTime|<#ThumTL>|! 
+|humiMinYday|<#humYL>|!
+|humiMinYdayTime|<#ThumYL>|!
+|humiMinMonth|<#MonthHumL>|!
+|humiMinMonthTime|<#MonthHumLD format=yyyyMMdd><#MonthHumLT format=HHmmss>|!
+|humiMinYear|<#YearHumL>|!
+|humiMinYearTime|<#YearHumLD format=yyyyMMdd><#YearHumLT format=HHmmss>|!
+|humiMinAll|<#humL>|!
+|humiMinAllTime|<#ThumL format=yyyyMMddHHmmss>|!
+
+|humiMaxToday|<#humTH>|!
+|humiMaxTodayTime|<#ThumTH>|!
+|humiMaxYday|<#humYH>|!
+|humiMaxYdayTime|<#ThumYH>|!
+|humiMaxMonth|<#MonthHumH>|!
+|humiMaxMonthTime|<#MonthHumHD format=yyyyMMdd><#MonthHumHT format=HHmmss>|!
+|humiMaxYear|<#YearHumH>|!
+|humiMaxYearTime|<#YearHumHD format=yyyyMMdd><#YearHumHT format=HHmmss>|!
+|humiMaxAll|<#humH>|!
+|humiMaxAllTime|<#ThumH format=yyyyMMddHHmmss>|!
+
+|humiInAct|<#inhum>|!
+|humiActExtra1|<#ExtraHum1>|!
+|humiActExtra2|<#ExtraHum2>|!
+------------------------------------------rain---------------------------------------
+|fromrain|<#rainunit>|!         //  "mm" or "inches"
+
+|rainRateAct|<#rrate>|!
+
+|rainRateMaxToday|<#rrateTM>|!
+|rainRateMaxYday|<#rrateYM>|!
+
+|lastRained|<#LastRainTipISO format=yyyyMMddHHmmss>|!
+
+|rainHourAct|<#rhour>|!
+|rainHourMaxToday|<#hourlyrainTH>|!
+|rainHourMaxYday|<#hourlyrainYH>|!
+
+|rainToday|<#rfall>|!
+|rainYday|<#rfallY>|!
+|rainWeek|                      ?|!
+|rainMonth|<#rmonth>|!
+|rainYear|<#ryear>|!
+
+|rainTodayLow|          ?|!
+|rainYdayLow|           ?|!
+|rainYdayHigh|          ?|! 
+|rainRateYday|          ?|!
+
+
+|rainDayMnth|           ?|!
+|rainDayYear|           ?|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|<#ET>|!
+|etYday|--|!
+
+|etMonth|--|!
+|etYear|--|!
+------------------------------------------wind---------------------------------------
+|fromwind|<#windunit>|!      //  "m/s", "mph", "km/h", "kts" ?? 'kmh' 'Bft'??  windrun  "km", "miles", "km", "nm"
+
+|windAct|<#wlatest>|!
+|gustAct|<#wgust>|!
+|windActDsc|<#currentwdir>|!
+|windActDir|<#bearing>|!
+
+|windBeafort|<#beaufortnumber>|!
+
+|windAvgDir|<#avgbearing>|!
+
+|gustMaxToday|<#wgustTM>|!
+|gustMaxTodayTime|<#TwgustTM>|!
+|gustMaxYday|<#wgustYM>|!
+|gustMaxYTime|<#TwgustYM>|!
+|gustMaxMonth|<#MonthGustH>|!
+|gustMaxMonthTime|<#MonthGustHD format=yyyyMMdd><#MonthGustHT format=HHmmss>|!
+|gustMaxYear|<#YearGustH>|!
+|gustMaxYearTime|<#YearGustHD format=yyyyMMdd><#YearGustHT format=HHmmss>|!
+|gustMaxAll|<#gustM>|!
+|gustMaxAllTime|<#TgustM format=yyyyMMddHHmmss>|!
+
+|fromdistance|<#windrununit>|!
+|windrunToday|<#windrun>|!
+|------------------------------------------UV---------------------------------------
+|uvAct|<#UV>|!
+
+|uvMaxToday|<#UVTH>|!
+|uvMaxTodayTime|<#TUVTH>|!
+|uvMaxYday|<#UVYH>|!
+|uvMaxYdayTime|<#TUVYH>|!
+
+|uvMaxMonth|--|!
+|uvMaxMonthTime|--|!
+|uvMaxYear|--|!
+|uvMaxYearTime|--|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|<#SolarRad>|!
+|solarActPerc|--|! 
+
+|solarMaxToday|<#solarTH>|!
+|solarMaxTodayTime|<#TsolarTH>|!
+|solarMaxYday|<#solarYH>|!
+|solarMaxYdayTime|<#TsolarYH>|!
+
+|solarMaxMonth|--|!
+|solarMaxMonthTime|--|!
+|solarMaxYear|--|!
+|solarMaxYearTime|--|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|<#cloudbaseunit>|!
+|cloudHeight|<#cloudbasevalue>|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt|<#forecast>|!
+|------------------------------------------moon---------------------------------------
+|moonrise|<#moonrise>|!
+|moonset|<#moonset>|!
+|lunarPhasePerc|<#MoonPercentAbs>|!
+|lunarAge|<#MoonAge>|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|<#version>|!
+|wsBuild|<#build>|!
+|wsHardware|<#CpuName> <#OsVersion>|!
+|wsUptime|<#ProgramUpTime>|!
+|-------------------------------------- soil
+|soilTempAct|<#SoilTemp1> <#SoilTemp2> <#SoilTemp3> <#SoilTemp4>|!
+|soilMoistAct|<#SoilMoisture1> <#SoilMoisture2> <#SoilMoisture3> <#SoilMoisture4>|!
+|leafTempAct|<#LeafTemp1> <#LeafTemp2>|!
+|leafWetAct|<#LeafWetness1> <#LeafWetness2>|!
+
+|-------------------------------------- trends 
+|trendsMinutes|0 5 10 15 20 30 45 60 75 90 105 120 |!
+|tempArray|<#temp>#<#RecentOutsideTemp m=5>#<#RecentOutsideTemp m=10>#<#RecentOutsideTemp m=15>#<#RecentOutsideTemp m=20>#<#RecentOutsideTemp m=30>#<#RecentOutsideTemp m=45>#<#RecentOutsideTemp m=60>#<#RecentOutsideTemp m=75>#<#RecentOutsideTemp m=90>#<#RecentOutsideTemp m=115>#<#RecentOutsideTemp m=120> |!
+|windArray|<#wlatest>#<#RecentWindLatest m=5>#<#RecentWindLatest m=10>#<#RecentWindLatest m=15>#<#RecentWindLatest m=20>#<#RecentWindLatest m=30>#<#RecentWindLatest m=45>#<#RecentWindLatest m=60>#<#RecentWindLatest m=75>#<#RecentWindLatest m=90>#<#RecentWindLatest m=115>#<#RecentWindLatest m=120> |!
+|gustArray|<#wgust>#<#RecentWindGust m=5>#<#RecentWindGust m=10>#<#RecentWindGust m=15>#<#RecentWindGust m=20>#<#RecentWindGust m=30>#<#RecentWindGust m=45>#<#RecentWindGust m=60>#<#RecentWindGust m=75>#<#RecentWindGust m=90>#<#RecentWindGust m=115>#<#RecentWindGust m=120> |!
+|wdirArray|<#bearing>#<#RecentWindDir m=5>#<#RecentWindDir m=10>#<#RecentWindDir m=15>#<#RecentWindDir m=20>#<#RecentWindDir m=30>#<#RecentWindDir m=45>#<#RecentWindDir m=60>#<#RecentWindDir m=75>#<#RecentWindDir m=90>#<#RecentWindDir m=115>#<#RecentWindDir m=120> |!
+|humiArray|<#hum>#<#RecentHumidity m=5>#<#RecentHumidity m=10>#<#RecentHumidity m=15>#<#RecentHumidity m=20>#<#RecentHumidity m=30>#<#RecentHumidity m=45>#<#RecentHumidity m=60>#<#RecentHumidity m=75>#<#RecentHumidity m=90>#<#RecentHumidity m=115>#<#RecentHumidity m=120> |!
+|baroArray|<#press>#<#RecentPressure m=5>#<#RecentPressure m=10>#<#RecentPressure m=15>#<#RecentPressure m=20>#<#RecentPressure m=30>#<#RecentPressure m=45>#<#RecentPressure m=60>#<#RecentPressure m=75>#<#RecentPressure m=90>#<#RecentPressure m=115>#<#RecentPressure m=120> |!
+|rainArray|<#rfall>#<#RecentRainToday m=5>#<#RecentRainToday m=10>#<#RecentRainToday m=15>#<#RecentRainToday m=20>#<#RecentRainToday m=30>#<#RecentRainToday m=45>#<#RecentRainToday m=60>#<#RecentRainToday m=75>#<#RecentRainToday m=90>#<#RecentRainToday m=115>#<#RecentRainToday m=120> |!
+|solarArray|<#SolarRad>#<#RecentSolarRad m=5>#<#RecentSolarRad m=10>#<#RecentSolarRad m=15>#<#RecentSolarRad m=20>#<#RecentSolarRad m=30>#<#RecentSolarRad m=45>#<#RecentSolarRad m=60>#<#RecentSolarRad m=75>#<#RecentSolarRad m=90>#<#RecentSolarRad m=115>#<#RecentSolarRad m=120> |!
+|uvArray|<#UV>#<#RecentUV m=5>#<#RecentUV m=10>#<#RecentUV m=15>#<#RecentUV m=20>#<#RecentUV m=30>#<#RecentUV m=45>#<#RecentUV m=60>#<#RecentUV m=75>#<#RecentUV m=90>#<#RecentUV m=115>#<#RecentUV m=120> |!
+
+
+
+
+

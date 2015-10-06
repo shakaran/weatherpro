@@ -1,0 +1,63 @@
+<?php   
+# regional settings - 1 file for every supported language - default always an EN language file is needed !
+# Version 3.20  - 2015-08-14
+
+define('MESO_THISSTATION',	$ThisStation				); 
+# define('MESO_LONG',		'Regional Weather Network');
+
+define('MESO_BOXPRTB', 		' is proud to be a member of the '.MESO_LONG.'.<br/><br/>
+Please take a moment to visit other stations on the network by clicking on the map above or clicking on the links below. 
+The stations are displaying the weather conditions: Temperature, dew point, humidity,
+wind direction and speed/gust speed, today\'s rain, barometric pressure and trend, current conditions
+and the name of the city where the weather station is located.');
+/*
+<noscript><p><br /><br />
+<b>Note: Enable JavaScript for live updates.</b></p></noscript>
+<h2>Member stations of the '.MESO_LONG.'</h2>
+<p>as of ');
+*/
+define('MESO_COLSORT', 		'Note: Click on the table column title to change the order of that column\'s values.');
+
+# Tables and title= tags
+define('MESO_PAGEHEAD', 	'Current weather conditions obtained from the member stations of the'	);
+define('MESO_CONDHEAD', 	'Current weather conditions at the weather stations');
+define('MESO_MEMBHEAD', 	'Member stations of the ');
+
+# table headers
+define('MESO_FEAT', 		'Station<br/>Features/Altitude'		);
+define('MESO_STATE', 		'Country'				);
+define('MESO_STATION',		'Station'				);
+#define('MESO_CURHEAD', 		'Current<br />Cond.'			);
+define('MESO_CONDL',		'Current Condition'			);
+define('MESO_TEMP', 		'Temp.'					);
+define('MESO_TEMPL', 		'Temperature'				);
+define('MESO_DEWPT', 		'Dew Point'				);
+define('MESO_DEWPTABBREV',	'DP'					);
+define('MESO_HUM', 		'Humid'					);
+define('MESO_HUML', 		'Humidity'				);
+define('MESO_AVGWIND', 		'Wind'					);
+define('MESO_GUSTWIND', 	'Gust'					);
+define('MESO_GUSTABBREV',	'G'					);
+define('MESO_WINDL', 		'Wind Direction and Speed/Gust'		);
+define('MESO_WIND', 		'Wind'					);
+define('MESO_WINDFROM', 	'Wind from'				);
+define('MESO_PRECIPS', 		'Rain'					);
+define('MESO_PRECIPSL', 	'Rain Today'				);
+define('MESO_BAROB', 		'Pressure'				);
+define('MESO_BAROT', 		'Trend'					);
+define('MESO_BAROL', 		'Pressure and Trend'			);
+define('MESO_SNOB', 		'Snow'					);
+define('MESO_TXTGUST', 		'Gust'					);
+define('MESO_DATAUPDT', 	'Last<br />Update'			);
+define('MESO_NOCOND', 		'No current conditions report'		);
+define('MESO_TOWN',		'Name of the town'			);
+define('MESO_OFFLINE',		'Offline'				); // text to display on mesomap when station data is stale/not available
+
+# for javascript animation control button lables
+define('MESO_RUN', 		'Run'					);
+define('MESO_PAUSE', 		'Pause'					);
+define('MESO_STEP', 		'Step'					);
+
+# date-time 
+define('MESO_CONDSFROM', 	'Conditions data shown was collected from');
+define('MESO_CONDSTO', 		'to'	);

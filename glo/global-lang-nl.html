@@ -1,0 +1,67 @@
+<?php
+if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
+   $filenameReal = __FILE__;			# display source of script if requested so
+   $download_size = filesize($filenameReal);
+   header('Pragma: public');
+   header('Cache-Control: private');
+   header('Cache-Control: no-cache, must-revalidate');
+   header("Content-type: text/plain");
+   header("Accept-Ranges: bytes");
+   header("Content-Length: $download_size");
+   header('Connection: close');
+   readfile($filenameReal);
+   exit;
+}
+$pageName	= 'global-lang-nl.html';
+$pageVersion	= '3.20 2015-08-01';
+#-------------------------------------------------------------------------------
+# 3.20 2015-08-01 release 2.8 version
+#-------------------------------------------------------------------------------
+if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
+$SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {$SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName;}
+ws_message ('<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile].' -->');
+#-------------------------------------------------------------------------------
+
+if ( $doLinkTarget == true) {$target = 'target="_blank"';} else {$target = '';}
+// copy of  Saratoga  Version 2.00 - 27-Nov-2012 - initial release
+# The $firstPart is what gets printed when the page is first presented.
+ $firstPart = '
+<noscript><p><b>JavaScript moet op uw pc toegelaten zijn om Google Maps te kunnen gebruiken.</b> 
+<br />Het lijkt erop dat JavaScript is uitgezet of niet kan werken in uw browser. 
+<br />Om met Google Maps te kunnen werken moet u JavaScript aanzetten in uw browser opties, en hetdan opnieuw proberen.</p>
+</noscript>';
+#
+# The $secondPart is what gets printed under the legend on the map.
+
+$secondPart = '
+<p>Deze <a href="http://maps.google.com/" '.$target.'>Google Map</a> geeft de lokaties weer van de 
+bij een regionale weernetwerk aangesloten persoonlijke weerstations.</p>
+<p><img src="glo/MESO-images/m1.png" width="25" height="25" alt="cluster marker image" /> 
+Pinnen met cijfers zijn groepen weerstations - Klik erop om de kaart te vergroten zodat 
+de indivudele personlijke weerstations worden afgebeeld. 
+Als u op een pin van een weerstation klikt wordt er een venster afgebeeld met de huidige weergegevens
+van het station, een koppeling naar de eigen website/homepage en een koppeling naar het regionale netwerk 
+waarbij dit station is aangesloten.</p>
+';
+#
+# The $thirdPart is what gets printed at the bottom of the page.
+$thirdPart = '
+<p><small>
+Als u een eigen weerstation heeft en dat wil publiceren op deze kaart bezoek u dan de pagina van uw 
+regionale weernetwerk en meld u aan.
+</small></p>
+';
+#
+$creditPart = '
+<small>Gegevens van de stations geleverd door 
+<a href="http://www.northamericanweather.net/" '.$target.'>Affiliated Regional Networks</a>.
+Scripts van 
+<a href="http://saratoga-weather.org/" '.$target.'>Saratoga-Weather.org</a>
+aangepast aan de 
+<a href="http://leuven-template.eu/" '.$target.'>Leuven-Template</a>.
+</small>
+';
+# ----------------------  version history
+# 3.20 2015-08-01 release 2.8 version 

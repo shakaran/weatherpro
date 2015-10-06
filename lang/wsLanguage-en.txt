@@ -1,0 +1,1228 @@
+# langfile generated on: 27-02-2013 10:04
+charset|UTF-8|
+# ajax-dashboard
+langlookup|/hr|/hr|
+langlookup|Baro Trend|Baro Trend|
+langlookup|Barometer|Barometer|
+langlookup|Cooler|Cooler|
+langlookup|Currently|Currently|
+langlookup|Daylight hh:mm|Daylight hh:mm|
+langlookup|Decreased by|Decreased by|
+langlookup|Dew Point|Dew Point|
+langlookup|Enable JavaScript for live updates|Enable JavaScript for live updates|
+langlookup|Falling|Falling|
+langlookup|Feels like|Feels like|
+langlookup|Forecast|Forecast|
+langlookup|Gust|Gust|
+langlookup|Gust today|Gust today|
+langlookup|High:|High:|
+langlookup|Humidity|Humidity|
+langlookup|Illuminated|Illuminated|
+langlookup|Increased by|Increased by|
+langlookup|Inside|Inside|
+langlookup|Language|Language|
+langlookup|Last updated:|Last updated:|
+langlookup|Low:|Low:|
+langlookup|Max|Max|
+langlookup|Max:|Max:|
+langlookup|Min|Min|
+langlookup|minutes|minutes|
+langlookup|Moonrise|Moonrise|
+langlookup|Moonset|Moonset|
+langlookup|Now:|Now:|
+langlookup|Pool|Pool|
+langlookup|Rain|Rain|
+langlookup|Rain Rate|Rain Rate|
+langlookup|Rain Today|Rain Today|
+langlookup|Rising|Rising|
+langlookup|Season Total|Season Total|
+langlookup|Solar Radiation|Solar Radiation|
+langlookup|Summary|Summary|
+langlookup|Sunrise|Sunrise|
+langlookup|Sunset|Sunset|
+langlookup|Temperature|Temperature|
+langlookup|This Month|This Month|
+langlookup|Today|Today|
+langlookup|Trend|Trend|
+langlookup|UV Index|UV Index|
+langlookup|Updates paused - reload page to start|Updates paused - reload page to start|
+langlookup|Warmer|Warmer|
+langlookup|Yesterday|Yesterday|
+langlookup|at|at|
+langlookup|days with rain this month|days with rain this month|
+langlookup|forecast|forecast|
+langlookup|forecasts|forecasts|
+langlookup|inside|inside|
+langlookup|m/s| m/s|
+langlookup|mm| mm|
+langlookup|seconds ago|seconds ago|
+langlookup|than last hour|than last hour|
+langlookup|the last hour|the last hour|
+langlookup|today|today|
+# astro
+langlookup|Astronomy|Astronomy|
+langlookup|Autumn Equinox|Autumn Equinox|
+langlookup|Daylight|Daylight|
+langlookup|Lunar cycle|Lunar cycle|
+langlookup|Moon|Moon|
+langlookup|Moon age|Moon age|
+langlookup|Moon at day|Moon at day|
+langlookup|Our home|Our home|
+langlookup|Our home on our planet as seen from space|Our home on our planet as seen from space|
+langlookup|Seasons|Seasons|
+langlookup|Start of Fall|Start of Fall|
+langlookup|Start of Spring|Start of Spring|
+langlookup|Start of Summer|Start of Summer|
+langlookup|Start of Winter|Start of Winter|
+langlookup|Summer Solstice|Summer Solstice|
+langlookup|Sun&nbsp;|Sun |
+langlookup|Vernal Equinox|Vernal Equinox|
+langlookup|Winter Solstice|Winter Solstice|
+langlookup|of the mooncycle|of the mooncycle|
+# barometer trend
+langlookup|Falling Rapidly|Falling Rapidly|
+langlookup|Falling Slowly|Falling Slowly|
+langlookup|Rising Rapidly|Rising Rapidly|
+langlookup|Rising Slowly|Rising Slowly|
+langlookup|Steady|Steady|
+langlookup|steady|steady|
+# beafort wind names
+langlookup|Calm|Calm|
+langlookup|Fresh breeze|Fresh breeze|
+langlookup|Gale|Gale|
+langlookup|Gentle breeze|Gentle breeze|
+langlookup|Hurricane|Hurricane|
+langlookup|Light air|Light air|
+langlookup|Light breeze|Light breeze|
+langlookup|Moderate breeze|Moderate breeze|
+langlookup|Near gale|Near gale|
+langlookup|Storm|Storm|
+langlookup|Strong breeze|Strong breeze|
+langlookup|Strong gale|Strong gale|
+langlookup|Violent storm|Violent storm|
+langlookup|Wind from|Wind from|
+# buoy
+langlookup|Air|Air|
+langlookup|Air Temperature|Air Temperature|
+langlookup|Baro|Baro|
+langlookup|Barometer Trend|Barometer Trend|
+langlookup|Water|Water|
+langlookup|Water Temperature|Water Temperature|
+langlookup|Wave Height|Wave Height|
+langlookup|Waves|Waves|
+langlookup|Wind Direction @ Speed|Wind Direction @ Speed|
+langlookup|Wind Gust Speed|Wind Gust Speed|
+# clientraw
+langlookup|(or davis)|(or davis)|
+langlookup|- for east of gmt|- for east of gmt|
+langlookup|- for southern hemisphere|- for southern hemisphere|
+langlookup|9am|9am|
+langlookup|The requested file|The requested file|
+langlookup|This Station Clientraw|This Station Clientraw|
+langlookup|This stations|This stations|
+langlookup|Xref Clientraw|Xref Clientraw|
+langlookup|Y|Y|
+langlookup|actual_date|actual_date|
+langlookup|age|age|
+langlookup|alltime|alltime|
+langlookup|also: baro max|also: baro max|
+langlookup|also: baro min|also: baro min|
+langlookup|apparent|apparent|
+langlookup|avg|avg|
+langlookup|avg over daylight|avg over daylight|
+langlookup|avg over night|avg over night|
+langlookup|avg over night time|avg over night time|
+langlookup|baro|baro|
+langlookup|batt|batt|
+langlookup|bearing|bearing|
+langlookup|beginning|beginning|
+langlookup|bulb|bulb|
+langlookup|cloud|cloud|
+langlookup|coldest|coldest|
+langlookup|contains the following raw data|contains the following raw data|
+langlookup|continues at pos 562|continues at pos 562|
+langlookup|continues at pos 566|continues at pos 566|
+langlookup|continues at pos 570|continues at pos 570|
+langlookup|continues at pos 574|continues at pos 574|
+langlookup|continues at pos 578|continues at pos 578|
+langlookup|continues at pos 582|continues at pos 582|
+langlookup|continues at pos 586|continues at pos 586|
+langlookup|continues at pos 590|continues at pos 590|
+langlookup|count|count|
+langlookup|current|current|
+langlookup|d = day n = night|d = day n = night|
+langlookup|daily|daily|
+langlookup|dallas|dallas|
+langlookup|davis|davis|
+langlookup|depth|depth|
+langlookup|desc|desc|
+langlookup|dewpoint|dewpoint|
+langlookup|dir|dir|
+langlookup|display|display|
+langlookup|dist|dist|
+langlookup|does not include build #|does not include build #|
+langlookup|end|end|
+langlookup|et|et|
+langlookup|example: !!c10.37f!!|example: !!c10.37f!!|
+langlookup|example: !!h10.37f!!|example: !!h10.37f!!|
+langlookup|extra|extra|
+langlookup|extra_sensor|extra_sensor|
+langlookup|file|file|
+langlookup|flag|flag|
+langlookup|for|for|
+langlookup|format depends on wd setting|format depends on wd setting|
+langlookup|fri|fri|
+langlookup|fwi|fwi|
+langlookup|grass|grass|
+langlookup|gust|gust|
+langlookup|heatindex|heatindex|
+langlookup|height|height|
+langlookup|hour|hour|
+langlookup|hours|hours|
+langlookup|hr|hr|
+langlookup|hrs_min_ago|hrs_min_ago|
+langlookup|hum|hum|
+langlookup|humidex|humidex|
+langlookup|humidity|humidity|
+langlookup|if enabled in wd|if enabled in wd|
+langlookup|index|index|
+langlookup|indoor|indoor|
+langlookup|inputed|inputed|
+langlookup|install|install|
+langlookup|into|into|
+langlookup|last|last|
+langlookup|last_60_min_for|last 60 min for|
+langlookup|last_60_min_for_min|last 60 min for min|
+langlookup|last_hour|last hour|
+langlookup|latitude|latitude|
+langlookup|leaf|leaf|
+langlookup|lightning|lightning|
+langlookup|logic|logic|
+langlookup|longitude|longitude|
+langlookup|lst|last|
+langlookup|max|max|
+langlookup|mi|mi|
+langlookup|midnight|midnight|
+langlookup|min|min|
+langlookup|minute|minute|
+langlookup|moisture|moisture|
+langlookup|mon|mon|
+langlookup|month|month|
+langlookup|monthly|monthly|
+langlookup|moon|moon|
+langlookup|moonphase|moonphase|
+langlookup|moonrise|moonrise|
+langlookup|moonset|moonset|
+langlookup|mtd|mtd|
+langlookup|name|name|
+langlookup|nexstorm|nexstorm|
+langlookup|no|no|
+langlookup|not used|not used|
+langlookup|number|number|
+langlookup|o1 or o0|o1 or o0|
+langlookup|of|of|
+langlookup|or enter your own path-file name|or enter your own path-file name|
+langlookup|outside|outside|
+langlookup|rate|rate|
+langlookup|rcd|rcd|
+langlookup|reading|reading|
+langlookup|record|record|
+langlookup|reset|reset|
+langlookup|s1 or s0|s1 or s0|
+langlookup|sat|sat|
+langlookup|season|season|
+langlookup|seconds|seconds|
+langlookup|sensor|sensor|
+langlookup|snow|snow|
+langlookup|soil|soil|
+langlookup|solarwm|solarwm|
+langlookup|station|station|
+langlookup|strikes|strikes|
+langlookup|strk/hour|strk/hour|
+langlookup|sun|sun|
+langlookup|sunrise|sunrise|
+langlookup|sunset|sunset|
+langlookup|sunshine|sunshine|
+langlookup|temp|temp|
+langlookup|thsws|thsws|
+langlookup|thur|thur|
+langlookup|time|time|
+langlookup|timestamp|timestamp|
+langlookup|total|total|
+langlookup|trend|trend|
+langlookup|tues|tues|
+langlookup|type|type|
+langlookup|u1 or u0|u1 or u0|
+langlookup|unused|unused|
+langlookup|used for wind speed chart|used for wind speed chart|
+langlookup|uv|uv|
+langlookup|value|value|
+langlookup|value was / by 10 to get correct value|value was / by 10 to get correct value|
+langlookup|verified|verified|
+langlookup|version|version|
+langlookup|vp|vp|
+langlookup|vpp|vpp|
+langlookup|w/m2|w/m2|
+langlookup|warmest|warmest|
+langlookup|warn|warn|
+langlookup|wd|wd|
+langlookup|wdl|wdl|
+langlookup|weather|weather|
+langlookup|wed|wed|
+langlookup|wet|wet|
+langlookup|wetness|wetness|
+langlookup|windchill|windchill|
+langlookup|with|with|
+langlookup|wm/2|wm/2|
+langlookup|wmr968|wmr968|
+langlookup|year|year|
+langlookup|yearly|yearly|
+langlookup|yesterday|yesterday|
+langlookup|ytd|ytd|
+# conditions
+langlookup|-|-|
+langlookup|Afternoon|Afternoon|
+langlookup|Chance of Rain|Chance of Rain|
+langlookup|Chance of a Thunderstorm|Chance of a Thunderstorm|
+langlookup|Chance of drizzle|Chance of drizzle|
+langlookup|Chance of freezing rain|Chance of freezing rain|
+langlookup|Chance of rain|Chance of rain|
+langlookup|Chance of rain and or sleet|Chance of rain and or sleet |
+langlookup|Chance of showers|Chance of showers|
+langlookup|Chance of sleet|Chance of sleet|
+langlookup|Chance of sleet and F|Chance of sleet|
+langlookup|Chance of sleet and or freezing rain|Chance of sleet and or freezing rain|
+langlookup|Chance of sleet and or mix|Chance of sleet and or mix|
+langlookup|Chance of sleet and or snow|Chance of sleet and or snow |
+langlookup|Chance of snow|Chance of snow|
+langlookup|Chance of snow and or rain|Chance of snow and or rain|
+langlookup|Chance of snow and rain|Chance of snow and rain|
+langlookup|Chance ofsleet and snow|Chance of sleet and snow |
+langlookup|Clear|Clear|
+langlookup|Clearing Late|Clearing Late|
+langlookup|Clouds|Clouds|
+langlookup|Clouds Early|Clouds Early|
+langlookup|Cloudy|Cloudy|
+langlookup|Dense fog|Dense fog |
+langlookup|Drizzle|Drizzle|
+langlookup|Drizzle Late|Drizzle Late|
+langlookup|Fair|Fair|
+langlookup|Few Clouds|Few Clouds|
+langlookup|Few Showers|Few Showers|
+langlookup|Few clouds|Few clouds|
+langlookup|Fog|Fog|
+langlookup|Foggy|Foggy|
+langlookup|Freezing drizzle|Freezing drizzle|
+langlookup|Freezing rain|Freezing rain|
+langlookup|Frost heavy|Frost heavy |
+langlookup|Frost scattered|Frost scattered |
+langlookup|Hail|Hail|
+langlookup|Haze|Haze|
+langlookup|Heavy Rain|Heavy Rain|
+langlookup|Heavy Rain Shower|Heavy Rain Shower|
+langlookup|Heavy dew|Heavy dew|
+langlookup|Heavy frost|Heavy frost|
+langlookup|Heavy rain|Heavy Rain|
+langlookup|Heavy sleet|Heavy sleet|
+langlookup|Heavy sleet and or mix|Heavy sleet and or mix|
+langlookup|Heavy snow|Heavy snow |
+langlookup|Heavy snow and or rain|Heavy snow and or rain|
+langlookup|Ice Crystals|Ice Crystals|
+langlookup|Ice storm|Ice storm |
+langlookup|Late|Late|
+langlookup|Light Drizzle|Light Drizzle|
+langlookup|Light Freezing Drizzle|Light Freezing Drizzle|
+langlookup|Light Ice Pellets|Light Ice Pellets|
+langlookup|Light Rain|Light Rain|
+langlookup|Light Rain Drizzle|Light Rain Drizzle|
+langlookup|Light Rain Early|Light Rain Early|
+langlookup|Light Rain Late|Light Rain Late|
+langlookup|Light Rain Shower|Light Rain Shower|
+langlookup|Light Rain Showers|Light Rain Showers|
+langlookup|Light Rain with Thunder|Light Rain with Thunder|
+langlookup|Light Snow|Light Snow|
+langlookup|Light Snow Grains|Light Snow Grains|
+langlookup|Light Snow Showers|Light Snow Showers|
+langlookup|Light dew|Light dew|
+langlookup|Light drizzle|Light drizzle|
+langlookup|Light fog|Light fog|
+langlookup|Light frost|Light frost|
+langlookup|Light rain|Light rain|
+langlookup|Light rain and or snow|Light rain and or snow|
+langlookup|Light rain drizzle|Light rain drizzle|
+langlookup|Light rain shower|Light rain shower|
+langlookup|Light rain showers|Light Rain Showers|
+langlookup|Light rain, few clouds|Light rain, few clouds|
+langlookup|Light sleet|Light sleet|
+langlookup|Light sleet and or mixture| Light sleet and or snow |
+langlookup|Light sleet and or snow| Light sleet and or snow |
+langlookup|Light snow|Light Snow|
+langlookup|Light snow and rain|Light snow and rain|
+langlookup|Meteoplug|Meteoplug|
+langlookup|Mist|Mist|
+langlookup|Moderate dew|Moderate dew|
+langlookup|Moderate fog|Moderate fog|
+langlookup|Moderate frost|Moderate frost|
+langlookup|Moderate rain|Moderate rain|
+langlookup|Moderate sleet|Moderate sleet|
+langlookup|Moderate snow|Moderate snow|
+langlookup|Morning|Morning|
+langlookup|Mostly Clear|Mostly Clear|
+langlookup|Mostly Cloudy|Mostly Cloudy|
+langlookup|Mostly Sunny|Mostly Sunny|
+langlookup|Mostly clear|Mostly clear|
+langlookup|Mostly cloudy|Mostly Cloudy|
+langlookup|No precip|No<br />precipitation|
+langlookup|Overcast|Overcast|
+langlookup|Partly Cloudy|Partly Cloudy|
+langlookup|Partly cloudy|Partly cloudy|
+langlookup|Patchy rain nearby|Patchy rain nearby|
+langlookup|Probably drizzle|Probably drizzle|
+langlookup|Probably freezing rain|Probably freezing rain|
+langlookup|Probably rain and or sleet|Probably rain and or sleet|
+langlookup|Probably rain and or snow|Probably rain and or snow|
+langlookup|Probably showers|Probably showers|
+langlookup|Probably sleet|Probably sleet|
+langlookup|Probably sleet and or freezing rain|Probably sleet and or freezing rain|
+langlookup|Probably sleet and or mixture|Probably sleet and or mixture|
+langlookup|Probably sleet and or snow|Probably sleet and or snow|
+langlookup|Probably snow|Probably snow|
+langlookup|Rain Shower|Rain Shower|
+langlookup|Rain and Sleet|Rain and Sleet|
+langlookup|Rain and Snow|Rain and Snow|
+langlookup|Rain and or sleet|Rain and Sleet|
+langlookup|Rain showers|Rain showers|
+langlookup|Scattered Showers|Scattered Showers|
+langlookup|Scattered Snow Showers|Scattered Snow Showers|
+langlookup|Scattered Thunderstorms|Scattered Thunderstorms|
+langlookup|Scattered frost|Scattered frost|
+langlookup|Showers|Showers|
+langlookup|Showers Early|Showers Early|
+langlookup|Showers Nearby|Showers Nearby|
+langlookup|Showers in the Vicinity|Showers in the Vicinity|
+langlookup|Sleet|Sleet|
+langlookup|Sleet and or freezing rain|Sleet and or freezing rain|
+langlookup|Sleet and or mixture|Sleet and or mixture|
+langlookup|Sleet and or snow|Sleet and or snow|
+langlookup|Sleet showers|Sleet showers|
+langlookup|Snow|Snow|
+langlookup|Snow Grains|Snow Grains|
+langlookup|Snow Showers|Snow Showers|
+langlookup|Snow Showers Late|Snow Showers Late|
+langlookup|Snow accumulation|Snow accumulation|
+langlookup|Snow and blizzards|Snow and blizzards|
+langlookup|Snow and or rain|Snow and or rain|
+langlookup|Snow flurries|Snow flurries|
+langlookup|Snow grains|Snow grains |
+langlookup|Snow showers|Snow showers|
+langlookup|Snow/Ice|Snow/Ice|
+langlookup|Snowdepth|Snowdepth|
+langlookup|Soil|Soil|
+langlookup|Sprinkles|Sprinkles|
+langlookup|Stopped snowing|Stopped snowing|
+langlookup|Sunny|Sunny|
+langlookup|Sunny with haze|Sunny with haze|
+langlookup|Thunder|Thunder|
+langlookup|Thundershowers|Thundershowers|
+langlookup|Thunderstorm|Thunderstorm|
+langlookup|Thunderstorms|Thunderstorms|
+langlookup|Thunderstorms Early|Thunderstorms Early|
+langlookup|What forecast do you want on the main page|What forecast do you want on the main page|
+langlookup|Wilsele/Leuven|Wilsele/Leuven|
+langlookup|Wind|Wind|
+langlookup|by:|by:|
+langlookup|chance|chance|
+langlookup|chance of|chance of|
+langlookup|chance of rain|chance of rain|
+langlookup|chancerain|Chance of rain|
+langlookup|chancesnow|Chance of snow|
+langlookup|clear|clear|
+langlookup|cloudy|Cloudy|
+langlookup|evening|evening|
+langlookup|ewn|ewn|
+langlookup|less than|less than|
+langlookup|morning|morning|
+langlookup|mostlycloudy|Mostly Cloudy|
+langlookup|none|none|
+langlookup|overnight|overnight|
+langlookup|partlycloudy|Partly Cloudy|
+langlookup|quantity|quantity|
+langlookup|thunderstorm|thunderstorm|
+# contact form
+langlookup|An error occured, please try again later|An error occurred, please try again later|
+langlookup|Code|Code|
+langlookup|Comments or questions are welcome|Comments or questions are welcome|
+langlookup|Email|Email|
+langlookup|Email, please type again|Email, please type again|
+langlookup|Kind regards|Kind regards|
+langlookup|Message|Message|
+langlookup|Name|Name|
+langlookup|Send me a copy|Send me a copy|
+langlookup|Subject|Subject|
+langlookup|Your message is sent, we will react swiftly|Your message is sent, we will react swiftly|
+langlookup|clear fields|clear fields|
+langlookup|e-mail addresses should be equal|e-mail addresses should be equal|
+langlookup|incorrect|incorrect|
+langlookup|required|required|
+langlookup|submit|submit|
+# customize
+langlookup|, giving us permission to store a cookie.|, giving us permission to store a cookie.|
+langlookup|160px header  with pictures|160px header  with pictures|
+langlookup|Adept to the weatherconditions|Adept to the weatherconditions|
+langlookup|After setting your preferences, you can click on|After setting your preferences, you can click on|
+langlookup|Always one colour and style|Always one colour and style|
+langlookup|Automatically adept coulors and backgrounds|Automatically adept coulors and backgrounds|
+langlookup|Celcius|Celcius|
+langlookup|Choose a language|Choose a language|
+langlookup|Customize|Customize|
+langlookup|Customize the appearence of this site|Customize the appearence of this site|
+langlookup|Do not want that|Do not want that|
+langlookup|Fahrenheit|Fahrenheit|
+langlookup|Home page|Home page|
+langlookup|Horizontal below header|Horizontal below header|
+langlookup|If you click on|If you click on|
+langlookup|Like nearly all websites we store your preferences in a small file (cookie) in the browser on your PC. On a subsequent visit, you do not have to set your preferences again.|Like nearly all websites we store your preferences in a small file (cookie) in the browser on your PC. On a subsequent visit, you do not have to set your preferences again.|
+langlookup|Low 80px header, text only|Low 80px header, text only|
+langlookup|Reset to website defaults|Reset to website defaults|
+langlookup|Save your changes|Save your changes|
+langlookup|The cookie law requires us to ask you permission for the posting of this file.|The cookie law requires us to ask you permission for the posting of this file.|
+langlookup|The first page you want to see when you visit our site|The first page you want to see when you visit our site|
+langlookup|Vertical - leftside|Vertical - leftside|
+langlookup|Where do we place the menu|Where do we place the menu|
+langlookup|Which header type do you want|Which header type do you want|
+langlookup|Which unit of measurement do you prefer for|Which unit of measurement do you prefer for|
+langlookup|hPa|hPa|
+langlookup|in|in|
+langlookup|inHg|inHg|
+langlookup|kts|kts|
+langlookup|mb|mb|
+langlookup|mph|mph|
+langlookup|pressure|pressure|
+langlookup|rain|rain|
+langlookup|windspeed|windspeed|
+langlookup|you go back to the starting page without storing your preferences for the next visit.|you go back to the starting page without storing your preferences for the next visit.|
+# days of the week long
+langlookup|Friday|Friday|
+langlookup|Monday|Monday|
+langlookup|Saturday|Saturday|
+langlookup|Sunday|Sunday|
+langlookup|Thursday|Thursday|
+langlookup|Tuesday|Tuesday|
+langlookup|Wednesday|Wednesday|
+# days of the week short
+langlookup|Fri|Fri|
+langlookup|Mon|Mon|
+langlookup|Sat|Sat|
+langlookup|Sun|Sun|
+langlookup|Thu|Thu|
+langlookup|Tue|Tue|
+langlookup|Wed|Wed|
+# footer
+langlookup|Bookmark Page|Bookmark Page|
+langlookup|Contact Us|Contact Us|
+langlookup|Never base important decisions on this or any weather information obtained from the Internet|Never base important decisions on this or any weather information obtained from the Internet|
+langlookup|Original script by|Script developed by|
+langlookup|Scripts from|Scripts from|
+langlookup|Top|Top|
+langlookup|Valid|Valid|
+langlookup|Weather program|Weather program|
+langlookup|user(s) online|user(s) online|
+# forecast terms
+langlookup|48 hour details|48 hour details|
+langlookup|48 hours details|48 hours details|
+langlookup|Amount|Amount|
+langlookup|Amount of rain|Amount of rain|
+langlookup|Chance of Snow|Chance of Snow|
+langlookup|Chance of Thunder|Chance of Thunder|
+langlookup|Cloud|Cloud|
+langlookup|Cloud cover|Cloud cover|
+langlookup|Current weather|Current weather|
+langlookup|Daylength|Day Length|
+langlookup|Description|Description|
+langlookup|Forecast by 3 hour intervals|Forecast by 3 hour intervals|
+langlookup|Forecast by 6 hour intervals|Forecast by 6 hour intervals|
+langlookup|Forecast generated|Forecast generated:|
+langlookup|Graph|Graph|
+langlookup|Grass and soil forecast|Grass and soil|
+langlookup|Grass temperature|Grass<br />temperature|
+langlookup|Het Weer Actueel|Het Weer Actueel|
+langlookup|MetNoForecast.|Weather forecasts for|
+langlookup|Next update|Next update|
+langlookup|UV forecast courtesy of and Copyright &copy; KNMI/ESA (http://www.temis.nl/). Used with permission.|UV forecast courtesy of and Copyright &copy; KNMI/ESA (http://www.temis.nl/). Used with permission.|
+langlookup|WXSIM Hourly forecast for:|WXSIM Hourly forecast for:|
+langlookup|afternoon|afternoon|
+langlookup|and|and|
+langlookup|barometer|barometer|
+langlookup|chance of Snow|Chance of snow|
+langlookup|chance of Thunder|chance of Thunder|
+langlookup|date|date|
+langlookup|day forecast for|day forecast for|
+langlookup|day graphical forecast for|day graphical forecast for|
+langlookup|direction|direction|
+langlookup|for this station|for this station|
+langlookup|from the|from the|
+langlookup|icon|icon|
+langlookup|km/h|km/h|
+langlookup|less|less|
+langlookup|none expected|none expected|
+langlookup|period|period|
+langlookup|precipitation|precipitation|
+langlookup|probability|probability|
+langlookup|shifting|shifting|
+langlookup|speed|speed|
+langlookup|temperature|temperature|
+langlookup|this station|this station|
+langlookup|to|to|
+langlookup|weather forecast|weather forecast|
+langlookup|wind|wind|
+langlookup|wsWxsimForecast.|Our forecast for|
+# graphs
+langlookup|All-in-One|All-in-One|
+langlookup|Graphs generated by|Graphs generated by|
+langlookup|Heat Index|Heat Index|
+langlookup|Last 24 Hours|Last 24 Hours|
+langlookup|Last 72 Hours|Last 72 Hours|
+langlookup|Month to Date|Month to Date|
+langlookup|Move the mouse horizontally over the graph and the different values will be displayed|Move the mouse horizontally over the graph and the different values will be displayed|
+langlookup|Weather Trend Graphs|Weather Trend Graphs|
+langlookup|last three days|last three days|
+# heat words
+langlookup|Cold|Cold|
+langlookup|Comfortable|Comfortable|
+langlookup|Cool|Cool|
+langlookup|Extreme Cold|Extreme Cold|
+langlookup|Extreme Heat Caution|Extreme Heat Caution|
+langlookup|Extreme Heat Danger|Extreme Heat Danger|
+langlookup|Extremely Hot|Extremely Hot|
+langlookup|Heat Danger|Heat Danger|
+langlookup|Hot|Hot|
+langlookup|Uncomfortably Cold|Uncomfortably Cold|
+langlookup|Uncomfortably Hot|Uncomfortably Hot|
+langlookup|Unknown|Unknown|
+langlookup|Very Cold|Very Cold|
+langlookup|Warm|Warm|
+# hwa weather maps
+langlookup|Click on a map to get a pop-up with a larger image|Click on a map to get a pop-up with a larger image|
+langlookup|HWA weather maps|HWA weather maps|
+langlookup|The South-East of Belgium remains light gray, as no weather stations are nearby.|The South-East of Belgium remains light gray, as no weather stations are nearby.     Chapter: hwa weather maps|
+langlookup|The map with the actual  windspeed (10 minute average) is constructed 2 times per hour from the current data from all weather stations, provided that the data is less than 1 hour old.|The map with the actual windspeed (10 minute average) is constructed 2 times per hour from the current data from all weather stations, provided that the data is less than 1 hour old.|
+langlookup|The map with the current temperatures is generated  every 10 minutes from the current data from all weather stations, provided that the data is less than 1 hour old.|The map with the current temperatures is generated every 10 minutes from the current data from all weather stations, provided that the data is less than 1 hour old. |
+langlookup|The second map shows the precipitation that has fallen today until the time stated on the map.|The second map shows the precipitation that has fallen today until the time stated on the map.     Chapter: hwa weather maps|
+langlookup|Weather maps|Weather maps|
+langlookup|Weather maps provided by|Weather maps provided by|
+# links
+langlookup|Personal Weather Station Networks|Personal Weather Station Networks|
+langlookup|Separate page with extra info|Separate page with extra info|
+langlookup|Weather Education|Weather Education|
+langlookup|Weather Station Software|Weather Station Software|
+langlookup|Weather Website PHP Scripts|Weather Website PHP Scripts|
+langlookup|Weather forums|Weather forums|
+# menu items
+langlookup|About|About|
+langlookup|Actual weather|Actual weather|
+langlookup|Advisories|Advisories|
+langlookup|Air Quality|Air Quality|
+langlookup|Air Quality BE|Air Quality BE|
+langlookup|Air Quality NL|Air Quality NL|
+langlookup|Air Quality fct|Air Quality fct|
+langlookup|Air Quality and warnings by Belgian IRCEL/CELINE|Air Quality and warnings by Belgian IRCEL/CELINE|
+langlookup|Air Quality and warnings by Dutch RIVM|Air Quality and warnings by Dutch RIVM|
+langlookup|Airport weather|Airport weather|
+langlookup|Airport weather v3|Airport weather v3|
+langlookup|Airplane radar|Airplane radar|
+langlookup|All-in-One graph last 3 days|All-in-One graph last 3 days|
+langlookup|All-in-One graph live|All-in-One graph live|
+langlookup|Almanac|Almanac|
+langlookup|Another home page|Another home page|
+langlookup|Benelux|Benelux|
+langlookup|Benelux Weather Network|Benelux Weather Network|
+langlookup|Buoys and other weather mesuring devices at sea|Buoys and other weather measuring devices at sea|
+langlookup|CWOP Data Check|CWOP Data Check|
+langlookup|CWOP Stats|CWOP Stats|
+langlookup|Click on image for the blitzortung.org site with a lot of extra information|Click on image for the blitzortung.org site with a lot of extra information|
+langlookup|Click on image for the meteox site with a lot of extra information|Click on image for the meteox site with a lot of extra information|
+langlookup|Clientraw|Clientraw|
+langlookup|Cloud Radar|Cloud Radar|
+langlookup|Cloud Radar by sat24.com|Cloud Radar by sat24.com|
+langlookup|Configure|Configure|
+langlookup|Contact|Contact|
+langlookup|Contact page with CATCHA|Contact page with CATCHA|
+langlookup|console|Console|
+langlookup|Cumulus Tags|Cumulus Tags|
+langlookup|Data provided by|Data provided by|
+langlookup|Demo extra pages|Demo extra pages|
+langlookup|Development|Development|
+langlookup|Earthquake activity|Earthquake activity|
+langlookup|example new page|example new page|
+langlookup|EWN weather maps|EWN weather maps|
+langlookup|EWN forecast|EWN forecast|
+langlookup|Forecast &amp; Advisories|Forecast & Advisories|
+langlookup|Generate files|Generate files|
+langlookup|Global Station Map of Affiliated Weather Networks|Global Station Map of Affiliated Weather Networks|
+langlookup|Go to our mobile site|Go to our mobile site|
+langlookup|Hhistory / almanac|History / almanac|
+langlookup|Inspect uploads & settings|Inspect uploads & settings|
+langlookup|HWA forecast details|HWA forecast details|
+langlookup|Home|Home|
+langlookup|Home Page|Home Page|
+langlookup|Icons|Icons|
+langlookup|Icons Used|Icons used|
+langlookup|IconsUsed|Icons used|
+langlookup|Information from NOAA Space Weather Prediction Center|Information from NOAA Space Weather Prediction Center|
+langlookup|KNMI verwachting|Dutch KNMI forecast|
+langlookup|Links|Links|
+langlookup|Live Data|Live Data|
+langlookup|Live Data by Meteoware|Live Data by Meteoware|
+langlookup|Local Weather Exchange Stations|Local Weather Exchange Stations|
+langlookup|Maps|Maps|
+langlookup|Marine radar|Marine radar|
+langlookup|Mesonet|Mesonet|
+langlookup|MeteoHub/plug|MeteoHub/plug|
+langlookup|Meteoalarm test|Meteoalarm test|
+langlookup|Meteohub|Meteohub|
+langlookup|Meteohub Docs|Meteohub Docs|
+langlookup|Meteohub Docs / Weather variables|Meteohub Docs / Weather variables|
+langlookup|Meteohub Tags|Meteohub Tags|
+langlookup|Meteohub/plug Live Data|Meteohub/plug Live Data|
+langlookup|Meteoware Live|Meteoware Live|
+langlookup|MetNo forecast|MetNo forecast|
+langlookup|Mobile site|Mobile site|
+langlookup|More advisories|More advisories|
+langlookup|More Forecasts|More Forecasts|
+langlookup|More radar / maps|More radar / maps|
+langlookup|Nearby Buoys|Nearby Buoys|
+langlookup|noaa extensive forecast|noaa extensive forecast|
+langlookup|noaa 1 page forecast|noaa 1 page forecast|
+langlookup|North Sea and Atlantic Ocean weather buoys and platforms|North Sea and Atlantic Ocean weather buoys and platforms|
+langlookup|Other Stuff|Other Stuff|
+langlookup|Our own forecast|Our own forecast|
+langlookup|Partnerships|Partnerships|
+langlookup|Precipitation HWA and Meteox|Rainfall Maps by HWA and Meteox|
+langlookup|Precipitation Radar|Precipitation Radar|
+langlookup|Precipitation Radar forecast 3 hours|Precipitation Radar forecast 3 hours|
+langlookup|Precipitation Radar past 2 &amp; coming 3 hours|Precipitation Radar past 2 &amp; coming 3 hours|
+langlookup|Precipitation by Meteox.com|Precipitation by Meteox.com|
+langlookup|Regional|Regional|
+langlookup|Regional Weather Network|Regional Weather Network|
+langlookup|Soil moisture and temperature|Soil moisture and temperature|
+langlookup|Soil test|Soil and Moisture|
+langlookup|Space information|Space information|
+langlookup|SPC Severe weather|SPC Severe weather|
+langlookup|SPC Sounding|SPC Sounding|
+langlookup|Start page|Start page|
+langlookup|Station Graphs seperate|Station Graphs separate|
+langlookup|Status|Status|
+langlookup|Status of weather software|Status of weather software|
+langlookup|Steelseries|Steelseries|
+langlookup|Sun activity|Sun activity|
+langlookup|Sun/Moon Almanac|Sun/Moon Almanac|
+langlookup|Sun/Moon/Earth|Sun/Moon/Earth|
+langlookup|suncalc|Suncalc|
+langlookup|Sun  and moon|Sun  and moon|
+langlookup|Temperature Worldwide|Temperature Worldwide|
+langlookup|Temperature Worldwide in seperate window|Temperature Worldwide in separate window|
+langlookup|Thunderstorms by blitzortung.org|Thunderstorms by blitzortung.org|
+langlookup|Translate|Translate|
+langlookup|Trend Graphs|Trend Graphs|
+langlookup|Trends, Sun/Moon, Earthquakes|Trends, Sun/Moon, Earthquakes|
+langlookup|UV Index Forecast|UV Index Forecast|
+langlookup|UV forecast and warnings by KNMI|UV forecast and warnings by KNMI|
+langlookup|Useful Links|Useful Links|
+langlookup|WD Live|WD Live|
+langlookup|WD Live Data|WD Live Data|
+langlookup|WD Live Data by Meteohub|WD Live Data by Meteohub|
+langlookup|WD Live Meteoplug|WD Live Meteoplug|
+langlookup|WD-Live Data|WD-Live Data|
+langlookup|Weather History|Weather History|
+langlookup|Weather reports|Weather reports|
+langlookup|wind map|wind map|
+langlookup|World|World|
+langlookup|WU History Graphs|WU History Graphs|
+langlookup|WU live|WU live|
+langlookup|WU History Txt|WU History Txt|
+langlookup|WU forecast|WU forecast|
+langlookup|WU stations|WU stations|
+langlookup|WXSIM Forecast|WXSIM Forecast|
+langlookup|WXSIM conditions used|WXSIM conditions used|
+langlookup|WXSIM field names|WXSIM field names|
+langlookup|WXSIM hourly forecast|WXSIM hourly forecast|
+langlookup|WXSim forecast|WXSim forecast|
+langlookup|Watches/Warnings/Advisories|Watches/Warnings/Advisories|
+langlookup|Weather Display Tags|Weather Display Tags|
+langlookup|Weather Station Info|Weather Station Info|
+langlookup|Weather Station Status|Weather Station Status|
+langlookup|Weather Trends|Weather Trends|
+langlookup|Weather Trends and high lows this year|Weather Trends and high lows this year|
+langlookup|Weather Underground History page Text|Weather Underground History page Text|
+langlookup|Weather alarms by European MeteoAlarm|Weather alarms by European MeteoAlarm|
+langlookup|Weather graphs last 2 days|Weather graphs last 2 days|
+langlookup|Weather graphs last 3 days|Weather graphs last 3 days|
+langlookup|Weather outlook|Weather outlook|
+langlookup|Weather outlook by HetWeerAktueel|Weather outlook by HetWeerAktueel|
+langlookup|Weather outlook by World Weather|Weather outlook by World Weather|
+langlookup|Weather outlook by Wunderground|Weather outlook by Wunderground|
+langlookup|Weather outlook by YR.NO|Weather outlook by YR.NO|
+langlookup|Weather outlook by Yahoo|Weather outlook by Yahoo|
+langlookup|Weatherconditions nearby airports|Weather Conditions nearby airports|
+langlookup|Website Map|Website Map|
+langlookup|Who is Online|Who is Online|
+langlookup|WhoIsOnline|WhoIsOnline|
+langlookup|World Weather forecast details|World Weather forecast details|
+langlookup|World map|World map|
+langlookup|World Weather forecast|World Weather forecast|
+langlookup|YRno forecast details|YRno forecast details|
+langlookup|YRno forecast|YRno forecast|
+langlookup|Yahoo forecast details|Yahoo forecast details|
+langlookup|Yahoo forecast|Yahoo forecast|
+langlookup|Yr.no 7 day forecast for|Yr.no 7 day forecast for|
+langlookup|by WD live|by WD live|
+langlookup|day forecast for this station|day forecast for this station|
+langlookup|from MeteoHub/MeteoPlug|from MeteoHub/MeteoPlug|
+langlookup|iPhone|iPhone|
+langlookup|Zambretti forecast|Zambretti forecast|
+# mesonet world map
+langlookup|About the Global Map|About the Global Map|
+langlookup|Affiliated Regional Weather Networks|Affiliated Regional Weather Networks|
+langlookup|Nets|Nets|
+langlookup|Stations in|Stations in|
+langlookup|Weather|Weather|
+langlookup|Weather, Lightning|Weather, Lightning|
+langlookup|Weather, Lightning, WebCam|Weather, Lightning, WebCam|
+langlookup|Weather, WebCam|Weather, WebCam|
+langlookup|Weather, WebCam, Lightning|Weather, WebCam, Lightning|
+langlookup|stations in affiliated networks worldwide as of|stations in affiliated networks worldwide as of|
+# metar
+langlookup|Cloud details|Cloud details|
+langlookup|Distance from station|Distance from station|
+langlookup|Nearby METAR Reports|Nearby METAR Reports|
+langlookup|Updated|Updated|
+langlookup|Visibility|Visibility|
+langlookup|Wind Chill|Wind Chill|
+langlookup|greater than|greater than|
+langlookup|varies|varies|
+# mobile site
+langlookup|Current weather for|Current weather for|
+# moisture
+langlookup|ERROR no reading|ERROR no reading|
+# month names long
+langlookup|April|April|
+langlookup|August|August|
+langlookup|December|December|
+langlookup|February|February|
+langlookup|January|January|
+langlookup|July|July|
+langlookup|June|June|
+langlookup|March|March|
+langlookup|November|November|
+langlookup|October|October|
+langlookup|September|September|
+# month names short
+langlookup|Apr|Apr|
+langlookup|Aug|Aug|
+langlookup|Dec|Dec|
+langlookup|Feb|Feb|
+langlookup|Jan|Jan|
+langlookup|Jul|Jul|
+langlookup|Jun|Jun|
+langlookup|Mar|Mar|
+langlookup|May|May|
+langlookup|Nov|Nov|
+langlookup|Oct|Oct|
+langlookup|Sep|Sep|
+# moon words
+langlookup|First Quarter|First Quarter|
+langlookup|First Quarter Moon|First Quarter Moon|
+langlookup|Full Moon|Full Moon|
+langlookup|Last Quarter|Last Quarter|
+langlookup|Last Quarter Moon|Last Quarter Moon|
+langlookup|Moon phases|Moon phases|
+langlookup|New Moon|New Moon|
+langlookup|Waning Crescent|Waning Crescent|
+langlookup|Waning Crescent Moon|Waning Crescent Moon|
+langlookup|Waning Gibbous|Waning Gibbous|
+langlookup|Waning Gibbous Moon|Waning Gibbous Moon|
+langlookup|Waxing Crescent|Waxing Crescent|
+langlookup|Waxing Crescent Moon|Waxing Crescent Moon|
+langlookup|Waxing Gibbous|Waxing Gibbous|
+langlookup|Waxing Gibbous Moon|Waxing Gibbous Moon|
+# quakes
+langlookup|Adapted for the template by|Adapted for the template by|
+langlookup|Cluster - click to expand details|Cluster - click to expand details|
+langlookup|Distance to <br />Epicenter|Distance to <br />Epicenter|
+langlookup|Distance to Epicenter|Distance to Epicenter|
+langlookup|Distance to epicenter|Distance to epicenter|
+langlookup|Earthquakes|Earthquakes|
+langlookup|Earthquakes in the past 7 days|Earthquakes in the past 7 days|
+langlookup|Earthquakes in the past 7 days of magnitude|Earthquakes in the past 7 days of magnitude|
+langlookup|Earthquakes of magnitude|Earthquakes of magnitude|
+langlookup|Earthquakes worldwide|Earthquakes worldwide|
+langlookup|Enable JavaScript to view the Google Map.|Enable JavaScript to view the Google Map.|
+langlookup|Epicenter Near|Epicenter Near|
+langlookup|Link|Link|
+langlookup|Link to<br />Map|Link to<br />Map|
+langlookup|Local Time|Local Time|
+langlookup|Magnitude|Magnitude|
+langlookup|Map and data courtesy of|Map and data courtesy of|
+langlookup|No earthquakes of magnitude|No earthquakes of magnitude|
+langlookup|Note: Click on column heading marked with|Note: Click on column heading marked with|
+langlookup|Originele script ontwikkeld door|Script developed by|
+langlookup|United States Geological Survey|United States Geological Survey|
+langlookup|Update time|Update time|
+langlookup|Your weatherstationName|Your weatherstationName|
+langlookup|earthquakes found. Click on location or map links for more details from the|earthquakes found. Click on location or map links for more details from the|
+langlookup|km|km|
+langlookup|km reported in last 7 days|km reported in last 7 days|
+langlookup|map|map|
+langlookup|or greater within|or greater within|
+langlookup|reported in last 7 days|reported in last 7 days|
+langlookup|to sort column contents.|to sort column contents.|
+# side gadgets text
+langlookup|Equipment we use|Equipment we use|
+langlookup|Our weatherpage on|Our weather page on|
+langlookup|Provider|Provider|
+langlookup|Visit our other weathersites|Visit our other weather sites|
+langlookup|Weatherprogram|Weather-program|
+langlookup|Weatherserver|Weather-server|
+langlookup|Weatherstation|Weather-station|
+langlookup|Webcam|Webcam|
+langlookup|You find our weatherinfo also at|You find our weather info also at|
+# soil moisture and temperature
+langlookup|Actual|Actual|
+langlookup|Adequate|Adequate|
+langlookup|All time|All time|
+langlookup|Background information|Background information|
+langlookup|Buttton text|Buttton text|
+langlookup|Current Planting & Watering Guide|Current Planting & Watering Guide|
+langlookup|Dangerous Dry|Dangerous Dry|
+langlookup|Date|Date|
+langlookup|Depth|Depth|
+langlookup|Explanation|Explanation|
+langlookup|Explanation Soil condition|Explanation Soil condition|
+langlookup|Grow conditions|Grow conditions|
+langlookup|Irrigate at the upper end of this range in cool humid climates and with higher water-holding capacity soils.|Irrigate at the upper end of this range in cool humid climates and with higher water-holding capacity soils.|
+langlookup|Irrigation desired|Irrigation desired|
+langlookup|Irrigation needed|Irrigation needed|
+langlookup|Moisture|Moisture|
+langlookup|Optimal growth|Optimal growth|
+langlookup|Record Soil Temperatures|Record Soil Temperatures|
+langlookup|Saturated|Saturated|
+langlookup|Saturated Soil. Occurs for a day or two after irrigation.|Saturated Soil. Occurs for a day or two after irrigation.|
+langlookup|Soil is adequately wet (except coarse sands which are drying out at this range)|Soil is adequately wet (except coarse sands which are drying out at this range)|
+langlookup|Soil is becoming dangerously dry for maximum production.|Soil is becoming dangerously dry for maximum production.|
+langlookup|This month|This month|
+langlookup|This year|This year|
+langlookup|Usual range to irrigate heavy clay soils|Usual range to irrigate heavy clay soils|
+langlookup|Usual range to irrigate or water (except heavy clay soils).|Usual range to irrigate or water (except heavy clay soils).|
+langlookup|min/max|min/max|
+# status
+langlookup|Age|Age|
+langlookup|Component|Component|
+langlookup|Current status of the weather systems used in the operation of this website|Current status of the weather systems used in the operation of this website|
+langlookup|Daily Statistics|Daily Statistics|
+langlookup|FTP|FTP|
+langlookup|It was last started|It was last started|
+langlookup|Latest update time as of|Latest update time as of|
+langlookup|NOT Current|NOT Current|
+langlookup|Station Status|Station Status|
+langlookup|Station system is up for|Station system is up for|
+langlookup|This software runs on a|This software runs on a|
+langlookup|This station uses|This station uses|
+langlookup|This website uses|This website uses|
+langlookup|computer|computer|
+langlookup|for weather conditions reporting|for weather conditions reporting|
+langlookup|graphs|graphs|
+langlookup|h:m:s|h:m:s|
+langlookup|realtime|realtime|
+langlookup|software|software|
+langlookup|weather data|weather data|
+langlookup|weatherfiles|weatherfiles|
+# tags and values
+langlookup|For instance: First click on tag-heading will sort the table descending, second click ascending on tag|For instance: First click on tag-heading will sort the table descending, second click ascending on tag|
+langlookup|Tags and values used within this template set|Tags and values used within this template set|
+langlookup|Weather Display field|Weather Display field|
+langlookup|You can sort the table on the first two colomns by clicking in the corresponding heading|You can sort the table on the first two colomns by clicking in the corresponding heading|
+langlookup|You can sort the table on the values in the columns by clicking in the corresponding heading|You can sort the table on the values in the columns by clicking in the corresponding heading|
+langlookup|tag|tag|
+# temperature
+langlookup|Deep freeze|Deep freeze|
+langlookup|Frost line|Frost line|
+langlookup|Ideal growth|Ideal growth|
+langlookup|Minimum growth|Minimum growth|
+langlookup|Too cold to plant|Too cold to plant|
+# to be sorted
+langlookup|Colour and style|Colour and style|
+langlookup|Dewpoint|Dew Point|
+langlookup|Dry|Dry|
+langlookup|Hour|Hour|
+langlookup|Icon|Icon|
+langlookup|Legenda|Legenda|
+langlookup|Leuven / BelgiÎ|Leuven / BelgiÎ|
+langlookup|Max/Min Temperature|Max/Min Temperature|
+langlookup|Maximum temperature|Maximum temperature|
+langlookup|Minimum temperature|Minimum temperature|
+langlookup|NOAA reports|NOAA reports|
+langlookup|No precipation|No precipitation|
+langlookup|Our weatherstation|Our weatherstation|
+langlookup|Overview|Overview|
+langlookup|Period|Period|
+langlookup|Personal Weatherstation|Personal Weatherstation|
+langlookup|PoP|Chance of precipitation|
+langlookup|Precipation|Precipitation|
+langlookup|Sol|Sun|
+langlookup|Surface temperature|Surface temperature|
+langlookup|Tonight|Tonight|
+langlookup|UV|UV|
+langlookup|Wind direction and force|Wind direction and force|
+langlookup|Windgust|Wind Gust|
+langlookup|Your City|Your City|
+langlookup|amount of rain|amount of rain|
+langlookup|and chance|and chance|
+langlookup|and force|and force|
+langlookup|day|day|
+langlookup|daytime|daytime|
+langlookup|max/min|max/min|
+langlookup|meteohub field|meteohub field|
+langlookup|more or less|more or less|
+langlookup|night|night|
+langlookup|nighttime|nighttime|
+langlookup|online for|online for|
+langlookup|this|this|
+langlookup|this current week|this current week|
+langlookup|thunder|thunder|
+langlookup|who|who|
+langlookup|wind direction|wind direction|
+langlookup|yourArea|yourArea|
+# trends
+langlookup|AGO|AGO|
+langlookup|BAROMETER LOWS|BAROMETER LOWS|
+langlookup|CURRENT|CURRENT|
+langlookup|Current|Current|
+langlookup|DIR|DIR|
+langlookup|EVAPOTRANSPIRATION|EVAPOTRANSPIRATION|
+langlookup|GUST|GUST|
+langlookup|Gust/hr|Gust/hr|
+langlookup|HUMIDITY|HUMIDITY|
+langlookup|MINUTES|MINUTES|
+langlookup|Month|Month|
+langlookup|Now|Now|
+langlookup|PRESSURE|PRESSURE|
+langlookup|RAIN|RAIN|
+langlookup|RAIN HISTORY|RAIN HISTORY|
+langlookup|Records and Stats|Records and Stats|
+langlookup|SOLAR HIGHS|SOLAR HIGHS|
+langlookup|SPEED|SPEED|
+langlookup|TEMP|TEMP|
+langlookup|TEMPERATURE HIGHS|TEMPERATURE HIGHS|
+langlookup|TEMPERATURE LOWS|TEMPERATURE LOWS|
+langlookup|TIME|TIME|
+langlookup|Trends as of|Trends as of|
+langlookup|UV HIGHS|UV HIGHS|
+langlookup|WIND|WIND|
+langlookup|WIND CHILL LOWS|WIND CHILL LOWS|
+langlookup|WIND DIR|WIND DIR|
+langlookup|WIND GUST|WIND GUST|
+langlookup|WIND GUST HIGHS|WIND GUST HIGHS|
+langlookup|WIND SPEED|WIND SPEED|
+langlookup|Week|Week|
+langlookup|Wind Data|Wind Data|
+langlookup|Year|Year|
+langlookup|day since last rain|day since last rain|
+langlookup|days|days|
+langlookup|days since last rain|days since last rain|
+langlookup|last hour|last hour|
+langlookup|last month|last month|
+langlookup|more than 30|more than 30|
+langlookup|on|on|
+langlookup|over last 7 days|over last 7 days|
+langlookup|rain days this month|rain days this month|
+langlookup|rain days this year|rain days this year|
+langlookup|this month|this month|
+# uv words
+langlookup|Extreme|Extreme|
+langlookup|High|High|
+langlookup|Low|Low|
+langlookup|Medium|Medium|
+langlookup|None|None|
+langlookup|Very&nbsp;High|Very†High|
+# vantage
+langlookup|Clearing, cooler and windy|Clearing, cooler and windy|
+langlookup|Forecast requires 3 hours of recent data|Forecast requires 3 hours of recent data|
+langlookup|Increasing clouds and cooler|Increasing clouds and cooler|
+langlookup|Increasing clouds and warmer|Increasing clouds and warmer|
+langlookup|Increasing clouds with little temperature change|Increasing clouds with little temperature change|
+langlookup|Increasing winds|Increasing winds|
+langlookup|Mostly clear and cooler|Mostly clear and cooler|
+langlookup|Mostly clear and warmer|Mostly clear and warmer|
+langlookup|Mostly clear for 12 hours with little temperature change|Mostly clear for 12 hours with little temperature change|
+langlookup|Mostly clear for 12 to 24 hours and cooler|Mostly clear for 12 to 24 hours and cooler|
+langlookup|Mostly clear with little temperature change|Mostly clear with little temperature change|
+langlookup|Mostly cloudy and cooler|Mostly cloudy and cooler|
+langlookup|Mostly cloudy with little temperature change|Mostly cloudy with little temperature change|
+langlookup|Partly cloudy and cooler|Partly cloudy and cooler|
+langlookup|Partly cloudy with little temp. change|Partly cloudy with little temp. change|
+langlookup|Partly cloudy with little temperature change|Partly cloudy with little temperature change|
+langlookup|Possible wind shift to the W, NW, or N|Possible wind shift to the W, NW, or N|
+langlookup|Possible wind shift to the w,nw, or n|Possible wind shift to the w,nw, or n|
+langlookup|Precipitation continuing|Precipitation continuing|
+langlookup|Precipitation continuing, possibly heavy at times|Precipitation continuing, possibly heavy at times|
+langlookup|Precipitation ending within 12 hours|Precipitation ending within 12 hours|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the w,nw, or n|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|
+langlookup|Precipitation ending within 6 hours|Precipitation ending within 6 hours|
+langlookup|Precipitation likely|Precipitation likely|
+langlookup|Precipitation possible and windy within 6 hours|Precipitation possible and windy within 6 hours|
+langlookup|Precipitation possible within 12 hours|Precipitation possible within 12 hours|
+langlookup|Precipitation possible within 12 hours, possibly heavy at times|Precipitation possible within 12 hours, possibly heavy at times|
+langlookup|Precipitation possible within 12 to 24 hours|Precipitation possible within 12 to 24 hours|
+langlookup|Precipitation possible within 12 to 24 hours Windy|Precipitation possible within 12 to 24 hours. Windy.|
+langlookup|Precipitation possible within 24 hours|Precipitation possible within 12 to 24 hours|
+langlookup|Precipitation possible within 24 to 48 hours|Precipitation possible within 24 to 48 hours|
+langlookup|Precipitation possible within 6 hours|Precipitation possible within 6 hours|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the w,nw, or n|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|
+langlookup|Precipitation possible within 6 to 12 hours windy|Precipitation possible within 6 to 12 hours windy|
+langlookup|Precipitation possible within 6 to 12 hours, possibly heavy at times|Precipitation possible within 6 to 12 hours, possibly heavy at times|
+langlookup|Precipitation possibly heavy at times and ending within 12 hrs|Precipitation possibly heavy at times and ending within 12 hrs|
+langlookup|Windy|Windy|
+langlookup|Windy with possible wind shift to the W  NW  Or N|Windy with possible wind shift to the w, nw, or n|
+langlookup|Windy with possible wind shift to the W, NW, or N|Windy with possible wind shift to the w, nw, or n|
+langlookup|Windy with possible wind shift to the w, nw, or n|Windy with possible wind shift to the w, nw, or n|
+# warnings
+langlookup|Actual Air quality|Actual Air quality|
+langlookup|Click here to get more details.|Click here to get more details.|
+langlookup|Nitrogen Dioxyde|Nitrogen Dioxyde|
+langlookup|Ozone|Ozone|
+langlookup|Particulate Matter|Particulate Matter|
+langlookup|Provided by|Provided by|
+langlookup|Sulphur Dioxyde|Sulphur Dioxyde|
+langlookup|There are weatherwarnings from METEOalarm.EU|There are weather warnings from METEOalarm.EU|
+langlookup|There are no active watches, warnings or advisories|There are no active watches, warnings or advisories|
+langlookup|from|from|
+langlookup|level|level|
+langlookup|no warnings|There are no warnings|
+langlookup|until|until|
+langlookup|warning for|warning for|
+langlookup|wrnAvalanches|Avalanches|
+langlookup|wrnCoastal Event|Coastal Event|
+langlookup|wrnExtreme high temperature|Extreme high temperature|
+langlookup|wrnExtreme low temperature|Extreme low temperature|
+langlookup|wrnFog|Fog|
+langlookup|wrnForestfire|Forestfire|
+langlookup|wrnGreenTxt|The weather provides no immediate danger.|
+langlookup|wrnOrange|Orange|
+langlookup|wrnOrangeTxt|Potential danger to anyone|
+langlookup|wrnRain|Rain|
+langlookup|wrnRed|Red|
+langlookup|wrnRedTxt|The weather is very dangerous.|
+langlookup|wrnSnow/Ice|Snow/Ice|
+langlookup|wrnThunderstorms|Thunderstorms|
+langlookup|wrnWind|Wind|
+langlookup|wrnYellow|Yellow|
+langlookup|wrnYellowTxt|The weather is potentially dangerous for outside activities.|
+langlookup|wrnMultiple_warnings_in_effect|Multiple warnings in effect|
+langlookup|wrnCheck_here|Please check here|
+# wind direction compass headings
+langlookup|E|E|
+langlookup|ENE|ENE|
+langlookup|ESE|ESE|
+langlookup|East|East|
+langlookup|N|N|
+langlookup|NE|NE|
+langlookup|NNE|NNE|
+langlookup|NNW|NNW|
+langlookup|NW|NW|
+langlookup|North|North|
+langlookup|S|S|
+langlookup|SE|SE|
+langlookup|SSE|SSE|
+langlookup|SSW|SSW|
+langlookup|SW|SW|
+langlookup|South|South|
+langlookup|W|W|
+langlookup|WNW|WNW|
+langlookup|WSW|WSW|
+langlookup|West|West|
+# wu history
+langlookup|Average|Average|
+langlookup|Both|Both|
+langlookup|Comma Delimited File|Comma Delimited File|
+langlookup|Compliments of|Compliments of|
+langlookup|Conditions|Conditions|
+langlookup|Custom|Custom|
+langlookup|Custom Date Range Tabular Data|Custom Date Range Tabular Data|
+langlookup|Daily|Daily|
+langlookup|Day|Day|
+langlookup|English|English|
+langlookup|Gust Speed|Gust Speed|
+langlookup|Metric|Metric|
+langlookup|Monthly|Monthly|
+langlookup|Months Tabular Data|Months Tabular Data|
+langlookup|Next|Next|
+langlookup|Nil|Nil|
+langlookup|Precip|Precipitation|
+langlookup|Precipitation|Precipitation|
+langlookup|Pressure|Pressure|
+langlookup|Previous|Previous|
+langlookup|Rainfall Rate (Hourly)|Rainfall Rate (Hourly)|
+langlookup|Return to Current Day|Return to Current Day|
+langlookup|Return to Top|Return to Top|
+langlookup|Sea Level Pressure|Sea Level Pressure|
+langlookup|Solar|Solar|
+langlookup|Station Historical Data|Station Historical Data|
+langlookup|Summary for|Summary for|
+langlookup|Tabular Data for|Tabular Data for|
+langlookup|Temp|Temp|
+langlookup|Time|Time|
+langlookup|Units|Units|
+langlookup|View|View|
+langlookup|WXSIM hourly forecasttest|WXSIM hourly forecasttest|
+langlookup|Weekly|Weekly|
+langlookup|Weeks Tabular Data|Weeks Tabular Data|
+langlookup|Wind Gust|Wind Gust|
+langlookup|Wind Speed|Wind Speed|
+langlookup|Yearly|Yearly|
+langlookup|Years Tabular Data|Years Tabular Data|
+langlookup|ave|ave|
+langlookup|high|high|
+langlookup|low|low|
+langlookup|solar|solar|
+langlookup|sum|sum|
+# english
+langlookup|Settled fine|Settled fine|
+langlookup|Fine weather|Fine weather|
+langlookup|Becoming fine|Becoming fine|
+langlookup|Fine, becoming less settled|Fine, becoming less settled|
+langlookup|Fine, possible showers|Fine, possible showers|
+langlookup|Fairly fine, improving|Fairly fine, improving|
+langlookup|Fairly fine, possible showers early|Fairly fine, possible showers early|
+langlookup|Fairly fine, showery later|Fairly fine, showery later|
+langlookup|Showery early, improving|Showery early, improving|
+langlookup|Changeable, mending|Changeable, mending|
+langlookup|Fairly fine, showers likely|Fairly fine, showers likely|
+langlookup|Rather unsettled clearing later|Rather unsettled clearing later|
+langlookup|Unsettled, probably improving|Unsettled, probably improving|
+langlookup|Showery, bright intervals|Showery, bright intervals|
+langlookup|Showery, becoming less settled|Showery, becoming less settled|
+langlookup|Changeable, some precipitation|Changeable, some precipitation|
+langlookup|Unsettled, short fine intervals|Unsettled, short fine intervals|
+langlookup|Unsettled, precipitation later|Unsettled, precipitation later|
+langlookup|Unsettled, some precipitation|Unsettled, some precipitation|
+langlookup|Mostly very unsettled|Mostly very unsettled|
+langlookup|Occasional precipitation, worsening|Occasional precipitation, worsening|
+langlookup|Precipitation at times, very unsettled|Precipitation at times, very unsettled|
+langlookup|Precipitation at frequent intervals|Precipitation at frequent intervals|
+langlookup|Precipitation, very unsettled|Precipitation, very unsettled|
+langlookup|Stormy, may improve|Stormy, may improve|
+langlookup|Stormy, much precipitation|Stormy, much precipitation|
+# zambretti
+langlookup|Northern|Northern|
+langlookup|Southern|Southern|
+langlookup|No change|No change|
+langlookup|Forecast calculated using|Forecast based on|
+langlookup|Hemisphere|Hemisphere|
+
+langlookup|more information|more information|
+langlookup|Click image to enlarge|Click image to enlarge|
+langlookup|My webcam|My webcam|
+langlookup|Europe|Europe|
+langlookup|value range allowed|value range allowed|

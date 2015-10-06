@@ -1,0 +1,152 @@
+# langfile metno version 3.0 2014-07-29 11:00
+charset|UTF-8|
+# days of the week long
+langlookup|Sunday|Zondag|
+langlookup|Monday|Maandag|
+langlookup|Tuesday|Dinsdag|
+langlookup|Wednesday|Woensdag|
+langlookup|Thursday|Donderdag|
+langlookup|Friday|Vrijdag|
+langlookup|Saturday|Zaterdag|
+# day-parts
+langlookup|this|deze|
+langlookup|evening|avond|
+langlookup|night|nacht|
+langlookup|morning|ochtend|
+langlookup|afternoon|namiddag|
+# month names long
+langlookup|January|Januari|
+langlookup|February|Februari|
+langlookup|March|Maart|
+langlookup|April|April|
+langlookup|May|Mei|
+langlookup|June|Juni|
+langlookup|July|Juli|
+langlookup|August|Augustus|
+langlookup|September|September|
+langlookup|October|Oktober|
+langlookup|November|November|
+langlookup|December|December|
+# time created
+langlookup|Updated|Gewijzigd|
+langlookup|Next update|Volgende versie om|
+langlookup|MetNoForecast.|De weersverwachtingen voor: |
+langlookup|yourArea|yourArea|
+langlookup|by:|Opgesteld voor: |
+#  tab names
+langlookup|Graphs|grafieken|
+langlookup|Forecast by 6 hour intervals|Verwachtingen per 6 uur|
+langlookup|48 hour details|Gedetailleerde verwachtingen|
+langlookup|Forecast details|Gedetailleerde verwachtingen|
+# column headers
+langlookup|Period|Periode|
+langlookup|Forecast|Verwachting|
+langlookup|Temperature|Temperatuur|
+langlookup|Precipitation|Neerslag|
+langlookup|Wind|Wind|
+langlookup|Humidity|Vochtigheid|
+langlookup|Pressure|Luchtdruk|
+langlookup|Cloud cover|Bewolking|
+# beafort wind names
+langlookup|Calm|Kalm|
+langlookup|Fresh breeze|Vrij krachtig|
+langlookup|Gale|Stormachtig|
+langlookup|Gentle breeze|Matig|
+langlookup|Hurricane|Orkaankracht|
+langlookup|Light air|Zwak|
+langlookup|Light breeze|Zwak|
+langlookup|Moderate breeze|Matig|
+langlookup|Near gale|Hard|
+langlookup|Storm|Zware storm|
+langlookup|Strong breeze|Krachtig|
+langlookup|Strong gale|Storm|
+langlookup|Violent storm|Zeer zware storm|
+# wind direction compass headings
+langlookup|from the|vanuit|
+langlookup|E|O|
+langlookup|ENE|ONO|
+langlookup|ESE|OZO|
+langlookup|East|Oosten|
+langlookup|N|N|
+langlookup|NE|NO|
+langlookup|NNE|NNO|
+langlookup|NNW|NNW|
+langlookup|NW|NW|
+langlookup|North|Noorden|
+langlookup|S|Z|
+langlookup|SE|ZO|
+langlookup|SSE|ZZO|
+langlookup|SSW|ZZW|
+langlookup|SW|ZW|
+langlookup|South|Zuiden|
+langlookup|W|W|
+langlookup|WNW|WNW|
+langlookup|WSW|WZW|
+langlookup|West|Westen|
+# heat words
+langlookup|Cold|koud|
+langlookup|Comfortable|Comfortabel|
+langlookup|Cool|Koel|
+langlookup|Extreme Cold|Extreem Koud|
+langlookup|Extreme Heat Caution|Opletten: Extreem warm|
+langlookup|Extreme Heat Danger|Extreem gevaarlijk warm|
+langlookup|Extremely Hot|Extreem warm|
+langlookup|Heat Danger|Gevaarlijk warm|
+langlookup|Hot|Heet|
+langlookup|Uncomfortably Cold|Oncomfortabel Koud|
+langlookup|Uncomfortably Hot|Onconfortabel warm|
+langlookup|Unknown|niet gekend|
+langlookup|Very Cold|Zeer Koud|
+langlookup|Warm|Warm|
+# other
+langlookup|-|-|
+langlookup|Daylength|Dag lengte|
+# conditions  1.8
+langlookup|PARTLYCLOUD|Gedeeltelijk bewolkt|
+langlookup|LIGHTRAIN|Lichte regen|
+langlookup|SUN|Helder|
+langlookup|LIGHTCLOUD|Enkele wolken|
+langlookup|CLOUD|Bewolkt|
+langlookup|RAIN|Regen|
+langlookup|LIGHTRAINSUN|Lichte regen, onweer mogelijk|
+# conditions  1.9
+langlookup|Cloud|Bewolkt|
+langlookup|Drizzle|Miezerig|
+langlookup|DrizzleSun|Druilerige regen|
+langlookup|DrizzleThunder|Wat regen, onweer mogelijk|
+langlookup|DrizzleThunderSun|Wat regen, onweer mogelijk|
+langlookup|Fog|Mist|
+langlookup|HeavySleet|winterse omstandigheden|
+langlookup|HeavySleetSun|winterse omstandigheden|
+langlookup|HeavySleetThunder|winterse omstandigheden|
+langlookup|HeavySleetThunderSun|winterse omstandigheden|
+langlookup|HeavysnowSun|Veel sneeuw|
+langlookup|HeavySnowThunder|Veel sneeuw, onweer mogelijk|
+langlookup|HeavySnowThunderSun|Veel sneeuw, onweer mogelijk|
+langlookup|LightCloud|Enkele wolken|
+langlookup|LightRain|Lichte regen|
+langlookup|LightRainSun|Lichte regen, onweer mogelijk|
+langlookup|LightRainThunder|Lichte regen, onweer mogelijk|
+langlookup|LightRainThunderSun|Lichte regen, onweer mogelijk|
+langlookup|LightSleet|Winters weer|
+langlookup|LightSleetSun|Winters weer|
+langlookup|LightSleetThunder|Winters weer, onweer mogelijk|
+langlookup|LightSleetThunderSun|Winters weer, onweer mogelijk|
+langlookup|LightSnow|Lichte sneeuwval|
+langlookup|LightSnowSun|Lichte sneeuwval|
+langlookup|LightSnowThunder|Lichte sneeuwval, onweer mogelijk|
+langlookup|LightSnowThunderSun|Lichte sneeuwval, onweer mogelijk|
+langlookup|PartlyCloud|Gedeeltelijk bewolkt|
+langlookup|Rain|Regen|
+langlookup|RainSun|Regenbuien|
+langlookup|RainThunder|Regen, onweer mogelijk|
+langlookup|RainThunderSun|Regen, onweer mogelijk|
+langlookup|Sleet|Winterse omstandigheden|
+langlookup|SleetSun|Winterse omstandigheden|
+langlookup|SleetSunThunder|Winterse omstandigheden, onweer mogelijk|
+langlookup|SleetThunder|Winterse omstandigheden, onweer mogelijk|
+langlookup|Snow|Sneeuw|
+langlookup|SnowSun|Sneeuwval, verder helder|
+langlookup|SnowSunThunder|Sneeuwval, onweer mogelijk|
+langlookup|SnowThunder|Sneeuwval, onweer mogelijk|
+langlookup|Sun|Helder|

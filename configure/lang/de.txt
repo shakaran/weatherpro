@@ -1,0 +1,319 @@
+Passen Sie die Einstellungen für Ihre Situation
+Zwei wichtige Fragen, die richtigen Fragen jetzt wählen
+Cumulus
+consoleWD
+Davis_WL.com
+Meteobridge
+Meteohub
+Meteoplug
+VWS
+WeatherCat
+WeatherDisplay
+WeatherLink
+WSWIN
+Wview
+USA
+Kanada
+Andere
+Halten
+Wiederherstellung
+Zurück zum Anfang
+Eine Seite zurück
+Allgemeine Einstellungen wie Station, Standort, Identität
+Der Name Ihrer Wetterstation und der Bereich, in dem die Berichte über
+Die Lage Ihrer Wetterstation auf dem Globus
+Die Zeitzone Ihrer Station befindet, und die verwendete Sprache
+Englisch
+Holländisch
+Französisch
+Deutsch
+Warum lernen Sie das aktuelle Wetter abrufen
+Yahoo - ein Ortscode ist notwendig
+metar - verwenden Sie ein metar (Flughafen) Code
+Wetter Anzeige nur, wenn es einen Solarsensor und richtig konfiguriert
+Die allgemeinere Artikel auf jeder Seite
+Seite und Menügröße
+Vertikal nach links
+Horizontal
+Das gelbe Feld oben
+Lassen Sie sich die gelbe Box am oberen Rand der Seite
+Nicht benutzen
+Welche Seitenkopf und das Farbschema \ 's
+Seitenkopf mit m (Steelseries-Messgeräte)
+Normalel Kopfzeile mit Informationsblöcken
+Low-Seite Kopf mit weniger Informationen
+dem Wetter angepasst
+grün
+blau
+Pastell
+rot
+Orange
+Nein
+bewölkt
+Klar - Night
+Nebel
+Mond
+teilweise bewölkt
+regen
+Schnee
+Sturm
+sonnig
+Sturm-Blitz
+Optionale Bereiche auf den Seiten und dem Boden
+Seitenbereich dient
+Nicht anzeigen
+Bodenbereich verwendet wird
+Banner für die Werbung, Foto \ 's und so weiter
+Verwenden Sie meine Textdatei
+Sollten Teile der Seite sind nicht für die Verwendung mit joomla gezeigt
+Alle (optional) Bereiche einer Seite entfernen
+No "Joomla" notwendig. - Wir verwenden das Standard-Papierformat
+Menü nicht angezeigt wird
+Lassen Sie sehen, Standard-Menü
+Führen Sie die folgenden optionalen Informationsblöcken angezeigt werden (und wo)
+Erscheint neben dem Sprachauswahl
+Im unteren Teil
+In Neben Region
+Facebook - Twitter und anderen Social Sites
+In Seite-Kopf kleine horizontale Bild
+Regen und Sturmwarnungen.
+Donation-Taste.
+Wetter Warnungen und wie wir gehen, um ihnen zu zeigen
+Verwenden Wetterwarnungen für Ihr Gebiet
+Warnungen anzeigen unter dem Seitenkopf
+Show Warnungen vor allen anderen Informationen
+Zeigen Sie eine Nachricht, auch wenn keine Warnung
+Nur eine Nachricht, wenn es Warnungen
+Informieren Sie sich über den gesamten Text der Warnung
+Geben Sie nur den Kurztext der Warnung
+Alle Warnungen in einem Gerät kombiniert
+Jede Warnung in einer separaten Box
+Verwenden Sie das Vorlagenseite mit detaillierten Informationen
+Besuchen Sie die Website für weitere Informationen Warnungen
+Widgets und andere Einstellungen für alle Seiten
+Normale Dashboard-Homepage (p = 10)
+Steelseries Seite
+Buienradar Seite
+Standard-Wettervorhersage Seite
+Hit counters
+Verwenden Sie die externe Statistiken im "footer"
+Verwenden Sie Ihre eigenen Besucherzähler
+Zurück zum Anfang der Seite Taste
+Verwenden Sie die schwimmenden Anfang der Seite Taste
+Zum Daten der Seite, um weitere Informationen anzuzeigen
+Immer anzeigen Pasgina Kopf
+Rotary wetter Werte-Display
+Schalten Sie diese Anlage
+Menüpunkte / weitere Seiten zu bedienen
+Seiten nur für einige europäische Länder
+Wetter-Station befindet sich in Belgien
+Nicht in Belgien
+Wetter-Station wird in Niederlande
+Nicht in Niederlande
+Spezielle Seiten "Smartphone" Nutzer
+Mit den mobilen Seiten für "Smartphone" Nutzer
+Nur die Hauptstelle wird verwendet,
+Kontakt Seite
+Schalten Sie diese Seite in
+Anzahl alle Seiten besucht \ 's
+Wir haben eine oder mehrere Webcam-Bilder zu zeigen.
+Ja, eine Webcam, die wir zeigen wollen, müssen wir
+Was ist in der Nacht angezeigt
+Verwenden Sie ein "Es ist Nacht" image
+Verwenden Sie die normale Ladewebcambild
+Webcam 1
+Eine weitere Webcam
+Ja, eine zweite Webcam, die wir zeigen wollen, müssen wir
+Weitere Wetterprogramme im Einsatz für diese Station
+WXSIM Wettervorhersagen
+Ja, wir verwenden Programm gezahlten WXSIM unsere Wettervorhersagen zu machen
+Die Datei wird latest.csv verwendet
+Die Datei wird lastret.txt verwendet
+Verwenden Sie die Standard-Icons der Vorlage
+Verwenden YrNo Symbole
+Meteo Stecker: Lagerung und Grafiken Server
+Wir verwenden keine Stecker Meteo
+Wir verwenden Meteo Plug and wollen, um die zusätzlichen Seiten geben
+WD Live-: Bezahlt Website Skript / Programm, auf eine hochgradig anpassbare "Flash" verwendet Clientraw Dateien Armaturenbrett wieder
+Keine WD Live-Benutzer
+Wir verwenden WD-Live, und zeigt das Dashboard wieder
+Meteroware-Live kostenlose Website-Skript / Programm, um eine einfache "Flash" geben Armaturenbrett wieder
+Kein Interesse an der Instrumententafel
+Ja, verwenden Sie die Meteo Wahre Armaturenbrett
+Menüpunkte / Erwartungen Seiten
+WICHTIG: Was ist die erwartete Standard verewachting auf der Startseite
+Weather Underground - verwendet einen "Schlüssel"
+WXSIM Programm kaufen
+Yrno verwendet eine Feldcode
+MetNo
+YoWindow Gadget
+Verwenden von Mehrfachauswahl Seiten Erwartungen
+Weather Underground Vorhersage und Rückblick
+Ja, diese zusätzlichen Erwartung wollen wir
+Verwenden WU Symbole
+WU nutzen Symbole aus dem Cache
+Verwenden WU Icons direkt von ihrer Website
+Met.no
+Ja, wir wollen diese umfangreiche kostenlose Prognose
+YR.no - Diese Prognose wird für die "Smartphone / Handy" Seiten erforderlich
+Ja, wir wollen diese Erwartung, für unsere mobilen Seiten
+Aktuelles Wetter
+Ja, wir sind ein registriertes Mitglied von HWA
+Verwenden HWA Symbole
+Yahoo
+Verwenden Sie Yahoo Symbole
+Welt Wetter
+API-Version 1 nur für Anwender, die ein altes API Schlüssel 1
+Sie falsche Version 2, die aktuelle Version
+Verwenden Welt Wetter-Icons
+"Refresh" Zeiten
+Sonstiges
+Standard UTF-8-Zeichensatz
+windows-1252
+Partners
+Ihre Besucher können auch eine bessere Webcam Informationen: Weather Underground
+Wir werden nicht an Weather Underground aufladen
+Wir sind Mitglieder der Weather Underground
+Wir sind nicht Mitglieder einer regionalen Mesonet Wetterstationen
+Wir sind ein stolzes Mitglied einer regionalen Mesonet Wetterstationen
+Wir sind nicht für Aktuelles Wetter laden
+Wir sind Mitglieder Aktuelles Wetter
+EWN - europäische Netzwerk von Wetterstationen
+Wir verwenden es nicht
+Unsere Wetterdaten von EWN verwendet
+conf-ewnID
+Andere Organisationen, wo sie hochladen können
+AWEKAS
+Wir werden nicht auf AWEKAS aufladen
+Wir sind Mitglieder der AWEKAS
+Wetter Wolke
+Wir werden nicht in Rechnung zu Bewölkung Wetter
+Wir sind Mitglied von Wetter Wolke
+CWOP
+Wir sind nicht für CWOP aufladen
+Wir sind Mitglieder der CWOP
+Weatherlink.com
+Wir sind nicht für WeatherLink.com aufladen
+Wir ladden unseren Wetterdaten für WeatherLink.com
+Und welche Möglichkeiten
+Wir werden nichts Wetter laden
+Wir sind Mitglieder der AnythingWeatherg
+Wir sind nicht für PWS aufladen
+Wir sind Mitglieder der PWS
+Wir sind nicht für WP24 aufladen
+Wir zzijn Mitglied der WP24
+Wir zladen nicht uswg
+Wir sind Mitglieder der uswg
+Cookie-Unterstützung / Besucher können alle Arten annpassingen tun
+Ja, die Besucher zu warnen wir, wenn ein Cookie für ihre Anpassungen erforderlich
+Einstellungen / Verwendung von Cookies
+Benutzer darf diese Einstellung ändern
+Anpassung nicht erlaubt
+Optionale Komponenten auf Ihre Station verbunden
+UV / Sonnensensor
+Keine UV-Sensor
+Wir haben einen UV-Sensor auf unserer Station
+Keine Sonnensensor
+Wir haben einen Sonnensensor auf unserer Station
+Andere häufig verwendete zusätzliche Sensoren
+Wir verwenden den internen Temperatursensor
+Wir wollen, um die Innentemperatur zu geben
+Keine Notwendigkeit für einen zusätzlichen Temperatursensor
+Wir verwenden ein zusätzlicher Sensor an unserer Station
+Keine Notwendigkeit für eine zweite zusätzliche Temperatursensor
+Wir haben eine zweite zusätzliche Temperatursensor zu unserer Station
+Boden / Feuchtigkeitssensoren
+Wir verwenden keine Bodensensoren
+Wir verwenden Bodensensoren an unserer Station
+Doch wir wollen nicht, dass zusätzliche Boden / temp / Feuchtigkeit Seite
+Die untere / temp / Feuchtigkeit Seite anzeigen
+Es sind keine Blattsensoren
+Wir haben Bogensensoren an unserer Station
+Zeigen Sie, was zusätzliche Informationen:
+Die Art der Wetterstation
+Unsere Station ist kein Davis-Station
+Wir nutzen ein Davis-Wetterstation
+Wir wollen nicht, um den Sendernamen / Foto auf unseren Seiten Anzeigen
+Wir wollen die Informationen über die Wetterstation auf der Website angezeigt werden
+Die Website / Anbieter
+Kein Name / Bild unserer Show privider
+Wir wollen die Informationen des Dienstanbieters auf der Website angezeigt werden
+Der Computer (Gerät), die verwendet wird
+Kein Typ und Name unserer Wettercomputermesse
+Wir wollen die Informationen unserer Wetter Computer anzuzeigen
+Wetter-Programm
+Zeige keine Informationen über unsere Wetterprogramm
+Wir wollen die Informationen über Wetterprogramm auf der Website angezeigt werden
+Einheiten, Zeit- und Datumsformate und eine Reihe von anderen Institutionen
+Zunächst einige andere Institutionen
+Verwenden Sie einen Punkt, [22.50] als Dezimalzeichen
+Verwenden Sie ein Komma [22,50] als Dezimalzeichen
+Verwenden Sie bunten Temperaturen
+Verwenden Sie nur blau / rot, wenn die Temperatur
+Verwenden Sie alle Texte, wie sie sind
+Wandeln Sie alle Text in Kleinbuchstaben
+Tagesabschnitte beginnen Abend nach Morgen, Nachmittag bis zum Abend)
+Half-Tage beginnen mit Vor- oder Nachmittag, Abend und Nacht
+Die Geräte sind für alle Wetterwerte
+Celsius
+Fahrenheit
+hPa
+Millibar
+inHg
+km / h
+kts
+Meilen pro Stunde
+in
+cm
+Kilometer
+Meile
+/ Hr
+Feet
+Meter
+Wie kann das Datum und die Zeit abzubildenden
+12 Uhr
+24 Stunden
+31. Dezember 2013 14.03 Uhr
+31-03-2012 14.03
+14.03
+14.03
+14.00
+14
+31. Dezember 2013
+31-03-2012
+31. Dezember
+31-03
+Friday, 22. Januar 2015
+Friday, 5. Februar 2013
+Südwesten
+Nordwest
+Midwest
+South Central
+Nordosten
+Südosten
+Verwendung NOAA Benachrichtigung
+Verwenden NWS Warnungen mit Curly Skripte
+CWOP Seite
+NOAA
+NOAA Seiten
+Verwendung NOAA Symbole
+Wir wollen die AirQualityHealtIndex verwenden
+Environment Canada
+Environment Canada prognostiziert Seite
+Zusätzliche Einstellungen für Ihre Wetterprogramm
+nicht in dieser Liste
+mm-dd-yyyy = Jahr-Monat-Tag Jahrhundert und - als Trennzeichen
+mm-dd-yy = Jahr-Monat-Tag Jahrhundert und niemand - als Trennzeichen
+mm / tt / = Monat / Tag / Jahr mit Jahrhundert und a / als Trennzeichen
+mm / tt / jj = Monat / Tag / Jahr, ein Jahrhundert und eine / als Trennzeichen
+dd-mm-yyyy = Tag-Monat-Jahr mit einem Jahrhundert - als Trennzeichen
+dd-mm-yy = Tag-Monat-Jahr kein Jahrhundert und - als Trennzeichen
+dd / mm / yyyy = Tag / Monat / Jahr mit Jahrhundert und a / als Trennzeichen
+TT / MM / yy = Tag / Monat / Jahr ein Jahrhundert und eine / als Trennzeichen
+Ein Schrägstrich "/" wird, Einzelteile des Tages verwendet
+A "-" Vorzeichen wird, Einzelteile des Tages verwendet
+Ein Raum wird "", um verschiedene Teile des Tages verwendet
+erster Teil
+Mittelteil
+Schlussteil
+fertig

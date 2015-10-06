@@ -1,0 +1,319 @@
+Pas de instellingen aan uw situatie aan
+Twee belangrijke vragen om vanaf nu de juiste vragen te selecteren
+Cumulus
+consoleWD
+Davis_WL.com
+Meteobridge
+Meteohub
+Meteoplug
+VWS
+WeatherCat
+WeatherDisplay
+WeatherLink
+WSWIN
+Wview
+VS
+Canada
+Ander
+Bewaar
+Herstel
+Terug naar het begin
+Één pagina terug
+Algemene instellingen zoals station, locatie, identiteit
+De naam van uw weerstation en het gebied waar het over rapporteert
+De locatie van uw weerstation op de wereldbol
+De tijdzone uw station zich bevindt en de taal die wordt gebruikt
+Engels
+Nederlands
+Frans
+Duits
+Vanwaar wordenaar de huidige weers-omstandigheden opgehaald
+Yahoo - een locatiekode is noodzakelijk
+metar - gebruik een metar (vliegveld) kode
+WeatherDisplay alleen als het een zonnesensor heeft en correct is geconfigureerd
+De meer algemene onderdelen op elke pagina
+Pagina- en menu-grootte
+Verticaal aan de linkerzijde
+Horizontaal
+Het gele vak bovenaan
+Toon het gele vak bovenaan de pagina
+Niet gebruiken
+Welke pagina-kop en de kleurenschema\'s
+Pagina-kop met meters (steelseries-gauges)
+Normalel Pagina-kop met blokken informatie
+Lage pagina-kop met minder informatie
+aangepast aan het weer
+groen
+blauw
+pastel
+rood
+oranje
+geen
+bewolkt
+bewolkt - nacht
+mist
+maan
+gedeeltelijk bewolkt
+regen
+sneeuw
+storm
+zonnig
+onweer-bliksem
+Optionele gebieden aan de zij- en onderkant 
+Zijgebied wordt gebruikt
+Niet weergeven
+Onderkant-gebied wordt gebruikt
+Banners voor advertenties, foto\'s en ga zo maar door
+Gebruik mijn tekstbestand
+Moeten delen van de pagina niet afgebeeld worden voor gebruik met joomla
+Verwijder alle (optionele) gebieden van een pagina
+Geen "Joomla" nodig. - We gebruiken de normale pagina-instelling
+Menu wordt niet getoond
+Laat menu standaard zien
+Moeten de volgende  optionele informatieblokken afgebeeld worden (en waar)
+Weergegeven naast de taalkeuze
+In onderste gedeelte
+In  zij-gebied
+Facebook - Twitter en andere sociale sites
+In pagina-kop kleine horizontale afbeelding
+Regen en onweer-waarschuwingen.
+Donatie knop.
+Weer-waarschuwingen en hoe gaan we om ze tonen
+Gebruik de weer-waarschuwingen voor uw gebied
+Toon de waarschuwingen onder de pagina-kop
+Toon de waarschuwingen boven alle andere informatie
+Toon een bericht ook wanneer er geen waarschuwing is
+Toon alleen een bericht wanneer er waarschuwingen zijn
+Toon de hele tekst van de waarschuwing
+Geef alleen de korte tekst van de waarschuwing
+Alle waarschuwingen gecombineerd in één vak
+Iedere waarschuwing in een apart vak
+Gebruik de template pagina met gedetailleerde informatie
+Ga naar de waarschuwingen site voor meer informatie
+Widgets en andere instellingen voor alle pagina's
+Normale dashboard startpagina (p = 10)
+Steelseries pagina
+Buienradar pagina
+Standard weer-verwachting pagina
+Bezoekers tellers
+Gebruik de externe statistieken teller in de "footer"
+Gebruik uw eigen bezoekers teller
+Terug naar begin van de pagina-knop
+Gebruik de drijvende begin van de pagina-knop knop
+Ga naar data-deel van de pagina om meer informatie weer te geven
+Pasgina-kop altijd weergeven
+Roterende weer-waarden-display
+Schakel deze faciliteit in
+Menu-items / extra pagina's om te gebruiken
+Pagina's alleen voor sommige Europese landen 
+Weer-station is gelegen in België
+Niet gelegen in België
+Weer-station is gelegen in Nederland
+Niet in Nederland
+Speciale pagina's voor "smartphone"-gebruikers
+Gebruik de mobiele pagina's voor "smartphone" gebruikers
+Alleen de hoofd-website wordt gebruikt
+Contact pagina
+Schakel deze pagina in
+Tel alle bezochte pagina\'s
+Hebben we een of meer webcam beelden om te laten zien.
+Ja, we hebben een webcam die we willen laten zien
+Wat wordt tijdens de nacht weergegeven
+Gebruik een "Het is nacht" afbeelding
+Gebruik de normale opgeladen webcam-afbeelding
+Webcam 1
+Een andere webcam
+Ja, we hebben een tweede webcam die we willen laten zien
+Extra weer-programma's in gebruik voor dit station
+WXSIM weer-voorspellingen
+Ja, we gebruiken  het betaalde WXSIM programma om onze weer-voorspellingen te maken
+Het latest.csv bestand wordt gebruikt
+Het lastret.txt bestand wordt gebruikt
+Gebruik de standaard pictogrammen van de template
+Gebruik YrNo pictogrammen
+Meteoplug: opslag en grafieken server
+Wij gebruiken geen Meteoplug
+We gebruiken Meteoplug en willen de extra pagina's weer geven
+WD-Live: Betaald  website script / programma, gebruikt clientraw bestanden om een uitgebreid aanpasbaar "Flash" dashboard weer te geven
+Geen WD-live-gebruiker
+We maken gebruik van WD-Live en geven het dashboard weer
+Meteroware-Live: gratis website script / programma, om  een eenvoudige "Flash" dashboard weer te geven
+Geen interesse in dat dashboard
+Ja, gebruik het Meteoware dashboard
+Menu-items / verwachtingen pagina's
+BELANGRIJK: Welke verwachting is de standaard verewachting op de start-pagina
+WeatherUnderground - gebruikt een "key"
+WXSIM aan te kopen programma
+Yrno gebruikt een gebieds-kode
+MetNo
+YoWindow gadget
+Meerdere selecties gebruiken op de verwachtingen pagina's
+Weather Underground verwachting en almanak
+Ja, willen wij deze extra verwachting
+Gebruik WU pictogrammen
+Gebruik WU iconen uit de cache
+Gebruik WU iconen rechtstreeks van hun site
+Met.no
+Ja, willen wij deze uitgebreide gratis verwachting
+YR.no - Deze verwachting is vereist voor de "smartphone / mobile" pagina's
+Ja, willen wij deze verwachting, ook voor onze mobile pagina's
+Het Weer Actueel
+Ja, we zijn een geregistreerd lid van HWA
+Gebruik HWA pictogrammen
+Yahoo
+Gebruik Yahoo pictogrammen
+World Weather
+API-versie 1, alleen voor gebruikers die een oude API-key 1 hebben
+Gebruik API versie 2, de huidige versie
+Gebruik World-Weather pictogrammen
+"Refresh" tijden
+Diversen
+Standaard UTF-8 karakterset
+windows-1252
+Partners
+Uw bezoekers kunnen ook uw weergegevens vinden op: Weather Underground
+We laden niet op naar Weather Underground
+Wij zijn lid van Weather Underground
+Wij zijn geen lid van een regionaal Mesonet van  weer-stations
+Wij zijn een trots lid van een regionaal Mesonet van weer-stations
+We laden niet op naar Het Weer Actueel
+Wij zijn lid van Het Weer Actueel
+EWN - Europees netwerk van weerstations
+We gebruiken dit niet
+Onze weer-gegevens worden door EWN gebruikt
+conf-ewnID
+Andere organisaties waar men naar kan opladen
+AWEKAS
+We laden niet op naar AWEKAS
+Wij zijn lid van AWEKAS
+WeatherCloud
+We laden niet op naar WeatherCloud
+Wij zijn lid van WeatherCloud
+CWOP
+We laden niet op naar CWOP
+Wij zijn lid van CWOP
+Weatherlink.com
+We laden niet op naar WeatherLink.com
+We ladden onze weer-gegevens op naar WeatherLink.com
+En nog wat mogelijkheden
+We laden niet op naar AnythingWeather
+Wij zijn lid van AnythingWeatherg
+We laden niet op naar PWS
+Wij zijn lid van PWS
+We laden niet op naar WP24
+We zzijn lid van  WP24
+We zladen niet op naar uswg
+We zijn lid van uswg
+cookie-support / bezoekers mogen allerlei annpassingen doen
+Ja, wij waarschuwen  de bezoekers als er een cookie nodig is voor hun aanpassingen
+Aanpassingen / cookies niet gebruiken
+Sta gebruiker toe om deze instelling te wijzigen
+Aanpassing niet toegestaan
+Optionele componenten aangesloten op uw weerstation
+UV / Solar sensor
+Geen UV-sensor
+We hebben een UV-sensor op ons station
+Geen zonnesensor
+We hebben een Solar sensor op ons station
+Andere vaak gebruikte extra  sensoren
+We gebruiken de binnentemperatuur sensor niet
+We willen de binnentemperatuur weer  geven
+Geen behoefte aan een extra temperatuursensor
+We gebruiken een extra sensor bij ons station
+Geen behoefte aan een tweede extra temperatuursensor
+We hebben een tweede extra temperatuursensor aan ons station
+Bodem / vochtsensoren
+Wij gebruiken geen bodemsensoren 
+We gebruiken bodem sensoren bij ons station
+Toch willen we geen extra bodem/temp/vocht pagina
+Toon de bodem/temp/vocht pagina
+Er zijn geen blad sensoren 
+We hebben blad sensoren bij ons station
+Toon wat extra informatie over:
+Het type weer-station
+Ons station is geen Davis station
+We maken gebruik van een Davis weer-station
+We willen niet de weerstation naam / foto op onze pagina's te tonen
+We willen de informatie over het weerstation weergeven op de site
+De website / provider
+Geen naam / foto van onze privider tonen
+We willen de informatie over de provider weergeven op de site
+De computer (apparaat) die wordt gebruikt
+Geen type en  naam van onze weer-computer tonen
+We willen de informatie van onze weer-computer afbeelden
+Het weer-programma
+Geen informatie over ons weer-programma tonen
+We willen de informatie van onze weer-programma weergeven op de site
+Eenheden, tijd en datum formaten en een aantal andere instellingen
+Eerst enkele andere instellingen
+Gebruik een punt [22.50]  als decimaal teken
+Gebruik een komma [22,50] als decimaal teken
+Gebruik veelkleurige temperaturen
+Gebruik alleen blauw / rood als temperatuur-kleur
+Gebruik alle teksten zoals ze zijn
+Zet alle teksten naar kleine letters
+Dagdelen beginnen met nacht daarna ochtend, middag tot 's avonds)
+Dagdelen beginnen met ochtend dan middag, avond en nacht
+De eenheden worden gebruikt voor alle weer-waarden
+Celcius
+Fahrenheit
+hPa
+milibar
+inHg
+km / h
+kts
+mph
+in
+cm
+kilometer
+mijl
+/ uur
+voeten
+meter
+Hoe moet de datum en tijd afgebeeld worden
+12 uur
+24 uur
+31 december 2013 14:03
+31-03-2012 14:03
+14:03
+14:03
+14:00
+14
+31 december 2013
+31-03-2012
+31 december
+31-03
+Vrijdag 22 januari 2015
+Vrijdag 5 februari 2013
+SouthWest
+NorthWest
+Midwest
+South Central
+North East
+South East
+Gebruik NOAA waarschuwingen
+Gebruik NWS waarschuwingen met de Curly scripts
+CWOP pagina
+NOAA
+NOAA voorspelling pagina
+Gebruik NOAA pictogrammen
+We willen de AirQualityHealtIndex gebruiken
+Environment Canada
+Environment Canada verwachtingen pagina
+Extra instellingen voor uw weer-programma
+niet in deze lijst
+mm-dd-jjjj = maand-dag-jaar met eeuw en een - als separator
+mm-dd-jj   = maand-dag-jaar geen eeuw en een - als separator
+mm / dd / yyyy = maand / dag / jaar met eeuw en a / als separator
+mm / dd / yy   = maand / dag / jaar geen eeuw en a / als separator
+dd-mm-jjjj = dag-maand-jaar met eeuw en een - als separator
+dd-mm-jj   = dag-maand-jaar geen eeuw en een - als separator
+dd / mm / jjjj = dag / maand / jaar met eeuw en a / als separator
+dd/ mm / jj    = dag / maand / jaar geen eeuw en a / als separator
+Een schuine streep "/" wordt gebruikt om de dag delen scheiden
+Een "-" teken wordt gebruikt om de dag delen scheiden
+Een spatie " " wordt gebruikt om de dag delen scheiden
+eerste deel
+middelste deel
+laatste deel
+afgewerkt

@@ -1,0 +1,7 @@
+<landscape name="Oriental" type="plugin" id="com.yowindow.oriental">
+	<data src="oriental.swf">
+        <about>(C) RepkaSoft
+Art: Natalia Gorbova, Yuri Elshin
+Programming: Pavel Repkin</about>
+	</data>
+</landscape>

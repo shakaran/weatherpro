@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license"/>
+  <s key="Absent"/>
+  <s key="Add" value="დამატება"/>
+  <s key="Animate" value="ანიმაცია"/>
+  <s key="Apply" value="მისადაგება"/>
+  <s key="Astronomy" value="ასტრონომია"/>
+  <s key="Day Length" value="დღის სიგრძე"/>
+  <s key="Moon Phase" value="მთვარის ფაზა"/>
+  <s key="Sunrise" value="აისი"/>
+  <s key="Sunset" value="დაისი"/>
+  <s key="Auto update weather" value="ამინდის ავტო განახლება"/>
+  <s key="Bad ICAO code" value="ცუდი ICAO კოდი"/>
+  <s key="Buy YoWindow Unlimited!" value="იყიდე ულიმიტო YoWindow!"/>
+  <s key="Calendar" value="კალენდარი"/>
+  <s key="Cancel" value="გაუქმება"/>
+  <s key="Change" value="შეცვლა"/>
+  <s key="Code" value="კოდი"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="ამინდის პროგნოზი {0}-დან, მოწოდებულია ნორვეგიის მეტეოროლოგიური ინსტიტუტის და NRK-ს მიერ"/>
+  <s key="Forecast from {0}" value="პროგნოზი {0}-დან"/>
+  <s key="Current weather" value="მიმდინარე ამინდი"/>
+  <s key="Friday" value="პარასკევი"/>
+  <s key="Monday" value="ორშაბათი"/>
+  <s key="Saturday" value="შაბათი"/>
+  <s key="Sunday" value="კვირა"/>
+  <s key="Thursday" value="ხუთშაბათი"/>
+  <s key="Tuesday" value="სამშაბათი"/>
+  <s key="Wednesday" value="ოთხშაბათი"/>
+  <s key="Fr"/>
+  <s key="Mo"/>
+  <s key="Sa"/>
+  <s key="Su"/>
+  <s key="Th"/>
+  <s key="Tu"/>
+  <s key="We"/>
+  <s key="day ago" value="დღის წინ"/>
+  <s key="days ago" value="დღის წინ"/>
+  <s key="Default" value="ნაგულისხმევი"/>
+  <s key="Blowing" value="ქარი ქრის"/>
+  <s key="Clear" value="მოწმენდილი"/>
+  <s key="Cloudy" value="მოღრუბლული"/>
+  <s key="Overcast"/>
+  <s key="Drizzle" value="თქორი"/>
+  <s key="Fair" value="მზიანი"/>
+  <s key="Fog" value="ნისლი"/>
+  <s key="Freezing" value="ყინვა"/>
+  <s key="Hail" value="სეტყვა"/>
+  <s key="Haze" value="ბურუსი"/>
+  <s key="Heavy" value="ძლიერი"/>
+  <s key="Ice Crystals" value="ყინულის კრისტალები"/>
+  <s key="Ice Pellets" value="გუნდა"/>
+  <s key="In Vicinity" value="მიდამოში"/>
+  <s key="Light" value="ელვა"/>
+  <s key="Low Drifting" value="მცირე ნამქერი"/>
+  <s key="Mist" value="ნისლი"/>
+  <s key="Mostly Cloudy" value="უმეტესად მოღრუბლული"/>
+  <s key="Partial" value="ნახევრად"/>
+  <s key="Partly Cloudy" value="ნახევრად მოღრუბლული"/>
+  <s key="Patches"/>
+  <s key="Rain" value="წვიმა"/>
+  <s key="Rain And Thunder" value="წვიმა ელჭექით"/>
+  <s key="Sand" value="ქვიშა"/>
+  <s key="Shallow" value="მეჩეჩი"/>
+  <s key="Shower" value="თავსხმა"/>
+  <s key="Shower With Thunder" value="თავსხმა ელჭექით"/>
+  <s key="Sleet" value="თოვლჭყაპი"/>
+  <s key="Small Hail" value="მცირე სეტყვა"/>
+  <s key="Smoke" value="ნისლი"/>
+  <s key="Snow" value="თოვა"/>
+  <s key="Snow And Thunder" value="თოვა ელჭექით"/>
+  <s key="Snow Grains" value="თოვლის ფანტელი"/>
+  <s key="Snow Showers" value="ძლიერი თოვა"/>
+  <s key="Thunderstorm" value="ჭექა-ქუხილი"/>
+  <s key="Unknown Precipitation" value="უცნობი პროგნოზი"/>
+  <s key="Widespread Dust Haze" value="ბურუსით მოცული"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="არასწორი სალიცენზიო გასაღები. სცადეთ თავიდან. დარწმუნდით სალიცენზიო გასაღების სისწორეში. სცადეთ გასაღების კოპირება/ჩასმა."/>
+  <s key="Wrong license key" value="არასწორი სალიცენზიო გასაღები"/>
+  <s key="You will have to restart the application for this to take effect" value="გადატვირთეთ პროგრამა ცვლილებების მისასადაგებლად"/>
+  <s key="Language change" value="ენის შეცვლა"/>
+  <s key="No limits!" value="ულიმიტო!"/>
+  <s key="Buy now!" value="იყიდე!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="ყველა შეზღუდვის მოსახსნელად იყიდე ულიმიტო ლიცენზია"/>
+  <s key="Not now" value="ეხლა არა"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="რეგისტრაციის დასრულებისათვის შეიყვანეთ ჩვენს მიერ მოცემული სალიცენზიო გასაღები. მითითება: გამოიყენეთ კოპირება/ჩასმა."/>
+  <s key="License registration" value="ლიცენზიის რეგისტრაცია"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="გმადლობთ რომ შეიძინეთ YoWindow! ყველა შეზღუდვა მოხსნილია. გაერთეთ!"/>
+  <s key="Distance" value="მანძილი"/>
+  <s key="Down" value="ქვემოთ"/>
+  <s key="Download" value="ჩამოტვირთვა"/>
+  <s key="Enter weather source URL please" value="შეიყვანეთ ამინდის წყაროს მისამართი (URL)"/>
+  <s key="Error" value="შეცდომა"/>
+  <s key="The location is already added" value="მდებარეობა უკვე დამატებულია"/>
+  <s key="Exit" value="გასვლა"/>
+  <s key="To get started, pick your home location" value="დასაწყისისათვის აირჩიეთ თქვენი საწყისი მდებარეობა"/>
+  <s key="Forecast Panel" value="პროგნოზის პანელი"/>
+  <s key="Full Screen" value="მთლიანი ეკრანი"/>
+  <s key="Help" value="შველა"/>
+  <s key="Highlight weather station parameters" value="მონიშნე მეტეოროლოგიური სადგურის პარამეტრები"/>
+  <s key="Home" value="სახლი"/>
+  <s key="h" value="სთ"/>
+  <s key="Inspector" value="ინსპექტორი"/>
+  <s key="Landscape" value="ლანდშაპტი"/>
+  <s key="Foreground" value="წინა პლანი"/>
+  <s key="Landscape Options" value="ლანდშაპტის თვისებები"/>
+  <s key="Landscape pictures" value="ლანდშაპტის სურათი"/>
+  <s key="Landscapes" value="ლანდშაპტები"/>
+  <s key="Language:" value="ენა:"/>
+  <s key="English" value="ქართული"/>
+  <s key="System Default" value="ნაგულისხმევი"/>
+  <s key="Latitude" value="განედი"/>
+  <s key="{0} locations" value="{0} ადგილმდებარეობა"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="თქვენ შეგიძლიათ დაამატოთ მხოლოდ {0} მდებარეობა. ულიმიტო ვერსიაში შეგიძლიათ უსასრულო რაოდენობის მდებარეობის დამატება"/>
+  <s key="Weather auto-update is off" value="ამინდის ავტო განახლება გამორთულია"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="ამინდის განახლებისათვის დააჭირეთ F5-ს. ულიმიტო ვერსიაში ამინდი ნახლდება ავტომატურად."/>
+  <s key="{0} weather forecast days only" value="მხოლოდ {0} დღის პროგნოზი"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="თქვენ შეგიძლიათ მიიღოთ {0} დღის პროგნოზი.  ულიმიტო ვერსია იძლევა {1} დღის პროგნოზს."/>
+  <s key="Licence key" value="სალიცენზიო გასაღები"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="ულიმიტო ვერსიაში ამინდი ავტომატურად ნახლდება"/>
+  <s key="LIVE" value="პირდაპირი"/>
+  <s key="Load weather from personal weather station" value="ამინდი იტვირთება პირადი მეტეოროლოგიური სადგურიდან"/>
+  <s key="Loading" value="იტვირთება"/>
+  <s key="Loading landscape..." value="იტვირთება ლანდშაპტი..."/>
+  <s key="Location" value="ადგილმდებარეობა"/>
+  <s key="Location ID" value="მდებარეობის ID"/>
+  <s key="Location Properties" value="მდებარეობის თვისებები"/>
+  <s key="id_internet_link"/>
+  <s key="Locations" value="მდებარეობები"/>
+  <s key="All locations" value="ყველა მდებარეობა"/>
+  <s key="All regions" value="ყველა რეგიონი"/>
+  <s key="All states" value="ყველა შტატი"/>
+  <s key="Change landscape" value="შეცვალე ლანდშაპტი"/>
+  <s key="Select a location" value="აირჩიეთ მდებარეობა"/>
+  <s key="The location is already added" value="მდებარეობა უკვე დამატებულია"/>
+  <s key="Location is not selected yet" value="მდებარეობა არ არის არჩეული"/>
+  <s key="Major cities (more than 100,000 citizens)" value="დიდი ქალაქები (100,000 მცხოვრებზე მეტი)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="ქსელური შეცდომა, ინფორმაცია მიუწვდომელია. იმიტომ, რომ მდებარეობა არ არის არჩეული."/>
+  <s key="No locations in scope" value="ჰორიზონტზე მდებარეობა არ არის"/>
+  <s key="Scope"/>
+  <s key="Region" value="რეგიონი"/>
+  <s key="Cannot find a location?"/>
+  <s key="Set as Home" value="საწყისად დაყენება"/>
+  <s key="Current Location"/>
+  <s key="Unknown" value="უცნობი"/>
+  <s key="Longitude" value="გრძედი"/>
+  <s key="Looking at the North (West wind blows from the left)" value="ჩრდილოეთით (მარცხნიდან უბერავს დასავლეთის ქარი)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="სამხრეთით (მარჯვნიდან უბერავს დასავლეთის ქარი)"/>
+  <s key="April" value="აპრილი"/>
+  <s key="August" value="აგვისტო"/>
+  <s key="December" value="დეკემბერი"/>
+  <s key="February" value="თებერვალი"/>
+  <s key="January" value="იანვარი"/>
+  <s key="July" value="ივლისი"/>
+  <s key="June" value="ივნისი"/>
+  <s key="March" value="მარტი"/>
+  <s key="May" value="მაისი"/>
+  <s key="November" value="ნოემბერი"/>
+  <s key="October" value="ოქტომბერი"/>
+  <s key="September" value="სექტემბერი"/>
+  <s key="About" value="შესახებ"/>
+  <s key="Facebook Edition" value="Facebook-ის გამოშვება"/>
+  <s key="License Agreement" value="სალიცენზიო შეთანხმება"/>
+  <s key="Program" value="პროგრამა"/>
+  <s key="Visit our Forum" value="ეწვიეთ ჩვენს ფორუმს"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow თქვენი საიტისთვის ან ბლოგისთვის"/>
+  <s key="m" value="მ"/>
+  <s key="{0} minutes back" value="{0} წუთის წინ"/>
+  <s key="{0} minutes forward" value="{0} წუთის შემდეგ"/>
+  <s key="Name" value="სახელი"/>
+  <s key="Network error" value="ქსელური შეცდომა"/>
+  <s key="Network not available"/>
+  <s key="It is available on {0}" value="ახალი ვერსია ხელმისაწვდომია {0}-ში"/>
+  <s key="New version released" value="გამოსულია ახალი ვერსია"/>
+  <s key="Next Day" value="შემდეგი დღე"/>
+  <s key="No" value="არა"/>
+  <s key="No weather" value="ამინდი არ არის"/>
+  <s key="N/A"/>
+  <s key="Notify me when a new version is available" value="შემატყობინე ახალი ვერსიის გამოსვლა"/>
+  <s key="Online" value="დაკავშირებული"/>
+  <s key="Open {0}" value="გახსნა {0}"/>
+  <s key="Options" value="თვისებები"/>
+  <s key="Advanced" value="დამატებითი"/>
+  <s key="Application choice" value="პროგრამის არჩევა"/>
+  <s key="Date" value="თარიღი"/>
+  <s key="Display" value="ჩვენება"/>
+  <s key="Animate clouds" value="ღრუბლების ანიმირება"/>
+  <s key="Default" value="ნაგულისხმევი"/>
+  <s key="Full screen mode" value="მთლიან ეკრანზე"/>
+  <s key="Quality" value="ხარისხი"/>
+  <s key="Custom" value="სხვა"/>
+  <s key="Excellent" value="საუკეთესო"/>
+  <s key="Moderate" value="საშუალო"/>
+  <s key="Number of days to display:" value="საჩვენებელი დღეების რაოდენობა:"/>
+  <s key="Tile contents:" value="Tile შიგთავსი:"/>
+  <s key="General" value="მთავარი"/>
+  <s key="Contents" value="შიგთავსი"/>
+  <s key="Show N/A parameters" value="მაჩვენე N/A პარამეტრები"/>
+  <s key="Live indicator" value="პირდაპირის ინდიკატორი"/>
+  <s key="Locations" value="მდებარეობები"/>
+  <s key="Operation successful!" value="ოპერაცია წარმატებულია!"/>
+  <s key="Refresh locations DB" value="განაახლე მდებარეობის ბაზა"/>
+  <s key="Reset to defaults" value="გაანულე"/>
+  <s key="Add" value="დამატება"/>
+  <s key="User interface" value="მომხმარებლის იერსახე"/>
+  <s key="Screen saver" value="ეკრანმზოგი"/>
+  <s key="Time Bar" value="დროის ზოლი"/>
+  <s key="Unit system:" value="საზომი ერთეული:"/>
+  <s key="Units" value="საზომი ერთეულები"/>
+  <s key="Auto-detected" value="ავტო აღმოჩენა"/>
+  <s key="Custom" value="სხვა"/>
+  <s key="Distance:" value="მანძილი:"/>
+  <s key="Metric" value="მეტრული"/>
+  <s key="Russia"/>
+  <s key="Finland"/>
+  <s key="Pressure:" value="წნევა:"/>
+  <s key="Temperature:" value="ტემპერატურა:"/>
+  <s key="US"/>
+  <s key="Wind speed:" value="ქარის სიჩქარე:"/>
+  <s key="Landscape Options" value="ლანდშაპტის თვისებები"/>
+  <s key="Show Daylight Diagram" value="აჩვენე დღე-ღამის დიაგრამა"/>
+  <s key="Show Forecast Panel" value="აჩვენე პროგნოზის პანელი"/>
+  <s key="Show Full Screen button" value="აჩვენე მთლიანი ეკრანის ღილაკი"/>
+  <s key="Show Inspector" value="აჩვენე ინსპექტორი"/>
+  <s key="Show Time Bar" value="აჩვენე დროის ზოლი"/>
+  <s key="Show User interface" value="აჩვენე მომხმარებლის იერსახე"/>
+  <s key="Show forecast when current weather is expired" value="აჩვენე პროგნოზი თუ მიმდინარე ამინდი გასულია"/>
+  <s key="Organize" value="ორგანიზება"/>
+  <s key="Organize locations" value="მდებარეობის ორგანიზება"/>
+  <s key="Organize pictures" value="სურათების ორგანიზება"/>
+  <s key="Pictures" value="სურათები"/>
+  <s key="press" value="დააჭირე"/>
+  <s key="Falling" value="ვარდნა"/>
+  <s key="Falling Rapidly" value="სწრაფი ვარდნა"/>
+  <s key="Rising" value="აწევა"/>
+  <s key="Rising Rapidly" value="სწრაფი აწევა"/>
+  <s key="Steady" value="ურყევი"/>
+  <s key="Previous Day" value="წინა დღე"/>
+  <s key="Properties" value="თვისებები"/>
+  <s key="Refresh Locations data base" value="განაახლე მდებარეობების ბაზა"/>
+  <s key="Register" value="რეგისტრაცია"/>
+  <s key="Remove" value="მოხსნა"/>
+  <s key="Rename" value="გადარქმევა"/>
+  <s key="Rename location" value="მდებარეობის გადარქმევა"/>
+  <s key="Rename picture" value="სურათის გადარქმევა"/>
+  <s key="Retry" value="კიდევ სცადე"/>
+  <s key="Run with Windows (minimized to tray)" value="გაუშვი Windows-თან ერთად (შეტყობინებათა ზოლში ჩაკეცილი)"/>
+  <s key="Season map" value="სეზონური რუქა"/>
+  <s key="Select" value="არჩევა"/>
+  <s key="Select country" value="ქვეყნის არჩევა"/>
+  <s key="Select a landscape" value="ლანდშაპტის არჩევა"/>
+  <s key="Select location" value="მდებარეობის არჩევა"/>
+  <s key="Select region" value="რეგიონის არჩევა"/>
+  <s key="Select state" value="შტატის არჩევა"/>
+  <s key="Set as default" value="ნაგულისხმევად დაყენება"/>
+  <s key="Set YoWindow as ScreenSaver" value="ეკრანმზოგის დაყენება"/>
+  <s key="Setup" value="ინსტალაცია"/>
+  <s key="Show" value="ჩვენება"/>
+  <s key="Show again" value="მაჩვენე თავიდან"/>
+  <s key="Speed" value="სიჩქარე"/>
+  <s key="Time" value="დრო"/>
+  <s key="{0} ago" value="{0}-ს წინ"/>
+  <s key="Time zone" value="დროის სარტყელი"/>
+  <s key="Today" value="დღეს"/>
+  <s key="Tomorrow" value="ხვალ"/>
+  <s key="Tom." value="ხვ."/>
+  <s key="Tonight" value="ამაღამ"/>
+  <s key="Add New Location" value="მდებარეობის დამატება"/>
+  <s key="Open Calendar..." value="კალენდრის გახსნა..."/>
+  <s key="Show Less Days" value="ნაკლები დღეები"/>
+  <s key="Show More Days" value="მეტი დღეები"/>
+  <s key="Update Weather" value="ამინდის განახლება"/>
+  <s key="Unknown" value="უცნობი"/>
+  <s key="Up" value="ზემოთ"/>
+  <s key="Update interval" value="განახლების ინტერვალი"/>
+  <s key="Update weather" value="ამინდის განახლება"/>
+  <s key="Updating weather" value="მიმდინარეობს ამინდის განახლება"/>
+  <s key="View" value="ჩვენება"/>
+  <s key="Please wait..." value="დაელოდეთ..."/>
+  <s key="Weather" value="ამინდი"/>
+  <s key="Daily rain total" value="დღიური წვიმის ჯამი"/>
+  <s key="Weather expired" value="ამინდი ვადაგასულია"/>
+  <s key="Feels like" value="იგრძნობა"/>
+  <s key="Day maximum temperature"/>
+  <s key="Day minimum temperature"/>
+  <s key="Weather forecast" value="ამინდის პროგნოზი"/>
+  <s key="Forecast issued" value="პროგნოზის პრობლემა"/>
+  <s key="Hail" value="სეტყვა"/>
+  <s key="Humidity" value="ნესტი"/>
+  <s key="Observed" value="დაკვირვებული"/>
+  <s key="Pressure" value="წნება"/>
+  <s key="PWS only" value="მხოლოდ პირადი მეტ. სადგ."/>
+  <s key="Rain" value="წვიმა"/>
+  <s key="Rain/Snow rate" value="თოვა/წვიმის კოეფ."/>
+  <s key="Description" value="აღწერა"/>
+  <s key="Sky image" value="ცის სურათი"/>
+  <s key="Snow" value="თოვა"/>
+  <s key="Snow level" value="აჩვენე დონე"/>
+  <s key="Weather station properties" value="მეტ. სადგურის თვისებები"/>
+  <s key="Temperature" value="ტემპერატურა"/>
+  <s key="Temperature range" value="ტემპერატურის ცვალებადობა"/>
+  <s key="Update error" value="განახლების შეცდომა"/>
+  <s key="Update time" value="განახლების დრო"/>
+  <s key="UV index" value="ულტრაიისფერი ინდექსი"/>
+  <s key="Visibility" value="ხილვადობა"/>
+  <s key="Unlimited" value="ულიმიტო"/>
+  <s key="Wind" value="ქარი"/>
+  <s key="Calm" value="შტილი"/>
+  <s key="Variable" value="ცვალებადი"/>
+  <s key="Welcome to YoWindow!" value="მოგესალმებით"/>
+  <s key="Wind direction:" value="ქარის მიმაართულება:"/>
+  <s key="East" value="აღმ."/>
+  <s key="North" value="ჩრდ."/>
+  <s key="South" value="სამხ."/>
+  <s key="West" value="დას."/>
+  <s key="Yes" value="დიახ"/>
+  <s key="Close screensaver on mouse move" value="დახურე ეკრანმზოდი თაგვის მოძრაობაზე"/>
+  <s key="Color" value="ფერი"/>
+  <s key="Background" value="ფონი"/>
+  <s key="Choose color" value="აირჩიეთ ფერი"/>
+  <s key="System tray" value="შეტყობინებათა ზოლი"/>
+  <s key="Transparent" value="გამჭვირვალე"/>
+  <s key="Precipitation chance" value="ამინდის ცვლილება"/>
+  <s key="Rain chance" value="წვიმის ალბათობა"/>
+  <s key="Snow chance" value="თოვის ალბათობა"/>
+  <s key="{0} only" value="მხოლოდ {0}"/>
+  <s key="US"/>
+  <s key="Dew point" value="Dew წერტილი"/>
+  <s key="I want to have fun" value="მინდა გავერთო"/>
+  <s key="Enable surprises"/>
+  <s key="NWS forecasts for the USA" value="პროგნოზი აშშ-სათვის"/>
+  <s key="h" value="სთ"/>
+  <s key="min" value="წთ"/>
+  <s key="Open" value="გახსნა"/>
+  <s key="Browse" value="არჩევა"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="შეიყვანეთ სურათის ან ლანდშაპტის მისამართი ინტერნეტიდან ან კომპიუტერიდან"/>
+  <s key="Landscape load error" value="ლანდშაპტის ჩატვირთვის შეცდომა"/>
+  <s key="Picture load error" value="სურათის ჩატვირთვის შეცდომა"/>
+  <s key="The landscape is already added" value="ლანდშაპტი უკვე დამატებულია"/>
+  <s key="Landscape collection" value="ლანდშაპტების კოლექცია"/>
+  <s key="Turn your photo into Landscape" value="გადააქციე სურათი ლანდშაპტად"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}ისწავლე{1} როგორ გადააქციო სურათი ლანდშაპტად"/>
+  <s key="Village" value="სოფელი"/>
+  <s key="Seaside" value="ზღვისპირი"/>
+  <s key="Airport" value="აეროპორტი"/>
+  <s key="Oriental"/>
+  <s key="Sky"/>
+  <s key="Landscape made from picture" value="ლანდშაპტი სურათისაგან"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="გასწავლით როგორ გადააქციოთ სურათი ლანდშაპტად"/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="გთხოვთ წაიკითხეთ სახელმძღვანელო {0}როგორ გადავაქციოთ სურათი ლანდშაპტად?{1} "/>
+  <s key="Click Next to continue..." value="გასაგრძელებლად დააჭირეთ შემდეგს..."/>
+  <s key="Specify a picture you want to turn into landscape." value="აირჩიეთ სურათი ლანდშაპტისათვის"/>
+  <s key="How to pick the best landscape picture?" value="როგორ გავაკეთოთ საუკეთესო ლანდშაპტი?"/>
+  <s key="Source picture" value="საწყისი სურათი"/>
+  <s key="The landscape will be created in the following folder" value="ლანდშაპტი შექმნილია მოცემულ საქაღალდეში"/>
+  <s key="Landscape folder name" value="ლანდშაპტის საქაღალდის სახელი"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="დააჭირე &quot;შექმნა&quot;-ს {0} ლანდშაპტის შესაქმნელად"/>
+  <s key="{0} landscape has been created successfully!" value="{0} ლანდშაპტი შეიქმნა წარმატებით!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="გახსენი {0} სურათის რედაქტორში. საჭიროა სურათიდან მოშალოთ ცა. სურათს იპოვით {1} ლანდშაპტების საქაღალდეში{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="ცის მოშლა მარტივია. წაიკითხეთ ჩვენი {0}სახელმძღვანელო{1}."/>
+  <s key="Auto" value="ავტო"/>
+  <s key="Horizon Level Setup" value="ჰორიზონტის დონის დაყენება"/>
+  <s key="Keys: Up/Down" value="კლავიშები: ზემოთ/ქვემოთ"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="თქვენ აპირებთ ლანდშაპტის სურათის წაშლას {0}. მისი აღდგენა შეუძლებელი იქნება. ნამდვილად გსურთ ეს?"/>
+  <s key="Edit Landscape" value="ლანდშაპტის შცვლა"/>
+  <s key="Edit Horizon Level" value="ჰორიზონტის დონის შეცვლა"/>
+  <s key="File not found." value="ფაილი არ მოიძებნა."/>
+  <s key="The name is empty" value="სახელი ცარიელია"/>
+  <s key="The folder already exists" value="საქაღალდე უკვე არსებობს"/>
+  <s key="Illegal folder name" value="არასწორი საქაღალდის სახელი"/>
+  <s key="The file format is not supported." value="ფაილის ფორმატი არასწორია."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="სურათი ძალიან დიდია. სურათის ზომამ არ უნდა გადააჭარბოს 2880 წერტილს სიგანეში და სიმაღლეში."/>
+  <s key="Landscape Image" value="ლანდშაპტის სურათი"/>
+  <s key="Landscape Folder" value="ლანდშაპტის საქაღალდე"/>
+  <s key="About Landscape" value="ლანდშაპტის შესახებ"/>
+  <s key="Picture {0} imported successfully" value="სურათის {0} იმპორტი წარმატებით შესრულდა"/>
+  <s key="Remind Me Later" value="შემახსენე მოგვიანებით"/>
+  <s key="Skip This Version" value="გამოტოვე ეს ვერსია"/>
+  <s key="Loading" value="იტვირთება"/>
+  <s key="Next" value="შემდეგი"/>
+  <s key="Back" value="უკან"/>
+  <s key="Finish" value="დასრულება"/>
+  <s key="Create" value="შექმნა"/>
+  <s key="Import" value="იმპორტი"/>
+  <s key="Delete" value="წაშლა"/>
+  <s key="Path" value="მისამართი"/>
+  <s key="Options" value="თვისებები"/>
+  <s key="Select the options you like" value="აირჩიეთ სასურველი თვისება"/>
+  <s key="Set YoWindow as default screen saver" value="დააყენეთ YoWindow ნაგულისხმევ ეკრანმზოგად"/>
+  <s key="Start with Windows (minimized to system tray)" value="ჩართვა Windows-თან ერთად (შეტყობინებათა ზოლში ჩაკეცილი)"/>
+  <s key="Add a shortcut to quick launch bar" value="დაამატე მალსახმობი სწრაფ გამოზახებათ ზოლში"/>
+  <s key="You are about to upgrade YoWindow." value="თქვენ აპირებთ YoWindow-ს განახლებას."/>
+  <s key="Click OK to install the new version." value="დააჭირეთ -ს ახალი ვერსიის დასაყენებლად."/>
+  <s key="You must close YoWindow before you can continue." value="გასაგრძელებლად უნდა დახუროთ YoWindow ."/>
+  <s key="After you have closed YoWindow, select Retry." value="სცადეთ თავიდან."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="ან გააუქმეთ თუ გადაიფიქრეთ დაყენება."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="თუ გსურთ მაინც გააგრძელოთ მიეცით ."/>
+  <s key="If you wish to abort the installation, select Abort." value="დაყენების შეწყვეტისათვის მიეცით ."/>
+  <s key="Final step" value="ბოლო ბიჯი"/>
+  <s key="Start YoWindow on system startup" value="გაუშვი YoWindow სისტემის ჩატვირთვისას"/>
+  <s key="Check for new version..." value="შეამოწმე ახალ ვერსიაზე..."/>
+  <s key="YoWindow is up to date!" value="YoWindow განახლებულია!"/>
+  <s key="You have the latest version" value="თქვენ იყენებთ ბოლო ვერსიას"/>
+  <s key="Download new version!" value="ახალი ვერსიის ჩამოტვირთვა!"/>
+  <s key="Preview" value="ჩვენება"/>
+  <s key="Show small YoWindow logo" value="აჩვენე პატარა YoWindow ლოგო"/>
+  <s key="The landscape is available in Unlimited Edition only." value="ლანდშაპტი ხელმისაწვდომია მხოლოდ ულიმიტო ვერსიისათვის."/>
+  <s key="id_short_hour" value="ს"/>
+  <s key="id_short_minute" value="წ"/>
+  <s key="id_unit_short_millimetres" value="მმ"/>
+  <s key="id_unit_short_centimetres" value="სმ"/>
+  <s key="id_unit_short_metres" value="მ"/>
+  <s key="id_unit_short_kilometres" value="კმ"/>
+  <s key="id_unit_short_feet" value="ფტ"/>
+  <s key="id_unit_short_miles" value="მილი"/>
+  <s key="id_unit_short_miles_per_hour" value="მილი/წმ"/>
+  <s key="id_unit_short_kilometres_per_hour" value="კმ/სთ"/>
+  <s key="id_unit_short_metres_per_second" value="მ/წმ"/>
+  <s key="id_unit_short_knots" value="კვანძი"/>
+  <s key="id_unit_short_beaufort" value="ბფტ"/>
+  <s key="id_unit_short_millibar" value="მბ"/>
+  <s key="id_unit_short_kilopascal" value="კპა"/>
+  <s key="id_unit_short_hectopascal" value="ჰპა"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;"/>
+  <s key="Hide parameter"/>
+  <s key="When weather parameter is not available"/>
+  <s key="Information"/>
+  <s key="id_information_all"/>
+  <s key="Temperature and Time"/>
+  <s key="This is Unlimited Edition."/>
+  <s key="It is already registered."/>
+  <s key="Free edition"/>
+  <s key="Unlimited edition"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later."/>
+  <s key="Get Adobe Flash Player"/>
+  <s key="Unlock landscape"/>
+  <s key="YoWindow for Chrome"/>
+  <s key="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad"/>
+  <s key="Follow YoWindow on Facebook"/>
+  <s key="Follow YoWindow on Twitter"/>
+  <s key="Landscape trial, days left:"/>
+  <s key="Landscape trial period is over"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited."/>
+  <s key="Details"/>
+  <s key="View direction"/>
+  <s key="Fixed sky"/>
+  <s key="Edit" value="გასვლა"/>
+  <s key="Reload"/>
+  <s key="Minimized"/>
+  <s key="affects wind only"/>
+  <s key="Broadcast"/>
+  <s key="Share"/>
+  <s key="Publishing"/>
+  <s key="Authorizing"/>
+  <s key="Published!"/>
+  <s key="Space"/>
+  <s key="Weather now in {0}"/>
+  <s key="Weather forecast for {0} in {1}"/>
+  <s key="Today in {0} (forecast)"/>
+  <s key="Tomorrow in {0} (forecast)"/>
+  <s key="Forecast"/>
+  <s key="Sound"/>
+  <s key="Enable sound"/>
+  <s key="Volume"/>
+  <s key="Skip"/>
+  <s key="Presented in Stereo"/>
+  <s key="Override current season"/>
+  <s key="Winter"/>
+  <s key="Spring"/>
+  <s key="Summer"/>
+  <s key="Autumn"/>
+  <s key="Naked"/>
+  <s key="Countries"/>
+  <s key="Vote!"/>
+  <s key="Vote for YoWindow, thank you"/>
+  <s key="More YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time"/>
+  <s key="And one more time"/>
+  <s key="Press the 'LIVE' button to return to current time"/>
+  <s key="Watch weather with pleasure"/>
+  <s key="Disable Auto-Lock"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%."/>
+  <s key="More"/>
+  <s key="Parallax effect"/>
+  <s key="An illusion of 3D space when you tilt the device"/>
+  <s key="Temperature in Status Bar"/>
+  <s key="Show temperature for &quot;Home&quot; location"/>
+  <s key="Not enough free space."/>
+  <s key="YoWindow may run unstable."/>
+  <s key="{0} MB minimum required."/>
+  <s key="YoWindow Weather"/>
+  <s key="YoWindow Zero"/>
+  <s key="Get Full Version"/>
+  <s key="No ads, no limitations, all landscapes available"/>
+  <s key="No advertising"/>
+  <s key="Remove ads"/>
+  <s key="Weather forecast is limited"/>
+  <s key="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited."/>
+  <s key="Connecting to {0}"/>
+  <s key="Camera"/>
+  <s key="Photos"/>
+  <s key="Wallpaper"/>
+  <s key="Enable animations"/>
+  <s key="Show weather"/>
+  <s key="No animation - almost no battery power consumed."/>
+  <s key="Widget Settings"/>
+  <s key="Create Widget"/>
+  <s key="Tap to search for a location"/>
+  <s key="Show background"/>
+  <s key="Move On Top"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort"/>
+  <s key="Tap to continue"/>
+  <s key="YoWindow installed on an external storage."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)."/>
+  <s key="Location Search"/>
+  <s key="Redeem code"/>
+  <s key="Full Version privilege granted."/>
+  <s key="Advertising removed, no limitations."/>
+  <s key="Unexpected code"/>
+  <s key="Restore privileges"/>
+  <s key="Set As Wallpaper"/>
+  <s key="Post"/>
+  <s key="Enter the message"/>
+  <s key="Fill in the weather"/>
+  <s key="You just have posted to Facebook!"/>
+</body>

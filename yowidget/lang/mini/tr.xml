@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="İptal"/>
+  <s key="Change" value="Değiştir"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Hava Durumu {0}, Norveç Meteoroloji Enstitüsü ve NRK tarafından teslim ediliyor"/>
+  <s key="Forecast from {0}" value="Hava tahmini {0} tarafından"/>
+  <s key="Friday" value="Cuma"/>
+  <s key="Monday" value="Pazartesi"/>
+  <s key="Saturday" value="Cumartesi"/>
+  <s key="Sunday" value="Pazar"/>
+  <s key="Thursday" value="Perşembe"/>
+  <s key="Tuesday" value="Salı"/>
+  <s key="Wednesday" value="Çarşamba"/>
+  <s key="Fr" value="Cum"/>
+  <s key="Mo" value="Pzt"/>
+  <s key="Sa" value="Cts"/>
+  <s key="Su" value="Paz"/>
+  <s key="Th" value="Per"/>
+  <s key="Tu" value="Sal"/>
+  <s key="We" value="Çar"/>
+  <s key="LIVE" value="ŞU AN"/>
+  <s key="Loading" value="Yükleniyor"/>
+  <s key="April" value="Nisan"/>
+  <s key="August" value="Ağustos"/>
+  <s key="December" value="Aralık"/>
+  <s key="February" value="Şubat"/>
+  <s key="January" value="Ocak"/>
+  <s key="July" value="Temmuz"/>
+  <s key="June" value="Haziran"/>
+  <s key="March" value="Mart"/>
+  <s key="May" value="Mayıs"/>
+  <s key="November" value="Kasım"/>
+  <s key="October" value="Ekim"/>
+  <s key="September" value="Eylül"/>
+  <s key="Network error" value="Ağ hatası"/>
+  <s key="No weather" value="Hava bilgisi yok"/>
+  <s key="Retry" value="Tekrar dene"/>
+  <s key="Tomorrow" value="Yarın"/>
+  <s key="Updating weather" value="Hava durumu güncelleniyor"/>
+  <s key="Please wait..." value="Lütfen bekleyiniz..."/>
+  <s key="Weather expired" value="Hava durumu eskimiş"/>
+  <s key="Loading" value="Yükleniyor"/>
+</body>

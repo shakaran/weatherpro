@@ -1,0 +1,256 @@
+
+# Language file for plaintext-parser.php program
+# Version 1.11 - 26-Sep-2007
+# translation - Spanish by Aerolugo, Luis Gil  http://meteo.aerolugo.com/
+#
+charset|ISO-8859-1|
+Langlookup|Month:|Mes:|
+langlookup|Weekly Climatic Data;|Datos climáticos semanal;|
+langlookup|Monthly Climatic Data;|Datos climáticos mensual;|
+langlookup|Monthly|Mensual|
+langlookup|Scripts from|Scripts de|
+langlookup|Weatherprogram|Programa de Tiempo|
+langlookup|Weather program|Programa de Tiempo|
+langlookup|3 Hours Forecast For Germany|3 h pronóstico para Alemania|
+langlookup|WSWIN Weather Reports|WSWIN informes meteorológicos|
+langlookup|The overviews of WSWIN are in terms of rainfall more accurately, because here the results of the Hellmann rain meter are incorporated.|Las descripciones generales de WSWIN están en términos de precipitaciones, más exactamente, porque aquí los resultados del medidor de lluvia Hellmann se incorporan.|
+langlookup|Last 24 h|Últimas 24 h|
+langlookup|Comfortable|Cómodo|
+lang|Cloudy in the morning|Nuboso por la mañana|
+langlookup| becoming | cambiando a |
+langlookup|Dense overcast|Cubierto|
+langlookup|dense overcast|cubierto|
+langlookup| then | después |
+langlookup| the | la |
+langlookup|afternoon|tarde|
+langlookup|Mostly cloudy|Muy nuboso|
+langlookup|mostly cloudy|muy nuboso|
+langlookup|cloudy|nuboso|
+langlookup|Patchy|Nubes y claros, |
+langlookup|slight|suave|
+langlookup|light|ligera|
+langlookup|fog|niebla|
+langlookup|Partly|Parcialmente|
+langlookup|UV index up to|Indice ultravioleta:|
+langlookup|UV index more than|Indice ultravioleta mayor de|
+langlookup|down to|hasta|
+langlookup| to | o |
+langlookup|gusting|racheado|
+langlookup|Precipitation mostly|Precipitación|
+langlookup|mostly|bastante|
+langlookup|after|después de|
+langlookup|midnight|medianoche|
+langlookup|morning|mañana|
+langlookup|Mostly|Bastante|
+langlookup|partly|parcialmente|
+langlookup|Light|Ligera|
+langlookup|moderate|moderada|
+langlookup|evening|tarde|
+langlookup|Dense|Denso|
+langlookup|overcast|cubierto|
+langlookup|Moderate|Moderada|
+langlookup|dense|denso|
+langlookup|sunny|soleado|
+langlookup|Mist|Niebla|
+langlookup|mist|miebla|
+langlookup|Rain likely|Probabilidad de lluvia|
+langlookup|rain likely|probabilidad de lluvia|
+langlookup|Snow likely|Probabilidad de nieve|
+langlookup|rain|Precipitaciones|
+langlookup|around|alrededor de|
+langlookup|slight|ligera|
+langlookup|A | |
+langlookup|chance of|Posibilidad de|
+langlookup|High|Máxima:|
+langlookup|Low|Mínima:|
+langlookup|but|pero|
+langlookup|temperatures falling|temperaturas en descenso|
+langlookup|temperatures rising|temperaturas en ascenso|
+langlookup| light | ligera |
+langlookup| in | por |
+langlookup|Wind chill|Temperatura de sensación|
+langlookup|Wind Chill|Temperatura de sensación|
+langlookup|Wind|Viento del|
+langlookup|northeast|noreste|
+langlookup|northwest|noroeste|
+langlookup|southeast|sureste|
+langlookup|southwest|suroeste|
+langlookup|north-|norte-|
+langlookup|east-|este-|
+langlookup|south-|sur-|
+langlookup|west-|oeste-|
+langlookup| north | norte |
+langlookup| east | este |
+langlookup| south | sur |
+langlookup| west | oeste |
+langlookup|down |por debajo |
+langlookup| or | o |
+langlookup|around|alrededor de|
+langlookup|kph|km/h|
+langlookup|Chance of precipitation|Posibilidad de precipitación|
+langlookup|percent|%|
+langlookup| evening | tarde |
+langlookup|near|cerca|
+langlookup|less than|menos de|
+langlookup|snow|nieve|
+langlookup|Precipitation (liquid equivalent)|Precipitación (equivalente líquido)|
+langlookup|between|entre|
+langlookup| and | y |
+langlookup|Precipitation|Precipitación|
+langlookup|No snow accumulation expected|No se espera acumulación de nieve|
+langlookup|accumulation expected|espesor previsible|
+langlookup|Little|Poco|
+langlookup| no | no |
+langlookup|snow |nieve |
+langlookup|Snow accumulation|Acumulación de nieve |
+langlookup|about|sobre la estación|
+langlookup| one | un |
+langlookup|showery of intermittent|chubascos intermitentes|
+langlookup|No |No |
+langlookup|Fair |Poco nuboso |
+langlookup|fair |poco nuboso |
+langlookup|Cloudy|Nuboso|
+langlookup|calm|calma|
+langlookup|Clear|Despejado|
+langlookup|clear|despejado|
+langlookup|Sunny|Soleado|
+langlookup| ice | hielo |
+langlookup|freezing|helada|
+langlookup|sleet|aguanieve|
+langlookup|a mix of|mezcla de|
+langlookup|if any|si hay|
+langlookup|on ground|en el terreno|
+langlookup|patchy|nubes y claros, |
+langlookup|Thunderstorms likely, some possibly severe|Posiblemente tormentas, alguna puede ser intensa|
+langlookup|Some thunder possible.|Posible aparato eléctrico.|
+langlookup|Some thunderstorms likely|Probabilidad de tormentas|
+langlookup|of an inch|de pulgada|
+langlookup|half an inch|media pulgada|
+langlookup|a quarter|un cuarto|
+langlookup|a tenth|un décimo|
+langlookup| inch| pulgada|
+#
+# Translation of headings, periods and short conditions statements
+# headings
+#
+langlookup|WXSIM Forecast for:|Pronóstico WXSIM para:|
+langlookup|Issued by:|Generado por:|					
+langlookup|Updated:|Actualizado:|					
+langlookup|High:|Máx:|
+langlookup|Low:|Mín:|
+#
+langlookup|Sunday|Domingo|
+langlookup|Monday|Lunes|
+langlookup|Tuesday|Martes|
+langlookup|Wednesday|Miércoles|
+langlookup|Thursday|Jueves|
+langlookup|Friday|Viernes|
+langlookup|Saturday|Sábado|
+langlookup|Sunday night|Domingo noche|
+langlookup|Monday night|Lunes noche|
+langlookup|Tuesday night|Martes noche|
+langlookup|Wednesday night|Miércoles noche|
+langlookup|Thursday night|Jueves noche|
+langlookup|Friday night|Viernes noche|
+langlookup|Saturday night|Sábado noche|
+langlookup|Today|Hoy|
+langlookup|Tonight|Esta noche|
+langlookup|This afternoon|Esta tarde|
+langlookup|Rest of tonight|Resto de&nbsp;la&nbsp;noche|
+# UV Index words
+langlookup|Low|Baja|
+langlookup|Medium|Medio|
+langlookup|High|Alto|
+langlookup|Very&nbsp;High|Muy&nbsp;alto|
+langlookup|Extreme|Extremo|
+# Summary conditions lookup
+langlookup|Severe storm|Tormenta severa|
+langlookup|Showers storms|Chubascos|
+langlookup|Thunder storm|Tormenta eléctrica|
+langlookup|Rain Sleet|Aguanieve|
+langlookup|FrzgRn Snow|Lluvia helada/nieve|
+langlookup|Rain and Snow|Lluvia y Nieve|
+langlookup|Freezing Rain|Lluvia helada|
+langlookup|Rain likely|Probáblemente lluvioso|
+langlookup|Chance rain|Posibilidad de lluvia|
+langlookup|Mix|Mezcla|
+langlookup|Sleet|Aguanieve|
+langlookup|Snow|Nieve|
+langlookup|Fog a.m.|Nieblas matinales|
+langlookup|Fog late|Nieblas nocturnas|
+langlookup|Fog|Niebla|
+langlookup|Very Cold|Mucho frío|
+langlookup|Very Hot|Mucho calor|
+langlookup|Partly Cloudy|Parcialmente nuboso|
+langlookup|Mostly Cloudy|Muy nuboso|
+langlookup|Cloudy|Nuboso|
+langlookup|Overcast|Cubierto|
+langlookup|Partly Sunny|Poco nuboso|
+langlookup|Mostly Sunny|Muy poco nuboso|
+langlookup|Mostly Clear|Prácticamente despejado|
+langlookup|Sunny|Soleado|
+langlookup|Clear|Despejado|
+langlookup|Fair|Poco nuboso |
+langlookup|Variable Clouds|Nubosidad variable|
+# translation for cardinal wind directions must be in North-East-South-West order
+langlookup|NESW|NESO|
+# translation for Beaufort Wind Force|
+langlookup|Calm|Calma|
+langlookup|Light air|Ventolina|
+langlookup|Light breeze|Flojito|
+langlookup|Gentle breeze|Flojo|
+langlookup|Moderate breeze|Bonancible|
+langlookup|Fresh breeze|Fresquito|
+langlookup|Strong breeze|Fresco|
+langlookup|Near gale|Frescachón|
+langlookup|Gale|Temporal|
+langlookup|Strong gale|Temporal fuerte|
+langlookup|Storm|Temporal duro|
+langlookup|Violent storm|Temporal muy duro|
+langlookup|Hurricane|Temporal huracanado|
+# Vantage Wettervorhersagen
+langlookup|Clearing, cooler and windy|Cielo despejado, descenso de las temperaturas, viento fuerte|
+langlookup|Forecast requires 3 hours of recent data|El pronóstico requiere al menos 3 datos válidos de 3 tres horas
+langlookup|Increasing clouds and cooler|Incremento de la nubosidad y ascenso  de temperaturas|
+langlookup|Increasing clouds and warmer|Incremento de la nubosidad  y ascenso de temperaturas|
+langlookup|Increasing clouds with little temperature change|Incremento de la nubosidad y la temperatura se mantiene|
+langlookup|Increasing winds|Incremento de la ventosidad|
+langlookup|Mostly clear and cooler|Cielo ligeramente nuboso y ligero descenso  de  temperaturas|
+langlookup|Mostly clear and warmer|Ligeramente nuboso y ligero ascenso  de  temperaturas|
+langlookup|Mostly clear for 12 hours with little temperature change|Cielo  casi totalmente despejado, temperaturas estables en las próximas 12 horas|
+langlookup|Mostly clear for 12 to 24 hours and cooler|Cielo casi totalmente despejado en las próximas 12 a 24 horas y descenso de  temperaturas|
+langlookup|Mostly clear with little temperature change|Cielo casi totalmente despejado|
+langlookup|Mostly cloudy and cooler|Cielo casi totalmente despejado y descenso de  temperaturas|
+langlookup|Mostly cloudy with little temperature change|Cielo casi totalmente nuboso y  temperaturas estables|
+langlookup|Partly cloudy and cooler|Cielo parcialmente nuboso y descenso de  temperaturas|
+langlookup|Partly cloudy with little temp. change|Cielo parcialmente nuboso y temperaturas estables|
+langlookup|Partly cloudy with little temperature change|Cielo parcialmente nuboso y temperaturas estables|
+langlookup|Possible wind shift to the W, NW, or N|Posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Possible wind shift to the w,nw, or n|Posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Precipitation continuing|Precipitaciones persistentes|
+langlookup|Precipitation continuing, possibly heavy at times|Precipitaciones persistentes con posibilidad de fuertes chubascos|
+langlookup|Precipitation ending within 12 hours|Fin de las precipitaciones en las próximas 12 horas|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|Fin de las precipitaciones en las próximas 12 horas. Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the w,nw, or n|Fin de las precipitaciones en las próximas 12 horas. Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Precipitation ending within 6 hours|Fin de las precipitaciones en las próximas 6 horas|
+langlookup|Precipitation likely|Riesgo de precipitaciones|
+langlookup|Precipitation possible and windy within 6 hours|Riesgo de precipitaciones y vientos fuertes  en las próximas 6 horas| 
+langlookup|Precipitation possible within 12 hours|Riesgo de precipitaciones en las próximas 12 horas| 
+langlookup|Precipitation possible within 12 hours, possibly heavy at times|Riesgo de precipitaciones en las próximas 12 horas con posibilidad de fuertes chubascos|
+langlookup|Precipitation possible within 12 to 24 hours|Riesgo de precipitaciones en las próximas 12 a 24 horas|
+langlookup|Precipitation possible within 12 to 24 hours Windy|Riesgo de precipitaciones en las próximas 12 a 24 horas|
+langlookup|Precipitation possible within 24 hours|Riesgo de precipitaciones en las próximas 24 horas|
+langlookup|Precipitation possible within 24 to 48 hours|Riesgo de precipitaciones en las próximas 24 a 48 horas|
+langlookup|Precipitation possible within 6 hours|Riesgo de precipitaciones en las próximas 6 horas|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|Riesgo de precipitaciones en las próximas 6 horas.  Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the w,nw, or n|Niederschläge möglich in den nächsten 6 Stunden. Windig mit mögliche Windänderung nach W, NW oder N .| Riesgo de precipitaciones en las próximas 6 horas.|  Viento fuerte  con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte
+langlookup|Precipitation possible within 6 to 12 hours windy|Riesgo de precipitaciones  en las próximas 6 a 12 horas. Viento fuerte
+langlookup|Precipitation possible within 6 to 12 hours, possibly heavy at times|Riesgo de precipitaciones  en las próximas 6 a 12 horas con posibilidad de fuertes chubascos langlookup|Precipitation possible within 12 hours|
+langlookup|Precipitation possibly heavy at times and ending within 12 hrs|Riesgo de precipitaciones   con posibilidad de fuertes chubascos e las próximas 12 horas|
+langlookup|Windy|Viento fuerte|
+langlookup|Windy with possible wind shift to the W  NW  Or N|Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Windy with possible wind shift to the W, NW, or N|Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+langlookup|Windy with possible wind shift to the w, nw, or n|Viento fuerte con posible cambio de dirección del viento hacia el Oeste, Noroeste o hacia el Norte|
+
+#Ende Vantage
+# --- end of language file ------

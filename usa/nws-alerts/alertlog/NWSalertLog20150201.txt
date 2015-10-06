@@ -1,0 +1,160 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Montgomery County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  1 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Southern Fulton County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  2 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Schoharie County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  3 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Southern Herkimer County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  4 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Western Schenectady County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  5 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Southern Saratoga County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  6 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Northern Fulton County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  7 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Northern Herkimer County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  8 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Eastern Schenectady County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  9 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Northern Saratoga County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Montgomery; Northeastern Nye County; Northern Fulton; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 9 PM THIS EVENING
+TO 6 PM EST MONDAY',
+  ),
+  10 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Otsego County',
+    2 => 1422780180,
+    3 => 1422910800,
+    4 => 'WSW.gif',
+    5 => 'Broome; Chemung; Chenango; Cortland; Delaware; Otsego; Schuyler; Steuben; Sullivan; Tioga; Tompkins; Yates',
+    6 => 'WINTER STORM WARNING REMAINS IN EFFECT FROM 4 PM THIS
+AFTERNOON TO 4 PM EST MONDAY',
+  ),
+  11 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Southern Herkimer County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Hamilton; Northern Herkimer; Northern Warren; Northern Washington',
+    6 => 'WINTER STORM WARNING IN EFFECT FROM MIDNIGHT TONIGHT TO 6 PM
+EST MONDAY',
+  ),
+  12 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Northern Herkimer County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Hamilton; Northern Herkimer; Northern Warren; Northern Washington',
+    6 => 'WINTER STORM WARNING IN EFFECT FROM MIDNIGHT TONIGHT TO 6 PM
+EST MONDAY',
+  ),
+  13 => 
+  array (
+    0 => 'Winter Storm Warning',
+    1 => 'Hamilton County',
+    2 => 1422773580,
+    3 => 1422918000,
+    4 => 'WSW.gif',
+    5 => 'Hamilton; Northern Herkimer; Northern Warren; Northern Washington',
+    6 => 'WINTER STORM WARNING IN EFFECT FROM MIDNIGHT TONIGHT TO 6 PM
+EST MONDAY',
+  ),
+);
+
+?>

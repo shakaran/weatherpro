@@ -1,0 +1,304 @@
+|pagename|tagsCU|!      http://wiki.sandaysoft.com/a/Webtags
+|version|3.01 2015-05-29|!
+|datetime|20150602181500|!
+
+|date|20150602|!
+|time|181500|!
+
+|fromtemp|C|!  //  values "C" or "F"
+
+|tempAct|19,4|!
+|tempDelta|+0,4|!
+
+|tempMinToday|11,4|!
+|tempMinTodayTime|06:10|!
+|tempMinYday|9,7|!
+|tempMinYdayTime|06:04|!
+|tempMinMonth|9,7|!
+|tempMinMonthTime|20150601060432|!
+|tempMinYear|-3,8|!
+|tempMinYearTime|20150207075607|!
+|tempMinAll|-10,7|!
+|tempMinAllTime|20130313074026|!
+
+|tempMaxToday|19,5|!
+|tempMaxTodayTime|17:38|!
+|tempMaxYday|18,7|!
+|tempMaxYdayTime|16:22|!
+|tempMaxMonth|19,5|!
+|tempMaxMonthTime|20150602173832|!
+|tempMaxYear|27,4|!
+|tempMaxYearTime|20150511160606|!
+|tempMaxAll|37,3|!
+|tempMaxAllTime|20120818171044|!
+
+|dewpAct|14,2|!
+|dewpDelta|14,1|!
+
+|dewpMinToday|7,1|!
+|dewpMinTodayTime|00:12|!
+|dewpMinYday|5,3|!
+|dewpMinYdayTime|11:59|!
+|dewpMinMonth|5,3 |!
+|dewpMinMonthTime|20150601115919|!
+|dewpMinYear|-5,1|!
+|dewpMinYearTime|20150207082822|!
+|dewpMinAll|-12,1|!
+|dewpMinAllTime|20130313073506|!
+
+
+|dewpMaxToday|14,6|!
+|dewpMaxTodayTime|17:15|!
+|dewpMaxYday|11,8|!
+|dewpMaxYdayTime|00:00|!
+|dewpMaxMonth|14,6 |!
+|dewpMaxMonthTime|20150602171519|!
+|dewpMaxYear|17,1|!
+|dewpMaxYearTime|20150505094256|!
+|dewpMaxAll|23,4|!
+|dewpMaxAllTime|20130805201758|!
+
+|appTemp|19,0|!
+
+|appTempMinToday|9,9|
+|appTempMinTodayTime|05:46|
+|appTempMinYday|8,9|
+|appTempMinYdayTime|06:06|
+|appTempMinMonth|8,9|!
+|appTempMinMonthTime|20150601060613|!
+|appTempMinYear|-6,4|!
+|appTempMinYearTime|20150207082612|!
+|appTempMinAll|-13,9|!
+|appTempMinAllTime|20130313074029|!
+
+|appTempMaxToday|19,4|
+|appTempMaxTodayTime|17:15|
+|appTempMaxYday|17,4|
+|appTempMaxYdayTime|16:20|
+|appTempMaxMonth|19,4|!
+|appTempMaxMonthTime|20150602171519|!
+|appTempMaxYear|27,7|!
+|appTempMaxYearTime|20150511160616|!
+|appTempMaxAll|40,1|!
+|appTempMaxAllTime|20120819161718|!
+
+|heatAct|19,4|!
+|heatDelta|19,3|!
+
+|heatMaxToday|19,5|!
+|heatMaxTodayTime|17:38|!
+|heatMaxYday|18,7|!
+|heatMaxYdayTime|16:22|!
+|heatMaxMonth|19,5|!
+|heatMaxMonthTime|20150602173832|!
+|heatMaxYear|27,2|!
+|heatMaxYearTime|20150511160606|!
+|heatMaxAll|40,1|!
+|heatMaxAllTime|20120819161426|!
+
+|chilAct|19,4|!
+|chilDelta|19,3|!
+
+|chilMinToday|10,9|!
+|chilMinTodayTime|05:46|!
+|chilMinYday|9,7|!
+|chilMinYdayTime|06:04|!
+|chilMinMonth|9,7|!
+|chilMinMonthTime|20150601060432|!
+|chilMinYear|-4,1|!
+|chilMinYearTime|20150206091737|!
+|chilMinAll|-10,7|!
+|chilMinAllTime|20130313074026|!
+
+|chilMaxToday|--|!
+|chilMaxTodayTime|--|!
+
+|tempActInside|20,3|!
+|tempActExtra1|24,4|!
+|tempActExtra2|0,0|!
+
+|hudxAct|22,8|!
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|hPa|!                //  "mb", "hPa", "in"
+
+|baroAct|1011,18|!
+|baroDelta|0,33|!
+|baroTrend|Rising|!
+
+|baroMinToday|1008,33|!
+|baroMinTodayTime|08:11|!
+|baroMinYday|1010,06|!
+|baroMinYdayTime|00:06|!
+|baroMinMonth|1008,33|!
+|baroMinMonthTime|20150602081104|!
+|baroMinYear|971,93|!
+|baroMinYearTime|20150129215807|!
+|baroMinAll|971,93|!
+|baroMinAllTime|20150129215807|!
+
+|baroMaxToday|1011,79|!
+|baroMaxTodayTime|00:00|!
+|baroMaxYday|1011,79|!
+|baroMaxYdayTime|13:25|!
+|baroMaxMonth|1016,16|!
+|baroMaxMonthTime|20150601132503|!
+|baroMaxYear|1040,57|!
+|baroMaxYearTime|20150218082203|!
+|baroMaxAll|1040,57|!
+|baroMaxAllTime|20150218082203|!
+
+------------------------------------------humidity-----------------------------------
+|humiAct|72|!
+|humiDelta|72|!
+
+|humiMinToday|67|!
+|humiMinTodayTime|00:00|! 
+|humiMinYday|46|!
+|humiMinYdayTime|14:40|!
+|humiMinMonth|46|!
+|humiMinMonthTime|20150601144022|!
+|humiMinYear|28|!
+|humiMinYearTime|20150410161737|!
+|humiMinAll|23|!
+|humiMinAllTime|20120908123607|!
+
+|humiMaxToday|87|!
+|humiMaxTodayTime|06:10|!
+|humiMaxYday|94|!
+|humiMaxYdayTime|00:00|!
+|humiMaxMonth|94|!
+|humiMaxMonthTime|20150601000000|!
+|humiMaxYear|98|!
+|humiMaxYearTime|20150126082503|!
+|humiMaxAll|99|!
+|humiMaxAllTime|20121007090921|!
+
+|humiInAct|54|!
+|humiActExtra1|0|!
+|humiActExtra2|0|!
+------------------------------------------rain---------------------------------------
+|fromrain|mm|!         //  "mm" or "inches"
+
+|rainRateAct|0,0|!
+
+|rainRateMaxToday|1,0|!
+|rainRateMaxYday|0,0|!
+
+|lastRained|20150602062700|!
+
+|rainHourAct|0,0|!
+|rainHourMaxToday|0,4|!
+|rainHourMaxYday|0,2|!
+
+|rainToday|0,8|!
+|rainYday|0,0|!
+|rainWeek|                      ?|!
+|rainMonth|0,8|!
+|rainYear|205,8|!
+
+|rainTodayLow|          ?|!
+|rainYdayLow|           ?|!
+|rainYdayHigh|          ?|! 
+|rainRateYday|          ?|!
+
+
+|rainDayMnth|           ?|!
+|rainDayYear|           ?|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|1,35|!
+|etYday|--|!
+
+|etMonth|--|!
+|etYear|--|!
+------------------------------------------wind---------------------------------------
+|fromwind|m/s|!      //  "m/s", "mph", "km/h", "kts" ?? 'kmh' 'Bft'??  windrun  "km", "miles", "km", "nm"
+
+|windAct|7,2|!
+|gustAct|9,4|!
+|windActDsc|SW|!
+|windActDir|231|!
+
+|windBeafort|2|!
+
+|windAvgDir|225|!
+
+|gustMaxToday|9,4|!
+|gustMaxTodayTime|18:10|!
+|gustMaxYday|5,4|!
+|gustMaxYTime|13:43|!
+|gustMaxMonth|9,4|!
+|gustMaxMonthTime|20150602181022|!
+|gustMaxYear|13,4|!
+|gustMaxYearTime|20150331042250|!
+|gustMaxAll|13,4|!
+|gustMaxAllTime|20150331042250|!
+
+|fromdistance|km|!
+|windrunToday|110,6|!
+|------------------------------------------UV---------------------------------------
+|uvAct|0,7|!
+
+|uvMaxToday|6,3|!
+|uvMaxTodayTime|13:14|!
+|uvMaxYday|5,7|!
+|uvMaxYdayTime|13:42|!
+
+|uvMaxMonth|--|!
+|uvMaxMonthTime|--|!
+|uvMaxYear|--|!
+|uvMaxYearTime|--|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|151|!
+|solarActPerc|--|! 
+
+|solarMaxToday|798|!
+|solarMaxTodayTime|13:15|!
+|solarMaxYday|1148|!
+|solarMaxYdayTime|13:49|!
+
+|solarMaxMonth|--|!
+|solarMaxMonthTime|--|!
+|solarMaxYear|--|!
+|solarMaxYearTime|--|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|ft|!
+|cloudHeight|2119|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt| Increasing clouds with little temperature change. |!
+|------------------------------------------moon---------------------------------------
+|moonrise|21:24|!
+|moonset|05:40|!
+|lunarPhasePerc|100|!
+|lunarAge|14|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|1.9.3|!
+|wsBuild|1059|!
+|wsHardware|Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz Windows 7 Service Pack 1 build 7601|!
+|wsUptime|18 days 5 hours|!
+|-------------------------------------- soil
+|soilTempAct|12,8 12,8 0,0 19,4|!
+|soilMoistAct|37 29 0 27|!
+|leafTempAct|12,8 12,8|!
+|leafWetAct|0 0|!
+
+|-------------------------------------- trends 
+|trendsMinutes|0 5 10 15 20 30 45 60 75 90 105 120 |!
+|tempArray|19,4#19,3#19,3#19,4#19,4#19,5#19,3#19,1#18,8#18,7#18,3#18,2 |!
+|windArray|7,2#1,8#2,7#1,8#4,5#4,5#2,2#1,3#1,8#2,2#2,7#1,8 |!
+|gustArray|9,4#1,8#2,7#1,8#4,5#4,5#2,2#1,3#1,8#2,2#2,7#1,8 |!
+|wdirArray|231#232#236#275#215#239#215#262#249#205#284#264 |!
+|humiArray|72#72#72#72#72#72#73#74#75#75#75#76 |!
+|baroArray|1011,18#1011,04#1011,11#1011,08#1011,11#1011,04#1010,91#1010,74#1010,60#1010,70#1010,47#1010,47 |!
+|rainArray|0,8#0,8#0,8#0,8#0,8#0,8#0,8#0,8#0,8#0,8#0,8#0,8 |!
+|solarArray|151#141#100#76#84#114#167#139#114#97#139#113 |!
+|uvArray|0,7#0,6#0,5#0,0#0,5#0,6#0,9#0,8#0,7#0,7#1,0#0,8 |!
+
+
+
+
+

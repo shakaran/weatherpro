@@ -1,0 +1,7 @@
+<landscape name="Seaside" type="plugin" id="com.yowindow.seaside">
+	<data src="seaside.swf">
+        <about>(C) RepkaSoft
+Art: Alex Anashkin, Yuri Elshin
+Programming: Pavel Repkin</about>
+	</data>
+</landscape>

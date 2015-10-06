@@ -1,0 +1,17 @@
+Wind
+format
+language 0
+tf_mode 1
+last_num 24
+last_ind 1
+tr_ind 0
+crop 0
+xsize 300
+ysize 300
+fontsize 7
+dspmode 2
+vec_unit 0
+vec_measure 1
+vec_measuremax 25
+vec_sensor sdir0 (wind)
+vec_sensorname wind

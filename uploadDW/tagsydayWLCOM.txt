@@ -1,0 +1,58 @@
+# generated at 03-06-2015 14:07 Europe/Brussels
+|versionYday|3.02 2015-04-20|!
+|pagenameYday|yesterday.php|!
+|fromtempYday|&deg;C|!
+|datetimeYday|20141029135957|!
+|tempMinYday|9.1|!
+|tempMinYdayTime|20150603114100|!
+|tempMaxYday|14|!
+|tempMaxYdayTime|20150603000000|!
+|dewpMinYday|7.2|!
+|dewpMinYdayTime|20150603114100|!
+|dewpMaxYday|11.1|!
+|dewpMaxYdayTime|20150603222200|!
+|chilMinYday|8.9|!
+|chilMinYdayTime|20150603081100|!
+|heatMaxYday|13.9|!
+
+|frombaroYday| hPa|!
+|baroMinYday|1014.2|!
+|baroMinYdayTime|20150603111600|!
+|baroMaxYday|1016.9|!
+|baroMaxYdayTime|20150603205200|!
+|humiMinYday|72|!
+|humiMinYdayTime|20150603000000|!
+|humiMaxYday|95|!
+|humiMaxYdayTime|20150603184100|!
+|fromrainYday| mm|!
+|rainRateYday|0|!
+|rainYday|2|!
+|etYday|0.4|!
+|fromwindYday| km/h|!
+|gustMaxYday|19.3|!
+|gustMaxYdayTime|20150603000000|!
+|uvMaxYday|0.6|!
+|uvMaxYdayTime|20150603000000|!
+|solarMaxYday|255|!
+|solarMaxYdayTime|20150603000000|!
+|heatMaxYdayTime|20150603000000|!
+|soilTempMaxYday_1|12.8|!
+|soilTempMinYday_1|12.2|!
+|soilTempMaxYdayTime_1|20150603031900|!
+|soilTempMinYdayTime_1|20150603092900|!
+|moistMaxYday_1|11|!
+|moistMinYday_1|11|!
+|moistMaxYdayTime_1|20150603031900|!
+|moistMinYdayTime_1|20150603031900|!
+|soilTempMaxYday_2|13.3|!
+|soilTempMinYday_2|12.8|!
+|soilTempMaxYdayTime_2|20150603031700|!
+|soilTempMinYdayTime_2|20150603214700|!
+|moistMaxYday_2|14|!
+|moistMinYday_2|14|!
+|moistMaxYdayTime_2|20150603031700|!
+|moistMinYdayTime_2|20150603031700|!
+|leafWetMaxYday_1|15|!
+|leafWetMinYday_1|0|!
+|leafWetMaxYdayTime_1|20150603214800|!
+|leafWetMinYdayTime_1|20150603031500|!

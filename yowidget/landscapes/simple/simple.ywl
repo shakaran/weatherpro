@@ -1,0 +1,4 @@
+<landscape name="Simple Landscape" type="plugin" id="com.yowindow.simple">
+	<data src="simple.swf">
+	</data>
+</landscape>

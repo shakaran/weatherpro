@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- menu control file for wsMenuLoad.php program -->
+<menu>
+<dateVersion>3.20 2015-07-13</dateVersion>
+<item	nr      = "wsStartPage"	
+        caption = "Actual weather"
+        link    = "wsStartPage.php"			
+        css     = "styleColom20.css"
+        gizmo   = "1"	
+/>
+<item	nr      = "wsForecast"	
+        caption = "Forecast"
+        img     = "img/menu_updated.gif"
+        link    = "wsForecast.php"			
+        gizmo   = "1"	
+/>	
+<item 	nr      = "wsPrecipRadar"
+	caption = "Precipitation"
+	link    = "wsPrecipRadar.php"
+/>
+<item 	nr      = "wrnPrintWarnings"  		show    = "warningsEuro"
+	caption = "Advisories"
+	link    = "europe/wrnPrintWarnings.php" 
+/>	
+<item 	nr      = "noaaDetailPage"  		show    = "warningsNOAA"
+	caption = "Advisories"	
+	link    = "usa/noaa_warn/noaaDetailPage.php" 
+/>
+<item 	nr      = "wsnws-details"  		show    = "warningsNWS"
+	caption = "Advisories"
+	link    = "usa/nws-alerts/wsnws-details.php" 
+/>
+<item 	nr      = "ec_print_warn"  		show    = "warningsec"
+	caption = "Advisories"
+	link    = "canada/ec_print_warn.php" 
+/>
+<item	nr      = "ws_wind_map_2"	
+	caption = "Wind"
+	link    = "inc/ws_wind_map_2.php"			
+/>
+<item   caption= "Sun/Moon/Earth">
+	<item 	nr      = "astronomy"
+		caption = "Sun  and moon"
+		link    = "inc/astronomy.php"
+        />
+	<item 	nr      = "Earthquakes"
+	        caption = "Earthquakes" 
+	 	link    = "quake/ws_quake.php"
+	 />
+	<item 	nr      = "Space"
+		caption = "Space information"
+		link    = "inc/incSpace.php"
+        />
+</item>
+<item 	nr      = "wsCustomize"  		show    = "cookieSupport"
+		caption = "Customize" 
+		link    = "wsCustomize.php"									
+		gizmo   = "1" 			
+/>
+<item 	nr      = "configure_page"  show    = "wsDebug"
+		caption = "Configure"	
+		link    = "configure/configure_page.php"
+		css     = "configure/configure_css.css" 
+/>
+<item   caption= "More radar / maps">
+	<item 	nr      = "cloudRadarv3"		
+		caption = "Clouds"
+		link    = "inc/cloudRadarv3.php"
+        />
+	<item 	nr      = "thunderRadar"
+		caption = "Thunderstorms"
+		link    = "inc/thunderRadar.php"
+        />
+        <item	nr      = "ws_flight_radar"	
+                caption = "Airplane radar"
+                link    = "inc/ws_flight_radar.php"			
+        />
+        <item	nr      = "ws_marine"	
+                caption = "Marine radar"
+                link    = "inc/ws_marine.php"    		
+        />
+        <item 	nr      = "hwakaartjes"  	show    = "hwaMember"
+		caption = "Weather maps"				
+		link    = "europe/hwakaartjes.php"
+        />
+        <item 	nr      = "ewnMapsBody2" 	show    = "ewnMember" 
+                caption = "EWN weather maps "
+                head    = "wsEwn/ewnMapsHead2.php"
+                link    = "wsEwn/ewnMapsBody2.php"
+        />
+</item>
+<item 	caption= "More advisories">
+	<item 	nr      = "printUV"
+		caption = "UV Index Forecast"
+		title   = "UV forecast and warnings by KNMI"
+		link    = "inc/printUV.php"
+        />
+	<item 	nr      = "ws_spc_main"  	show    = "noaaPage"
+		caption = "SPC Severe weather"
+		link    = "usa/ws_spc/ws_spc_main.php" 
+        />
+	<item 	nr      = "ws_sounding"  	show    = "noaaPage"
+		caption = "SPC Sounding"
+		link    = "usa/ws_spc/ws_sounding.php" 
+        />				
+	<item 	nr      = "airQualityBE_act"  	show    = "belgium"
+		caption = "Air Quality"
+		link    = "europe/airQualityBE_act.php" 
+	/>
+	<item 	nr      = "airQualityBE_fct" 	show    = "belgium"
+	        caption = "Air Quality fct"
+		link    = "europe/airQualityBE_fct.php" 
+        />
+	<item 	nr      = "ec_print_aqhi"  	show    = "canada"
+		img     = "new"
+		caption = "Air Quality"
+		link    = "canada/ec_print_aqhi.php" 
+	/>
+	<item	nr      = "us_aqhi_page"  	show    = "america"
+		caption = "Air Quality"
+		link    = "usa/aq/us_aqhi_page.php"
+	/>
+	<item 	nr      = "airQualityNL"	show    = "netherlands"
+		caption = "Air Quality"
+		link    = "europe/airQualityNL.php"
+        />
+</item>
+<item 	caption= "More Forecasts">
+	<item 	nr      = "ec_print_fct"  	show    = "ecPage"
+	        caption = "EC Forecast"
+		link    = "canada/ec_print_fct.php"
+        />
+	<item 	nr      = "noaa_full_page" 	show    = "noaaPage"
+		caption = "noaa extensive forecast"
+		link    = "usa/noaafct/noaa_full_page.php"
+        />
+	<item 	nr      = "noaa_plain_page" 	show    = "noaaPage"
+	 	caption = "noaa 1 page forecast"
+		link    = "usa/noaafct/noaa_plain_page.php"
+        />
+	<item 	nr      = "ws_metno_page" 	show    = "metnoPage"
+		caption = "MetNo forecast"
+		link    = "wsmetno3/ws_metno_page.php"
+        />
+	<item 	nr      = "ws_yrno_page" 	show    = "yrnoPage"
+	        caption = "YRno forecast"
+	        link    = "wsyrnofct/ws_yrno_page.php"		
+        />
+	<item 	nr      = "wu_fct_page" 	show    = "wuPage"
+                caption = "WU forecast"
+	        link    = "wuforecast/wu_fct_page.php"		
+        />	
+	<item 	nr      = "worldForecast2" 	show    = "worldPage"
+		caption = "World Weather forecast"
+		link    = "forecasts/worldForecast2.php"
+        />
+	<item 	nr      = "yahooForecast2" 	show    = "yahooPage"		
+		caption = "Yahoo forecast"
+		link    = "forecasts/yahooForecast2.php"
+        />
+	<item 	nr      = "hwaFullPage"  	show    = "hwaPage"
+		caption = "HWA forecast"	
+		link    = "wsHwa/hwaFullPage.php"	
+		css     = "styleColom20.css" 
+        />
+	<item 	nr      = "wsWxsimPrintFull" 	show    = "wxsimPage"
+		caption = "Our own forecast"	
+		link    = "wsWxsim/wsWxsimPrintFull.php"
+        />
+        <item 	nr      = "ewnFctHead2"  	show    = "ewnMember"
+        	caption = "EWN forecast"
+        	link    = "wsEwn/ewnFctBody2.php"
+        	head    = "wsEwn/ewnFctHead2.php"
+	/>
+        <item	nr      = "printKnmi"  		show    = "netherlands"	
+                caption = "KNMI verwachting"
+                link    = "europe/printKnmi.php"			
+        />
+        <item	nr      = "printZambretti"	
+                caption = "Zambretti forecast"
+                link    = "forecasts/printZambretti.php"    		
+        />
+</item>	
+<item 	caption= "Hhistory / almanac">		
+	<item 	nr      = "trends"  		show    = "trendPage"
+		caption = "Weather Trends"	
+		link    = "inc/trends.php" 				
+		gizmo   = "1"
+        />
+        <item 	nr      = "historyv3"
+                caption = "Weather History"
+                link    = "inc/historyv3.php"
+                gizmo   = "1"
+        />
+	<item 	nr      = "wsReports"   	show    = "wuHistPage"
+		caption = "Weather reports"
+		link    = "wsreports/wsReportsStart.php"
+		css     = "wsreports/wsReports.css"
+	/>	
+	<item 	nr      = "wsWUstart"  		show    = "wuHistPage"
+		caption = "WU History Txt"
+		head    = "wu/nofollow.txt" 
+		css     = "wu/WU-HistoryTan.css"
+		link    = "wu/wsWUstart.php"
+        />
+	<item 	nr      = "62-2" 		show    ='wuHistPage'
+		caption = "WU History Graphs"	
+		link    = "wsWuGraphs/wsWuGraphs.php"
+		head    = "wsWuGraphs/wsWuGraphsHead.php"
+	/>
+	<item 	nr      = "64"  		show    = "graphsPage"
+	 	caption = "Station Graphs seperate"
+	 	link    = "inc/graphs.php"
+        />
+	<item 	nr      = "65"  		show    = "MeteoplugPage"
+		caption = "All-in-One graph live"
+		link    = "scriptsMP/meteoplugAllInOne.php"
+        />
+	<item 	nr      = "69" 	
+		show    ='soilUsed'
+	 	caption = "Soil" 	
+	 	link    = "soil/soilTotals.php"						 
+		css     = "styleColom20.css"
+        />
+</item>
+
+<item   caption = "Live Data">
+	<item 	nr      = "21"			show    = "wdlPage"
+	        img     = "img/menu_updated.gif"
+	        caption = "WD Live" 	
+		link    = "wdl/incWdlive.php"	 	
+        />
+	<item 	nr      = "22"  		show    = "mwPage"
+	        img     = "img/menu_updated.gif"
+	        caption = "Meteoware Live"
+		link    = "mwlive/wsMWlive_v3.php"	
+        />	
+	<item 	nr      = "23"  		show    = "MeteoplugPage"
+	        caption = "WD Live Meteoplug" 
+		link    = "scriptsMP/meteoplugWDlive.php"					 			
+        />			
+	<item 	nr      = "24"  		show    = "MeteoplugPage"
+		caption = "Meteohub/plug Live Data"	                
+		link    = "scriptsMP/meteoplugDashboard.php"
+        />
+	<item 	nr      = "gaugePage" 		show    = "yes"
+		caption = "Steelseries"
+		link    = "gauges/gaugePage.php"
+        />
+	<item 	nr      = "26" 			show    = 'wuID'
+		caption= "WU live"
+		link    = "inc/WU_Live.php"
+        />	
+</item>	
+<item 	caption= "Mesonet">	
+        <item 	nr      ="31"			show    ="mesonetMember"
+		link    ="mesomaps/wnGeneralFrame.php"			
+		caption ="Local Network"
+		title   ="Local Weather Exchange Stations" 
+	/>
+	<item 	nr      = "32"  		show    = "ewnMember" 
+	        caption = "Europe"
+		link    = "wsEwn/ewnMembersBody2.php"
+	 	head    = "wsEwn/ewnMembersHead2.php"
+        />																																	
+	<item 	nr      = "wsRegionalMap"	show    ="mesonetMember"					
+		caption = "Regional" 
+		link    = "glo/wsRegionalMap.php"
+        />																															
+	<item 	nr      = "wsGlobalMap"						
+		caption = "World" 
+		link    = "glo/wsGlobalMap.php"
+        />
+	<item 	nr      = "34"  
+		caption = "Nearby Buoys"
+		link    = "buoy/ws_buoy_page.php"					
+        />
+</item>
+<item 	caption= "Other Stuff">
+<!--  do not change the number mobi  for the mobile site. Needs to be hardcoded -->
+	<item 	nr      = "mobi"  
+		caption = "Mobile site" 
+		link    = "mobi/mobi.php" 
+        />
+	<item 	nr      = "wsWebcamPage"  show    = "webcamPage"
+		caption = "Webcam"
+		link    = "inc/wsWebcamPage.php"
+	/>	
+	<item 	nr      = "metarDisplay" 
+		caption = "Airport weather"
+		link    = "metar/metarDisplay.php"
+        />
+	<item 	nr      = "dash_metar" 
+		caption = "Airport weather v3"
+		link    = "metar/dash_metar.php"
+        />
+
+	<item 	nr      = "wsAbout"
+	        caption = "About"
+ 		link    = "wsAbout.php" 
+        />
+	<item 	nr      = "links"
+		caption = "Links"
+		link    = "inc/links.php"
+        />
+	<item 	nr      = "wsPartners" 
+		caption = "Partnerships" 
+		link    = "wsPartners.php"
+        />
+	<item 	nr      = "statusWeatherSystems" 
+		caption = "Status"	
+		link    = "inc/statusWeatherSystems.php"
+        />
+	<item 	nr      = "incContact"  	show    = "contactPage"
+		caption = "Contact"	
+		link    = "contact/incContact.php"
+
+        />
+	<item 	nr      = "incCwopstats"  	show    = "cwopPage" 		
+		caption = "CWOP Stats"	
+		link    = "cwop/incCwopstats.php"
+        /> 
+	<item 	nr      = "sitemap"
+		caption = "Website Map"	
+		link    = "inc/sitemap.php" 	
+        />
+	<item 	nr      = "whoIsOnline"  	show    = "showVisitors" 
+		caption = "WhoIsOnline"
+		link    = "inc/whoIsOnline.php"
+        />	
+</item>
+
+<item caption= "Development" show= "wsDebug">
+	<item 	nr      = "wsStartPageDemo"     
+		top     = "no"
+		caption = "Another home page"
+		link    = "wsStartPageDemo.php"			
+		css     = "styleColom20.css" 
+		gizmo   = "1"
+	/>
+	<item 	nr      = "90"  		show    = "generatePage"
+		caption = "Generate files"	
+		link    = "config/ws_generate_tags.php"
+        />
+	<item 	nr      = "93-5"  		show    = "cltrPage"
+		caption = "Xref Clientraw"	
+		link    = "cltraw/cltrawXref.html"
+        />
+	<item 	nr      = "93-6" 		show    = "cltrPage"
+		caption = "Clientraw"
+		link    = "cltraw/incClientraw4.php"	
+        />			
+	<item 	nr      = "94"  		show ="no"
+		caption = "Icons Used"
+		link    = "wsIcons/wsIcons.php"				      
+		css     = "wsIcons/styleWsIcons.css"
+        />
+	<item 	nr      = "900" 
+		caption = "example new page"
+		link    = "_my_scripts/my_NewPage.php"
+        />
+        <item 	nr      = "901" 
+                caption = "example external link"
+                external="external"
+                link    = "http://leuven-template.eu/dokuwiki28/doku.php?id=en:menu"
+        />
+	<item 	nr      = "88"  		show    = "pages_visited"
+		caption = "pages visited"
+		link    = "inc/wsPagesVisited.php"
+        />	
+	<item 	nr      = "1501"  		show	= "canada"
+		caption = "AHQI list"
+		link    = "canada/ca_AQHI_list.php"
+        />
+</item>
+<item   caption = "Demo extra pages">
+        <item	nr      = "03"	
+                caption = "WU stations"
+                link    = "inc/ws_wu_map.php"			
+        />
+        <item	nr      = "04"	
+                caption = "wind map"
+                link    = "inc/ws_wind_map.php"			
+        />
+        <item	nr      = "06"	
+                caption = "suncalc"
+                link    = "inc/suncalc_frame.php"    		
+        />
+        <item	nr=	"console"
+        	caption ="console"
+		link	="davconsole/davconvp2_v3.php"
+		head	="davconsole/davconCSS.php"
+		gizmo='1'
+	/>			
+</item>
+<item	nr      = "0000"		 show    = "wsDebug" 
+	caption = "Inspect uploads &amp; settings"
+	link    = "printSite.php"			
+/>
+
+<item	nr      = "0000"
+	hide	= "yes"	
+	caption = "Inspect uploads &amp; settings"
+	link    = "printSite.php"			
+/>
+</menu>

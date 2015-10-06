@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Atšaukti"/>
+  <s key="Change" value="Pakeisti"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Norvegijos Meterologijos Institutas ir NRK"/>
+  <s key="Forecast from {0}" value="Orai"/>
+  <s key="Friday" value="Penktadienis"/>
+  <s key="Monday" value="Pirmadienis"/>
+  <s key="Saturday" value="Šeštadienis"/>
+  <s key="Sunday" value="Sekmadienis"/>
+  <s key="Thursday" value="Ketvirtadienis"/>
+  <s key="Tuesday" value="Antradienis"/>
+  <s key="Wednesday" value="Trečiadienis"/>
+  <s key="Fr" value="Pen"/>
+  <s key="Mo" value="Pir"/>
+  <s key="Sa" value="Šeš"/>
+  <s key="Su" value="Sek"/>
+  <s key="Th" value="Ket"/>
+  <s key="Tu" value="Ant"/>
+  <s key="We" value="Tre"/>
+  <s key="LIVE" value="Dabar"/>
+  <s key="Loading" value="Įkeliami"/>
+  <s key="April" value="Balandis"/>
+  <s key="August" value="Rugpjūtis"/>
+  <s key="December" value="Gruodis"/>
+  <s key="February" value="Vasaris"/>
+  <s key="January" value="Sausis"/>
+  <s key="July" value="Liepa"/>
+  <s key="June" value="Birželis"/>
+  <s key="March" value="Kovas"/>
+  <s key="May" value="Gegužė"/>
+  <s key="November" value="Lapkritis"/>
+  <s key="October" value="Spalis"/>
+  <s key="September" value="Rugsėjis"/>
+  <s key="Network error" value="Tinklo klaida"/>
+  <s key="No weather" value="Orų nėra"/>
+  <s key="Retry" value="Pakartokite"/>
+  <s key="Tomorrow" value="Rytoj"/>
+  <s key="Updating weather" value="Atnaujinama"/>
+  <s key="Please wait..." value="Prašome palaukti..."/>
+  <s key="Weather expired" value="Oras neatnaujintas"/>
+  <s key="Loading" value="Įkeliami"/>
+</body>

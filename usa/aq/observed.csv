@@ -1,0 +1,3 @@
+"DateObserved","HourObserved","LocalTimeZone","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName"
+"2015-07-17 ","5","CST","Houston-Galveston-Brazoria","TX","29.751","-95.351","O3","9","1","Good"
+"2015-07-17 ","5","CST","Houston-Galveston-Brazoria","TX","29.751","-95.351","PM2.5","38","1","Good"

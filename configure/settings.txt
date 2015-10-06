@@ -1,0 +1,360 @@
+#---------------------------------------------------------------------------------------|	
+#nr|wp	|region	|key		|type 		|old/default	|values allowed		|
+#---------------------------------------------------------------------------------------|
+|00|--	|--	|--		|##		|Two important questions to select the correct questions from now on||
+|00|--	|--	|WXsoftware	|select		|WD		|CU#Cumulus!CW#consoleWD!DW#Davis_WL.com!MB#Meteobridge!MH#Meteohub!MP#Meteoplug!VW#VWS!WC#WeatherCat!WD#WeatherDisplay!WL#WeatherLink!WS#WSWIN!WV#Wview|
+|00|--	|--	|region		|select		|europe		|america#USA!canada#Canada!europe#Europe!other#Other|
+
+|10|--	|--	|--		|##		|General settings such as station location, identity||
+|10|--	|--	|--		|#		|The name of your Weather-Station and the area it services||
+|10|--  |--	|organ		|regionHtmltext	|my station in Canada#canada!my station in the USA#america!my station in Europe#europe!my station somewhere#other|			|
+|10|--	|--	|yourArea	|htmltext	|your area	|			|
+|10|DW	|--	|--		|#		|Extra settings for your weather-program||
+|10|DW  |--     |wlink_key	|htmltext	|		|			|
+|10|DW	|--	|wlink_pw	|htmltext	|		|			|
+|10|MP	|--	|--		|#		|Extra settings for your weather-program||
+|10|MP  |--     |meteoplug_cache|noDecimal	|300		|240#1200		|
+|10|--	|--	|--		|#		|The location of your weatherstation on the globe||
+|10|--	|america|latitude	|numberDecimal	|41.30068	|24#60			|
+|10|--	|canada	|latitude	|numberDecimal	|51.112243	|45#60			|
+|10|--	|europe	|latitude	|numberDecimal	|50.85000	|30#70			|
+|10|--	|other	|latitude	|numberDecimal	|-33.88   	|-180#180		|
+|10|--	|america|longitude	|numberDecimal	|-72.793671	|-170#-50		|
+|10|--	|canada	|longitude	|numberDecimal	|-113.956438	|-142#-50		|
+|10|--	|europe	|longitude	|numberDecimal	|4.34000	|-30#40			|
+|10|--	|other	|longitude	|numberDecimal	|151.20 	|-180#180		|
+|10|--	|america|WUregion	|select		|sw		|sw#SouthWest!nw#NorthWest!mw#Midwest!sp#South Central!ne#North East!se#South East|
+|10|--	|america|radarStation	|allcap		|MHX		|3			|			
+|10|--	|canada	|caProvince	|selectProv	|NB		|AB#Alberta!BC#British Columbia!MB#Manitoba!NB#New Brunswick!NL#Newfoundland and Labrador!NS#Nova Scotia!NU#Nunavut!ON#Ontario!PE#Prince Edward Island!QC#Quebec!SK#Saskatchewan!YT#Yukon|
+|10|--	|canada	|caCityCode	|selectCity	|s0000654	|			|
+|10|--	|canada	|radarStation	|allcap		|XMB		|3			|
+|10|--	|canada	|caAQHI		|select		|true		|true#We want to use the AirQualityHealtIndex!false#Do not display|
+|10|--	|canada	|aqhiArea	|selectAQ	|Bathurst#Bathurst#DAFQX|		|
+
+|10|--	|--	|--		|#		|The timezone you are in and the language you use||
+|10|--	|--	|tz		|regionTz	|America/Edmonton#canada!Europe/Brussels#europe!America/New_York#america!Australia/Sydney#other||
+|10|--	|--	|lang		|select		|en		|en#English!nl#Dutch!fr#French!de#German|
+|10|--	|--	|--		|#		|Where to load the current conditions from||
+|10|--	|--	|curCondFrom	|select		|yahoo		|yahoo#Yahoo - needs area code!metar#metar - uses your nearby metar!wd#WeatherDisplay if it has a solar sensor and is configured correctly|
+|10|--	|--	|yaPlaceID	|regionNoDecimal|3796#canada!2368213#america!973505#europe!1105779#other||
+|10|--	|--	|METAR		|regionAllcap	|CYYC#canada!KHVN#america!EBBR#europe!YSSY#other|4|
+
+
+|22|--	|--	|--		|##		|The general parts for every page|	|
+|22|--	|--	|--		|#		|Page and menu size|			|
+|22|--	|--	|pageWidth	|noDecimal	|1200		|1200#2400		|
+|22|--	|--	|menuWidth	|noDecimal	|180		|180#220		|
+|22|--	|--	|menuPlace	|select		|V		|V#Vertical left side!H#Horizontal|
+|22|--	|--	|--		|#		|The  yellow box at the top|		|
+|22|--	|--	|maintenanceShow|select		|true		|true#Display the yellow box on top of the page!false#Do not use|
+|22|--	|--	|maintenanceTxt	|htmltext	|./_my_texts/maintenance.txt|		|
+|22|--	|--	|--		|#		|Type of header and what color scheme|	|
+|22|--	|--	|header		|select		|3		|3#Header with gauges!2#Normal header with blocks!1#Lower header with less information|
+|22|--	|--	|colorNumber	|select		|0		|0#weather_adapted!1#green!2#blue!3#pastel!4#red!5#orange!6#none!7#ws_clouds!8#ws_cloudsn!9#ws_mist!10#ws_moon!11#ws_pclouds!12#ws_rain!13#ws_snow!14#ws_storm!15#ws_sun!16#ws_thunder|
+|22|--	|--	|--		|#		|Optional side and bottom area|		|
+|22|--	|--	|sideDisplay	|select		|true		|true#Side area will be used!false#Do not display|
+|22|--	|--	|bottomDisplay	|select		|true		|true#Bottom area will be used!false#Do not display||
+|22|--	|--	|--		|#		|Banners for adds , photo's and so on|	|
+|22|--	|--	|bannerTop	|select		|true		|true#use my text file!false#Do not display|
+|22|--	|--	|bannerTopTxt	|htmltext	|./_my_texts/banner.txt|		|
+|22|--	|--	|bannerBottom	|select		|true		|true#use my text file!false#Do not display|
+|22|--	|--	|bannerBottomTxt|htmltext	|./_my_texts/banner.txt|		|
+|22|--	|--	|--		|#		|Do we strip parts of the page for joomla type use||
+|22|--	|--	|stripAll	|select		|false		|true#Remove all (optional) areas of a page!false#No "Joomla" needed. - We use the normal page setup|
+|22|--	|--	|stripMenu	|select		|false		|true#Menu will not be displayed!false#Leave menu as is|
+
+
+|24|--	|--	|--		|#		|Will we display these optional information blocks (and where)||
+|24|--	|--	|langFlags	|select		|true		|true#Displayed next to the language selection!false#Do not display|
+|24|--	|--	|partners	|select		|B		|B#In bottom area!V#In side area!false#Do not display|
+|24|--	|--	|equipment	|select		|B		|B#In bottom area!V#In side area!false#Do not display|
+|24|--	|--	|otherWS	|select		|V		|V#In side area!false#Do not display|
+|24|--	|--	|--		|#		|Facebook - Twitter and other social sites||
+|24|--	|--	|socialSiteSupport|select	|V		|H#In header small horizontal!V#In side area!false#Do not display|
+|24|--	|--	|socialSiteKey	|htmltext	|4fd8a66b72fa8566|			|
+|24|--	|--	|socialSiteCode	|htmltext	|./_widgets/social_buttons.txt|		|
+|24|--	|--	|--		|#		|Rain and Thunder-warnings||
+|24|--	|--	|showRain	|select		|false		|true#Always!false#Do not display!optional#Display with rain warning|
+|24|--	|--	|showLightning	|select		|false		|true#Always!false#Do not display!optional#Display with thunder warning|
+|24|--	|--	|--		|#		|Donate button||
+|24|--	|--	|donateButton	|select		|false		|V#In side area!false#Do not display|
+|24|--	|--	|donateCode	|htmltext	|./_widgets/donateButton.php|		|
+
+
+|26|--	|--	|--		|#		|Weatherwarnings and how are we going to display them ||
+|26|--	|--	|warnings	|select		|false		|true#Use the weatherwarnings for your area!false#Do not display|
+|26|--	|america|useCurly	|select		|false		|false#use NOAA warnings!1#Use NWS warnings with Curly scripts|
+|26|--	|america|warnAreaNoaa	|allcap		|CTC009		|6			|
+|26|--	|europe |warnArea	|allcap		|BE004		|5			|
+|26|--	|--	|warningInside	|select		|false		|true#Display the warnings below the header!false#Display the warnings above all other information|
+|26|--	|--	|warningGreen	|select		|false		|true#Display a message also when there is no warning!false#Display only a message when there are warnings|
+|26|--	|europe |warningsXtnd	|select		|false		|true#Display the whole text of the warning !false#Display the main warning text only|
+|26|--	|america|warningsXtnd	|select		|false		|true#Display the whole text of the warning !false#Display the main warning text only|
+|26|--	|--	|warningDetail	|noDecimal	|3		|1#9999			|
+|26|--	|--	|warn1Box	|select		|false		|true#All warnings combined into one box!false#Every warning in a separate box|
+|26|--	|--	|warnPage	|select		|true		|true#Use template page with detailed information!false#Go to warning site for detailed information|
+
+|28|--	|--	|--		|#		|Widgets and other settings for all pages ||
+|28|--	|--	|noChoice	|select		|wsStartPage	|wsStartPage#Normal dashboard startpage (p=10)!gaugePage#Steelseries page!wsPrecipRadar#Rain radar page!wsForecast#Standard forecast page|			|
+|28|--	|--	|--		|#		|Website trafic|			|
+|28|--	|--	|statsCode	|select		|true		|true#Use the external statistics code in the footer!false#Do not use|
+|28|--	|--	|statsCodeTxt	|htmltext	|./_widgets/histats.txt|		|
+|28|--	|--	|--		|#		|Visitors counter|			|
+|28|--	|--	|showVisitors	|select		|true		|true#Use your own visitors counter!false#Do not use|
+|28|--	|--	|visitorsFile	|htmltext	|wolExported.str|			|
+|28|--	|--	|geoKey		|htmltext	|		|			|
+|28|--	|--	|--		|#		|Count all pages visited|		|
+|28|--	|--	|pages_visited	|select		|false		|true#Enable this page!false#Do not display|
+|28|--	|--	|--		|#		|Back to top of page button|		|
+|28|--	|--	|floatTop	|select		|true		|true#Use the floating go to top marker!false#Do not use|
+|28|--	|--	|floatTopTxt	|htmltext	|./_widgets/float_top.php|		|
+|28|--	|--	|skipTop	|select		|true		|true#Go to data-part of page to display more information!false#Always display header|
+|28|--	|--	|--		|#		|Rotating weather-values display|	|
+|28|--	|--	|ajaxGizmoShow	|select		|true		|true#Enable this facility!false#Do not display|
+
+|30|--	|--	|--		|##		|Menu items / extra pages to display|	|
+|30|--	|europe	|--		|#		|Pages for some european countries only|	|
+|30|--	|europe	|belgium	|select		|true		|true#Weather-Station is located in Belgium!false#Not located in Belgium|
+|30|--	|europe	|netherlands	|select		|true		|true#Weather-Station is located in the Netherlands!false#Not located in the Netherlands|
+|30|--	|--	|--		|#		|Special pages	for smartphone users|	|
+|30|--	|--	|useMobile	|select		|true		|true#Use the mobile pages for "smartphone" users!false#Only allow main-site use|
+|30|--	|--	|--		|#		|Contact page	|			|
+|30|--	|--	|contactPage	|select		|true		|true#Enable this page!false#Do not display|
+|30|--	|--	|contactName	|htmltext	|your name to sign the emails|		|
+|30|--	|--	|contactEmail	|htmltext	|noreply@yourstation.com|		|
+|30|--	|--	|contactEmailTo	|email		|contact@yourstation.com|		|
+|30|--	|america|--		|#		|CWOP page	|		|
+|30|--	|america|cwopPage	|select		|true		|true#Enable this page!false#Do not display|
+|30|--	|canada |--		|#		|CWOP page	|		|
+|30|--	|canada	|cwopPage	|select		|true		|true#Enable this page!false#Do not display|
+|30|--	|--	|--		|#		|Do we have one or more webcam images to display.||
+|30|--	|--	|webcam		|select		|false		|true#Yes, we have a webcam we want to show!false#Do not display|
+|30|--	|--	|webcamSide	|select		|true		|V#In side area!false#Do not display|
+|30|--	|--	|webcamPage	|select		|false		|true#Enable this page!false#Do not display|
+|30|--	|--	|--		|#		|What will be displayed during night-time||
+|30|--	|--	|webcamNight	|select		|true		|true#Use a "It is night" image!false#Use uploaded picture as normal|
+|30|--	|--	|webcamImgNight	|htmltext	|./img/webcam_night.png|		|
+|30|--	|--	|--		|#		|Webcam 1	|			|	
+|30|--	|--	|webcamName_1	|htmltext	|My webcam	|			|
+|30|--	|--	|webcamImg_1	|htmltext	|http://wiri.be/image.jpg|		|
+|30|--	|--	|--		|#		|Another webcam	|			|
+|30|--	|--	|webcam_2	|select		|false		|true#Yes, we have a second webcam we want to show!false#Do not display|
+|30|--	|--	|webcamName_2	|htmltext	|My webcam 2	|			|
+|30|--	|--	|webcamImg_2	|htmltext	|http://wiri.be/image.jpg|		|
+
+|41|--	|--	|--		|##		|Extra weather-programs used for this station||
+|41|--	|--	|--		|#		|WXSIM weather-forecasting|		|
+|41|--	|--	|wxsimPage	|select		|false		|true#Yes, we use the WXSIM paid program to make our weather-forecasts!false#Do not display|
+|41|--	|--	|wxsimData	|htmltext	|../		|			|
+|41|--	|--	|wxsim_file	|select		|latest.csv	|latest.csv#lates.csv file will be used!lastret.txt#lastret.txt file will be used|
+|41|--	|--	|wxsimIconsOwn	|select		|false		|false#Use template standard icons!true#Use YrNo icons|
+|41|--	|--	|--		|#		|Meteoplug: storage and graphs server|	|
+|41|--	|--	|meteoplug	|select		|false		|false#We do not use Meteoplug!true#We use Meteoplug and display the extra pages|
+|41|--	|--	|--		|#		|WD-Live: Paid-for website script/program, uses clientraw files to display extensive customizable flash dashboard||
+|41|--	|--	|wd_live	|select		|false		|false#No WD-live user!true#We use WD-Live and display the dashboard|
+|41|--	|--	|--		|#		|Meteroware-Live: free website script/program, it display a basic flash dashboard||
+|41|--	|--	|meteoware	|select		|false		|false#No interest in that dashboard!true#Yes, display the Meteoware dashboard|
+
+|42|--	|--	|--		|##		|Menu items / forecast pages|		|
+|42|--	|--	|--		|#		|Default forecast on the start-page|	|
+|42|--	|--	|fctOrg		|regionSelect	|ec#canada!noaa#america!metno#europe!metno#other|yahoo#Yahoo - needs area code#all!wu#WeatherUnderground - needs key#all!wxsim#WXSIM needs extra program#all!yrno#Yrno needs area code#all!metno#MetNo#all!yowindow#YoWindow gadget#all!noaa#NOAA#america!ec#Environment Canada#canada!hwa#Het Weer Actueel - alleen voor leden#europe|
+|42|--	|--	|--		|#		|Multiple selections on forecast pages||
+|42|--	|--	|multi_forecast	|select		|true		|true#Enable this facility!false#Do not display|
+|42|--	|--	|multi_fct_keys	|regionHtmltext	|./_my_texts/ca_multi_fct.txt#canada!./_my_texts/us_multi_fct.txt#america!./_my_texts/eu_multi_fct.txt#europe!./_my_texts/ot_multi_fct.txt#other| |
+#42|--	|canada	|select_ec	|htmltext	|ec_area.txt	|			|
+|42|--	|america|--		|#		|NOAA forecast page||
+|42|--	|america|noaaPage	|select		|true		|true#Enable this page!false#Do not display|
+|42|--	|america|noaaIconsOwn	|select		|true		|false#Use template standard icons!true#Use NOAA icons|
+|42|--	|canada	|--		|#		|Environment Canada forecast page||
+|42|--	|canada	|ecPage		|select		|true		|true#Enable this page!false#Do not display|
+|42|--	|--	|--		|#		|Weather Underground Forecast and Almanac||
+|42|--	|--	|wuPage		|select		|false		|true#Yes, we want this extra forecast!false#Do not display|
+|42|--	|--	|wuKey		|htmltext	|196cb91ad1b50c06|			|
+|42|--	|--	|wuIconsOwn	|select		|false		|false#Use template standard icons!true#Use WU icons|
+|42|--	|--	|wuIconsCache	|select		|false		|false#Use WU icons from uor cache!true#Use WU icons directly form their site|
+|42|--	|--	|--		|#		|Met.no 	|			|
+|42|--	|--	|metnoPage	|select		|true		|true#Yes, we want this extensive free forecast!false#Do not display|
+|42|--	|--	|metnoiconsOwn	|select		|false		|false#Use template standard icons!true#Use YrNo icons|
+|42|--	|--	|--		|#		|YR.no  - This forecast is required for the "smart-phone / mobile" pages||
+|42|--	|--	|yrnoPage	|select		|true		|true#Yes, we want this forecast, also for our Mobile pages!false#Do not display|
+|42|--	|--	|yrnoID		|regionHtmltext	|Canada/Alberta/Calgary/#canada!United_States/Connecticut/Branford/#america!Belgium/Brussels/Brussels/#europe!Australia/New_South_Wales/Sydney/#other| |
+|42|--	|--	|yrnoIconsOwn	|select		|false		|false#Use template standard icons!true#Use YrNo icons|
+|42|--	|europe	|--		|#		|Het Weer Actueel	|		|
+|42|--	|europe |hwaPage	|select		|false		|true#Yes, we are a registred HWA member!false#Do not display|
+|42|--	|europe |hwaXmlId	|noDecimal	|000		|000#999		|
+|42|--	|europe |hwaXmlKey	|htmltext	|		|			|
+|42|--	|europe	|hwaIconsOwn	|select		|false		|false#Use template standard icons!true#Use HWA icons|
+|42|--	|--	|--		|#		|Yahoo 		|			|			
+|42|--	|--	|yahooPage	|select		|true		|true#Yes, we want this extra forecast!false#Do not display|
+|42|--	|--	|yahooIconsOwn	|select		|false		|false#Use template standard icons!true#Use Yahoo icons|
+|42|--	|--	|--		|#		|World Weather 	|			|	
+|42|--	|--	|worldPage	|select		|false		|true#Yes, we want this extra forecast!false#Do not display|
+|42|--	|--	|worldAPI	|select		|2		|1#API version 1, only for users who have an old API-1 key!2#Use API version 2, current version|
+|42|--	|--	|worldKey	|htmltext	|		|			|
+|42|--	|--	|worldKey2	|htmltext	|		|			|
+|42|--	|--	|worldIconsOwn	|select		|false		|false#Use template standard icons!true#Use Worldweather icons|
+
+|50|--	|--	|--		|#		|Refresh-times	|			|
+|50|--	|--	|autoRefresh	|noDecimal	|0		|0#999			|
+|50|--	|--	|wsAjaxDataTime	|noDecimal	|30		|10#999			|
+|50|--	|--	|wsSteelTime	|noDecimal	|30		|10#999			|
+|50|--	|--	|--		|#		|Miscellaneous	|			|
+|50|--	|--	|charset	|select		|UTF-8		|UTF-8#default UTF-8 character set!windows-1252#windows-1252||
+|50|--	|--	|topfolder	|htmltext	|weather28/	|			|
+|50|--	|--	|password	|htmltext	|		|			|
+
+|52|--	|--	|--		|##		|Partners||
+|52|--	|--	|--		|#		|Your visitors can find your weather data also	at: Weather Underground	||
+|52|--	|--	|wuMember	|select		|false		|false#We are not uploading to Weather Underground!true#We are a member of Weather Underground|
+|52|--	|--	|wuID		|allcap		|		|			|
+|52|--	|--	|wuStart	|htmltext	|dd-mm-yyyy	|			|
+|52|--	|--	|--		|#		|Mesonet	|			|
+|52|--	|--	|mesonetMember	|select		|false		|false#We are not member of a regional Mesonet of weather-Stations!true#We are a proud member of a regional Mesonet of weather-Stations|
+|52|--	|--	|mesoID		|selectWN	|		|			|
+
+
+#52|--	|--	|mesoName	|htmltext	|		|			|
+#52|--	|--	|mesoLink	|htmltext	|		|			|
+|52|--	|europe	|--		|#		|Het Weer Actueel|			|
+|52|--	|europe |hwaMember	|select		|false		|false#We are not uploading to Het Weer Actueel!true#We are a member of Het Weer Actueel|
+|52|--	|europe |hwaID		|htmltext	|		|			|
+|52|--	|europe	|--		|#		|European Weather Network|		|
+|52|--	|europe	|ewnMember	|select		|false		|false#We do not use this!true#Our data is used by EWN|
+#52|--	|europe	|ewnID		|htmltext	|		|			|
+|52|--	|--	|--		|##		|Other organizations one can upload to|	|
+|52|--	|--	|--		|#		|wow.metoffice.gov.uk/	|		|
+|52|--	|--	|wowMember	|select		|false		|false#We are not uploading to wow-metoffice!true#We are a member of wow-metoffice|
+|52|--	|--	|wowID		|htmltext	|		|			|
+|52|--	|--	|--		|#		|Awekas		|			|
+|52|--	|--	|awekasMember	|select		|false		|false#We are not uploading to Awekas!true#We are a member of Awekas|
+|52|--	|--	|awekasID	|htmltext	|		|			|
+|52|--	|--	|--		|#		|WeatherCloud	|			|
+|52|--	|--	|wcloudMember	|select		|false		|false#We are not uploading to Weather Cloud!true#We are a member of Weather Cloud|
+|52|--	|--	|wcloudID	|htmltext	|		|			|
+|52|--	|--	|--		|#		|CWOP		|			|
+|52|--	|--	|cwopMember	|select		|false		|false#We are not uploading to CWOP!true#We are a member of CWOP|
+|52|--	|--	|cwopID		|htmltext	|		|			|
+|52|--	|--	|--		|#		|Weatherlink.com|			|
+|52|--	|--	|wl_comMember	|select		|false		|false#We are not uploading to WeatherLink.com!true#We are uploading ouw weather-data to WeatherLink.com|
+|52|--	|--	|weatherlinkID	|htmltext	|		|			|
+|52|--	|--	|--		|#		|And some more	|			|
+|52|--	|--	|anWeMember	|select		|false		|false#We are not uploading to Anything Weather!true#We are a member of Anything Weather|
+|52|--	|--	|anWeID		|htmltext	|		|			|
+|52|--	|--	|pwsMember	|select		|false		|false#We are not uploading to PWS!true#We are a member of PWS|
+|52|--	|--	|pwsID		|htmltext	|		|			|
+|52|--	|--	|wp24ID		|select		|false		|false#We are not uploading to wp24!true#We are uploading to wp24|
+|52|--	|--	|uswg		|select		|false		|false#We are not uploading to uswg!true#We are uploading to uswg|
+
+|58|--	|--	|--			|#		|cookie support / visitors are allowed to do customization ||
+|58|--	|--	|cookieSupport		|select		|true		|true#Yes, we warn visitors if there adaptions need a cookie!false#Do not use customization / cookies|
+|58|--	|--	|userChangeDebug	|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeColors	|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeMenu		|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeHeader	|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeChoice	|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeLang		|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeUOM		|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+|58|--	|--	|userChangeForecast	|select		|true		|true#Allow user to change this setting!false#Do not use allow this one|
+
+
+|60|--	|--	|--			|##		|Optional components attached to your weatherstation||
+|60|--	|--	|--			|#		|UV/ Solar sensors|		|
+|60|--	|--	|UV			|select		|false		|false#No UV sensor attached!true#We have an UV sensor on our station|
+|60|--	|--	|SOLAR			|select		|false		|false#No solar sensor attached!true#We have a Solar sensor on our station|
+|60|--	|--	|--			|#		|Other often atttached sensors sensors||
+|60|--	|--	|tempInside		|select		|true		|false#We will NOT use an inside temperature sensor!true#We want to display the inside temperature|
+|60|--	|--	|extraTemp1		|select		|false		|false#No need for an extra temperature sensor!true#We have an extra sensor on our station|
+|60|--	|--	|extraTemp2		|select		|false		|false#No need for another extra temperature sensor!true#We have a second extra sensor on our station|
+|60|--	|--	|--			|#		|Soil / moisture sensors|	|
+|60|--	|--	|soilUsed		|select		|false		|false#There are no soil sensors attached!true#We have soil sensors on our station|
+|60|--	|--	|soilPage		|select		|false		|false#Still we do not want a extra soil mositure page!true#Display the soil/moisture page|
+|60|--	|--	|soilCount		|noDecimal	|2		|0#4		|
+|60|--	|--	|soilDepth_1		|noDecimal	|10		|1#100		|
+|60|--	|--	|soilDepth_2		|noDecimal	|20		|1#100		|
+|60|--	|--	|soilDepth_3		|noDecimal	|30		|1#100		|
+|60|--	|--	|soilDepth_4		|noDecimal	|40		|1#100		|
+|60|--	|--	|uomMoist		|htmltext	|cb		|		|
+|60|--	|--	|leafUsed		|select		|false		|false#There are no leaf sensors attached!true#We have leaf sensors on our station|
+|60|--	|--	|leafCount		|noDecimal	|2		|0#4		|
+
+|62|--	|--	|--			|##		|Display some extra information about: ||
+|62|--	|--	|--			|#		|The type of weather-station||
+|62|--	|--	|DavisVP		|select		|false		|false#Our station is not a Davis one!true#We use a Davis weather-station station|
+|62|--	|--	|stationShow		|select		|false		|false#We do not show the weatherstation name/picture on our pages!true#We want to display the information about the weatherstation|
+|62|--	|--	|stationTxt		|htmltext	|Davis VP2	|		|
+|62|--	|--	|stationJpg		|htmltext	|img/davis_logo.png|		|
+|62|--	|--	|stationLink		|htmltext	|http://www.davisnet.com/weather/products/professional-home-weather-stations.asp||
+|62|--	|--	|--			|#		|The website / provider ||
+|62|--	|--	|providerShow		|select		|false		|false#Do not show the name/picture of our privider!true#We want to display the information about the provider|
+|62|--	|--	|providerTxt		|htmltext	|My provider	|		|
+|62|--	|--	|providerJpg		|htmltext	|img/_provider.jpg|		|
+|62|--	|--	|providerLink		|htmltext	|http://www.provider.xyz/|	|
+|62|--	|--	|--			|#		|The computer (device) used ||
+|62|--	|--	|pcShow			|select		|false		|false#Do not show the type and name of our weather-computer!true#We want to display the information our weather-computer|
+|62|--	|--	|pcTxt			|htmltext	|My Computer	|		|
+|62|--	|--	|pcJpg			|htmltext	|img/_computer.png|		|
+|62|--	|--	|pcLink			|htmltext	|http://www.computer.xyz|	|
+|62|--	|--	|--			|#		|The Weather-Program|
+|62|--	|--	|WXsoftwareShow		|select		|false		|false#No information about our weather-program is needed!true#We want to display the information our weather-program|
+
+|70|--	|--	|--		|##		|units, time and date formats and some other settings ||
+|70|--	|--	|--		|#		|Some other settings first ||
+|70|--	|--	|commaDecimal	|regionSelect	|false#america!true#canada!true#europe!true#other|false#Use a decimal point [22.50]!true#Use a comma [22,50] as decimal"point"|
+|70|--	|--	|tempSimple	|select		|false		|false#Use multicolored temperatures!true#Use blue/red temperatures only|
+|70|--	|--	|textLowerCase	|select		|false		|false#Use all texts as they are!true#convert all texts to lowercase|
+|70|--	|--	|nightDayBefore	|select		|true		|false#Dayparts start with Night then morning, afternoon to evening)!true#Dayparts start with Morning then Afternoon, Evening to Night|
+|70|--	|--	|--		|#		|The units to be used for all weather-values, first one is temperature ||
+|70|--	|--	|uomTemp	|regionSelect	|1#canada!1#europe!2#america!1#other|1#Celcius!2#Fahrenheit|
+|70|--	|--	|decTemp	|regionSelect	|1#canada!1#europe!1#america!1#other|0#No decimals 14 C!1#One decimal 14.1 C|
+|70|--	|--	|--		|#		|For pressure in inches you need one or two decimals||
+|70|--	|--	|uomBaro	|regionSelect	|1#canada!1#europe!2#america!1#other|1#hPa!3#milibar!2#inHg|
+|70|--	|--	|decBaro	|regionSelect	|1#canada!1#europe!2#america!1#other|0#No decimals 1017 hPa!1#One decimal  1017.1 hPa!2#Two decimals 30,23 inHg|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomWind	|regionSelect	|1#canada!1#europe!2#america!1#other|1# km/h!3# kts!4# m/s!2# mph|
+|70|--	|--	|decWind	|regionSelect	|1#canada!1#europe!1#america!1#other|0#No decimals 14 km/h!1#One decimal 3.4 m/s|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomRain	|regionSelect	|1#canada!1#europe!2#america!1#other|1# mm!2# in|
+|70|--	|--	|decPrecip	|regionSelect	|1#canada!1#europe!2#america!1#other|0#No decimals 4 mm!1#One decimal 4.2 mm!2#Two decimals 2.35 in|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomSnow	|regionSelect	|1#canada!1#europe!2#america!1#other|1# cm!2# in|
+|70|--	|--	|decSnow	|regionSelect	|0#canada!0#europe!0#america!0#other|0#No decimals 22 cm!1#One decimal 22.4 cm|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomDistance	|regionSelect	|1#canada!1#europe!2#america!1#other|1# kilometer!2# mile|
+|70|--	|--	|decDistance	|regionSelect	|0#canada!0#europe!0#america!0#other|0#No decimals 15 mi!1#One decimal 14.8 mi|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomPerHour	|regionSelect	|1#canada!1#europe!1#america!1#other|1# / hour|
+|70|--	|--	|decPerHour	|regionSelect	|1#canada!1#europe!1#america!1#other|0#No decimals!1#One decimal|
+|70|--	|--	|--		|#		| ||
+|70|--	|--	|uomHeight	|regionSelect	|1#canada!1#europe!2#america!1#other|1# meter! 2# feet|
+|70|--	|--	|decHeight	|regionSelect	|1#canada!1#europe!2#america!2#other|0#No decimals!1#One decimal|
+
+|70|--	|--	|--		|#		|How to display the date and time information||
+|70|--	|--	|hourDisplay	|regionSelect	|24#canada!24#europe!12#america!24#other|12#12 hours!24#24 hours|
+|70|--	|--	|timeFormat	|regionSelect	|d-m-Y H:i#canada!d-m-Y H:i#europe!M j Y g:i a#america!d-m-Y H:i#other|M j Y g:i a#Dec 31 2013 2:03 pm!d-m-Y H:i#31-03-2012 14:03|
+|70|--	|--	|timeOnlyFormat	|regionSelect	|H:i#canada!H:i#europe!g:i a#america!H:i#other|g:i a#2:03 pm!H:i#14:03|
+|70|--	|--	|hourOnlyFormat	|regionSelect	|H#canada!H#europe!ga#america!H#other|ga#2pm!H#14|
+|70|--	|--	|dateOnlyFormat	|regionSelect	|d-m-Y#canada!d-m-Y#europe!M j Y#america!d-m-Y#other|M j Y#Dec 31 2013!d-m-Y#31-03-2012|
+|70|--	|--	|dateMDFormat	|regionSelect	|d-m#canada!d-m#europe!M j#america!d-m#other|M j#Dec 31!d-m#31-03|
+|70|--	|--	|dateLongFormat	|regionSelect	|l d F Y#canada!l d F Y#europe!l M j Y#america!l d F Y#other|l M j Y#Friday Jan 22 2015!l d F Y#Friday, 5 februari 2013|
+|70|WV	|--	|--		|#		|Extra settings for your weather-program||
+|70|WV	|--	|my_date_format	|select		|mm-dd-yyyy	|other#not in this list!mm-dd-yyyy#mm-dd-yyyy = month-year with century and a - as separator!mm-dd-yy#mm-dd-yy = month-day-year no century and a - as separator!mm/dd/yyyy#mm/dd/yyyy = month/day/year with century and a / as separator!mm/dd/yy#mm/dd/yy = month/day/year no century and a / as separator!dd-mm-yyyy#dd-mm-yyyy = day-month-year with century and a - as separator!dd-mm-yy#dd-mm-yy = day-month-year no century and a - as separator!dd/mm/yyyy#dd/mm/yyyy = day/month/year with century and a / as separator!dd/mm/yy#dd/mm/yy = day/month/year no century and a / as separator|
+|70|WV	|--	|my_char_sep	|select		|/		|/#a slash "/" is used to separate the different day parts!-#a minus sign "-" is used to separate the different day parts!space#a space  " " is used to separate the different day parts|
+|70|WV	|--	|my_day		|select		|1		|1#first part!2#middle part!3#last part|
+|70|WV	|--	|my_month	|select		|2		|1#first part!2#middle part!3#last part|
+|70|WV	|--	|my_year	|select		|3		|1#first part!2#middle part!3#last part|
+|70|VW	|--	|--		|#		|Extra settings for this weather-program||
+|70|VW	|--	|my_date_format	|select		|mm-dd-yyyy	|other#not in this list!mm-dd-yyyy#mm-dd-yyyy = month-year with century and a - as separator!mm-dd-yy#mm-dd-yy = month-day-year no century and a - as separator!mm/dd/yyyy#mm/dd/yyyy = month/day/year with century and a / as separator!mm/dd/yy#mm/dd/yy = month/day/year no century and a / as separator!dd-mm-yyyy#dd-mm-yyyy = day-month-year with century and a - as separator!dd-mm-yy#dd-mm-yy = day-month-year no century and a - as separator!dd/mm/yyyy#dd/mm/yyyy = day/month/year with century and a / as separator!dd/mm/yy#dd/mm/yy = day/month/year no century and a / as separator|
+|70|VW	|--	|my_char_sep	|select		|/		|/#a slash "/" is used to separate the different day parts!-#a minus sign "-" is used to separate the different day parts!space#a space  " " is used to separate the different day parts|
+|70|VW	|--	|my_day		|select		|1		|1#first part!2#middle part!3#last part|
+|70|VW	|--	|my_month	|select		|2		|1#first part!2#middle part!3#last part|
+|70|VW	|--	|my_year	|select		|3		|1#first part!2#middle part!3#last part|
+|70|WL	|--	|--		|#		|Extra settings for this weather-program||
+|70|WL	|--	|my_date_format	|select		|mm-dd-yyyy	|other#not in this list!mm-dd-yyyy#mm-dd-yyyy = month-year with century and a - as separator!mm-dd-yy#mm-dd-yy = month-day-year no century and a - as separator!mm/dd/yyyy#mm/dd/yyyy = month/day/year with century and a / as separator!mm/dd/yy#mm/dd/yy = month/day/year no century and a / as separator!dd-mm-yyyy#dd-mm-yyyy = day-month-year with century and a - as separator!dd-mm-yy#dd-mm-yy = day-month-year no century and a - as separator!dd/mm/yyyy#dd/mm/yyyy = day/month/year with century and a / as separator!dd/mm/yy#dd/mm/yy = day/month/year no century and a / as separator|
+|70|WL	|--	|my_char_sep	|select		|/		|/#a slash "/" is used to separate the different day parts!-#a minus sign "-" is used to separate the different day parts!space#a space  " " is used to separate the different day parts|
+|70|WL	|--	|my_day		|select		|1		|1#first part!2#middle part!3#last part|
+|70|WL	|--	|my_month	|select		|2		|1#first part!2#middle part!3#last part|
+|70|WL	|--	|my_year	|select		|3		|1#first part!2#middle part!3#last part|
+
+|9999|--|--	|--		|##		|All done ||
+
+

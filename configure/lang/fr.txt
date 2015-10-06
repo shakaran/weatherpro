@@ -1,0 +1,318 @@
+Ajustez les paramètres à votre situation
+Deux questions importantes pour sélectionner les bonnes questions maintenant
+Cumulus
+consoleWD
+Davis_WL.com
+Meteobridge
+Meteohub
+Meteoplug
+VWS
+WeatherCat
+WeatherDisplay
+WeatherLink
+WSWIN
+Wview
+USA
+Canada
+Autre
+Garder
+Récupération
+Retour au début
+Une page retour
+Paramètres généraux tels que la gare, l'emplacement, l'identité
+Le nom de votre station météo et la zone où les rapports sur
+L'emplacement de votre station météo sur le globe
+Le fuseau horaire de votre station est située et la langue utilisée
+Anglais
+Néerlandais
+Français
+Allemand
+Pourquoi obtenir pour récupérer les conditions météo actuelles
+Yahoo - un code d'emplacement est nécessaire
+metar - utiliser un metar (aéroport) Code
+Météo affichage que si elle dispose d'un capteur solaire et configuré correctement
+Les articles plus généraux sur chaque page
+Cette page et le menu taille
+Verticalement vers la gauche
+Horizontal
+La section jaune en haut
+Afficher la section jaune en haut de la page
+Ne pas utiliser
+Quelle tête de page et le schéma de couleurs \ 's
+tête de page avec des compteurs (SteelSeries-jauges)
+Normalel tête de page avec des blocs d'information
+Faible pages tête avec moins d'informations
+adaptée à la météo
+vert
+bleu
+pastel
+rouge
+Orange
+non
+nuageux
+Nuageux - Nuit
+brouillard
+lune
+partiellement nuageux
+pluie
+neige
+tempête
+ensoleillé
+orage la foudre
+Zones en option sur les côtés et le fond
+Région latérale est utilisée
+Ne pas afficher
+Zone de fond est utilisé
+S 'Bannières pour les annonces, photo \ etc.
+Utiliser mon fichier texte
+Si des parties de la page ne sont pas représentés pour une utilisation avec joomla
+Retirez tous les domaines (en option) d'une page
+Pas de "Joomla" nécessaire. - Nous utilisons la mise en page norme
+Menu est pas représenté
+Voyons menu standard
+Ne les blocs d'informations optionnelles suivantes sont affichés (et où)
+Apparaît à côté de la sélection de la langue
+Dans la partie inférieure
+En side-région
+Facebook - Twitter et autres sites sociaux
+Dans la page-tête petite image horizontale
+Pluie et tempête avertissements.
+bouton de don.
+Les avertissements météorologiques et comment nous allons leur montrer
+Utilisez les alertes météorologiques de votre région
+Voir les avertissements sous l'en-tête de la page
+Voir les avertissements plus de toute autre information
+Afficher un message, même si aucun avertissement est
+Afficher seulement un message quand il ya des avertissements
+Voir le texte complet de l'avertissement
+Entrez seulement le court texte de l'avertissement
+Tous les avertissements combinés dans une section
+Chaque avertissement dans une section séparée
+Utilisez le modèle de page avec des informations détaillées
+Visitez le site pour plus d'alertes d'information
+Widgets et d'autres paramètres pour toutes les pages
+Normale page d'accueil du tableau de bord (p = 10)
+Cette page SteelSeries
+Cette page Buienradar
+Météo standard page prévisions
+hit counters
+Utilisez les statistiques extérieures est dans le "pied de page"
+Utilisez votre propre compteur de visiteurs
+Retour au haut de bouton de page
+Utilisez le début flottante du bouton de page
+Aller aux données de la page pour afficher plus d'informations
+Toujours afficher tête Pasgina
+Rotary météorologiques valeurs-affichage
+Tourner cette installation
+Menu articles / pages supplémentaires à utiliser
+Pages seulement pour certains pays européens
+Météo-station est située en Belgique
+Ne se trouve pas en Belgique
+Météo-station est située aux Pays-Bas
+Non aux Pays-Bas
+Pages spéciales utilisateurs "smartphone"
+Utilisez les pages mobiles pour les utilisateurs de «smartphones»
+Seul le site principal est utilisé
+Page de contact
+Tourner cette page en
+Nombre toutes les pages visitées \ 's
+Nous avons une ou plusieurs images de la webcam pour montrer.
+Oui, nous avons une webcam que nous voulons montrer
+Ce qui est affiché pendant la nuit
+Utilisez un «Il fait nuit" image
+Utilisez l'image normale de webcam de charge
+Webcam 1
+Un autre webcam
+Oui, nous avons une deuxième webcam que nous voulons montrer
+Programmes météorologiques supplémentaires dans l'utilisation de cette station
+WXSIM prévisions météorologiques
+Oui, nous utilisons payé WXSIM programme pour faire nos prévisions météo
+Le fichier est utilisé latest.csv
+Le fichier est utilisé lastret.txt
+Utilisez les icônes par défaut du modèle
+Utilisez les icônes YrNo
+Meteo fiche: serveur de stockage et graphiques
+Nous ne utilisons plug Meteo
+Nous utilisons Meteo Plug and voulons donner les pages supplémentaires
+WD en direct: A charge script de site / programme, le tableau de bord utilisé fichiers Clientraw à un "Flash" hautement personnalisable à nouveau
+Aucun utilisateur WD direct
+Nous utilisons WD-Live, et l'affichage du tableau de bord à nouveau
+Meteroware-Live sans script de site / programme, pour donner un "Flash" simple, le tableau de bord à nouveau
+Aucun intérêt dans le tableau de bord
+Oui, utilisez le tableau de bord Meteo Vrai
+Articles du menu / attentes pages
+IMPORTANT: Quelle est la verewachting norme attendue sur la page de démarrage
+Weather Underground - utilise une "clé"
+WXSIM d'acheter le programme
+Yrno utilise un champ de code
+METNO
+YoWindow gadget
+Utilisation de plusieurs sélections pages attentes
+Prévisions Météo métro et almanach
+Oui, nous voulons que ceux attente supplémentaire
+Utilisez les icônes WU
+WU utiliser des icônes de la mémoire cache
+Utiliser WU icônes directement à partir de leur site
+Met.no
+Oui, nous voulons que ce vaste prévisions gratuit
+YR.no - Cette prévision est nécessaire pour les "smartphones / mobiles" pages
+Oui, nous voulons cette attente, pour nos pages mobiles
+Météo actuelle
+Oui, nous sommes un membre inscrit de HWA
+Utilisez les icônes HWA
+Yahoo
+Utilisez les icônes Yahoo
+World Weather
+version de l'API 1 uniquement pour les utilisateurs qui ont une vieille clé API 1
+Utilisez la version 2 API, la version actuelle
+Utilisez World Weather-icons
+"Actualiser" temps
+Divers
+Norme ensemble caractères UTF-8
+fenêtres-1252
+Partenaires
+Vos visiteurs peuvent également trouver des informations météo: Weather Underground
+Nous ne facturons pas au Weather Underground
+Nous sommes membres du Weather Underground
+Nous ne sommes pas membres d'une Mesonet régionale stations météorologiques
+Nous sommes un fier membre d'un Mesonet régionale stations météorologiques
+Nous ne facturons pas de Météo actuelle
+Nous sommes membres de Météo actuelle
+EWN - réseau européen de stations météorologiques
+Nous ne l'utilisons pas
+Nos données météorologiques utilisés par EWN
+conf-ewnID
+D'autres organisations où ils peuvent télécharger sur
+AWEKAS
+Nous ne facturons pas à AWEKAS
+Nous sommes membres de AWEKAS
+Météo Couverture
+Nous ne facturons pas de Météo Couverture
+Nous sommes un membre de Météo Couverture
+CWOP
+Nous ne facturons pas pour CWOP
+Nous sommes membres de CWOP
+Weatherlink.com
+Nous ne facturons pas pour WeatherLink.com
+Nous ladden nos données météorologiques pour WeatherLink.com
+Et quelles sont les possibilités
+Nous ne facturons pas à quelque chose Météo
+Nous sommes membres de AnythingWeatherg
+Nous ne facturons pas pour PWS
+Nous sommes membres de PWS
+Nous ne facturons pas pour WP24
+Nous zzijn membre du WP24
+Nous zladen pas USWG
+Nous sommes membres de gallons américains
+le support des cookies / visiteurs peuvent faire toutes sortes annpassingen
+Oui, nous mettons en garde les visiteurs quand un cookie est nécessaire pour leurs ajustements
+Réglages / utilisent des cookies
+Autoriser l'utilisateur à modifier ce paramètre
+Ajustement pas autorisé
+Les composants optionnels connectés à votre station
+UV / capteur solaire
+Aucun capteur UV
+Nous avons un capteur UV sur notre station
+Aucun capteur solaire
+Nous avons un capteur solaire sur notre station
+D'autres capteurs supplémentaires fréquemment utilisés
+Nous utilisons le capteur de température interne
+Nous voulons donner la température intérieure
+Pas besoin d'un capteur de température supplémentaire
+Nous utilisons un capteur supplémentaire à notre station
+Pas besoin d'un deuxième capteur de température supplémentaire
+Nous avons un deuxième capteur de température supplémentaire pour notre station
+Capteurs de sol / humidité
+Nous ne utilisons des capteurs de sol
+Nous utilisons des capteurs de sol à notre station
+Pourtant, nous ne voulons pas supplémentaire / temp / page humidité du sol
+Afficher la / temp / page humidité de fond
+Il n'y a pas de capteurs de feuilles
+Nous avons capteurs de feuilles à notre station
+Voir les informations supplémentaires:
+Le type de station météo
+Notre gare est pas une station Davis
+Nous faisons usage d'une station météo Davis
+Nous ne voulons pas afficher le nom de la station / photo sur nos pages
+Nous voulons afficher les informations sur la station météorologique sur le site
+Le site / fournisseur
+Aucun nom / image de notre spectacle privider
+Nous voulons afficher les informations du prestataire de services sur le site
+L'ordinateur (appareil) qui est utilisé
+Aucun type et le nom de notre salon de l'informatique météo
+Nous voulons afficher les informations de notre ordinateur météo
+Programme de Météo
+Montrer aucune information sur notre programme de météo
+Nous voulons afficher les informations concernant le programme de la météo sur le site
+Unités, les formats de date et d'heure et un certain nombre d'autres institutions
+Tout d'abord quelques autres institutions
+Utilisez un point [22:50] comme séparateur décimal
+Utilisez une virgule [22,50] comme séparateur décimal
+Utilisez températures multicolores
+Utilisez la couleur uniquement bleu / rouge que la température
+Utilisez tous les textes tels qu'ils sont
+Convertir tout le texte en minuscules
+Les tranches horaires commencent nuit après matin, l'après-midi au soir)
+Demi-journées commencent avec le matin ou après-midi, le soir et la nuit
+Les unités sont utilisées pour les valeurs par tous les temps
+Celsius
+Fahrenheit
+hPa
+millibars
+inHg
+km / h
+kts
+mph
+dans
+cm
+kilomètre
+mile
+/ Hr
+Pieds
+mètre
+Comment peuvent la date et l'heure à imager
+12:00
+24 heures
+31 décembre 2013 14h03
+31-03-2012 14:03
+14h03
+14h03
+14h00
+14
+Le 31 décembre 2013
+31-03-2012
+31 décembre
+31-03
+Friday, 22 Janvier, 2015
+Friday, 5 Février, 2013
+Sud Ouest
+Nord Ouest
+Midwest
+Sud Central
+Nord Est
+Sud Est
+Utilisation des alertes de la NOAA
+Utilisez avertissements NWS avec son Curly
+Cette page CWOP
+NOAA
+Page de prévisions NOAA
+Utilisation d'icônes de la NOAA
+Nous voulons utiliser la AirQualityHealtIndex
+Environnement Canada
+Environnement Canada prévoit la page
+Des paramètres supplémentaires pour votre programme météo
+pas dans cette liste
+mm-jj-aaaa  = mois-jour-année  avec le siècle et un - comme séparateur
+mm-jj-aaaa  = mois-jour-année  ne  siècle     et un- comme séparateur
+mm /jj/aaaa = mois/jour/année  avec le siècle et un / comme séparateur
+mm /jj/aa   = mois/jour/année  ne  siècle     et un / comme séparateur
+jj-mm-aaaa  = jour-mois-année  avec un siècle et un - comme séparateur
+jj-mm-aa    = jour-mois-année  ne siècle      et un - comme séparateur
+jj/mm/aaaa  = jour/mois/année  avec le siècle et un / comme séparateur
+jj/mm/aa    = jour/mois/année  ne siècle      et un / comme séparateur
+Une barre oblique "/" est utilisé pour des parties distinctes de la journée
+Un signe "-" est utilisé pour des parties distinctes de la journée
+Un espace " " est utilisé pour des parties distinctes de la journée
+première partie
+partie médiane
+partie finale

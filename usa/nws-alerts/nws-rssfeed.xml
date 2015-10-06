@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<!-- version 1.00 - 10-Jun-2012 -->
+<channel>
+  <title>Michiana Area Weather Alerts</title>
+  <link>192.168.0.129/</link>
+  <description>Courtesy of the National Weather Service</description>
+  <language>en-us</language>
+  <generator>RSS feed version 1.00 - 10-Jun-2012</generator>
+  <copyright>Curly at ricksturf.com</copyright>
+  <pubDate>2014-04-19T03:57:06 EDT</pubDate>
+  <ttl>15</ttl>
+  <lastBuildDate>2014-04-19T03:57:06 EDT</lastBuildDate>
+  <item>
+    <title>Santa Cruz</title>
+    <link></link>
+    <pubDate>Sat, 19 Apr 2014 03:57:06 EDT</pubDate>
+    <description>&lt;a href=&quot;?a=CAZ529#WA1&quot; title=&quot;Click for complete details&quot;&gt;High Surf Advisory&lt;/a&gt; &lt;br/&gt;...LARGE LATE SEASON NORTHWESTERLY SWELL EXPECTED TO ARRIVE SUNDAY MORNING...
+A STORM SYSTEM PUSHING TOWARDS THE BRITISH COLUMBIA COAST IS
+GENERATING A LARGE NORTHWEST SWELL WHICH IS EXPECTED TO ARRIVE TO
+THE NORTHERN AND [more]...&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;</description>
+  </item>
+  <item>
+    <title>San Francisco</title>
+    <link></link>
+    <pubDate>Sat, 19 Apr 2014 03:57:06 EDT</pubDate>
+    <description>&lt;a href=&quot;?a=CAZ006#WA2&quot; title=&quot;Click for complete details&quot;&gt;High Surf Advisory&lt;/a&gt; &lt;br/&gt;...LARGE LATE SEASON NORTHWESTERLY SWELL EXPECTED TO ARRIVE SUNDAY MORNING...
+A STORM SYSTEM PUSHING TOWARDS THE BRITISH COLUMBIA COAST IS
+GENERATING A LARGE NORTHWEST SWELL WHICH IS EXPECTED TO ARRIVE TO
+THE NORTHERN AND [more]...&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;</description>
+  </item>
+  <item>
+    <title>Santa Clara Valley</title>
+    <link></link>
+    <pubDate>Sat, 19 Apr 2014 03:57:06 EDT</pubDate>
+    <description>&lt;a href=&quot;?a=CAZ513#WA1&quot; title=&quot;There are no details&quot;&gt;No Alerts&lt;/a&gt; &lt;br/&gt;Severe weather is not expected&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;</description>
+  </item>
+</channel>
+</rss>

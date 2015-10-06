@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> 
+  <channel>
+    <title>SPC Tornado/Severe Thunderstorm Watches</title>
+    <link>http://www.spc.noaa.gov/</link>
+    <description>Storm Prediction Center</description>
+    <language>en-us</language>
+    <copyright>None</copyright>
+    <managingEditor>spc.feedback@noaa.gov (spc.feedback@noaa.gov)</managingEditor>
+    <webMaster>spc.feedback@noaa.gov (spc.feedback@noaa.gov)</webMaster>
+    <pubDate>Fri, 03 Apr 2015 09:43:01 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2015 09:43:01 +0000</lastBuildDate>
+    <rating>general</rating>
+    <docs>http://validator.w3.org/feed/rss2.html</docs>
+    <ttl>1</ttl>
+    <atom:link href="http://www.spc.noaa.gov/products/spcwwrss.xml" rel="self" type="application/rss+xml" />
+
+    <image>
+      <url>http://weather.gov/images/xml_logo.gif</url>
+      <title>SPC Tornado/Severe Thunderstorm Watches</title>
+      <link>http://www.spc.noaa.gov/</link>
+    </image> 
+
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ww0021.html</link>
+      <title>SPC Severe Thunderstorm Watch 21</title>
+      <description>WW 21 SEVERE TSTM AR KS MO OK 030650Z - 031100Z
+        <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ww0021.html"><img src="http://www.spc.noaa.gov/products/watch/ww0021_radar.gif" border="1" alt="WW 0021 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+SEVERE THUNDERSTORM WATCH NUMBER 21
+NWS STORM PREDICTION CENTER NORMAN OK
+150 AM CDT FRI APR 3 2015
+
+THE NWS STORM PREDICTION CENTER HAS ISSUED A
+
+* SEVERE THUNDERSTORM WATCH FOR PORTIONS OF 
+  NORTHWESTERN ARKANSAS
+  EXTREME SOUTHEASTERN KANSAS
+  SOUTHERN MISSOURI
+  EXTREME NORTHEASTERN OKLAHOMA
+
+* EFFECTIVE THIS FRIDAY MORNING FROM 150 AM UNTIL 600 AM CDT.
+
+* PRIMARY THREATS INCLUDE...
+  SCATTERED DAMAGING WINDS LIKELY WITH ISOLATED SIGNIFICANT GUSTS
+    TO 80 MPH POSSIBLE
+  ISOLATED VERY LARGE HAIL EVENTS TO 2.5 INCHES IN DIAMETER
+    POSSIBLE
+
+THE SEVERE THUNDERSTORM WATCH AREA IS APPROXIMATELY ALONG AND 60
+STATUTE MILES EITHER SIDE OF A LINE FROM 40 MILES WEST NORTHWEST
+OF JOPLIN MISSOURI TO 30 MILES NORTHEAST OF WEST PLAINS MISSOURI.
+ FOR A COMPLETE DEPICTION OF THE WATCH SEE THE ASSOCIATED WATCH
+OUTLINE UPDATE (WOUS64 KWNS WOU1).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A SEVERE THUNDERSTORM WATCH MEANS CONDITIONS ARE
+FAVORABLE FOR SEVERE THUNDERSTORMS IN AND CLOSE TO THE WATCH
+AREA. PERSONS IN THESE AREAS SHOULD BE ON THE LOOKOUT FOR
+THREATENING WEATHER CONDITIONS AND LISTEN FOR LATER STATEMENTS
+AND POSSIBLE WARNINGS. SEVERE THUNDERSTORMS CAN AND OCCASIONALLY
+DO PRODUCE TORNADOES.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 17...WW 18...WW 19...WW
+20...
+
+DISCUSSION...SVR MCS WITH HISTORY OF SEVERAL SIGNIFICANT-SVR GUSTS
+AND SPORADIC LARGE/DAMAGING HAIL REMAINS WELL-ORGANIZED AND WILL
+CROSS WW AREA...EVENTUALLY MOVING INTO MORE STABLE AIR BUT
+CONTINUING HAIL/WIND THREAT IN MEANTIME.  REF SPC MESOSCALE
+DISCUSSION 195 FOR ADDITIONAL/NEAR-TERM METEOROLOGICAL DETAILS.
+
+AVIATION...A FEW SEVERE THUNDERSTORMS WITH HAIL SURFACE AND ALOFT
+TO 2.5 INCHES. EXTREME TURBULENCE AND SURFACE WIND GUSTS TO 70
+KNOTS. A FEW CUMULONIMBI WITH MAXIMUM TOPS TO 500. MEAN STORM
+MOTION VECTOR 29050.
+
+
+...EDWARDS
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ww0021.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 09:40:02 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ww0021.html/20150403</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ww0020.html</link>
+      <title>SPC Tornado Watch 20</title>
+      <description>WW 20 TORNADO AR MO 030635Z - 031400Z
+        <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ww0020.html"><img src="http://www.spc.noaa.gov/products/watch/ww0020_radar.gif" border="1" alt="WW 0020 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+TORNADO WATCH NUMBER 20
+NWS STORM PREDICTION CENTER NORMAN OK
+135 AM CDT FRI APR 3 2015
+
+THE NWS STORM PREDICTION CENTER HAS ISSUED A
+
+* TORNADO WATCH FOR PORTIONS OF 
+  NORTH-CENTRAL AND NORTHEASTERN ARKANSAS
+  SOUTHEASTERN MISSOURI
+
+* EFFECTIVE THIS FRIDAY MORNING FROM 135 AM UNTIL 900 AM CDT.
+
+* PRIMARY THREATS INCLUDE...
+  A FEW TORNADOES POSSIBLE
+  ISOLATED DAMAGING WIND GUSTS TO 70 MPH POSSIBLE
+  ISOLATED LARGE HAIL EVENTS TO 1.5 INCHES IN DIAMETER POSSIBLE
+
+THE TORNADO WATCH AREA IS APPROXIMATELY ALONG AND 90 STATUTE
+MILES EAST AND WEST OF A LINE FROM 15 MILES WEST OF BATESVILLE
+ARKANSAS TO 20 MILES NORTHEAST OF POPLAR BLUFF MISSOURI.  FOR A
+COMPLETE DEPICTION OF THE WATCH SEE THE ASSOCIATED WATCH OUTLINE
+UPDATE (WOUS64 KWNS WOU0).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A TORNADO WATCH MEANS CONDITIONS ARE FAVORABLE FOR
+TORNADOES AND SEVERE THUNDERSTORMS IN AND CLOSE TO THE WATCH
+AREA. PERSONS IN THESE AREAS SHOULD BE ON THE LOOKOUT FOR
+THREATENING WEATHER CONDITIONS AND LISTEN FOR LATER STATEMENTS
+AND POSSIBLE WARNINGS.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 17...WW 18...WW 19...
+
+DISCUSSION...MCS/QLCS WITH BOW/LEWP CIRCULATIONS AND EMBEDDED
+SUPERCELLS WILL PROCEED ESEWD ACROSS OZARKS TO PORTIONS MS RIVER
+VALLEY WITH POTENTIAL FOR DAMAGING GUSTS...SPORADIC HAIL AND A FEW
+TORNADOES POSSIBLE.  SVR TSTM WW WILL BE REQUIRED FARTHER W FOR MCS
+MOVING OUT OF KS.  REF SPC MESOSCALE DISCUSSION 195 FOR SHORT-TERM
+METEOROLOGICAL INFO.
+
+AVIATION...TORNADOES AND A FEW SEVERE THUNDERSTORMS WITH HAIL
+SURFACE AND ALOFT TO 1.5 INCHES. EXTREME TURBULENCE AND SURFACE
+WIND GUSTS TO 60 KNOTS. A FEW CUMULONIMBI WITH MAXIMUM TOPS TO
+500. MEAN STORM MOTION VECTOR 29035.
+
+
+...EDWARDS
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ww0020.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 09:42:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ww0020.html/20150403</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ws0021.html</link>
+      <title>SPC Severe Thunderstorm Watch 21 Status Reports</title>
+      <description>WW 0021 Status Updates
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ws0021.html"><img src="http://www.spc.noaa.gov/products/watch/ww0021_radar.gif" border="1" alt="WW 0021 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 21
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 30 ESE GMJ
+TO 25 SE UMN TO 30 NW TBN.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0198.
+
+..PETERS..04/03/15
+
+ATTN...WFO...TSA...SGF...
+
+
+STATUS REPORT FOR WS 21 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC007-015-031040-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+BENTON               CARROLL             
+
+
+MOC029-043-065-067-091-105-149-153-161-169-203-209-213-215-225-
+229-031040-
+
+MO 
+.    MISSOURI COUNTIES INCLUDED ARE
+
+CAMDEN               CHRISTIAN           DENT                
+DOUGLAS              HOWELL              LACLEDE             
+OREGON               OZARK               PHELPS              
+PULASKI              SHANNON             STONE               
+TANEY                TEXAS               WEBSTER             
+WRIGHT               
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ws0021.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 09:40:02 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ws0021.html/2015040309</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ws0020.html</link>
+      <title>SPC Tornado Watch 20 Status Reports</title>
+      <description>WW 0020 Status Updates
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ws0020.html"><img src="http://www.spc.noaa.gov/products/watch/ww0020_radar.gif" border="1" alt="WW 0020 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 20
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 40 ENE UNO
+TO 30 NNW ARG TO 25 N DYR.
+
+..PETERS..04/03/15
+
+ATTN...WFO...LZK...MEG...PAH...
+
+
+STATUS REPORT FOR WT 20 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC005-009-021-023-031-049-055-063-065-067-075-089-093-101-111-
+121-129-135-137-141-031040-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+BAXTER               BOONE               CLAY                
+CLEBURNE             CRAIGHEAD           FULTON              
+GREENE               INDEPENDENCE        IZARD               
+JACKSON              LAWRENCE            MARION              
+MISSISSIPPI          NEWTON              POINSETT            
+RANDOLPH             SEARCY              SHARP               
+STONE                VAN BUREN           
+
+
+MOC069-155-031040-
+
+MO 
+.    MISSOURI COUNTIES INCLUDED ARE
+
+DUNKLIN              PEMISCOT            
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ws0020.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 09:42:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ws0020.html/2015040309</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ws0019.html</link>
+      <title>SPC Severe Thunderstorm Watch 19 Status Reports</title>
+      <description>WW 0019 Status Updates
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ws0019.html"><img src="http://www.spc.noaa.gov/products/watch/ww0019_radar.gif" border="1" alt="WW 0019 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 19
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 20 ESE POF
+TO 25 SW CGI TO 25 S CGI TO 25 ESE MDH TO 30 SW EVV.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0197.
+
+..PETERS..04/03/15
+
+ATTN...WFO...PAH...LSX...
+
+
+STATUS REPORT FOR WS 19 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ILC069-087-127-151-153-030940-
+
+IL 
+.    ILLINOIS COUNTIES INCLUDED ARE
+
+HARDIN               JOHNSON             MASSAC              
+POPE                 PULASKI             
+
+
+KYC007-039-145-030940-
+
+KY 
+.    KENTUCKY COUNTIES INCLUDED ARE
+
+BALLARD              CARLISLE            MCCRACKEN           
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ws0019.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 08:55:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ws0019.html/2015040309</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ws0018.html</link>
+      <title>SPC Severe Thunderstorm Watch 18 Status Reports</title>
+      <description>WW 0018 Status Updates
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ws0018.html"><img src="http://www.spc.noaa.gov/products/watch/ww0018_radar.gif" border="1" alt="WW 0018 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 18
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 5 NNE BVO TO
+30 NNE BVO TO 20 W CNU.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0196.
+
+..PETERS..04/03/15
+
+ATTN...WFO...ICT...TOP...DDC...
+
+
+STATUS REPORT FOR WS 18 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+KSC001-003-031-099-125-133-205-207-030840-
+
+KS 
+.    KANSAS COUNTIES INCLUDED ARE
+
+ALLEN                ANDERSON            COFFEY              
+LABETTE              MONTGOMERY          NEOSHO              
+WILSON               WOODSON             
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ws0018.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 07:04:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ws0018.html/2015040309</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/ws0017.html</link>
+      <title>SPC Tornado Watch 17 Status Reports</title>
+      <description>WW 0017 Status Updates
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/watch/ws0017.html"><img src="http://www.spc.noaa.gov/products/watch/ww0017_radar.gif" border="1" alt="WW 0017 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 17
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 25 SE GMJ TO
+15 SW UMN TO 30 E SGF TO 15 SSE VIH.
+
+..PETERS..04/03/15
+
+ATTN...WFO...LZK...TSA...ICT...SGF...OUN...
+
+
+STATUS REPORT FOR WT 17 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC005-007-009-015-049-089-030640-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+BAXTER               BENTON              BOONE               
+CARROLL              FULTON              MARION              
+
+
+MOC009-043-065-067-091-149-153-161-169-203-209-213-215-225-229-
+030640-
+
+MO 
+.    MISSOURI COUNTIES INCLUDED ARE
+
+BARRY                CHRISTIAN           DENT                
+DOUGLAS              HOWELL              OREGON              
+OZARK                PHELPS              PULASKI             
+SHANNON              STONE               TANEY               
+TEXAS                WEBSTER             WRIGHT              
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+</pre>
+<a href="http://www.spc.noaa.gov/products/watch/ws0017.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 03 Apr 2015 05:47:03 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/ws0017.html/2015040309</guid>
+    </item>
+  </channel>
+</rss>

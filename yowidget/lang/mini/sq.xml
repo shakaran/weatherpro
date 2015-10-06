@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Anulo"/>
+  <s key="Change" value="Ndrysho"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Parashikimi i motit nga {0}, mundësuar nga Instituti Meteorologjik Norvegjez dhe nga NRK"/>
+  <s key="Forecast from {0}" value="Parashikimi nga {0}"/>
+  <s key="Friday" value="E Premte"/>
+  <s key="Monday" value="E Hënë"/>
+  <s key="Saturday" value="E Shtunë"/>
+  <s key="Sunday" value="E Dielë"/>
+  <s key="Thursday" value="E Enjte"/>
+  <s key="Tuesday" value="E Martë"/>
+  <s key="Wednesday" value="E Mërkurë"/>
+  <s key="Fr" value="Pr"/>
+  <s key="Mo" value="Hë"/>
+  <s key="Sa" value="Sh"/>
+  <s key="Su" value="Di"/>
+  <s key="Th" value="En"/>
+  <s key="Tu" value="Ma"/>
+  <s key="We" value="Më"/>
+  <s key="LIVE" value="AKTUALE"/>
+  <s key="Loading" value="Duke u hapur"/>
+  <s key="April" value="Prill"/>
+  <s key="August" value="Gusht"/>
+  <s key="December" value="Dhjetor"/>
+  <s key="February" value="Shkurt"/>
+  <s key="January" value="Janar"/>
+  <s key="July" value="Korrik"/>
+  <s key="June" value="Qershor"/>
+  <s key="March" value="Mars"/>
+  <s key="May" value="Maj"/>
+  <s key="November" value="Nëntor"/>
+  <s key="October" value="Tetor"/>
+  <s key="September" value="Shtator"/>
+  <s key="Network error" value="Probleme me rrjet"/>
+  <s key="No weather" value="Nuk ka asnjë informacion meteorologjik"/>
+  <s key="Retry" value="Riprovo"/>
+  <s key="Tomorrow" value="Nesër"/>
+  <s key="Updating weather" value="Duke përditësuar motin"/>
+  <s key="Please wait..." value="Ju lutem prisni..."/>
+  <s key="Weather expired" value="Moti i skaduar"/>
+  <s key="Loading" value="Duke u hapur"/>
+</body>

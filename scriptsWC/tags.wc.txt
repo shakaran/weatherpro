@@ -1,0 +1,357 @@
+|pagename|tagsWC|!              ISO8601DATES$
+|version|3.00 2015-04-19 16:45:00  BETA|!
+
+|datetime|de$ t24s$|!
+|date|de$|!
+|time|t24s$|!
+
+|fromtemp|TEMPUNITS$|! 
+
+|tempAct|STAT$TEMPERATURE:CURRENT$|!
+|tempDelta|STAT$TEMPERATURE:DELTA1$|!
+
+|tempMinToday|STAT$TEMPERATURE:MIN:TODAY$|!
+|tempMinTodayTime|STAT$TEMPERATURE:MIN:TODAY:TIME$|!
+|tempMinYday|STAT$TEMPERATURE:MIN:YESTERDAY$|!
+|tempMinYdayTime|STAT$TEMPERATURE:MIN:YESTERDAY:TIME$|!
+|tempMinMonth|STAT$TEMPERATURE:MIN:THISMONTH$|!
+|tempMinMonthTime|STAT$TEMPERATURE:MIN:THISMONTH:TIME$|!
+|tempMinYear|STAT$TEMPERATURE:MIN:THISYEAR$|!
+|tempMinYearTime|STAT$TEMPERATURE:MIN:THISYEAR:TIME$|!
+|tempMinAll|STAT$TEMPERATURE:MIN:ALLTIME$|!
+|tempMinAllTime|STAT$TEMPERATURE:MIN:ALLTIME:TIME$|!
+
+|tempMaxToday|STAT$TEMPERATURE:MAX:TODAY$|!
+|tempMaxTodayTime|STAT$TEMPERATURE:MAX:TODAY:TIME$|!
+|tempMaxYday|STAT$TEMPERATURE:MAX:YESTERDAY$|!
+|tempMaxYdayTime|STAT$TEMPERATURE:MAX:YESTERDAY:TIME$|!
+|tempMaxMonth|STAT$TEMPERATURE:MAX:THISMONTH$|!
+|tempMaxMonthTime|STAT$TEMPERATURE:MAX:THISMONTH:TIME$|!
+|tempMaxYear|STAT$TEMPERATURE:MAX:THISYEAR$|!
+|tempMaxYearTime|STAT$TEMPERATURE:MAX:THISYEAR:TIME$|!
+|tempMaxAll|STAT$TEMPERATURE:MAX:ALLTIME$|!
+|tempMaxAllTime|STAT$TEMPERATURE:MAX:ALLTIME:TIME$|!
+
+|dewpAct|STAT$DEWPOINT:CURRENT$|!
+|dewpDelta|STAT$DEWPOINT:DELTA1$|!
+
+|dewpMinToday|STAT$DEWPOINT:MIN:TODAY$|!
+|dewpMinTodayTime|STAT$DEWPOINT:MIN:TODAY:TIME$|!
+|dewpMinYday|STAT$DEWPOINT:MIN:YESTERDAY$|!
+|dewpMinYdayTime|STAT$DEWPOINT:MIN:YESTERDAY:TIME$|!
+|dewpMinMonth|STAT$DEWPOINT:MIN:THISMONTH$|!
+|dewpMinMonthTime|STAT$DEWPOINT:MIN:THISMONTH:TIME$|!
+|dewpMinYear|STAT$DEWPOINT:MIN:THISYEAR$|!
+|dewpMinYearTime|STAT$DEWPOINT:MIN:THISYEAR:TIME$|!
+|dewpMinAll|STAT$DEWPOINT:MIN:ALLTIME$|!
+|dewpMinAllTime|STAT$DEWPOINT:MIN:ALLTIME:TIME$|!
+
+
+|dewpMaxToday|STAT$DEWPOINT:MAX:TODAY$|!
+|dewpMaxTodayTime|STAT$DEWPOINT:MAX:TODAY:TIME$|!
+|dewpMaxYday|STAT$DEWPOINT:MAX:YESTERDAY$|!
+|dewpMaxYdayTime|STAT$DEWPOINT:MAX:YESTERDAY:TIME$|!
+|dewpMaxMonth|STAT$DEWPOINT:MAX:THISMONTH$|!
+|dewpMaxMonthTime|STAT$DEWPOINT:MAX:THISMONTH:TIME$|!
+|dewpMaxYear|STAT$DEWPOINT:MAX:THISYEAR$|!
+|dewpMaxYearTime|STAT$DEWPOINT:MAX:THISYEAR:TIME$|!
+|dewpMaxAll|STAT$DEWPOINT:MAX:ALLTIME$|!
+|dewpMaxAllTime|STAT$DEWPOINT:MAX:ALLTIME:TIME$|!
+
+|appTempAct|STAT$AT_US:CURRENT$|!
+|appTempDelta|STAT$AT_US:DELTA1$|!
+
+|appTempMinToday|STAT$AT_US:MIN:TODAY$|!
+|appTempMinTodayTime|STAT$AT_US:MIN:TODAY:TIME$|!
+|appTempMinYday|STAT$AT_US:MIN:YESTERDAY$|!
+|appTempMinYdayTime|STAT$AT_US:MIN:YESTERDAY:TIME$|!
+|appTempMinMonth|STAT$AT_US:MIN:THISMONTH$|!
+|appTempMinMonthTime|STAT$AT_US:MIN:THISMONTH:TIME$|!
+|appTempMinYear|STAT$AT_US:MIN:THISYEAR$|!
+|appTempMinYearTime|STAT$AT_US:MIN:THISYEAR:TIME$|!
+# no appTempMinAll
+# no appTempMinAllTime
+
+|appTempMaxToday|STAT$AT_US:MAX:TODAY$|!
+|appTempMaxTodayTime|STAT$AT_US:MAX:TODAY:TIME$|!
+|appTempMaxYday|STAT$AT_US:MAX:YESTERDAY$|!
+|appTempMaxYdayTime|STAT$AT_US:MAX:YESTERDAY:TIME$|!
+|appTempMaxMonth|STAT$AT_US:MAX:THISMONTH$|!
+|appTempMaxMonthTime|STAT$AT_US:MAX:THISMONTH:TIME$|!
+|appTempMaxYear|STAT$AT_US:MAX:THISYEAR$|!
+|appTempMaxYearTime|STAT$AT_US:MAX:THISYEAR:TIME$|!
+# no appTempMaxAll
+# no appTempMaxAllTime
+
+|heatAct|STAT$HEATINDEX:CURRENT$|!
+|heatDelta|STAT$HEATINDEX:DELTA1$|!
+
+|heatMaxToday|STAT$HEATINDEX:MAX:TODAY$|!
+|heatMaxTodayTime|STAT$HEATINDEX:MAX:TODAY:TIME$|!
+|heatMaxYday|STAT$HEATINDEX:MAX:YESTERDAY$|!
+|heatMaxYdayTime|STAT$HEATINDEX:MAX:YESTERDAY:TIME$|!
+|heatMaxMonth|STAT$HEATINDEX:MAX:THISMONTH$|!
+|heatMaxMonthTime|STAT$HEATINDEX:MAX:THISMONTH:TIME$|!
+|heatMaxYear|STAT$HEATINDEX:MAX:THISYEAR$|!
+|heatMaxYearTime|STAT$HEATINDEX:MAX:THISYEAR:TIME$|!
+|heatMaxAll|STAT$HEATINDEX:MAX:ALLTIME$|!
+|heatMaxAllTime|STAT$HEATINDEX:MAX:ALLTIME:TIME$|!
+
+|chilAct|STAT$WINDCHILL:CURRENT$|!
+|chilDelta|STAT$WINDCHILL:DELTA1$|!
+
+|chilMinToday|STAT$WINDCHILL:MIN:TODAY$|!
+|chilMinTodayTime|STAT$WINDCHILL:MIN:TODAY:TIME$|!
+|chilMinYday|STAT$WINDCHILL:MIN:YESTERDAY$|!
+|chilMinYdayTime|STAT$WINDCHILL:MIN:YESTERDAY:TIME$|!
+|chilMinMonth|STAT$WINDCHILL:MIN:THISMONTH$|!
+|chilMinMonthTime|STAT$WINDCHILL:MIN:THISMONTH:TIME$|!
+|chilMinYear|STAT$WINDCHILL:MIN:THISYEAR$|!
+|chilMinYearTime|STAT$WINDCHILL:MIN:THISYEAR:TIME$|!
+|chilMinAll|STAT$WINDCHILL:MIN:ALLTIME$|!
+|chilMinAllTime|STAT$WINDCHILL:MIN:ALLTIME:TIME$|!
+
+|chilMaxToday|STAT$WINDCHILL:MAX:TODAY$|!
+|chilMaxTodayTime|STAT$WINDCHILL:MAX:TODAY:TIME$|!
+
+|tempActInside|STAT$INTTEMPERATURE:CURRENT$|!
+|tempActExtra1|STAT$T1:CURRENT$|!
+|tempActExtra2|STAT$T2:CURRENT$|!
+
+|hudxAct|HUMIDEX$|!
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|PRESSUREUNITS$|!                //  = 'inHg', 'hPa', 'kPa', 'mb'
+
+|baroAct|STAT$PRESSURE:CURRENT$>|!
+|baroDelta|STAT$PRESSURE:DELTA1$|!
+|baroTrend|BTTEXT$|!
+
+|baroMinToday|STAT$PRESSURE:MIN:TODAY$|!
+|baroMinTodayTime|STAT$PRESSURE:MIN:TODAY:TIME$|!
+|baroMinYday|STAT$PRESSURE:MIN:YESTERDAY$|!
+|baroMinYdayTime|STAT$PRESSURE:MIN:YESTERDAY:TIME$|!
+|baroMinMonth|STAT$PRESSURE:MIN:THISMONTH$|!
+|baroMinMonthTime|STAT$PRESSURE:MIN:THISMONTH:TIME$|!
+|baroMinYear|STAT$PRESSURE:MIN:THISYEAR$|!
+|baroMinYearTime|STAT$PRESSURE:MIN:THISYEAR:TIME$|!
+|baroMinAll|STAT$PRESSURE:MIN:ALLTIME$|!
+|baroMinAllTime|STAT$PRESSURE:MIN:ALLTIME:TIME$|!
+
+|baroMaxToday|STAT$PRESSURE:MAX:TODAY$|!
+|baroMaxTodayTime|STAT$PRESSURE:MAX:TODAY:TIME$|!
+|baroMaxYday|STAT$PRESSURE:MAX:YESTERDAY$|!
+|baroMaxYdayTime|STAT$PRESSURE:MAX:YESTERDAY:TIME$|!
+|baroMaxMonth|STAT$PRESSURE:MAX:THISMONTH$|!
+|baroMaxMonthTime|STAT$PRESSURE:MAX:THISMONTH:TIME$|!
+|baroMaxYear|STAT$PRESSURE:MAX:THISYEAR$|!
+|baroMaxYearTime|STAT$PRESSURE:MAX:THISYEAR:TIME$|!
+|baroMaxAll|STAT$PRESSURE:MAX:ALLTIME$|!
+|baroMaxAllTime|STAT$PRESSURE:MAX:ALLTIME:TIME$|!
+
+------------------------------------------humidity-----------------------------------
+|humiAct|STAT$EXTHUMIDITY:CURRENT$|!
+|humiDelta|STAT$EXTHUMIDITY:DELTA1$|!
+
+|humiMinToday|STAT$EXTHUMIDITY:MIN:TODAY$|!
+|humiMinTodayTime|STAT$EXTHUMIDITY:MIN:TODAY:TIME$|!
+|humiMinYday|STAT$EXTHUMIDITY:MIN:YESTERDAY$|!
+|humiMinYdayTime|STAT$EXTHUMIDITY:MIN:YESTERDAY:TIME$|!
+|humiMinMonth|STAT$EXTHUMIDITY:MIN:THISMONTH$|!
+|humiMinMonthTime|STAT$EXTHUMIDITY:MIN:THISMONTH:TIME$|!
+|humiMinYear|STAT$EXTHUMIDITY:MIN:THISYEAR$|!
+|humiMinYearTime|STAT$EXTHUMIDITY:MIN:THISYEAR:TIME$|!
+|humiMinAll|STAT$EXTHUMIDITY:MIN:ALLTIME$|!
+|humiMinAllTime|STAT$EXTHUMIDITY:MIN:ALLTIME:TIME$|!
+
+|humiMaxToday|STAT$EXTHUMIDITY:MAX:TODAY$|!
+|humiMaxTodayTime|STAT$EXTHUMIDITY:MAX:TODAY:TIME$|!
+|humiMaxYday|STAT$EXTHUMIDITY:MAX:YESTERDAY$|!
+|humiMaxYdayTime|STAT$EXTHUMIDITY:MAX:YESTERDAY:TIME$|!
+|humiMaxMonth|STAT$EXTHUMIDITY:MAX:THISMONTH$|!
+|humiMaxMonthTime|STAT$EXTHUMIDITY:MAX:THISMONTH:TIME$|!
+|humiMaxYear|STAT$EXTHUMIDITY:MAX:THISYEAR$|!
+|humiMaxYearTime|STAT$EXTHUMIDITY:MAX:THISYEAR:TIME$|!
+|humiMaxAll|STAT$EXTHUMIDITY:MAX:ALLTIME$|!
+|humiMaxAllTime|STAT$EXTHUMIDITY:MAX:ALLTIME:TIME$|!
+
+|humiInAct|STAT$INTHUMIDITY:CURRENT$|!
+|humiActExtra1|STAT$H1:CURRENT$|!
+|humiActExtra2|STAT$H2:CURRENT$|!
+------------------------------------------rain---------------------------------------
+|fromrain|RAINUNITS$|!         //  'mm', 'in'
+
+|rainRateAct|CR$|!
+
+|rainRateMaxToday|      ?|!
+|rainRateMaxYday|       ?|!
+
+|lastRained|RLDi$|!
+
+|rainHourAct|           ?|!
+|rainHourMaxToday|      ?|!
+|rainHourMaxYday|       ?|!
+
+|rainToday|STAT$RAIN:TOTAL:TODAY$|!
+|rainYday|STAT$RAIN:TOTAL:YESTERDAY$|!
+|rainWeek|STAT$RAIN:TOTAL:THISWEEK$|!
+|rainMonth|STAT$RAIN:TOTAL:THISMONTH$|!
+|rainYear|STAT$RAIN:TOTAL:THISYEAR$|!
+|rainAll|STAT$RAIN:TOTAL:ALLTIME$|!
+
+
+|rainTodayLow|          ?|!
+|rainYdayLow|           ?|!
+|rainYdayHigh|          ?|! 
+|rainRateYday|          ?|!
+
+
+|rainDayMnth|STAT$RAINDAYS:TOTAL:THISMONTH$|!
+|rainDayYear|STAT$RAINDAYS:TOTAL:THISYEAR$|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|STAT$DAILYET:CURRENT$|!
+|etYday|STAT$DAILYET:TOTAL:YESTERDAY$|!
+|etMonth|STAT$MONTHLYET:CURRENT$|!
+|etYear|STAT$YEARLYET:CURRENT$|!
+------------------------------------------wind---------------------------------------
+|fromwind|WINDSPEEDUNITS$|!     //  = 'kts','mph','kmh','km/h','m/s','Bft'
+
+|windAct|STAT$AVERAGEWINDSPEED:CURRENT$|!
+|gustAct|STAT$WINDGUST:CURRENT$|!
+
+|windActDsc|WDTEXT$|!
+|windActDir|WDDEGREES$|!
+
+|windBeafort|           ?|!
+
+|windAvgDir|STAT$WINDDIRECTION:AVERAGE:HRS(0.17)$|!
+
+|gustMaxToday|STAT$WINDGUST:MAX:TODAY$|!
+|gustMaxTodayTime|STAT$WINDGUST:MAX:TODAY:TIME$|!
+|gustMaxYday|STAT$WINDGUST:MAX:YESTERDAY$|!
+|gustMaxYTime|STAT$WINDGUST:MAX:YESTERDAY:TIME$|!
+|gustMaxMonth|STAT$WINDGUST:MAX:THISMONTH$|!
+|gustMaxMonthTime|STAT$WINDGUST:MAX:THISMONTH:TIME$|!
+|gustMaxYear|STAT$WINDGUST:MAX:THISYEAR$|!
+|gustMaxYearTime|STAT$WINDGUST:MAX:THISYEAR:TIME$|!
+|gustMaxAll|STAT$WINDGUST:MAX:ALLTIME$|!
+|gustMaxAllTime|STAT$WINDGUST:MAX:ALLTIME:TIME$|!
+
+|fromdistance|          ?|!
+|windrunToday|          ?|!
+|------------------------------------------UV    ---------------------------------------
+|uvAct|STAT$UV:CURRENT$|!
+
+|uvMaxToday|STAT$UV:MAX:TODAY$|!
+|uvMaxTodayTime|STAT$UV:MAX:TODAY:TIME$|!
+|uvMaxYday|STAT$UV:MAX:YESTERDAY$|!
+|uvMaxYdayTime|STAT$UV:MAX:YESTERDAY:TIME$|!
+|uvMaxMonth|STAT$UV:MAX:THISMONTH$|!
+|uvMaxMonthTime|STAT$UV:MAX:THISMONTH:TIME$|!
+|uvMaxYear|STAT$UV:MAX:THISYEAR$|!
+|uvMaxYearTime|STAT$UV:MAX:THISYEAR:TIME$|!
+|uvMaxAll|STAT$UV:MAX:ALLTIME$|!
+|uvMaxAllTime|STAT$UV:MAX:ALLTIME:TIME$|!
+
+|------------------------------------------Solar  --------------------------------------
+|solarAct|STAT$SOLAR:CURRENT$|!
+|solarActPerc|--|! 
+|solarActMaxPossible|CPS$|!
+
+|solarMaxToday|STAT$SOLAR:MAX:TODAY$|!
+|solarMaxTodayTime|STAT$SOLAR:MAX:TODAY:TIME$|!
+|solarMaxYday|STAT$SOLAR:MAX:YESTERDAY$|!
+|solarMaxYdayTime|STAT$SOLAR:MAX:YESTERDAY:TIME$|!
+|solarMaxMonth|STAT$SOLAR:MAX:THISMONTH$|!
+|solarMaxMonthTime|STAT$SOLAR:MAX:THISMONTH:TIME$|!
+|solarMaxYear|STAT$SOLAR:MAX:THISYEAR$|!
+|solarMaxYearTime|STAT$SOLAR:MAX:THISYEAR:TIME$|!
+|solarMaxAll|STAT$SOLAR:MAX:ALLTIME$|!
+|solarMaxAllTime|STAT$SOLAR:MAX:ALLTIME:TIME$|!
+
+|------------------------------------------cloudheight  --------------------------------
+|fromheight|HEIGHTUNITS$|!
+|cloudHeight|STAT$CLOUDBASE:CURRENT$|!  
+|------------------------------------------forecasts -----------------------------------
+|fcstTxt|CF$|!
+|------------------------------------------moon  ---------------------------------------
+#|moonrise|<#moonrise>|!
+#|moonset|<#moonset>|!
+#|lunarPhasePerc|<#MoonPercentAbs>|!
+#|lunarAge|<#MoonAge>|!
+|------------------------------------------somemor  e-----------------------------------
+|wsVersion|BD$|!
+|wsHardware|mac|!
+|wsUptime|UT$|!
+|-------------------------------------- soil
+|soilTempAct|STAT$ST1:CURRENT$#STAT$ST2:CURRENT$#STAT$ST3:CURRENT$#STAT$ST4:CURRENT$|!
+
+|soilTempMaxToday|STAT$ST1:MAX:TODAY$#STAT$ST2:MAX:TODAY$#STAT$ST3:MAX:TODAY$#STAT$ST4:MAX:TODAY$|!
+|soilTempMaxTodayTime|STAT$ST1:MAX:TODAY:TIME$#STAT$ST2:MAX:TODAY:TIME$#STAT$ST3:MAX:TODAY:TIME$#STAT$ST4:MAX:TODAY:TIME$|!
+|soilTempMaxYday|STAT$ST1:MAX:YESTERDAY$#STAT$ST2:MAX:YESTERDAY$#STAT$ST3:MAX:YESTERDAY$#STAT$ST4:MAX:YESTERDAY$|!
+|soilTempMaxYdayTime|STAT$ST1:MAX:YESTERDAY:TIME$#STAT$ST2:MAX:YESTERDAY:TIME$#STAT$ST3:MAX:YESTERDAY:TIME$#STAT$ST4:MAX:YESTERDAY:TIME$|!
+|soilTempMaxMonth|STAT$ST1:MAX:THISMONTH$#STAT$ST2:MAX:THISMONTH$#STAT$ST3:MAX:THISMONTH$#STAT$ST4:MAX:THISMONTH$|!
+|soilTempMaxMonthTime|STAT$ST1:MAX:THISMONTH:TIME$#STAT$ST2:MAX:THISMONTH:TIME$#STAT$ST3:MAX:THISMONTH:TIME$#STAT$ST4:MAX:THISMONTH:TIME$|!
+|soilTempMaxYear|STAT$ST1:MAX:THISYEAR$#STAT$ST2:MAX:THISYEAR$#STAT$ST3:MAX:THISYEAR$#STAT$ST4:MAX:THISYEAR$|!
+|soilTempMaxYearTime|STAT$ST1:MAX:THISYEAR:TIME$#STAT$ST2:MAX:THISYEAR:TIME$#STAT$ST3:MAX:THISYEAR:TIME$#STAT$ST4:MAX:THISYEAR:TIME$|!
+|soilTempMaxAll|STAT$ST1:MAX:ALLTIME$#STAT$ST2:MAX:ALLTIME$#STAT$ST3:MAX:ALLTIME$#STAT$ST4:MAX:ALLTIME$|!
+|soilTempMaxAllTime|STAT$ST1:MAX:ALLTIME:TIME$#STAT$ST2:MAX:ALLTIME:TIME$#STAT$ST3:MAX:ALLTIME:TIME$#STAT$ST4:MAX:ALLTIME:TIME$|!
+
+|soilTempMinToday|STAT$ST1:MIN:TODAY$#STAT$ST2:MIN:TODAY$#STAT$ST3:MIN:TODAY$#STAT$ST4:MIN:TODAY$|!
+|soilTempMinTodayTime|STAT$ST1:MIN:TODAY:TIME$#STAT$ST2:MIN:TODAY:TIME$#STAT$ST3:MIN:TODAY:TIME$#STAT$ST4:MIN:TODAY:TIME$|!
+|soilTempMinYday|STAT$ST1:MIN:YESTERDAY$#STAT$ST2:MIN:YESTERDAY$#STAT$ST3:MIN:YESTERDAY$#STAT$ST4:MIN:YESTERDAY$|!
+|soilTempMinYdayTime|STAT$ST1:MIN:YESTERDAY:TIME$#STAT$ST2:MIN:YESTERDAY:TIME$#STAT$ST3:MIN:YESTERDAY:TIME$#STAT$ST4:MIN:YESTERDAY:TIME$|!
+|soilTempMinMonth|STAT$ST1:MIN:THISMONTH$#STAT$ST2:MIN:THISMONTH$#STAT$ST3:MIN:THISMONTH$#STAT$ST4:MIN:THISMONTH$|!
+|soilTempMinMonthTime|STAT$ST1:MIN:THISMONTH:TIME$#STAT$ST2:MIN:THISMONTH:TIME$#STAT$ST3:MIN:THISMONTH:TIME$#STAT$ST4:MIN:THISMONTH:TIME$|!
+|soilTempMinYear|STAT$ST1:MIN:THISYEAR$#STAT$ST2:MIN:THISYEAR$#STAT$ST3:MIN:THISYEAR$#STAT$ST4:MIN:THISYEAR$|!
+|soilTempMinYearTime|STAT$ST1:MIN:THISYEAR:TIME$#STAT$ST2:MIN:THISYEAR:TIME$#STAT$ST3:MIN:THISYEAR:TIME$#STAT$ST4:MIN:THISYEAR:TIME$|!
+|soilTempMinAll|STAT$ST1:MIN:ALLTIME$#STAT$ST2:MIN:ALLTIME$#STAT$ST3:MIN:ALLTIME$#STAT$ST4:MIN:ALLTIME$|!
+|soilTempMinAllTime|STAT$ST1:MIN:ALLTIME:TIME$#STAT$ST2:MIN:ALLTIME:TIME$#STAT$ST3:MIN:ALLTIME:TIME$#STAT$ST4:MIN:ALLTIME:TIME$|!
+
+|soilMoistAct|STAT$SM1:CURRENT$#STAT$SM2:CURRENT$#STAT$SM3:CURRENT$#STAT$SM4:CURRENT$|!
+
+|soilMoistMaxToday|STAT$SM1:MAX:TODAY$#STAT$SM2:MAX:TODAY$#STAT$SM3:MAX:TODAY$#STAT$SM4:MAX:TODAY$|!
+|soilMoistMaxTodayTime|STAT$SM1:MAX:TODAY:TIME$#STAT$ST12:MAX:TODAY:TIME$#STAT$SM3:MAX:TODAY:TIME$#STAT$SM4:MAX:TODAY:TIME$|!
+|soilMoistMaxYday|STAT$SM1:MAX:YESTERDAY$#STAT$SM2:MAX:YESTERDAY$#STAT$SM3:MAX:YESTERDAY$#STAT$SM4:MAX:YESTERDAY$|!
+|soilMoistMaxYdayTime|STAT$SM1:MAX:YESTERDAY:TIME$#STAT$ST12:MAX:YESTERDAY:TIME$#STAT$SM3:MAX:YESTERDAY:TIME$#STAT$SM4:MAX:YESTERDAY:TIME$|!
+|soilMoistMaxMonth|STAT$SM1:MAX:THISMONTH$#STAT$SM2:MAX:THISMONTH$#STAT$SM3:MAX:THISMONTH$#STAT$SM4:MAX:THISMONTH$|!
+|soilMoistMaxMonthTime|STAT$SM1:MAX:THISMONTH:TIME$#STAT$SM2:MAX:THISMONTH:TIME$#STAT$SM3:MAX:THISMONTH:TIME$#STAT$SM4:MAX:THISMONTH:TIME$|!
+|soilMoistMaxYear|STAT$SM1:MAX:THISYEAR$#STAT$SM2:MAX:THISYEAR$#STAT$SM3:MAX:THISYEAR$#STAT$SM4:MAX:THISYEAR$|!
+|soilMoistMaxYearTime|STAT$SM1:MAX:THISYEAR:TIME$#STAT$SM2:MAX:THISYEAR:TIME$#STAT$SM3:MAX:THISYEAR:TIME$#STAT$SM4:MAX:THISYEAR:TIME$|!
+|soilMoistMaxAll|STAT$SM1:MAX:ALLTIME$#STAT$SM2:MAX:ALLTIME$#STAT$SM3:MAX:ALLTIME$#STAT$SM4:MAX:ALLTIME$|!
+|soilMoistMaxAllTime|STAT$SM1:MAX:ALLTIME:TIME$#STAT$SM2:MAX:ALLTIME:TIME$#STAT$SM3:MAX:ALLTIME:TIME$#STAT$SM4:MAX:ALLTIME:TIME$|!
+
+|soilMoistMinToday|STAT$SM1:MIN:YESTERDAY$#STAT$SM2:MIN:YESTERDAY$#STAT$SM3:MIN:YESTERDAY$#STAT$SM4:MIN:YESTERDAY$|!
+|soilMoistMinTodayTime|STAT$SM1:MIN:YESTERDAY:TIME$#STAT$SM2:MIN:YESTERDAY:TIME$#STAT$SM3:MIN:YESTERDAY:TIME$#STAT$SM4:MIN:YESTERDAY:TIME$|!
+|soilMoistMinYday|STAT$SM1:MIN:TODAY$#STAT$SM2:MIN:TODAY$#STAT$SM3:MIN:TODAY$#STAT$SM4:MIN:TODAY$|!
+|soilMoistMinYdayTime|STAT$SM1:MIN:TODAY:TIME$#STAT$SM2:MIN:TODAY:TIME$#STAT$SM3:MIN:TODAY:TIME$#STAT$SM4:MIN:TODAY:TIME$|!
+|soilMoistMinMonth|STAT$SM1:MIN:THISMONTH$#STAT$SM2:MIN:THISMONTH$#STAT$SM3:MIN:THISMONTH$#STAT$SM4:MIN:THISMONTH$|!
+|soilMoistMinMonthTime|STAT$SM1:MIN:THISMONTH:TIME$#STAT$SM2:MIN:THISMONTH:TIME$#STAT$SM3:MIN:THISMONTH:TIME$#STAT$SM4:MIN:THISMONTH:TIME$|!
+|soilMoistMinYear|STAT$SM1:MIN:THISYEAR$#STAT$SM2:MIN:THISYEAR$#STAT$SM3:MIN:THISYEAR$#STAT$SM4:MIN:THISYEAR$|!
+|soilMoistMinYearTime|STAT$SM1:MIN:THISYEAR:TIME$#STAT$SM2:MIN:THISYEAR:TIME$#STAT$SM3:MIN:THISYEAR:TIME$#STAT$SM4:MIN:THISYEAR:TIME$|!
+|soilMoistMinAll|STAT$SM1:MIN:ALLTIME$#STAT$SM2:MIN:ALLTIME$#STAT$SM3:MIN:ALLTIME$#STAT$SM4:MIN:ALLTIME$|!
+|soilMoistMinAllTime|STAT$SM1:MIN:ALLTIME:TIME$#STAT$SM2:MIN:ALLTIME:TIME$#STAT$SM3:MIN:ALLTIME:TIME$#STAT$SM4:MIN:ALLTIME:TIME$|!
+
+
+
+#|leafTempAct|STAT$LW1:CURRENT$#STAT$LW2:CURRENT$|!
+|leafWetAct|STAT$LW1:CURRENT$#STAT$LW2:CURRENT$|!
+
+#|-------------------------------------- trends 
+#|trendsMinutes|0 5 10 15 20 30 45 60 75 90 105 120 |!
+#|tempArray|<#temp>#<#RecentOutsideTemp m=5>#<#RecentOutsideTemp m=10>#<#RecentOutsideTemp m=15>#<#RecentOutsideTemp m=20>#<#RecentOutsideTemp m=30>#<#RecentOutsideTemp m=45>#<#RecentOutsideTemp m=60>#<#RecentOutsideTemp m=75>#<#RecentOutsideTemp m=90>#<#RecentOutsideTemp m=115>#<#RecentOutsideTemp m=120> |!
+#|windArray|<#wlatest>#<#RecentWindLatest m=5>#<#RecentWindLatest m=10>#<#RecentWindLatest m=15>#<#RecentWindLatest m=20>#<#RecentWindLatest m=30>#<#RecentWindLatest m=45>#<#RecentWindLatest m=60>#<#RecentWindLatest m=75>#<#RecentWindLatest m=90>#<#RecentWindLatest m=115>#<#RecentWindLatest m=120> |!
+#|gustArray|<#wgust>#<#RecentWindGust m=5>#<#RecentWindGust m=10>#<#RecentWindGust m=15>#<#RecentWindGust m=20>#<#RecentWindGust m=30>#<#RecentWindGust m=45>#<#RecentWindGust m=60>#<#RecentWindGust m=75>#<#RecentWindGust m=90>#<#RecentWindGust m=115>#<#RecentWindGust m=120> |!
+#|wdirArray|<#bearing>#<#RecentWindDir m=5>#<#RecentWindDir m=10>#<#RecentWindDir m=15>#<#RecentWindDir m=20>#<#RecentWindDir m=30>#<#RecentWindDir m=45>#<#RecentWindDir m=60>#<#RecentWindDir m=75>#<#RecentWindDir m=90>#<#RecentWindDir m=115>#<#RecentWindDir m=120> |!
+#|humiArray|<#hum>#<#RecentHumidity m=5>#<#RecentHumidity m=10>#<#RecentHumidity m=15>#<#RecentHumidity m=20>#<#RecentHumidity m=30>#<#RecentHumidity m=45>#<#RecentHumidity m=60>#<#RecentHumidity m=75>#<#RecentHumidity m=90>#<#RecentHumidity m=115>#<#RecentHumidity m=120> |!
+#|baroArray|<#press>#<#RecentPressure m=5>#<#RecentPressure m=10>#<#RecentPressure m=15>#<#RecentPressure m=20>#<#RecentPressure m=30>#<#RecentPressure m=45>#<#RecentPressure m=60>#<#RecentPressure m=75>#<#RecentPressure m=90>#<#RecentPressure m=115>#<#RecentPressure m=120> |!
+#|rainArray|<#rfall>#<#RecentRainToday m=5>#<#RecentRainToday m=10>#<#RecentRainToday m=15>#<#RecentRainToday m=20>#<#RecentRainToday m=30>#<#RecentRainToday m=45>#<#RecentRainToday m=60>#<#RecentRainToday m=75>#<#RecentRainToday m=90>#<#RecentRainToday m=115>#<#RecentRainToday m=120> |!
+#|solarArray|<#SolarRad>#<#RecentSolarRad m=5>#<#RecentSolarRad m=10>#<#RecentSolarRad m=15>#<#RecentSolarRad m=20>#<#RecentSolarRad m=30>#<#RecentSolarRad m=45>#<#RecentSolarRad m=60>#<#RecentSolarRad m=75>#<#RecentSolarRad m=90>#<#RecentSolarRad m=115>#<#RecentSolarRad m=120> |!
+#|uvArray|<#UV>#<#RecentUV m=5>#<#RecentUV m=10>#<#RecentUV m=15>#<#RecentUV m=20>#<#RecentUV m=30>#<#RecentUV m=45>#<#RecentUV m=60>#<#RecentUV m=75>#<#RecentUV m=90>#<#RecentUV m=115>#<#RecentUV m=120> |!
+
+
+
+
+

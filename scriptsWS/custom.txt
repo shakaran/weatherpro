@@ -1,0 +1,111 @@
+<!-- %customfile=my_file.txtl% -->
+<!-- %openfile=tags.ws.txt% -->
+
+%alwaysmetric_on%
+%ws_userdate=DD-MM-YYYY%
+%unit_on%
+
+$date = "%ws_date%";
+$time = "%ws_time%";
+
+$stationDate = "%ws_nrtdate%";
+$stationTime = "%ws_nrttime%";
+
+$utcTime = "%ws_utc_hour%:%ws_utc_minute%";
+$utcDate = "%ws_utc_day%/%ws_utc_month%/%ws_utc_year%";
+
+$sunriseTime = "%ws_sunrise%";   
+$sunsetTime = "%ws_sunset%";
+
+$tempUnit = "%unitname[2]%";
+$tempUnit = "%unitname[0]%";
+$humUnit = "%unitname[18]%";
+$humUnit = "%unitname[-1]%";
+$barUnit  = "%unitname[33]%";
+$rainUnit  = "%unitname[34]%";
+$windUnit  = "%unitname[45]%";
+
+$outsideTemp = "%curval[0]%";
+$hiOutsideTemp = "%maxval[0]%";
+$lowOutsideTemp = "%minval[0]%";
+$lowOutsideTempTime = "%mintime[0]%";
+$hiOutsideTempTime = "%maxtime[0]%";
+$lowMonthlyOutsideTemp = "%ws_m_minval[%ws_month%,0]%";
+$hiMonthlyOutsideTemp = "%ws_m_maxval[%ws_month%,0]%";
+$hiYearlyOutsideTemp = "%ws_m_maxval[0,0]%";
+$lowYearlyOutsideTemp = "%ws_m_minval[0,0]%";
+
+$outsideHumidity = "%curval[-1]%";
+$lowHumidity = "%minval[-1]%";
+$hiHumidity = "%maxval[-1]%";
+$lowHumTime = "%mintime[-1]%";
+$hiHumTime = "%maxtime[-1]%";
+$hiMonthlyHumidity = "%ws_m_maxval[%ws_month%,-1]%";
+$lowMonthlyHumidity = "%ws_m_minval[%ws_month%,-1]%";
+$hiYearlyHumidity = "%ws_m_maxval[0,-1]%";
+$lowYearlyHumidity = "%ws_m_minval[0,-1]%";
+
+$outsideDewPt = "%curval[43]%";
+$hiDewpoint = "%maxval[43]%";
+$lowDewpoint = "%minval[43]%";
+$hiDewpointTime = "%maxtime[43]%";
+$lowDewpointTime = "%mintime[43]%";
+$hiMonthlyDewpoint = "%ws_m_maxval[%ws_month%,43]%";
+$lowMonthlyDewpoint = "%ws_m_minval[%ws_month%,43]%";
+$hiYearlyDewpoint = "%ws_m_maxval[0,43]%";
+$lowYearlyDewpoint = "%ws_m_minval[0,43]%";
+
+$windSpeed = "%curval[45]%";
+$wind10Avg = "%avg10minwind%";
+$hiWindSpeed = "%maxval[45]%";
+$hiWindSpeedTime = "%maxtime[45]%";
+$hiMonthlyWindSpeed = "%ws_m_maxval[%ws_month%,45]%";
+$hiYearlyWindSpeed = "%ws_m_maxval[0,45]%";
+
+$windDir = "%curval[36]%";
+$windDirection = "%wind_txt%";
+
+$windChill = "%curval[44]%";
+$lowWindchill = "%minval[44]%";
+$lowWindchillTime = "%mintime[44]%";
+$lowMonthlyWindchill = "%ws_m_minval[%ws_month%,44]%";
+$lowYearlyWindchill = "%ws_m_minval[0,44]%";
+
+$outsideHeatIndex = "%heatindex[2]%";
+$outsideHeatIndex = "%heatindex[0]%";
+
+$barometer = "%curval[33]%";
+$barTrend = "%ws_barotendencytxt%";
+$lowBarometer = "%minval[33]%";
+$hiBarometer = "%maxval[33]%";
+$lowBarometerTime = "%mintime[33]%";
+$hiBarometerTime = "%maxtime[33]%";
+$lowMonthlyBarometer = "%ws_m_minval[%ws_month%,33]%";
+$hiMonthlyBarometer = "%ws_m_maxval[%ws_month%,33]%";
+$lowYearlyBarometer = "%ws_m_minval[0,33]%";
+$hiYearlyBarometer = "%ws_m_maxval[0,33]%";
+
+$dailyRain = "%rainday%"; 
+$stormRain = "%ws_valstormrain%";
+$monthlyRain = "%rainmonth%";
+$totalRain = "%rainyear%";
+
+$rainRate = "%rainrate%";
+
+$solarRad = "%curval[42]%";
+$hiSolarRad = "%maxval[42]%";
+$hiSolarRadTime = "%maxtime[42]%";
+$hiMonthlySolarRad = "%ws_m_maxval[%ws_month%,42]%";
+$hiYearlySolarRad = "%ws_m_maxval[0,42]%";
+
+$uv = "%curval[41]%";
+$hiUV = "%maxval[41]%";
+$hiUVTime = "%maxtime[41]%";
+$hiMonthlyUV = "%ws_m_maxval[%ws_month%,41]%";
+$hiYearlyUV = "%ws_m_maxval[0,41]%";
+
+$forecast = "%forecast_txt[5]%";
+$WeatherStationType = "%ws_typ%";
+$WsWinVersion = "%ws_vers%";
+
+EOF

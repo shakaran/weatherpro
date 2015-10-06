@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Braktis liçensën të pa limituar"/>
+  <s key="Absent" value="Mungon"/>
+  <s key="Add" value="Shto"/>
+  <s key="Animate" value="Animuar"/>
+  <s key="Apply" value="Zbato"/>
+  <s key="Astronomy" value="Astronomi"/>
+  <s key="Day Length" value="Gjatësia e ditës"/>
+  <s key="Moon Phase" value="Faza e Hënës"/>
+  <s key="Sunrise" value="Lindja e Diellit"/>
+  <s key="Sunset" value="Perëndimi i Diellit"/>
+  <s key="Auto update weather" value="Azhurno automatikisht motin"/>
+  <s key="Bad ICAO code" value="Kod i gabuar ICAO"/>
+  <s key="Buy YoWindow Unlimited!" value="Blej YoWindow Pa limite!"/>
+  <s key="Calendar" value="Kalendari"/>
+  <s key="Cancel" value="Anulo"/>
+  <s key="Change" value="Ndrysho"/>
+  <s key="Code" value="Kodi"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Parashikimi i motit nga {0}, mundësuar nga Instituti Meteorologjik Norvegjez dhe nga NRK"/>
+  <s key="Forecast from {0}" value="Parashikimi nga {0}"/>
+  <s key="Current weather" value="Moti aktual"/>
+  <s key="Friday" value="E Premte"/>
+  <s key="Monday" value="E Hënë"/>
+  <s key="Saturday" value="E Shtunë"/>
+  <s key="Sunday" value="E Dielë"/>
+  <s key="Thursday" value="E Enjte"/>
+  <s key="Tuesday" value="E Martë"/>
+  <s key="Wednesday" value="E Mërkurë"/>
+  <s key="Fr" value="Pr"/>
+  <s key="Mo" value="Hë"/>
+  <s key="Sa" value="Sh"/>
+  <s key="Su" value="Di"/>
+  <s key="Th" value="En"/>
+  <s key="Tu" value="Ma"/>
+  <s key="We" value="Më"/>
+  <s key="day ago" value="një ditë më parë"/>
+  <s key="days ago" value="disa ditë më parë"/>
+  <s key="Default" value="Bazë"/>
+  <s key="Blowing" value="Duke fryrë"/>
+  <s key="Clear" value="Kthjellët"/>
+  <s key="Cloudy" value="Vranët"/>
+  <s key="Overcast" value="Vranët"/>
+  <s key="Drizzle" value="Riga"/>
+  <s key="Fair" value="Kryesisht kthjellët"/>
+  <s key="Fog" value="Mjegull"/>
+  <s key="Freezing" value="Ngrirë"/>
+  <s key="Hail" value="Breshër"/>
+  <s key="Haze" value="Mjegull e lehtë"/>
+  <s key="Heavy" value="Fuqishëm"/>
+  <s key="Ice Crystals" value="Kristale Akulli"/>
+  <s key="Ice Pellets" value="Copa Akulli"/>
+  <s key="In Vicinity" value="Në Afërsi"/>
+  <s key="Light" value="Lehtë"/>
+  <s key="Low Drifting" value="Drejtim i Ulët"/>
+  <s key="Mist" value="Mjegull e lehtë"/>
+  <s key="Mostly Cloudy" value="Kryesisht Vranët"/>
+  <s key="Partial" value="Pjesërisht"/>
+  <s key="Partly Cloudy" value="Pjesërisht Vranët"/>
+  <s key="Patches" value="Pjesërisht"/>
+  <s key="Rain" value="Shi"/>
+  <s key="Rain And Thunder" value="Shi dhe Bubullimë"/>
+  <s key="Sand" value="Rërë"/>
+  <s key="Shallow" value="Cektësirë"/>
+  <s key="Shower" value="Rrebesh"/>
+  <s key="Shower With Thunder" value="Rrebesh me Bubullimë"/>
+  <s key="Sleet" value="Sqote"/>
+  <s key="Small Hail" value="Breshër i vogël"/>
+  <s key="Smoke" value="Tym"/>
+  <s key="Snow" value="Borë"/>
+  <s key="Snow And Thunder" value="Borë dhe Bubullimë"/>
+  <s key="Snow Grains" value="Kokrra Bore"/>
+  <s key="Snow Showers" value="Rrebeshe bore"/>
+  <s key="Thunderstorm" value="Vetëtimë dhe Bubullimë"/>
+  <s key="Unknown Precipitation" value="Reshje të panjohura"/>
+  <s key="Widespread Dust Haze" value="Mjegull pluhuri i përhapur"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Kod i pavlefshëm i liçensës. Provo përsëri. Sigurohu që e ke shkruajtur saktë kodin e liçensës. Provo të bësh copy/paste kodin."/>
+  <s key="Wrong license key" value="Kod i gabuar i liçensës"/>
+  <s key="You will have to restart the application for this to take effect" value="Duhet të ristartosh kompjuterin që ndryshimet të zbatohen"/>
+  <s key="Language change" value="Ndrysho gjuhën"/>
+  <s key="No limits!" value="Pa limite!"/>
+  <s key="Buy now!" value="Blej tani!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Blej Liçensën e Pa limituar për të hequr të gjitha kufizimet."/>
+  <s key="Not now" value="Jo tani"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Për të plotësuar regjistrimin përdor numrin e liçensës që ju kemi dërguar. Përdor copy/paste."/>
+  <s key="License registration" value="Regjistrimi i liçensës"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Faleminderit për regjistrimin në YoWindow! Tanimë të gjitha limitet janë hequr. Kënaquni!"/>
+  <s key="Distance" value="Distanca"/>
+  <s key="Down" value="Poshtë"/>
+  <s key="Download" value="Shkarko"/>
+  <s key="Enter weather source URL please" value="Futni burimin e URL-së ju lutem"/>
+  <s key="Error" value="Gabim"/>
+  <s key="The location is already added" value="Ky lokacion tanimë është shtuar"/>
+  <s key="Exit" value="Mbyll"/>
+  <s key="To get started, pick your home location" value="Për të filluar, zgjidhni qytetin tuaj."/>
+  <s key="Forecast Panel" value="Paneli i Parashikimit"/>
+  <s key="Full Screen" value="Ekran i Plotë"/>
+  <s key="Help" value="Ndihma"/>
+  <s key="Highlight weather station parameters" value="Trego parametrat e stacionit meteorologjik."/>
+  <s key="Home" value="Shtëpia"/>
+  <s key="h" value="h"/>
+  <s key="Inspector" value="Kontrolluesi"/>
+  <s key="Landscape" value="Peisazhi"/>
+  <s key="Foreground" value="Plani i parë"/>
+  <s key="Landscape Options" value="Preferencat e Lokacioneve"/>
+  <s key="Landscape pictures" value="Fotografitë e peisazheve"/>
+  <s key="Landscapes" value="Peisazhet"/>
+  <s key="Language:" value="Gjuha:"/>
+  <s key="English" value="Anglisht"/>
+  <s key="System Default" value="Sistemi i parazgjedhur"/>
+  <s key="Latitude" value="Gjërësia Gjeografike"/>
+  <s key="{0} locations" value="{0} lokacionet"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Mund të shtoni {0} lokacione maksimale tani. Në Ediconin e Pa limituar mund të shtosh lokacione sa të duash."/>
+  <s key="Weather auto-update is off" value="Azhurnimi automatik i motit është i fikur."/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Shtypni F5 për të azhurnuar të dhënat. Në Edicionin e Pa limituar të dhënat azhurnohen automatikisht."/>
+  <s key="{0} weather forecast days only" value="Vetëm {0} ditë parashikimi motit"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Ju keni një qasje prej {0} ditë të parashikimit të motit tani. Ediconi i Pa limituar ofron {1} ditë parashikim."/>
+  <s key="Licence key" value="Kodi i liçensës."/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Të dhënat azhurnohen automatikisht në Ediconin e Pa limituar"/>
+  <s key="LIVE" value="AKTUALE"/>
+  <s key="Load weather from personal weather station" value="Shto të dhënat nga stacioni personal i motit"/>
+  <s key="Loading" value="Duke u hapur"/>
+  <s key="Loading landscape..." value="Duke hapur peisazhin..."/>
+  <s key="Location" value="Lokacioni"/>
+  <s key="Location ID" value="Lokacioni ID"/>
+  <s key="Location Properties" value="Preferencat e Lokacionit"/>
+  <s key="id_internet_link" value="id_internet_linku"/>
+  <s key="Locations" value="Lokacionet"/>
+  <s key="All locations" value="Të gjitha lokacionet"/>
+  <s key="All regions" value="Të gjitha rajonet"/>
+  <s key="All states" value="Të gjitha shtetet"/>
+  <s key="Change landscape" value="Ndrysho peisazhin"/>
+  <s key="Select a location" value="Zgjidh një lokacion"/>
+  <s key="The location is already added" value="Ky lokacion tanimë është shtuar"/>
+  <s key="Location is not selected yet" value="Lokacioni nuk është zgjedhur ende"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Qytetet e mëdha (më tepër se 100,000 banorë)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Rrjeti nuk punon, informacioni i lokacionit nuk është i arritshëm. Për shkak të kësaj, lokacioni nuk mund të zgjidhet tani."/>
+  <s key="No locations in scope" value="Asnjë lokacion në kuadër"/>
+  <s key="Scope" value="Shtrirja"/>
+  <s key="Region" value="Rajoni"/>
+  <s key="Cannot find a location?" value="Nuk mund të gjeni lokacionin?"/>
+  <s key="Set as Home" value="Vendose si bazë"/>
+  <s key="Current Location" value="Lokacioni Aktual"/>
+  <s key="Unknown" value="E panjohur"/>
+  <s key="Longitude" value="Gjatësia Gjeografike"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Duke shikuar në Veri (Era perëndimore fryn nga e majta)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Duke shikuar në Jug (Era perëndimore fryn nga e djathta)"/>
+  <s key="April" value="Prill"/>
+  <s key="August" value="Gusht"/>
+  <s key="December" value="Dhjetor"/>
+  <s key="February" value="Shkurt"/>
+  <s key="January" value="Janar"/>
+  <s key="July" value="Korrik"/>
+  <s key="June" value="Qershor"/>
+  <s key="March" value="Mars"/>
+  <s key="May" value="Maj"/>
+  <s key="November" value="Nëntor"/>
+  <s key="October" value="Tetor"/>
+  <s key="September" value="Shtator"/>
+  <s key="About" value="Rreth"/>
+  <s key="Facebook Edition" value="Edicioni Facebook"/>
+  <s key="License Agreement" value="Marrëveshja e Liçensës"/>
+  <s key="Program" value="Programi"/>
+  <s key="Visit our Forum" value="Vizitoni forumin tonë"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow për faqen tënde të internetit ose për blogun tënd"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} minuta prapa"/>
+  <s key="{0} minutes forward" value="{0} minuta para"/>
+  <s key="Name" value="Emri"/>
+  <s key="Network error" value="Probleme me rrjet"/>
+  <s key="Network not available" value="Rrjeti nuk është në dispozicion"/>
+  <s key="It is available on {0}" value="Është në dispozicion në {0}"/>
+  <s key="New version released" value="Është lëshuar versioni i ri"/>
+  <s key="Next Day" value="Dita ardhshme"/>
+  <s key="No" value="Jo"/>
+  <s key="No weather" value="Nuk ka asnjë informacion meteorologjik"/>
+  <s key="N/A" value="Nuk ka të dhëna"/>
+  <s key="Notify me when a new version is available" value="Më njofto kur një version i ri është në dispozicion"/>
+  <s key="Online" value="Në linjë"/>
+  <s key="Open {0}" value="Hap {0}"/>
+  <s key="Options" value="Opsionet"/>
+  <s key="Advanced" value="Të avancuara"/>
+  <s key="Application choice" value="Zgjedhja e programit"/>
+  <s key="Date" value="Data"/>
+  <s key="Display" value="Paraqitja"/>
+  <s key="Animate clouds" value="Vranësira të animuara"/>
+  <s key="Default" value="Bazë"/>
+  <s key="Full screen mode" value="Pamja në ekranin e plotë"/>
+  <s key="Quality" value="Cilësitë"/>
+  <s key="Custom" value="Sipas dëshirës"/>
+  <s key="Excellent" value="Shkëlqyeshëm"/>
+  <s key="Moderate" value="Mesatare"/>
+  <s key="Number of days to display:" value="Numri i ditëve që tregohen"/>
+  <s key="Tile contents:" value="Titulli i përmbajtjes"/>
+  <s key="General" value="Të përgjithshme"/>
+  <s key="Contents" value="Përmbajtja"/>
+  <s key="Show N/A parameters" value="Shfaqi parametrat që nuk kanë të dhëna"/>
+  <s key="Live indicator" value="Treguesi Aktual"/>
+  <s key="Locations" value="Lokacionet"/>
+  <s key="Operation successful!" value="Veprimi i suksesshëm!"/>
+  <s key="Refresh locations DB" value="Rifresko lokacionet DB"/>
+  <s key="Reset to defaults" value="Ktheje në gjëndjen fillestare"/>
+  <s key="Add" value="Shto"/>
+  <s key="User interface" value="Grafika e përdoruesit"/>
+  <s key="Screen saver" value="Screen saver"/>
+  <s key="Time Bar" value="Shiriti i kohës"/>
+  <s key="Unit system:" value="Sistemi i njësive:"/>
+  <s key="Units" value="Njësitë"/>
+  <s key="Auto-detected" value="Të vetëzbuluara"/>
+  <s key="Custom" value="Sipas dëshirës"/>
+  <s key="Distance:" value="Distanca:"/>
+  <s key="Metric" value="Metrik"/>
+  <s key="Russia" value="Rusia"/>
+  <s key="Finland" value="Finlanda"/>
+  <s key="Pressure:" value="Presioni atmosferik:"/>
+  <s key="Temperature:" value="Temperatura:"/>
+  <s key="US" value="SHBA"/>
+  <s key="Wind speed:" value="Shpejtësia e erës:"/>
+  <s key="Landscape Options" value="Preferencat e Lokacioneve"/>
+  <s key="Show Daylight Diagram" value="Trego Grafikën e Ditës"/>
+  <s key="Show Forecast Panel" value="Trego Panelin e Parashikimit"/>
+  <s key="Show Full Screen button" value="Shfaq butonin e Ekranit të Plotë"/>
+  <s key="Show Inspector" value="Shfaq Kontrolluesin"/>
+  <s key="Show Time Bar" value="Shfaq Shiritin e Kohës"/>
+  <s key="Show User interface" value="Shfaq Grafikën e Përdoruesit"/>
+  <s key="Show forecast when current weather is expired" value="Shfaq parashikimin kur kushtet aktuale skadojnë"/>
+  <s key="Organize" value="Organizo"/>
+  <s key="Organize locations" value="Organizo lokacionet"/>
+  <s key="Organize pictures" value="Organizo fotot"/>
+  <s key="Pictures" value="Fotot"/>
+  <s key="press" value="shtyp"/>
+  <s key="Falling" value="Duke rënë"/>
+  <s key="Falling Rapidly" value="Duke rënë me shpejtësi"/>
+  <s key="Rising" value="Duke u rritur"/>
+  <s key="Rising Rapidly" value="Duke u rritur me shpejtësi"/>
+  <s key="Steady" value="Qëndrueshëm"/>
+  <s key="Previous Day" value="Dita e mëparshme"/>
+  <s key="Properties" value="Preferencat"/>
+  <s key="Refresh Locations data base" value="Rifresko Lokacionet e të dhënave bazë"/>
+  <s key="Register" value="Regjistrohu"/>
+  <s key="Remove" value="Hiq"/>
+  <s key="Rename" value="Riemëro"/>
+  <s key="Rename location" value="Riemëro vendodhjen"/>
+  <s key="Rename picture" value="Riemëro foton"/>
+  <s key="Retry" value="Riprovo"/>
+  <s key="Run with Windows (minimized to tray)" value="Hap programin bashkë me Windows (të minimizuar)"/>
+  <s key="Season map" value="Harta e stinëve"/>
+  <s key="Select" value="Zgjidh"/>
+  <s key="Select country" value="Zgjidh një shtet"/>
+  <s key="Select a landscape" value="Zgjidh një peisazh"/>
+  <s key="Select location" value="Zgjidh një lokacion"/>
+  <s key="Select region" value="Zgjidh një rajon"/>
+  <s key="Select state" value="Zgjidh një shtet"/>
+  <s key="Set as default" value="Vendose si bazë"/>
+  <s key="Set YoWindow as ScreenSaver" value="Vendos YoWindow si ScreenSaver"/>
+  <s key="Setup" value="Instalimi"/>
+  <s key="Show" value="Shfaq"/>
+  <s key="Show again" value="Shfaq përsëri"/>
+  <s key="Speed" value="Shpejtësia"/>
+  <s key="Time" value="Koha"/>
+  <s key="{0} ago" value="{0} më parë"/>
+  <s key="Time zone" value="Zona e kohës"/>
+  <s key="Today" value="Sot"/>
+  <s key="Tomorrow" value="Nesër"/>
+  <s key="Tom." value="Nes."/>
+  <s key="Tonight" value="Sonte"/>
+  <s key="Add New Location" value="Shto një lokacion të ri"/>
+  <s key="Open Calendar..." value="Hap kalendarin..."/>
+  <s key="Show Less Days" value="Shfaq më pak ditë"/>
+  <s key="Show More Days" value="Shfaq më shumë ditë"/>
+  <s key="Update Weather" value="Azhurno Motin"/>
+  <s key="Unknown" value="E panjohur"/>
+  <s key="Up" value="Lart"/>
+  <s key="Update interval" value="Azhurno intervalin"/>
+  <s key="Update weather" value="Azhurno motin"/>
+  <s key="Updating weather" value="Duke përditësuar motin"/>
+  <s key="View" value="Pamja"/>
+  <s key="Please wait..." value="Ju lutem prisni..."/>
+  <s key="Weather" value="Moti"/>
+  <s key="Daily rain total" value="Totali i shiut ditor"/>
+  <s key="Weather expired" value="Moti i skaduar"/>
+  <s key="Feels like" value="Ndjehet si"/>
+  <s key="Day maximum temperature" value="Temperatura maksimale e ditës"/>
+  <s key="Day minimum temperature" value="Temperatura minimale e ditës"/>
+  <s key="Weather forecast" value="Parashikimi i motit"/>
+  <s key="Forecast issued" value="Parashikimi është dhënë"/>
+  <s key="Hail" value="Breshër"/>
+  <s key="Humidity" value="Lagështia"/>
+  <s key="Observed" value="I vëzhguar"/>
+  <s key="Pressure" value="Presioni atmosferik"/>
+  <s key="PWS only" value="vetëm Stacioni Personal i Motit"/>
+  <s key="Rain" value="Shi"/>
+  <s key="Rain/Snow rate" value="Raporti Shi/Borë"/>
+  <s key="Description" value="Përshkrimi"/>
+  <s key="Sky image" value="Pamja e Qiellit"/>
+  <s key="Snow" value="Borë"/>
+  <s key="Snow level" value="Niveli i Borës"/>
+  <s key="Weather station properties" value="Preferencat e stacionit meteorologjik"/>
+  <s key="Temperature" value="Temperatura"/>
+  <s key="Temperature range" value="Lëvizja e temperaturës"/>
+  <s key="Update error" value="Gabim në azhurnim"/>
+  <s key="Update time" value="Azhurno kohën"/>
+  <s key="UV index" value="Indeksi UV"/>
+  <s key="Visibility" value="Dukshmëria"/>
+  <s key="Unlimited" value="E pakufizuar"/>
+  <s key="Wind" value="Era"/>
+  <s key="Calm" value="Qetë"/>
+  <s key="Variable" value="E ndryshueshme"/>
+  <s key="Welcome to YoWindow!" value="Mirësevini në YoWindow!"/>
+  <s key="Wind direction:" value="Drejtimi i erës:"/>
+  <s key="East" value="Lindje"/>
+  <s key="North" value="Veri"/>
+  <s key="South" value="Jug"/>
+  <s key="West" value="Perëndim"/>
+  <s key="Yes" value="Po"/>
+  <s key="Close screensaver on mouse move" value="Mbyll Screen Saver me lëvizjen e miut"/>
+  <s key="Color" value="Ngjyra"/>
+  <s key="Background" value="Sfondi"/>
+  <s key="Choose color" value="Zgjidh ngjyrën"/>
+  <s key="System tray" value="Sistemi i shiritit"/>
+  <s key="Transparent" value="Transparente"/>
+  <s key="Precipitation chance" value="Gjasat e reshjeve"/>
+  <s key="Rain chance" value="Gjasat e shiut"/>
+  <s key="Snow chance" value="Gjasat e borës"/>
+  <s key="{0} only" value="Vetëm {0} "/>
+  <s key="US" value="SHBA"/>
+  <s key="Dew point" value="Pika e kondensimit"/>
+  <s key="I want to have fun" value="Unë dua të kem argëtim"/>
+  <s key="Enable surprises" value="Aktivizo befasitë"/>
+  <s key="NWS forecasts for the USA" value="Parashikimet NWS për SHBA-të"/>
+  <s key="h" value="h"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Hap"/>
+  <s key="Browse" value="Shfleto"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Futni pozicionin e një fotoje apo peisazhi në internet apo kompjuterin tuaj"/>
+  <s key="Landscape load error" value="Problem në hapjen e peisazhit"/>
+  <s key="Picture load error" value="Problem në hapjen e fotografisë"/>
+  <s key="The landscape is already added" value="Ky peisazh është i shtuar tashmë"/>
+  <s key="Landscape collection" value="Koleksioni i peisazheve"/>
+  <s key="Turn your photo into Landscape" value="Ktheni foton tuaj në peisazh"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Mëso{1} si të kthesh foton në peisazh"/>
+  <s key="Village" value="Fshati"/>
+  <s key="Seaside" value="Bregdeti"/>
+  <s key="Airport" value="Aeroporti"/>
+  <s key="Oriental" value="Oriental"/>
+  <s key="Sky" value="Qielli"/>
+  <s key="Landscape made from picture" value="Peisazh i bërë nga foto"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Ne do të ju udhëheqim në proçesin e kthimit të një fotoje në një peisazh YoWindow."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Ju lutemi lexoni studimin tonë {0}Si të kthesh një foto në një peisazh?{1} para"/>
+  <s key="Click Next to continue..." value="Klikoni Vazhdo për të vazhduar..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Zgjidhni foton që doni të ktheni në peisazh."/>
+  <s key="How to pick the best landscape picture?" value="Si të zgjidhni foton më të mirë për peisazh?"/>
+  <s key="Source picture" value="Burimi i fotografisë."/>
+  <s key="The landscape will be created in the following folder" value="Peisazhi do të krijohet në folderin e zgjedhur."/>
+  <s key="Landscape folder name" value="Emri i folderit të peisazhit"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Zgjidh butonin &quot;Krijo&quot; për të krijuar {0} peizazhin"/>
+  <s key="{0} landscape has been created successfully!" value="{0} peisazhi u krijua me sukses!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Tani hapni {0} brenda modifikuesit tuaj të preferuar të fotove. Duhet ta hiqni qiellin nga fotoja. Do ta gjeni foton tek {1}Folderi i Peisazhit{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Është e lehtë të heqësh qiellin. Lexo {0}studimin{1} tonë të shkurtër."/>
+  <s key="Auto" value="Auto"/>
+  <s key="Horizon Level Setup" value="Rregullimi i nivelit të horizontit"/>
+  <s key="Keys: Up/Down" value="Tastet: Lart/Poshtë"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Ju jeni gati për të fshirë foto peisazhin {0}. Veprimi është i pakthyeshëm. Jeni të sigurt?"/>
+  <s key="Edit Landscape" value="Edito peisazhin"/>
+  <s key="Edit Horizon Level" value="Edito nivelin e horizontit"/>
+  <s key="File not found." value="Dosja nuk është gjetur."/>
+  <s key="The name is empty" value="Emri është bosh"/>
+  <s key="The folder already exists" value="Dosja aktualisht ekziston"/>
+  <s key="Illegal folder name" value="Ilegal emri dosjes"/>
+  <s key="The file format is not supported." value="Formati dosjes nuk është i mbështetur"/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Kjo fotografi është shumë e madhe për YoWindow. Madhësia e fotografisë nuk duhet të kalojë 2880 piksel në gjërësi ose lartësi."/>
+  <s key="Landscape Image" value="Imazhi i peisazhit"/>
+  <s key="Landscape Folder" value="Dosja peisazhit"/>
+  <s key="About Landscape" value="Rreth peisazhit"/>
+  <s key="Picture {0} imported successfully" value="Fotografia {0} u importua me sukses"/>
+  <s key="Remind Me Later" value="Më kujto më vonë"/>
+  <s key="Skip This Version" value="Kalo këtë version"/>
+  <s key="Loading" value="Duke u hapur"/>
+  <s key="Next" value="Vazhdo"/>
+  <s key="Back" value="Prapa"/>
+  <s key="Finish" value="Përfundo"/>
+  <s key="Create" value="Krijo"/>
+  <s key="Import" value="Importo"/>
+  <s key="Delete" value="Fshij"/>
+  <s key="Path" value="Vendodhja"/>
+  <s key="Options" value="Opsionet"/>
+  <s key="Select the options you like" value="Zgjidh mundësitë që do"/>
+  <s key="Set YoWindow as default screen saver" value="Vendos YoWindow si ScreenSaver"/>
+  <s key="Start with Windows (minimized to system tray)" value="Hape YoWindow bashkë me Windows"/>
+  <s key="Add a shortcut to quick launch bar" value="Shto një shortcut tek QuickLaunch"/>
+  <s key="You are about to upgrade YoWindow." value="Ju jeni gati për të përditësuar YoWindow."/>
+  <s key="Click OK to install the new version." value="Kliko Në Regull për të instaluar versionin e ri."/>
+  <s key="You must close YoWindow before you can continue." value="Duhet ta mbyllni YoWindow para se të vazhdoni."/>
+  <s key="After you have closed YoWindow, select Retry." value="Pasi të keni mbyllur YoWindow, zgjidhni Riprovo"/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Nëse doni të ndaloni proseçin e çinstalimit, zgjidhni Ndalo."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Nëse doni të vazhdoni instalimin, zgjidhni Injoro."/>
+  <s key="If you wish to abort the installation, select Abort." value="Nëse doni ta anuloni instalimin, zgjidhni Aborto."/>
+  <s key="Final step" value="Hapi i Fundit"/>
+  <s key="Start YoWindow on system startup" value="Starto YoWindow në fillimin e sistemit"/>
+  <s key="Check for new version..." value="Kontrollo për version të ri..."/>
+  <s key="YoWindow is up to date!" value="YoWindow është i përditësuar!"/>
+  <s key="You have the latest version" value="Ju keni versionin e fundit"/>
+  <s key="Download new version!" value="Shkarko versionin e ri!"/>
+  <s key="Preview" value="Shikim paraprak"/>
+  <s key="Show small YoWindow logo" value="Shfaq logon YoWindow të vogël"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Peisazhi është në dispozicion vetëm në Edicionin e Pa limituar."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="feet"/>
+  <s key="id_unit_short_miles" value="milje"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="nyje"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Shfaq &quot;?&quot;"/>
+  <s key="Hide parameter" value="Fshehi parametrat"/>
+  <s key="When weather parameter is not available" value="Kur parametri i motit nuk është në dispozicion"/>
+  <s key="Information" value="Informacion"/>
+  <s key="id_information_all" value="id_informacion_gjitha"/>
+  <s key="Temperature and Time" value="Temperatura dhe Koha"/>
+  <s key="This is Unlimited Edition." value="Ky është Edicioni Pa limit."/>
+  <s key="It is already registered." value="Tashmë i sapo regjistruar."/>
+  <s key="Free edition" value="Edicioni falas"/>
+  <s key="Unlimited edition" value="Edicioni Pa limit"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="Për të shijuar YoWindow ju duhet ta instaloni Flash Player (për Internet Explorer) {0} ose më vonë."/>
+  <s key="Get Adobe Flash Player" value="Merr Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Hape peisazhin"/>
+  <s key="YoWindow for Chrome" value="YoWindow për Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow për Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow për Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow për iPhone dhe iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Ndiq YoWindow në Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Ndiq YoWindow në Twitter"/>
+  <s key="Landscape trial, days left:" value="Peisazhi si testim, ditët e mbetura:"/>
+  <s key="Landscape trial period is over" value="Periudha e peisazhit si testim ka përfunduar"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; peisazhi është një pjesë e YoWindow të Pa limituar."/>
+  <s key="Details" value="Detajet"/>
+  <s key="View direction" value="Shiko drejtimet"/>
+  <s key="Fixed sky" value="Qielli i rregulluar"/>
+  <s key="Edit" value="Edito"/>
+  <s key="Reload" value="Ringarko"/>
+  <s key="Minimized" value="Minimizuar"/>
+  <s key="affects wind only" value="ndikon vetëm në erë"/>
+  <s key="Broadcast" value="Transmetimi"/>
+  <s key="Share" value="Shpërndaje"/>
+  <s key="Publishing" value="Duke publikuar"/>
+  <s key="Authorizing" value="Autorizues"/>
+  <s key="Published!" value="U publikua!"/>
+  <s key="Space" value="Hapësirë"/>
+  <s key="Weather now in {0}" value="Moti tani në {0}"/>
+  <s key="Weather forecast for {0} in {1}" value="Parashikimi i motit për {0} në {1}"/>
+  <s key="Today in {0} (forecast)" value="Sot në {0} (parashikimi)"/>
+  <s key="Tomorrow in {0} (forecast)" value="Nesër në {0) (parashikimi)"/>
+  <s key="Forecast" value="Parashikimi"/>
+  <s key="Sound" value="Zëri"/>
+  <s key="Enable sound" value="Mundëso zërin"/>
+  <s key="Volume" value="Volumi"/>
+  <s key="Skip" value="Kaloje"/>
+  <s key="Presented in Stereo" value="Paraqitur në Stereo"/>
+  <s key="Override current season" value="Refuzo sezonin aktual"/>
+  <s key="Winter" value="Dimër"/>
+  <s key="Spring" value="Pranverë"/>
+  <s key="Summer" value="Verë"/>
+  <s key="Autumn" value="Vjeshtë"/>
+  <s key="Naked" value="Zhveshur"/>
+  <s key="Countries" value="Shtetet"/>
+  <s key="Vote!" value="Voto!"/>
+  <s key="Vote for YoWindow, thank you" value="Voto për YoWindow, faleminderit"/>
+  <s key="More YoWindow" value="Më shumë YoWindow "/>
+  <s key="Swipe the screen to see weather changes over time" value="Rrëshqit ekranin për të parë ndryshimet e motit me kalimin e kohës"/>
+  <s key="And one more time" value="Edhe një herë"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Kliko butonin 'AKTUALE' që të ktheheni tek koha e tashme"/>
+  <s key="Watch weather with pleasure" value="Shiko motin me kënaqësi"/>
+  <s key="Disable Auto-Lock" value="Çaktivizo Auto-Mbylljen"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Mbani të shfaqur në qoftë se pajisja juaj është e kyqur në rrymë ose bateria është mbi 25%."/>
+  <s key="More" value="Më shumë"/>
+  <s key="Parallax effect" value="Efekti paralaks"/>
+  <s key="An illusion of 3D space when you tilt the device" value="Një iluzion i hapësirës në 3D kur ju e lëvizni pajisjen."/>
+  <s key="Temperature in Status Bar" value="Tempatura në shiritin Status"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Shfaq temperaturën për lokacionin 'Shtëpi'"/>
+  <s key="Not enough free space." value="Nuk ka mjaftë hapësirë të lirë."/>
+  <s key="YoWindow may run unstable." value="YoWindow mund të jetë i paqëndrueshëm."/>
+  <s key="{0} MB minimum required." value="{0} MB minimale të kërkuara."/>
+  <s key="YoWindow Weather" value="Moti YoWindow"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="Merr Versionin e Plotë"/>
+  <s key="No ads, no limitations, all landscapes available" value="Nuk ka reklama, nuk ka limite, të gjitha peisazhet në dispozicion"/>
+  <s key="No advertising" value="Nuk ka reklama"/>
+  <s key="Remove ads" value="Hiqi reklamat"/>
+  <s key="Weather forecast is limited" value="Parashikimi i motit është i limituar"/>
+  <s key="Demo" value="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; Qasja e peisazhit është e limituar."/>
+  <s key="Connecting to {0}" value="Duke u lidhur me {0}"/>
+  <s key="Camera" value="Aparati"/>
+  <s key="Photos" value="Fotografitë"/>
+  <s key="Wallpaper" value="Wallpaper"/>
+  <s key="Enable animations" value="Aktivizo animacionet"/>
+  <s key="Show weather" value="Shfaq motin"/>
+  <s key="No animation - almost no battery power consumed." value="Nuk ka animacione - pothuajse nuk konsumet fuqia e baterisë."/>
+  <s key="Widget Settings" value="Parametrat e objekteve"/>
+  <s key="Create Widget" value="Krijo objekte"/>
+  <s key="Tap to search for a location" value="Kliko për të kërkuar një lokacion"/>
+  <s key="Show background" value="Shfaq prapaskenën "/>
+  <s key="Move On Top" value="Vendose në krye"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Ç'instalo 'YoWindow Falas'"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Ju keni edicionin YoWindow të Plotë dhe Falas të instaluar."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Ju lutem, ç'instaloni YoWindow Falas, për të shmangur konfuzionin."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Shto objektet YoWindow - shiko parashikimin e motit me rehati"/>
+  <s key="Tap to continue" value="Kliko për të vazhduar"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow është instaluar në ruajtjen e jashtme."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="KUJDES: YoWindow Wallpaper dhe Objektet NUK mund të jenë në dispozicion kur YoWindow është instaluar në ruatjen e jashtme (SD card)."/>
+  <s key="Location Search" value="Kërko Lokacionin"/>
+  <s key="Redeem code" value="Riblej kodin"/>
+  <s key="Full Version privilege granted." value="Versioni i plotë jep privilegje."/>
+  <s key="Advertising removed, no limitations." value="Reklamimet janë hequr, nuk ka kufizime."/>
+  <s key="Unexpected code" value="Kodi i papritur"/>
+  <s key="Restore privileges" value="Kthej privilegjet"/>
+  <s key="Set As Wallpaper" value="Vendose si wallpaper"/>
+  <s key="Post" value="Posto"/>
+  <s key="Enter the message" value="Shkruani mesazhin"/>
+  <s key="Fill in the weather" value="Plotësoni motin"/>
+  <s key="You just have posted to Facebook!" value="Ju sapo keni postuar në Facebook!"/>
+</body>

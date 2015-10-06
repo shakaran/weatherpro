@@ -1,0 +1,20 @@
+|rtVersion|3.00|!               # 3.00 2015-03-31 12:00 beta release version 2.7
+|tempunit|°C|!     # units
+|windunit|m/s|!
+|pressunit|hPa|!
+|rainunit|mm|!
+|date|18:22|!             # time
+|temp|19.4|!      # temp 
+|intemp|20.4|!
+|dew|14.2|!
+|wchill|19.4|!
+|wlatest|2.2|!     # windspeed
+|wgust|9.4|!
+|bearing|262|!
+|avgbearing|262|!
+|press|1011.3|!       # baro
+|rfall|0.8|!       # rain
+|rrate|0.0|!
+|hum|72|!   # hum 
+|UV|0.6|!                 # sun
+|SolarRad|111|!

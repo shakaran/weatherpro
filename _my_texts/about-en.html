@@ -1,0 +1,42 @@
+<h3 class="blockHead">About This Station</h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+The station is powered by a <?php echo $SITE['stationTxt']; ?> weather station.  
+The data is collected every 2 seconds and the site is updated every 1-5 minutes. 
+This site and its data is collected using <a href="<?php echo $SITE['WXsoftwareURL']; ?>"><?php echo $SITE['WXsoftwareLongName']; ?></a>. 
+<br />	
+<br />	
+The station is comprised of an anemometer, a rain gauge,
+<?php 
+if ($SITE['UV']) {echo ', UV sensor'; }
+if ($SITE['SOLAR']) { echo ', Solar sensor';}
+?>
+ and a thermo-hygro sensor situated in optimal positions for highest accuracy possible.</p>
+</div>
+<h3 class="blockHead"><?php echo $SITE['yourArea']; ?></h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+&nbsp;&nbsp;
+</p>
+</div>
+<h3 class="blockHead">About this Website</h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+&nbsp;&nbsp;
+</p>
+</div>
+<h3 class="blockHead">Credits</h3>
+<div style ="width: 600px; margin: 0 auto;">
+<div style="margin: 10px;">
+<ul>
+<li><a href="http://leuven-template.eu/">Wim van der Kuil - Leuven Template</a></li>
+<li><a href="http://www.carterlake.org">CarterLake.org</a></li>
+<li><a href="http://saratoga-weather.org/">Ken True - Saratoga Weather</a></li>
+<li><a href="http://www.tnetweather.com">Kevin Reed - TNET Weather</a></li>
+<li><a href="http://www.642weather.com/weather/scripts.php">Mike Challis - Long Beach WA</a></li>
+<li><a href="http://www.doornenburgweer.nl/">Gerard - Doornenburg Weather </a></li>
+<li><a href="http://www.joske-online.be/">Jozef Smolders - Kampenhout Weather </a></li>
+</ul>
+</div>
+<br />	
+</div>

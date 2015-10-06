@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Utzi"/>
+  <s key="Change" value="Aldatu"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="{0}-ko eguraldi iragarpena, Norbegiako Meteorologia  Intitutuak eta NRK emana izan da"/>
+  <s key="Forecast from {0}" value="{0}-ko iragarpena"/>
+  <s key="Friday" value="Ostirala"/>
+  <s key="Monday" value="Astelehena"/>
+  <s key="Saturday" value="Larunbata"/>
+  <s key="Sunday" value="Igandea"/>
+  <s key="Thursday" value="Osteguna"/>
+  <s key="Tuesday" value="Asteartea"/>
+  <s key="Wednesday" value="Asteazkena"/>
+  <s key="Fr" value="Osti."/>
+  <s key="Mo" value="Astele."/>
+  <s key="Sa" value="Larun."/>
+  <s key="Su" value="Igan."/>
+  <s key="Th" value="Oste."/>
+  <s key="Tu" value="Astear."/>
+  <s key="We" value="Asteaz."/>
+  <s key="LIVE" value="ZUZENEAN"/>
+  <s key="Loading" value="Kargatzen"/>
+  <s key="April" value="Apirila"/>
+  <s key="August" value="Abuztua"/>
+  <s key="December" value="Abendua"/>
+  <s key="February" value="Otsaila"/>
+  <s key="January" value="Urtarrila"/>
+  <s key="July" value="Uztaila"/>
+  <s key="June" value="Ekaina"/>
+  <s key="March" value="Martxoa"/>
+  <s key="May" value="Maiatza"/>
+  <s key="November" value="Azaroa"/>
+  <s key="October" value="Urria"/>
+  <s key="September" value="Iraila"/>
+  <s key="Network error"/>
+  <s key="No weather" value="Ez dago eguraldirik"/>
+  <s key="Retry" value="Sahiatu berriro"/>
+  <s key="Tomorrow" value="Bihar"/>
+  <s key="Updating weather" value="Eguraldia eguneratzen"/>
+  <s key="Please wait..." value="Itxaron mesedez..."/>
+  <s key="Weather expired" value="Datu zaharrak"/>
+  <s key="Loading" value="Kargatzen"/>
+</body>

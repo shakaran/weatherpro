@@ -1,0 +1,7 @@
+<landscape name="Airport" type="plugin" id="com.yowindow.airport">
+	<data src="airport.swf">
+        <about>(C) RepkaSoft
+Art: Natalia Gorbova, Yuri Elshin
+Programming: Pavel Repkin</about>
+	</data>
+</landscape>

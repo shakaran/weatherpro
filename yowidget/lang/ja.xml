@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Unlimited (製品版) のライセンスを取り消す"/>
+  <s key="Absent" value="ありません"/>
+  <s key="Add" value="追加"/>
+  <s key="Animate" value="アニメーション"/>
+  <s key="Apply" value="適用"/>
+  <s key="Astronomy" value="天文学"/>
+  <s key="Day Length" value="日照時間"/>
+  <s key="Moon Phase" value="月の位相"/>
+  <s key="Sunrise" value="日の出"/>
+  <s key="Sunset" value="日の入り"/>
+  <s key="Auto update weather" value="天気の自動更新"/>
+  <s key="Bad ICAO code" value="正しくない ICAO コード"/>
+  <s key="Buy YoWindow Unlimited!" value="YoWindow Unlimited をご購入ください!"/>
+  <s key="Calendar" value="カレンダー"/>
+  <s key="Cancel" value="キャンセル"/>
+  <s key="Change" value="変更"/>
+  <s key="Code" value="コード"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="天気予報の提供元: {0} (ノルウェー気象研究局と NRK (ノルウェー放送協会) から配信)"/>
+  <s key="Forecast from {0}" value="予報の提供元: {0}"/>
+  <s key="Current weather" value="現在の天気"/>
+  <s key="Friday" value="金曜日"/>
+  <s key="Monday" value="月曜日"/>
+  <s key="Saturday" value="土曜日"/>
+  <s key="Sunday" value="日曜日"/>
+  <s key="Thursday" value="木曜日"/>
+  <s key="Tuesday" value="火曜日"/>
+  <s key="Wednesday" value="水曜日"/>
+  <s key="Fr" value="金"/>
+  <s key="Mo" value="月"/>
+  <s key="Sa" value="土"/>
+  <s key="Su" value="日"/>
+  <s key="Th" value="木"/>
+  <s key="Tu" value="火"/>
+  <s key="We" value="水"/>
+  <s key="day ago" value="日前"/>
+  <s key="days ago" value="日前"/>
+  <s key="Default" value="既定値"/>
+  <s key="Blowing" value="風あり"/>
+  <s key="Clear" value="晴れ"/>
+  <s key="Cloudy" value="曇り"/>
+  <s key="Overcast" value="曇り空"/>
+  <s key="Drizzle" value="霧雨"/>
+  <s key="Fair" value="晴れ"/>
+  <s key="Fog" value="霧"/>
+  <s key="Freezing" value="氷点下"/>
+  <s key="Hail" value="雹"/>
+  <s key="Haze" value="薄霧"/>
+  <s key="Heavy" value="強い"/>
+  <s key="Ice Crystals" value="氷晶"/>
+  <s key="Ice Pellets" value="氷あられ"/>
+  <s key="In Vicinity" value="周辺"/>
+  <s key="Light" value="弱い"/>
+  <s key="Low Drifting" value="低い"/>
+  <s key="Mist" value="狭霧"/>
+  <s key="Mostly Cloudy" value="大部分が曇り"/>
+  <s key="Partial" value="一部"/>
+  <s key="Partly Cloudy" value="部分的に曇り"/>
+  <s key="Patches" value="局地的"/>
+  <s key="Rain" value="雨"/>
+  <s key="Rain And Thunder" value="雷雨"/>
+  <s key="Sand" value="砂塵"/>
+  <s key="Shallow" value="浅い"/>
+  <s key="Shower" value="にわか雨"/>
+  <s key="Shower With Thunder" value="雷を伴うにわか雨"/>
+  <s key="Sleet" value="霙"/>
+  <s key="Small Hail" value="氷雨"/>
+  <s key="Smoke" value="煙"/>
+  <s key="Snow" value="雪"/>
+  <s key="Snow And Thunder" value="雷を伴う雪"/>
+  <s key="Snow Grains" value="霧雪"/>
+  <s key="Snow Showers" value="にわか雪"/>
+  <s key="Thunderstorm" value="雷雨"/>
+  <s key="Unknown Precipitation" value="不明な降水"/>
+  <s key="Widespread Dust Haze" value="広範囲のちり煙霧"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="ライセンス キーは正しくありません。再度入力してください。キーを正しく入力したか確認してください。キーのコピー/ペーストを試してください。"/>
+  <s key="Wrong license key" value="正しくないライセンス キー"/>
+  <s key="You will have to restart the application for this to take effect" value="これを適用するにはアプリケーションを再起動する必要があります"/>
+  <s key="Language change" value="言語の変更"/>
+  <s key="No limits!" value="無制限です!"/>
+  <s key="Buy now!" value="今すぐ購入!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="制限をすべて解除するには YoWindow Unlimited のライセンスをご購入ください。"/>
+  <s key="Not now" value="あとで"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="ライセンス キーを入力すると登録が完了します。ヒント:コピー/ペーストを使用してください。"/>
+  <s key="License registration" value="ライセンス登録"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="YoWindow のご登録ありがとうございました! すべての制限は解除されました。楽しんでください!"/>
+  <s key="Distance" value="距離"/>
+  <s key="Down" value="下"/>
+  <s key="Download" value="ダウンロード"/>
+  <s key="Enter weather source URL please" value="天気の情報源の URL を入力してください"/>
+  <s key="Error" value="エラー"/>
+  <s key="The location is already added" value="この場所は既に追加されています"/>
+  <s key="Exit" value="終了"/>
+  <s key="To get started, pick your home location" value="始めるにはホームになる場所を選んでください"/>
+  <s key="Forecast Panel" value="予報パネル"/>
+  <s key="Full Screen" value="全画面"/>
+  <s key="Help" value="ヘルプ"/>
+  <s key="Highlight weather station parameters" value="測候所のパラメータを強調"/>
+  <s key="Home" value="ホーム"/>
+  <s key="h" value="時"/>
+  <s key="Inspector" value="インスペクター"/>
+  <s key="Landscape" value="風景"/>
+  <s key="Foreground" value="前景"/>
+  <s key="Landscape Options" value="風景オプション"/>
+  <s key="Landscape pictures" value="風景の画像"/>
+  <s key="Landscapes" value="風景"/>
+  <s key="Language:" value="言語:"/>
+  <s key="English" value="英語"/>
+  <s key="System Default" value="システム既定値"/>
+  <s key="Latitude" value="緯度"/>
+  <s key="{0} locations" value="{0} 個の場所"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="場所を {0} 個まで追加できます。Unlimited Edition では好きなだけ追加できます。"/>
+  <s key="Weather auto-update is off" value="天気の自動更新は OFF"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="F5 を押すと天気が更新されます。Unlimited Edition では天気が自動的に更新されます。"/>
+  <s key="{0} weather forecast days only" value="{0} 日間の天気予報のみ"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="{0} 日間の天気予報が表示されます。Unlimited Edition では {1} 日間の予報が提供されます。"/>
+  <s key="Licence key" value="ライセンス キー"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Unlimited Edition では天気が自動的に更新されます"/>
+  <s key="LIVE" value="ライブ"/>
+  <s key="Load weather from personal weather station" value="個人測候所の天気データを読み込む"/>
+  <s key="Loading" value="読み込み中"/>
+  <s key="Loading landscape..." value="風景を読み込み中..."/>
+  <s key="Location" value="場所"/>
+  <s key="Location ID" value="場所 ID"/>
+  <s key="Location Properties" value="場所のプロパティ"/>
+  <s key="id_internet_link" value="リンク"/>
+  <s key="Locations" value="場所"/>
+  <s key="All locations" value="すべての場所"/>
+  <s key="All regions" value="すべての地方"/>
+  <s key="All states" value="すべての州"/>
+  <s key="Change landscape" value="風景を変更"/>
+  <s key="Select a location" value="場所を選択"/>
+  <s key="The location is already added" value="この場所は既に追加されています"/>
+  <s key="Location is not selected yet" value="場所はまだ選択されていません"/>
+  <s key="Major cities (more than 100,000 citizens)" value="大都市 (人口 10 万人以上)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="ネットワーク エラー: 場所の情報にアクセスできません。このため現在は場所を選択できません。"/>
+  <s key="No locations in scope" value="範囲内に場所がありません"/>
+  <s key="Scope" value="範囲"/>
+  <s key="Region" value="地方"/>
+  <s key="Cannot find a location?" value="場所が見つかりませんか?"/>
+  <s key="Set as Home" value="ホームに設定"/>
+  <s key="Current Location" value="現在のロケーション"/>
+  <s key="Unknown" value="不明"/>
+  <s key="Longitude" value="経度"/>
+  <s key="Looking at the North (West wind blows from the left)" value="北向き (東風は右から)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="南向き (西風は右から)"/>
+  <s key="April" value="4月"/>
+  <s key="August" value="8月"/>
+  <s key="December" value="12月"/>
+  <s key="February" value="2月"/>
+  <s key="January" value="1月"/>
+  <s key="July" value="7月"/>
+  <s key="June" value="6月"/>
+  <s key="March" value="3月"/>
+  <s key="May" value="5月"/>
+  <s key="November" value="11月"/>
+  <s key="October" value="10月"/>
+  <s key="September" value="9月"/>
+  <s key="About" value="バージョン情報"/>
+  <s key="Facebook Edition" value="Facebook 版"/>
+  <s key="License Agreement" value="ライセンス同意書"/>
+  <s key="Program" value="プログラム"/>
+  <s key="Visit our Forum" value="フォーラムを訪問"/>
+  <s key="YoWindow for your Site or Blog" value="あなたのサイト/ブログ向けの YoWindow"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} 分前"/>
+  <s key="{0} minutes forward" value="{0} 分後"/>
+  <s key="Name" value="名前"/>
+  <s key="Network error" value="ネットワーク エラー"/>
+  <s key="Network not available" value="ネットワークがありません"/>
+  <s key="It is available on {0}" value="{0} にあります"/>
+  <s key="New version released" value="新しいバージョンが公開されました"/>
+  <s key="Next Day" value="翌日"/>
+  <s key="No" value="いいえ"/>
+  <s key="No weather" value="天気がありません"/>
+  <s key="N/A" value="利用不可"/>
+  <s key="Notify me when a new version is available" value="新しいバージョンがあれば通知"/>
+  <s key="Online" value="オンライン"/>
+  <s key="Open {0}" value="{0} を開く"/>
+  <s key="Options" value="オプション"/>
+  <s key="Advanced" value="詳細"/>
+  <s key="Application choice" value="アプリケーションの選択"/>
+  <s key="Date" value="日付"/>
+  <s key="Display" value="表示"/>
+  <s key="Animate clouds" value="雲のアニメーション"/>
+  <s key="Default" value="既定値"/>
+  <s key="Full screen mode" value="全画面モード"/>
+  <s key="Quality" value="画質"/>
+  <s key="Custom" value="カスタム"/>
+  <s key="Excellent" value="高画質"/>
+  <s key="Moderate" value="中画質"/>
+  <s key="Number of days to display:" value="表示する日数:"/>
+  <s key="Tile contents:" value="小さいパネル:"/>
+  <s key="General" value="一般"/>
+  <s key="Contents" value="内容"/>
+  <s key="Show N/A parameters" value="利用できないパラメータを表示"/>
+  <s key="Live indicator" value="ライブ マーク"/>
+  <s key="Locations" value="場所"/>
+  <s key="Operation successful!" value="操作に成功しました!"/>
+  <s key="Refresh locations DB" value="場所データベースを更新"/>
+  <s key="Reset to defaults" value="既定値に戻す"/>
+  <s key="Add" value="追加"/>
+  <s key="User interface" value="インタフェース"/>
+  <s key="Screen saver" value="スクリーン セーバ"/>
+  <s key="Time Bar" value="時刻バー"/>
+  <s key="Unit system:" value="単位系:"/>
+  <s key="Units" value="単位"/>
+  <s key="Auto-detected" value="自動検出"/>
+  <s key="Custom" value="カスタム"/>
+  <s key="Distance:" value="距離:"/>
+  <s key="Metric" value="メートル法"/>
+  <s key="Russia" value="ロシア"/>
+  <s key="Finland" value="フィンランド"/>
+  <s key="Pressure:" value="気圧:"/>
+  <s key="Temperature:" value="気温:"/>
+  <s key="US" value="アメリカ合衆国"/>
+  <s key="Wind speed:" value="風速:"/>
+  <s key="Landscape Options" value="風景オプション"/>
+  <s key="Show Daylight Diagram" value="日照時間図を表示"/>
+  <s key="Show Forecast Panel" value="予報パネルを表示"/>
+  <s key="Show Full Screen button" value="全画面ボタンを表示"/>
+  <s key="Show Inspector" value="インスペクタを表示"/>
+  <s key="Show Time Bar" value="時刻バーを表示"/>
+  <s key="Show User interface" value="ユーザ インタフェースを表示"/>
+  <s key="Show forecast when current weather is expired" value="現在の天気がなければ予報を表示"/>
+  <s key="Organize" value="整理"/>
+  <s key="Organize locations" value="場所を整理"/>
+  <s key="Organize pictures" value="画像を整理"/>
+  <s key="Pictures" value="画像"/>
+  <s key="press" value="押す"/>
+  <s key="Falling" value="下降中"/>
+  <s key="Falling Rapidly" value="急降下中"/>
+  <s key="Rising" value="上昇中"/>
+  <s key="Rising Rapidly" value="急上昇中"/>
+  <s key="Steady" value="安定"/>
+  <s key="Previous Day" value="前日"/>
+  <s key="Properties" value="プロパティ"/>
+  <s key="Refresh Locations data base" value="場所データベースを更新"/>
+  <s key="Register" value="登録"/>
+  <s key="Remove" value="削除"/>
+  <s key="Rename" value="名前を変更"/>
+  <s key="Rename location" value="地名を変更"/>
+  <s key="Rename picture" value="画像名を変更"/>
+  <s key="Retry" value="再試行"/>
+  <s key="Run with Windows (minimized to tray)" value="Windows 起動時に開始 (トレイに最小化)"/>
+  <s key="Season map" value="季節の設定"/>
+  <s key="Select" value="選択"/>
+  <s key="Select country" value="国を選択"/>
+  <s key="Select a landscape" value="風景を選択"/>
+  <s key="Select location" value="場所を選択"/>
+  <s key="Select region" value="地方を選択"/>
+  <s key="Select state" value="州を選択"/>
+  <s key="Set as default" value="既定値に設定"/>
+  <s key="Set YoWindow as ScreenSaver" value="YoWindow をスクリーン セーバに設定"/>
+  <s key="Setup" value="設定"/>
+  <s key="Show" value="表示"/>
+  <s key="Show again" value="再び表示"/>
+  <s key="Speed" value="速度"/>
+  <s key="Time" value="時間"/>
+  <s key="{0} ago" value="{0}前"/>
+  <s key="Time zone" value="時間帯"/>
+  <s key="Today" value="今日"/>
+  <s key="Tomorrow" value="明日"/>
+  <s key="Tom." value="明日"/>
+  <s key="Tonight" value="今晩"/>
+  <s key="Add New Location" value="新しい場所を追加"/>
+  <s key="Open Calendar..." value="カレンダーを開く..."/>
+  <s key="Show Less Days" value="表示される日数を減らす"/>
+  <s key="Show More Days" value="表示される日数を増やす"/>
+  <s key="Update Weather" value="天気を更新"/>
+  <s key="Unknown" value="不明"/>
+  <s key="Up" value="上"/>
+  <s key="Update interval" value="更新間隔"/>
+  <s key="Update weather" value="天気を更新"/>
+  <s key="Updating weather" value="天気を更新中"/>
+  <s key="View" value="表示"/>
+  <s key="Please wait..." value="お待ちください..."/>
+  <s key="Weather" value="天気"/>
+  <s key="Daily rain total" value="24 時間雨量"/>
+  <s key="Weather expired" value="天気のデータがありません"/>
+  <s key="Feels like" value="体感温度"/>
+  <s key="Day maximum temperature" value="日最高気温"/>
+  <s key="Day minimum temperature" value="日最低気温"/>
+  <s key="Weather forecast" value="天気予報"/>
+  <s key="Forecast issued" value="予報の発行日時"/>
+  <s key="Hail" value="雹"/>
+  <s key="Humidity" value="湿度"/>
+  <s key="Observed" value="観測"/>
+  <s key="Pressure" value="気圧"/>
+  <s key="PWS only" value="PWS のみ"/>
+  <s key="Rain" value="雨"/>
+  <s key="Rain/Snow rate" value="降雨/雪確率"/>
+  <s key="Description" value="説明"/>
+  <s key="Sky image" value="空"/>
+  <s key="Snow" value="雪"/>
+  <s key="Snow level" value="積雪量"/>
+  <s key="Weather station properties" value="測候所のプロパティ"/>
+  <s key="Temperature" value="気温"/>
+  <s key="Temperature range" value="気温較差"/>
+  <s key="Update error" value="更新エラー"/>
+  <s key="Update time" value="時間を更新"/>
+  <s key="UV index" value="UV 指数"/>
+  <s key="Visibility" value="視度"/>
+  <s key="Unlimited" value="無制限"/>
+  <s key="Wind" value="風"/>
+  <s key="Calm" value="おだやか"/>
+  <s key="Variable" value="変わりやすい"/>
+  <s key="Welcome to YoWindow!" value="YoWindow にようこそ!"/>
+  <s key="Wind direction:" value="風の方向:"/>
+  <s key="East" value="東"/>
+  <s key="North" value="北"/>
+  <s key="South" value="南"/>
+  <s key="West" value="西"/>
+  <s key="Yes" value="はい"/>
+  <s key="Close screensaver on mouse move" value="マウスを動かしたらスクリーン セーバを閉じる"/>
+  <s key="Color" value="カラー"/>
+  <s key="Background" value="背景"/>
+  <s key="Choose color" value="カラーの選択"/>
+  <s key="System tray" value="システムトレイ"/>
+  <s key="Transparent" value="透明"/>
+  <s key="Precipitation chance" value="降水の確率"/>
+  <s key="Rain chance" value="雨の確率"/>
+  <s key="Snow chance" value="雪の確率"/>
+  <s key="{0} only" value="{0} のみ"/>
+  <s key="US" value="アメリカ合衆国"/>
+  <s key="Dew point" value="露点温度"/>
+  <s key="I want to have fun" value="楽しみたい"/>
+  <s key="Enable surprises" value="サプライズを有効にする"/>
+  <s key="NWS forecasts for the USA" value="アメリカ合衆国の NWS 予報"/>
+  <s key="h" value="時"/>
+  <s key="min" value="分"/>
+  <s key="Open" value="開く"/>
+  <s key="Browse" value="参照"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="インターネット/あなたのコンピュータの、画像/風景のパスを入力"/>
+  <s key="Landscape load error" value="風景読み込みエラー"/>
+  <s key="Picture load error" value="画像の読み込みエラー"/>
+  <s key="The landscape is already added" value="すでに追加されました"/>
+  <s key="Landscape collection" value="風景集"/>
+  <s key="Turn your photo into Landscape" value="写真を風景にする"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="写真を風景にする{0}チュートリアル{1}"/>
+  <s key="Village" value="村"/>
+  <s key="Seaside" value="海辺"/>
+  <s key="Airport" value="空港"/>
+  <s key="Oriental" value="東洋"/>
+  <s key="Sky" value="空"/>
+  <s key="Landscape made from picture" value="画像から作成された風景"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="画像を YoWindow の風景にする手順をお教えします。"/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="あらかじめチュートリアル {0}画像を風景にするには?{1} をお読みください"/>
+  <s key="Click Next to continue..." value="次へ をクリックしてください..."/>
+  <s key="Specify a picture you want to turn into landscape." value="風景にしたい画像を指定してください。"/>
+  <s key="How to pick the best landscape picture?" value="風景に最適な画像を選ぶには?"/>
+  <s key="Source picture" value="元の画像"/>
+  <s key="The landscape will be created in the following folder" value="風景は次のフォルダに作成されます"/>
+  <s key="Landscape folder name" value="風景フォルダ名"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="{0} 風景を作成するには &quot;作成&quot; ボタンをクリックしてください"/>
+  <s key="{0} landscape has been created successfully!" value="{0} 風景は正しく作成されました!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="お気に入りの画像編集ソフトで {0} を開いてください。画像から空を削除する必要があります。画像ファイルは {1}風景フォルダ{2} にあります"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="空は簡単に削除できます。私たちの簡易{0}チュートリアル{1}を読んでください。"/>
+  <s key="Auto" value="自動"/>
+  <s key="Horizon Level Setup" value="地平線設定"/>
+  <s key="Keys: Up/Down" value="キー: 上/下"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="風景画像 {0} を削除しようとしています。この操作は取り消せません。実行しますか?"/>
+  <s key="Edit Landscape" value="風景を編集"/>
+  <s key="Edit Horizon Level" value="地平線の位置を編集"/>
+  <s key="File not found." value="ファイルが見つかりません。"/>
+  <s key="The name is empty" value="名前が空です"/>
+  <s key="The folder already exists" value="フォルダは既に存在します"/>
+  <s key="Illegal folder name" value="正しくないフォルダ名"/>
+  <s key="The file format is not supported." value="未対応のファイル形式です。"/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="画像は YoWindow には大きすぎます。画像の幅/高さは最大 2880 ピクセルです。"/>
+  <s key="Landscape Image" value="風景画像"/>
+  <s key="Landscape Folder" value="風景フォルダ"/>
+  <s key="About Landscape" value="風景について"/>
+  <s key="Picture {0} imported successfully" value="画像 {0} を正しくインポートしました"/>
+  <s key="Remind Me Later" value="後で"/>
+  <s key="Skip This Version" value="このバージョンをスキップ"/>
+  <s key="Loading" value="読み込み中"/>
+  <s key="Next" value="次へ"/>
+  <s key="Back" value="戻る"/>
+  <s key="Finish" value="完了"/>
+  <s key="Create" value="作成"/>
+  <s key="Import" value="インポート"/>
+  <s key="Delete" value="削除"/>
+  <s key="Path" value="パス"/>
+  <s key="Options" value="オプション"/>
+  <s key="Select the options you like" value="オプションを選択してください"/>
+  <s key="Set YoWindow as default screen saver" value="YoWindow を既定のスクリーン セーバに設定"/>
+  <s key="Start with Windows (minimized to system tray)" value="Windows と起動 (トレイに最小化)"/>
+  <s key="Add a shortcut to quick launch bar" value="クイック起動バーにショートカットを追加"/>
+  <s key="You are about to upgrade YoWindow." value="YoWindow をアップグレードしようとしています。"/>
+  <s key="Click OK to install the new version." value="新しいバージョンをインストールするには OK をクリックしてください。"/>
+  <s key="You must close YoWindow before you can continue." value="続ける前に YoWindow を閉じる必要があります。"/>
+  <s key="After you have closed YoWindow, select Retry." value="YoWindow を閉じてから 再試行 を選択してください。"/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="アンインストールをキャンセルしたい場合は キャンセル を選択してください。"/>
+  <s key="If you wish to try to install anyway, select Ignore." value="とにかくインストールを試したい場合は 無視 を選択してください。"/>
+  <s key="If you wish to abort the installation, select Abort." value="インストールを中止するには 中止 を選択してください。"/>
+  <s key="Final step" value="最後の段階"/>
+  <s key="Start YoWindow on system startup" value="システムの開始時に YoWindow を起動させる"/>
+  <s key="Check for new version..." value="新しいバージョンを確認..."/>
+  <s key="YoWindow is up to date!" value="YoWindow は最新です!"/>
+  <s key="You have the latest version" value="お持ちのソフトウェアは最新バージョンです"/>
+  <s key="Download new version!" value="新しいバージョンをダウンロード!"/>
+  <s key="Preview" value="プレビュー"/>
+  <s key="Show small YoWindow logo" value="小さい YoWindow ロゴを表示"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Unlimited Edition のみで利用できる風景です。"/>
+  <s key="id_short_hour" value="時間"/>
+  <s key="id_short_minute" value="分"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="feet"/>
+  <s key="id_unit_short_miles" value="mile"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="knot"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="inch"/>
+  <s key="Display &quot;?&quot;" value="&quot;?&quot; を表示"/>
+  <s key="Hide parameter" value="パラメータを隠す"/>
+  <s key="When weather parameter is not available" value="天気のパラメータを利用できないとき"/>
+  <s key="Information" value="情報"/>
+  <s key="id_information_all" value="すべて"/>
+  <s key="Temperature and Time" value="気温と時刻"/>
+  <s key="This is Unlimited Edition." value="これは Unlimited Edition です。"/>
+  <s key="It is already registered." value="登録済みです。"/>
+  <s key="Free edition" value="Free edition (無料版)"/>
+  <s key="Unlimited edition" value="Unlimited edition (製品版)"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="YoWindow を楽しむには (Internet Explorer 用) Flash Player {0} 以降をインストールする必要があります。"/>
+  <s key="Get Adobe Flash Player" value="Adobe Flash Player を取得"/>
+  <s key="Unlock landscape" value="風景のロックを解除"/>
+  <s key="YoWindow for Chrome" value="YoWindow for Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow for iPhone / iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Facebook で YoWindow をフォロー"/>
+  <s key="Follow YoWindow on Twitter" value="Twitter で YoWindow をフォロー"/>
+  <s key="Landscape trial, days left:" value="風景の試用期間の残り日数:"/>
+  <s key="Landscape trial period is over" value="風景の試用期間が終了しました"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; 風景は YoWindow Unlimited のみで使用できます。"/>
+  <s key="Details" value="詳細"/>
+  <s key="View direction" value="方角を表示"/>
+  <s key="Fixed sky" value="固定された空"/>
+  <s key="Edit" value="編集"/>
+  <s key="Reload" value="再読込"/>
+  <s key="Minimized" value="最小化されています"/>
+  <s key="affects wind only" value="風のみに影響"/>
+  <s key="Broadcast" value="発信"/>
+  <s key="Share" value="共有"/>
+  <s key="Publishing" value="発行中"/>
+  <s key="Authorizing" value="認証中"/>
+  <s key="Published!" value="発行しました!"/>
+  <s key="Space" value="Space"/>
+  <s key="Weather now in {0}" value="{0} の現在の天気"/>
+  <s key="Weather forecast for {0} in {1}" value="{1} の {0} の天気予報"/>
+  <s key="Today in {0} (forecast)" value="{0} の今日 (予報)"/>
+  <s key="Tomorrow in {0} (forecast)" value="{0} の明日 (予報)"/>
+  <s key="Forecast" value="予報"/>
+  <s key="Sound" value="サウンド"/>
+  <s key="Enable sound" value="サウンドを有効にする"/>
+  <s key="Volume" value="音量"/>
+  <s key="Skip" value="スキップ"/>
+  <s key="Presented in Stereo" value="ステレオ"/>
+  <s key="Override current season" value="現在の季節に上書き"/>
+  <s key="Winter" value="冬"/>
+  <s key="Spring" value="春"/>
+  <s key="Summer" value="夏"/>
+  <s key="Autumn" value="秋"/>
+  <s key="Naked" value="Naked"/>
+  <s key="Countries" value="国/地域"/>
+  <s key="Vote!" value="投票"/>
+  <s key="Vote for YoWindow, thank you" value="YoWindow に是非投票してください"/>
+  <s key="More YoWindow" value="さらなるYoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="天気の移り変わりを見るにはスワイプしてください"/>
+  <s key="And one more time" value="もう一度スワイプしてください"/>
+  <s key="Press the 'LIVE' button to return to current time" value="現在に戻るには「ライブ」ボタンを押してください"/>
+  <s key="Watch weather with pleasure" value="天気をお楽しみください"/>
+  <s key="Disable Auto-Lock" value="自動ロックを無効にする"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="電源に接続中またはバッテリー残量が25%以上の場合は表示したままにします。"/>
+  <s key="More" value="その他"/>
+  <s key="Parallax effect" value="視差効果"/>
+  <s key="An illusion of 3D space when you tilt the device" value="デバイスを傾けると擬似的な 3D 空間が表現されます"/>
+  <s key="Temperature in Status Bar" value="ステータスバーに気温を表示"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="&quot;ホーム&quot;ロケーションの気温を表示"/>
+  <s key="Not enough free space." value="空き領域が不足しています。"/>
+  <s key="YoWindow may run unstable." value="YoWindow の動作が不安定になるおそれがあります。"/>
+  <s key="{0} MB minimum required." value="少なくとも {0} MB 必要です。"/>
+  <s key="YoWindow Weather" value="YoWindow 天候"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="完全版を入手"/>
+  <s key="No ads, no limitations, all landscapes available" value="広告なし、制限なしで、全種類の風景を利用できます"/>
+  <s key="No advertising" value="広告無し"/>
+  <s key="Remove ads" value="広告を消去"/>
+  <s key="Weather forecast is limited" value="天気予報は制限されています"/>
+  <s key="Demo" value="デモ"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="風景「{0}」へのアクセスは制限されています。"/>
+  <s key="Connecting to {0}" value="{0} に接続中"/>
+  <s key="Camera" value="カメラ"/>
+  <s key="Photos" value="写真"/>
+  <s key="Wallpaper" value="壁紙"/>
+  <s key="Enable animations" value="アニメーションを有効にする"/>
+  <s key="Show weather" value="天気を表示"/>
+  <s key="No animation - almost no battery power consumed." value="アニメーション無し - バッテリーをほとんど消費しません。"/>
+  <s key="Widget Settings" value="ウィジェットの設定"/>
+  <s key="Create Widget" value="ウィジェットを作成"/>
+  <s key="Tap to search for a location" value="タップしてロケーションを検索"/>
+  <s key="Show background" value="バックグラウンドを表示"/>
+  <s key="Move On Top" value="最上位に移動"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="&quot;YoWindow Free&quot;をアンインストール"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="YoWindowの完全版と無料版両方をインストールしています。"/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="YoWindow Freeをアンインストールして競合を避けてください。"/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="YoWindowウィジェットを追加 - 天気予報を快適に見る"/>
+  <s key="Tap to continue" value="タップして続行"/>
+  <s key="YoWindow installed on an external storage." value="YoWindowが外部ストレージにインストールされました。"/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="警告： YoWindowが外部ストレージ（SDカード）にインストールされるとYoWindowウォールペーパーとウィジェットを利用出来なくなります。"/>
+  <s key="Location Search" value="ロケーション検索"/>
+  <s key="Redeem code" value="コードを実行"/>
+  <s key="Full Version privilege granted." value="完全版だけの機能が認可されました。"/>
+  <s key="Advertising removed, no limitations." value="広告が無くなり制限が無くなりました。"/>
+  <s key="Unexpected code" value="未知のコード"/>
+  <s key="Restore privileges" value="限定機能を復元"/>
+  <s key="Set As Wallpaper" value="ウォールペーパーとして設定"/>
+  <s key="Post" value="投稿"/>
+  <s key="Enter the message" value="メッセージを入力"/>
+  <s key="Fill in the weather" value="天気にメッセージを付ける"/>
+  <s key="You just have posted to Facebook!" value="Facebookに投稿しました！"/>
+</body>

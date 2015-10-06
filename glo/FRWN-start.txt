@@ -1,0 +1,22 @@
+# bootstrap file for regional mesonet script
+# "FRWN":{"name":"French Weather Network","url":"http://www.francemeteo.info/","short":"France","region":"Europe","units":"C,kmh,hPa,mm,m"},
+#
+MESO			|FRWN|
+MESO_LONG		|French Weather Network|
+MESO_SHORT		|France|
+MESO_AREA		|France|
+MESO_REGION		|Europe|
+MESO_URL		|http://www.francemeteo.info/|  # the website for visitors|
+#
+MESO_FILES_LOCATION	|http://www.francemeteo.info/|  # for the control files !
+MESO_CHARSET		|UTF-8|				# char set used in the control files
+#
+MESO_CONTROL_FILE	|FRWN-stations-cc.txt|
+MESO_CONTROL_TYPE	|txt|
+MESO_CONDITIONS		|FRWN-conditions.txt|
+MESO_CONDITIONS_TYPE	|txt|
+MESO_UNITS		|C,kmh,hPa,mm,m|		# units used in the conditions file
+#
+MESO_MAPZOOM		|6|
+MESO_MAPCENTER		|47.10,1.65|
+MESO_MAPHEIGHT		|700|

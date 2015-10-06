@@ -1,0 +1,323 @@
+|pagename|wxlocal.html|!     
+|version|3.00 2015-6-07 10:00:00|!
+|datetime|20150607102500|
+
+|date|2015 06 07|!
+|time|10 25 00|!
+
+|wdCurCond|Sunny/Dry|!
+|wdCurIcon|2|!
+
+|fromtemp|C|!   //  = 'C', 'F',  (or  '∞C', '∞F', or '&deg;C', '&deg;F' )
+
+|tempAct|18.3|!
+|tempDelta|%tempchangelasthour%|!
+
+|tempMinToday|7.9|!
+|tempMinTodayTime|06:09|!
+|tempMinYday|13.7|!
+|tempMinYdayTime|23:58|!
+|tempMinMonth|7.7|!
+|tempMinMonthTime|2015 6 4|!
+|tempMinYear|-3.8|!
+|tempMinYearTime|2015 2 7|!
+|tempMinAll|%recordlowtemp%|!
+|tempMinAllTime|%recordlowtempyear% %recordlowtempmonth% %recordlowtempday%|!
+
+|tempMaxToday|18.3|!
+|tempMaxTodayTime|10:24|!
+|tempMaxYday|22.8|!
+|tempMaxYdayTime|17:01|!
+|tempMaxMonth|34.8|!
+|tempMaxMonthTime|2015 6 5|!
+|tempMaxYear|34.8|!
+|tempMaxYearTime|2015 6 5|!
+|tempMaxAll|%recordhightemp%|!
+|tempMaxAllTime|%recordhightempyear% %recordhightempmonth% %recordhightempday%|!
+
+|dewpAct|11.3|!
+|dewpDelta|-0.2|!
+
+|dewpMinToday|5.8|!
+|dewpMinTodayTime|05:44|!
+|dewpMinYday|%mindewyest%|!
+|dewpMinYdayTime|%mindewyestt%|!
+|dewpMinMonth|%mrecordlowdew%|!
+|dewpMinMonthTime|%mrecordlowdewyear% %mrecordlowdewmonth% %mrecordlowdewday%|!
+|dewpMinYear|%yrecordlowdew%|!
+|dewpMinYearTime|%yrecordlowdewyear% %yrecordlowdewmonth% %yrecordlowdewday%|!
+|dewpMinAll|%recordlowdew%|!
+|dewpMinAllTime|%recordlowdewyear% %recordlowdewmonth% %recordlowdewday%|!
+
+|dewpMaxToday|11.7|!
+|dewpMaxTodayTime|10:20|!
+|dewpMaxYday|%maxdewyest%|!
+|dewpMaxYdayTime|%maxdewyestt%|!
+|dewpMaxMonth|%mrecordhighdew%|!
+|dewpMaxMonthTime|%mrecordhighdewyear% %mrecordhighdewmonth% %mrecordhighdewday%|!
+|dewpMaxYear|%yrecordhighdew%|!
+|dewpMaxYearTime|%yrecordhighdewyear% %yrecordhighdewmonth% %yrecordhighdewday%|!
+|dewpMaxAll|%recordhighdew%|!
+|dewpMaxAllTime|%recordhighdewyear% %recordhighdewmonth% %recordhighdewday%|!
+
+|appTemp|--|!
+
+|appTempMinToday|--|
+|appTempMinTodayTime|--|
+|appTempMinYday|--|
+|appTempMinYdayTime|--|
+
+|appTempMaxToday|--|
+|appTempMaxTodayTime|--|
+|appTempMaxYday|--|
+|appTempMaxYdayTime|--|
+
+|heatAct|24.7|!
+|heatDelta|??|!
+
+|heatMaxToday|18.3|!
+|heatMaxTodayTime|10:24|!
+|heatMaxYday|%maxheatyest%|!
+|heatMaxYdayTime|%maxheatyestt%|!
+|heatMaxMonth|%mrecordhighheatindex%|!
+|heatMaxMonthTime|2015 6 5|!
+|heatMaxYear|%yrecordhighheatindex%|!
+|heatMaxYearTime|2015 6 5|!
+|heatMaxAll|%recordhighheatindex%|!
+|heatMaxAllTime|%recordhighheatindexyear% %recordhighheatindexmonth% %recordhighheatindexday%|!
+
+|chilAct|18.3|!
+|chilDelta|--|!
+
+|chilMinToday|7.9|!
+|chilMinTodayTime|06:09|!
+|chilMinYday|13.7|!
+|chilMinYdayTime|23:58|!
+|chilMinMonth|7.7|!
+|chilMinMonthTime|2015 6 4|!
+|chilMinYear|-7.4|!
+|chilMinYearTime|2015 2 6|!
+|chilMinAll|%recordlowchill%|!
+|chilMinAllTime|%recordlowchillyear% %recordlowchillmonth% %recordlowchillday%|!
+
+|chilMaxToday|%maxwindchill%|!
+|chilMaxTodayTime|10:24|!
+
+|tempActInside|24.1|!
+|tempActExtra1|26.1|!
+|tempActExtra2|0.0|!
+
+|fromhudx|C|!
+|hudxAct|20.2|!
+|hudxDelta|--|!
+|hudxMaxToday|%todayhihumidex%|!
+------------------------------------------extremetemp------------------------------
+|daysXHigh|1|!
+|daysHigh|2|!
+|daysLow|0|!
+|daysXLow|0|!
+------------------------------------------pressure/baro-----------------------------
+|frombaro|hPa|!                //  "mb", "hPa", "in"
+
+|baroAct|1028.7|!
+|baroDelta|+0.0|!
+|baroTrend|+0.0|!
+
+|baroMinToday|1026.8|!
+|baroMinTodayTime|01:44|!
+|baroMinYday|1027.0|!
+|baroMinYdayTime|23:56|!
+|baroMinMonth|1008.3|!
+|baroMinMonthTime|2015 6 2|!
+|baroMinYear|972.6|!
+|baroMinYearTime|2015 1 29|!
+|baroMinAll|972.6|!
+|baroMinAllTime|%recordlowbaroyear% %recordlowbaromonth% %recordlowbaroday%|!
+
+|baroMaxToday|1028.8|!
+|baroMaxTodayTime|09:39|!
+|baroMaxYday|%maxbaroyest%|!
+|baroMaxYdayTime|%maxbaroyestt%|!
+|baroMaxMonth|%mrecordhighbaro%|!
+|baroMaxMonthTime|2015 6 7|!
+|baroMaxYear|%yrecordhighbaro%|!
+|baroMaxYearTime|%yrecordhighbaroyear% %yrecordhighbaromonth% %yrecordhighbaroday%|!
+|baroMaxAll|1041.4|!
+|baroMaxAllTime|%recordhighbaroyear% %recordhighbaromonth% %recordhighbaroday%|!
+
+------------------------------------------humidity-----------------------------------
+|humiAct|64|!
+
+|humiDelta|-10|!
+
+|humiMinToday|64|!
+|humiMinTodayTime|10:23|! 
+|humiMinYday|%minhumyest%|!
+|humiMinYdayTime|%minhumyestt%|!
+|humiMinMonth|%mrecordlowhum%|!
+|humiMinMonthTime|%mrecordlowhumyear% %mrecordlowhummonth% %mrecordlowhumday%|!
+|humiMinYear|%yrecordlowhum%|!
+|humiMinYearTime|%yrecordlowhumyear% %yrecordlowhummonth% %yrecordlowhumday%|!
+|humiMinAll|%recordlowhum%|!
+|humiMinAllTime|%recordlowhumyear% %recordlowhummonth% %recordlowhumday%|!
+
+|humiMaxToday|90|!
+|humiMaxTodayTime|'06:47|!
+|humiMaxYday|%maxhumyest%|!
+|humiMaxYdayTime|%maxhumyestt%|!
+|humiMaxMonth|%mrecordhighhum%|!
+|humiMaxMonthTime|%mrecordhighhumyear% %mrecordhighhummonth% %mrecordhighhumday%|!
+|humiMaxYear|%yrecordhighhum%|!
+|humiMaxYearTime|%yrecordhighhumyear% %yrecordhighhummonth% %yrecordhighhumday%|!
+|humiMaxAll|%recordhighhum%|!
+|humiMaxAllTime|%recordhighhumyear% %recordhighhummonth% %recordhighhumday%|!
+
+|humiInAct|48|!
+|humiActExtra1|%generalextrahum1%|!
+|humiActExtra2|%generalextrahum2%|!
+------------------------------------------rain---------------------------------------
+|fromrain|mm|!         //  = 'mm', 'in'
+
+|rainRateAct|0.0|!
+
+|rainRateMaxToday|0.0|!
+|rainRateMaxYday|%maxrainrateyest%|!
+
+|lastRained|--- ---|!
+
+|rainHourAct|0.0|!
+|rainHourMaxToday|0.0|!
+|rainHourMaxYday|               ?|!
+
+|rainToday|0.0|!
+|rainYday|0.0|!
+|rainWeek|14.2|!
+|rainMonth|11.8|!
+|rainYear|222.0|!
+
+|rainTodayLow|          ?|!
+|rainYdayLow|           ?|!
+|rainYdayHigh|          ?|! 
+|rainRateYday|          ?|!
+
+
+|rainDayMnth|4|!
+|rainDayYear|88|!
+|rainDaysWithNo|'1|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|0.0|!
+|etYday|0.0|!
+|etMonth|0.0|!
+|etYear|%VPetyear%|!
+------------------------------------------wind---------------------------------------
+|fromwind|kts|!         //= 'kts','mph','kmh','km/h','m/s','Bft'
+
+|windAct|0.9|!
+|gustAct|0.0|!
+|windActDsc|NW|!
+|windActDir|304|! 
+
+|windBeafort|0|!
+
+|windAvgDir|269|!
+
+|gustMaxToday|3.5|!
+|gustMaxTodayTime|09:44|!
+|gustMaxYday|8.7|!
+|gustMaxYTime|07:53|!
+|gustMaxMonth|18.3|!
+|gustMaxMonthTime|2015 6 2|!
+|gustMaxYear|25.2|!
+|gustMaxYearTime|2015 3 31|!
+|gustMaxAll|%recordwindgust%|!
+|gustMaxAllTime|%recordhighgustyear% %recordhighgustmonth% %recordhighgustday%|!
+
+|fromdistance|%uomdistance%|!
+|windrunToday|1.60|!
+|------------------------------------------UV---------------------------------------
+|uvAct|2.9|!
+
+|uvMaxToday|2.9|!
+|uvMaxTodayTime|10:20|!
+|uvMaxYday|5.7|!
+|uvMaxYdayTime|13:21|!
+|uvMaxMonth|6.3|!
+|uvMaxMonthTime|2015 6 2|!
+|uvMaxYear|6.4|!
+|uvMaxYearTime|2015 5 26|!
+|uvMaxAll|7.2|!
+|uvMaxAllTime|2014 7 5|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|615|!
+|solarActPerc|%currentsolarpctplain%|! 
+
+|solarMaxToday|650|!
+|solarMaxTodayTime|10:21|!
+|solarMaxYday|888.0|!
+|solarMaxYdayTime|13:20|!
+|solarMaxMonth|1192.0|!
+|solarMaxMonthTime|2015 6 3|!
+|solarMaxYear|1215.0|!
+|solarMaxYearTime|2015 5 20|!
+|solarMaxAll|1264.0|!
+|solarMaxAllTime|2014 5 12|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|ft|!
+|cloudHeight|2855|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt|partly_cloudy_with_little_temp._change.|!
+|------------------------------------------moon---------------------------------------
+|moonrise|01:09:00|!
+|moonset|10:43:00|!
+|lunarPhasePerc|75.27%|!
+|lunarAge|21|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|WD_console_12.3|!
+|wsBuild|---|!
+|wsHardware|                    ?|!
+|wsUptime| 10:25:12 up 47 days,  1:26,  0 users,  load average: 1.05, 0.71, 0.54|!
+|-------------------------------------- soil
+|soilTempAct|13.9#14#255#19|!
+|soilTempMaxToday|15.6#14.4#-50.0#18.9|!
+|soilTempMaxMonth|%mrecordhighsoil%#%mrecordhighsoil2%#%mrecordhighsoil3%#%mrecordhighsoil4%|!
+|soilTempMaxMonthTime|%mrecordhighsoilyear% %mrecordhighsoilmonth% %mrecordhighsoilday%#%mrecordhighsoilyear2% %mrecordhighsoilmonth2% %mrecordhighsoilday2%#%mrecordhighsoilyear3% %mrecordhighsoilmonth3% %mrecordhighsoilday3%#%mrecordhighsoilyear4% %mrecordhighsoilmonth4% %mrecordhighsoilday4%|
+|soilTempMaxYear|%yrecordhighsoil%#%yrecordhighsoil2%#%yrecordhighsoil3%#%yrecordhighsoil4%|!
+|soilTempMaxYearTime|%yrecordhighsoilyear% %yrecordhighsoilmonth% %yrecordhighsoilday%#%yrecordhighsoilyear2% %yrecordhighsoilmonth2% %yrecordhighsoilday2%#%yrecordhighsoilyear3% %yrecordhighsoilmonth3% %yrecordhighsoilday3%#%yrecordhighsoilyear4% %yrecordhighsoilmonth4% %yrecordhighsoilday4%|
+|soilTempMaxAll|%recordhighsoil%#%recordhighsoil2%#%recordhighsoil3%#%recordhighsoil4%|!
+|soilTempMaxAllTime|%recordhighsoilyear% %recordhighsoilmonth% %recordhighsoilday%#%recordhighsoilyear2% %recordhighsoilmonth2% %recordhighsoilday2%#%recordhighsoilyear3% %recordhighsoilmonth3% %recordhighsoilday3%#%recordhighsoilyear4% %recordhighsoilmonth4% %recordhighsoilday4%|
+|soilTempMinToday|13.9#13.9#100.0#6.1|!
+|soilTempMinMonth|%mrecordlowsoil%#%mrecordlowsoil2%#%mrecordlowsoil3%#%mrecordlowsoil4%|!
+|soilTempMinMonthTime|%mrecordlowsoilyear% %mrecordlowsoilmonth% %mrecordlowsoilday%#%mrecordlowsoilyear2% %mrecordlowsoilmonth2% %mrecordlowsoilday2%#%mrecordlowsoilyear3% %mrecordlowsoilmonth3% %mrecordlowsoilday3%#%mrecordlowsoilyear4% %mrecordlowsoilmonth4% %mrecordlowsoilday4%|!
+|soilTempMinYear|%yrecordlowsoil%#%yrecordlowsoil2%#%yrecordlowsoil3%#%yrecordlowsoil4%|!
+|soilTempMinYearTime|%yrecordlowsoilyear% %yrecordlowsoilmonth% %yrecordlowsoilday%#%yrecordlowsoilyear2% %yrecordlowsoilmonth2% %yrecordlowsoilday2%#%yrecordlowsoilyear3% %yrecordlowsoilmonth3% %yrecordlowsoilday3%#%yrecordlowsoilyear4% %yrecordlowsoilmonth4% %yrecordlowsoilday4%|!
+|soilTempMinAll|%recordlowsoil%#%recordlowsoil2%#%recordlowsoil3%#%recordlowsoil4%|!
+|soilTempMinAllTime|%recordlowsoilyear% %recordlowsoilmonth% %recordlowsoilday%#%recordlowsoilyear2% %recordlowsoilmonth2% %recordlowsoilday2%#%recordlowsoilyear3% %recordlowsoilmonth3% %recordlowsoilday3%#%recordlowsoilyear4% %recordlowsoilmonth4% %recordlowsoilday4%|!
+
+|soilMoistAct|36.0#24.0#255.0#255.0|!
+|soilMoistMaxToday|42.0#31.0#0.0#0.0|!
+|soilMoistMaxMonth|%mrecordhighsoilmoist%#--#--#--|!
+|soilMoistMaxMonthTime|%mrecordhighsoilmoistyear% %mrecordhighsoilmoistmonth% %mrecordhighsoilmoistday%#--#--#--|!
+|soilMoistMaxYear|%yrecordhighsoilmoist%#--#--#--|!
+|soilMoistMaxYearTime|%yrecordhighsoilmoistyear% %yrecordhighsoilmoistmonth% %yrecordhighsoilmoistday%#--#--#--|!
+|soilMoistMaxAll|%recordhighsoilmoist%#--#--#--|!
+|soilMoistMaxAllTime|%recordhighsoilmoistyear% %recordhighsoilmoistmonth% %recordhighsoilmoistday%#--#--#--|!
+
+|soilMoistMinToday|0.0#0.0#0.0#0.0|!
+
+|leafTempAct|-- --|!
+|leafWetAct|0.0#255.0|!
+|leafWetMaxToday|%hiVPleaf%#%hiVPleaf2%|!
+|leafWetMinToday|%loVPleaf%#%loVPleaf2%|!
+|-------------------------------------- trends %temp0minuteago%
+|trendsMinutes|0 5 10 15 20 30 45 60 75 90 105 120 |!
+|tempArray|18.3#18.1#17.9#17.8#17.6#17.1#16.7#16.2#15.6#14.8#14.2#13.6 |!
+|windArray|0.9#0#0#0#0#1#0#1#1#0#0#1 |!
+|gustArray|0.0#1#2#1#1#2#1#1#2#0#1#2 |!
+|wdirArray|NW# W # NW#ENE# NW# N # E # N # W #WSW# SSE# W  |!
+|humiArray|64#65#65#66#67#67#72#74#75#77#79#81 |!
+|baroArray|1028.7#1028.7#1028.7#1028.7#1028.7#1028.7#1028.8#1028.7#1028.6#1028.3#1028.3#1028.2 |!
+|rainArray|0.0#0.0#0.0#0.0#0.0#0.0#0.0#0.0#0.0#0.0#0.0#0.0 |!
+|solarArray|615#571#628#617#571#568#524#513#478#446#316#341 |!
+|uvArray|2.9#2.8#2.8#2.7#2.5#2.3#2.0#1.8#1.6#1.3#1.1#0.9 |!

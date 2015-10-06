@@ -1,0 +1,30 @@
+Wind and Rain since Yesterday
+format 
+language 0
+tf_mode 1
+last_num 2
+last_ind 2
+tr_ind 3
+crop 0
+xsize 610
+ysize 300
+fontsize 7
+dspmode 0
+left_unit 3
+right_unit 5
+left_measure 1
+left_measuremin 
+left_measuremax 
+right_measure 0
+right_measuremin 
+right_measuremax 
+left_gmode 3
+right_gmode 1
+left_sensors 1
+left_sensor-0 SENSORWINDSPEED (wind)
+left_sensorcolor-0 16711680
+left_sensorname-0 Wind
+right_sensors 1
+right_sensor-0 SENSORRAIN (rain)
+right_sensorcolor-0 49152
+right_sensorname-0 Rain

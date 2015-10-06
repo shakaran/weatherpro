@@ -1,0 +1,106 @@
+#menu-hor {
+	border-radius: 5px;
+	min-height: 36px;
+	color: inherit;	
+	margin: 4px 0 0 0;
+	padding: 0;
+	background-color: #AAA;
+/*	width: 100%;  */
+}
+#nav, #nav ul {
+	z-index: 99;
+	margin: 0px;
+	padding: 0;
+	min-height: 36px;
+	border-radius: 5px;
+	border-right: 3px solid #FFF;
+	list-style: none;
+}
+
+#nav ul {
+z-index: 99;
+position: absolute;
+margin-top: 2px;
+width: 80px;
+left: -2000px;
+}
+#nav li.withImg {
+background: url(img/flyout-down.gif) no-repeat right bottom;
+background-color: #AAAAAA;
+}
+#nav img {max-width: 30px;}
+
+#nav li:hover ul, #nav li.ie_does_hover ul {
+left: auto;
+z-index: 99;
+background-position: 0 0;
+}
+#nav a {
+display: block;
+text-align: center;
+vertical-align: middle;
+z-index: 99;
+color: inherit;
+margin: 7px 4px 4px 4px;
+min-height: 14px;
+text-decoration: none;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+
+#nav a:hover{
+z-index: 99;
+color: #F60;
+cursor: default;
+}
+
+#nav ul a:link, #nav ul a:visited{
+min-width: 200px;
+z-index: 99;
+font-weight: normal;
+cursor: pointer;
+}
+
+
+#nav ul a:hover, #nav ul a:active{
+z-index: 99;
+font-weight: normal;
+cursor: pointer;
+}
+
+#nav li{
+min-height: 36px;
+border-radius: 5px;
+z-index: 99;
+float: left;
+background-color: inherit;
+border-left:    3px solid #FFF;
+}
+#nav li ul {
+min-width: 200px; 
+border: 0px;
+}
+#nav li ul li{
+min-height: 30px;
+min-width: 200px;
+z-index: 99;
+border-radius: 5px;
+background-color: #AAA;
+border-top: 3px solid #FFF;
+border-left: 0;
+font-size: 10px;
+}
+#nav li ul li a{
+width: 200px;
+min-height: 20px;
+z-index: 99;}
+
+/* IE only hack \*/
+* html ul li, * html ul ul li{
+border-bottom: 3px solid #FFF;
+}
+
+* html ul ul li{
+border-top: 0;
+}
+/* Einde IE only hack */

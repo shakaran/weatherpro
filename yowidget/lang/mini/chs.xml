@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="取消"/>
+  <s key="Change" value="更改"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="天气预报信息来自 {0}，由挪威气象研究所和 NRK 提供"/>
+  <s key="Forecast from {0}" value="预报来自{0}"/>
+  <s key="Friday" value="星期五"/>
+  <s key="Monday" value="星期一"/>
+  <s key="Saturday" value="星期六"/>
+  <s key="Sunday" value="星期日"/>
+  <s key="Thursday" value="星期四"/>
+  <s key="Tuesday" value="星期二"/>
+  <s key="Wednesday" value="星期三"/>
+  <s key="Fr" value="五"/>
+  <s key="Mo" value="一"/>
+  <s key="Sa" value="六"/>
+  <s key="Su" value="日"/>
+  <s key="Th" value="四"/>
+  <s key="Tu" value="二"/>
+  <s key="We" value="三"/>
+  <s key="LIVE" value="实时"/>
+  <s key="Loading" value="读取中"/>
+  <s key="April" value="四月"/>
+  <s key="August" value="八月"/>
+  <s key="December" value="十二月"/>
+  <s key="February" value="二月"/>
+  <s key="January" value="一月"/>
+  <s key="July" value="七月"/>
+  <s key="June" value="六月"/>
+  <s key="March" value="三月"/>
+  <s key="May" value="五月"/>
+  <s key="November" value="十一月"/>
+  <s key="October" value="十月"/>
+  <s key="September" value="九月"/>
+  <s key="Network error" value="网络错误"/>
+  <s key="No weather" value="无天气"/>
+  <s key="Retry" value="重试"/>
+  <s key="Tomorrow" value="明天"/>
+  <s key="Updating weather" value="正在更新天气"/>
+  <s key="Please wait..." value="请稍后..."/>
+  <s key="Weather expired" value="天气过期"/>
+  <s key="Loading" value="读取中"/>
+</body>

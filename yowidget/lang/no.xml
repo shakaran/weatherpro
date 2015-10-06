@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Gå tilbake til begrenset lisens"/>
+  <s key="Absent" value="Fraværende"/>
+  <s key="Add" value="Legg til"/>
+  <s key="Animate" value="Animer"/>
+  <s key="Apply" value="Bruk"/>
+  <s key="Astronomy" value="Astronomi"/>
+  <s key="Day Length" value="Timer dagslys"/>
+  <s key="Moon Phase" value="Månefase"/>
+  <s key="Sunrise" value="Soloppgang"/>
+  <s key="Sunset" value="Solnedgang"/>
+  <s key="Auto update weather" value="Automatisk oppdater været"/>
+  <s key="Bad ICAO code" value="Ugyldig ICAO kode"/>
+  <s key="Buy YoWindow Unlimited!" value="Kjøp YoWindow Fullversjon!"/>
+  <s key="Calendar" value="Kalender"/>
+  <s key="Cancel" value="Avbryt"/>
+  <s key="Change" value="Endre"/>
+  <s key="Code" value="Kode"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Værvarsel fra {0}, levert av metrologisk institutt og NRK"/>
+  <s key="Forecast from {0}" value="Værvarsel fra {0}"/>
+  <s key="Current weather" value="Været nå"/>
+  <s key="Friday" value="Fredag"/>
+  <s key="Monday" value="Mandag"/>
+  <s key="Saturday" value="Lørdag"/>
+  <s key="Sunday" value="Søndag"/>
+  <s key="Thursday" value="Torsdag"/>
+  <s key="Tuesday" value="Tirsdag"/>
+  <s key="Wednesday" value="Onsdag"/>
+  <s key="Fr" value="Fre"/>
+  <s key="Mo" value="Man"/>
+  <s key="Sa" value="Lør"/>
+  <s key="Su" value="Søn"/>
+  <s key="Th" value="Tor"/>
+  <s key="Tu" value="Tir"/>
+  <s key="We" value="Ons"/>
+  <s key="day ago" value="dag siden"/>
+  <s key="days ago" value="dager siden"/>
+  <s key="Default" value="Standard"/>
+  <s key="Blowing" value="Blåser"/>
+  <s key="Clear" value="Klart"/>
+  <s key="Cloudy" value="Skyet"/>
+  <s key="Overcast" value="Overskyet"/>
+  <s key="Drizzle" value="Yr regn"/>
+  <s key="Fair" value="Nesten klart"/>
+  <s key="Fog" value="Tåke"/>
+  <s key="Freezing" value="Fryse punkt"/>
+  <s key="Hail" value="Haggel"/>
+  <s key="Haze" value="Dis"/>
+  <s key="Heavy" value="Kraftig"/>
+  <s key="Ice Crystals" value="Is krystaller"/>
+  <s key="Ice Pellets" value="Ishagl"/>
+  <s key="In Vicinity" value="I nærheten"/>
+  <s key="Light" value="Lett"/>
+  <s key="Low Drifting" value="Saktegående"/>
+  <s key="Mist" value="Tåke"/>
+  <s key="Mostly Cloudy" value="Skyet"/>
+  <s key="Partial" value="Delvis"/>
+  <s key="Partly Cloudy" value="Delvis skyet"/>
+  <s key="Patches" value="Lappete"/>
+  <s key="Rain" value="Regn"/>
+  <s key="Rain And Thunder" value="Regn og torden"/>
+  <s key="Sand" value="Sand"/>
+  <s key="Shallow" value="Grunnt"/>
+  <s key="Shower" value="Dusjregn"/>
+  <s key="Shower With Thunder" value="Dusjregn med torden"/>
+  <s key="Sleet" value="Sludd"/>
+  <s key="Small Hail" value="Lett haggel"/>
+  <s key="Smoke" value="Røyk"/>
+  <s key="Snow" value="Snø"/>
+  <s key="Snow And Thunder" value="Snø og torden"/>
+  <s key="Snow Grains" value="Snø korn"/>
+  <s key="Snow Showers" value="Lett snø"/>
+  <s key="Thunderstorm" value="Tordenstorm"/>
+  <s key="Unknown Precipitation" value="Ukjent nedbør"/>
+  <s key="Widespread Dust Haze" value="Stordekkende støvdrev"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Feil lisens nøkkel. Prøv igjen. Vær sikker på at du har skrevet lisensnøkkelen korrekt. Prøv å kopier/lim inn lisens nøkkelen."/>
+  <s key="Wrong license key" value="Feil lisens nøkkel"/>
+  <s key="You will have to restart the application for this to take effect" value="Du må restarte programmet for at endringene skal taes i bruk"/>
+  <s key="Language change" value="Endre språk"/>
+  <s key="No limits!" value="Ingen begrensninger!"/>
+  <s key="Buy now!" value="Kjøp nå!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Kjøp fullisens for å fjerne begrensningene."/>
+  <s key="Not now" value="Ikke nå"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="For å fullføre registreringen, skriv inn lisens nøkkelen vi har sendt deg. Hint: bruk kopier/lim inn."/>
+  <s key="License registration" value="Registrer lisens"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Takk for at du registrerte YoWindow! Alle begrensninger er nå fjernet. Nyt programmet!"/>
+  <s key="Distance" value="Avstand"/>
+  <s key="Down" value="Ned"/>
+  <s key="Download" value="Last ned"/>
+  <s key="Enter weather source URL please" value="Vær vennlig å skriv inn URL til vær data informasjonen"/>
+  <s key="Error" value="Feil"/>
+  <s key="The location is already added" value="Stedet er allerede lagt til"/>
+  <s key="Exit" value="Avslutt"/>
+  <s key="To get started, pick your home location" value="For å starte, velg ditt hjemsted"/>
+  <s key="Forecast Panel" value="Værvarsels panel"/>
+  <s key="Full Screen" value="Fullskjerm"/>
+  <s key="Help" value="Hjelp"/>
+  <s key="Highlight weather station parameters" value="Marker værstasjon parametere"/>
+  <s key="Home" value="Hjem"/>
+  <s key="h" value="t"/>
+  <s key="Inspector" value="Utforsker"/>
+  <s key="Landscape" value="Landskap"/>
+  <s key="Foreground" value="Forgrunn"/>
+  <s key="Landscape Options" value="Bakgrunns instillinger"/>
+  <s key="Landscape pictures" value="Landskaps bilder"/>
+  <s key="Landscapes" value="Landskaper"/>
+  <s key="Language:" value="Språk:"/>
+  <s key="English" value="Engelsk"/>
+  <s key="System Default" value="System standard"/>
+  <s key="Latitude" value="Breddegrad"/>
+  <s key="{0} locations" value="{0} steder"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Du er begrenset til  {0} steder nå. I fullversjonen kan du legge til så mange steder du vil."/>
+  <s key="Weather auto-update is off" value="Auto oppdater vær er slått av."/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Trykk F5 for å oppdatere været.  Været blir automatisk oppdatert i fullversjonen."/>
+  <s key="{0} weather forecast days only" value="{0} værmelding dager bare"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Du har tilgang til {0} dagers varsel nå.  Fullversjonen gir deg {1} dagers varsel."/>
+  <s key="Licence key" value="Lisens nøkkel"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Været blir automatisk oppdatert i fullversjonen"/>
+  <s key="LIVE" value="LIVE"/>
+  <s key="Load weather from personal weather station" value="Last vær fra egen værstasjon"/>
+  <s key="Loading" value="Laster inn"/>
+  <s key="Loading landscape..." value="Laster bakgrunn..."/>
+  <s key="Location" value="Sted"/>
+  <s key="Location ID" value="ID"/>
+  <s key="Location Properties" value="Steds innstillinger"/>
+  <s key="id_internet_link" value="Link"/>
+  <s key="Locations" value="Steder"/>
+  <s key="All locations" value="Alle steder"/>
+  <s key="All regions" value="Alle regioner"/>
+  <s key="All states" value="Alle stater"/>
+  <s key="Change landscape" value="Endre bakgrunn"/>
+  <s key="Select a location" value="Velg et sted"/>
+  <s key="The location is already added" value="Stedet er allerede lagt til"/>
+  <s key="Location is not selected yet" value="Sted er ikke satt enda"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Store byer (mer enn 100,000 innbyggere)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Nettverksfeil, steds informasjon er ikke tilgjengelig. På grunn av dette, kan ikke sted velges nå."/>
+  <s key="No locations in scope" value="Ingen steder i omfang"/>
+  <s key="Scope" value="Omfang"/>
+  <s key="Region" value="Region"/>
+  <s key="Cannot find a location?" value="Kan ikke finne et sted?"/>
+  <s key="Set as Home" value="Sett som favorittsted"/>
+  <s key="Current Location" value="Gjeldende posisjon"/>
+  <s key="Unknown" value="Ukjent"/>
+  <s key="Longitude" value="Lengdegrad"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Ser mot nord (Vind fra vest blåser fra venstre)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Ser mot sør (Vind fra vest blåser fra høyre)"/>
+  <s key="April" value="April"/>
+  <s key="August" value="August"/>
+  <s key="December" value="Desember"/>
+  <s key="February" value="Februar"/>
+  <s key="January" value="Januar"/>
+  <s key="July" value="Juli"/>
+  <s key="June" value="Juni"/>
+  <s key="March" value="Mars"/>
+  <s key="May" value="Mai"/>
+  <s key="November" value="November"/>
+  <s key="October" value="Oktober"/>
+  <s key="September" value="September"/>
+  <s key="About" value="Om.."/>
+  <s key="Facebook Edition" value="Facebook versjon"/>
+  <s key="License Agreement" value="Lisens avtale"/>
+  <s key="Program" value="Program"/>
+  <s key="Visit our Forum" value="Besøk vårt forum"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow for din hjemmeside eller blogg"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} minutter tilbake"/>
+  <s key="{0} minutes forward" value="{0} minutter frem"/>
+  <s key="Name" value="Navn"/>
+  <s key="Network error" value="Nettverksfeil"/>
+  <s key="Network not available" value="Nettverket er ikke tilgjengelig"/>
+  <s key="It is available on {0}" value="Den er tilgjengelig på {0}"/>
+  <s key="New version released" value="Ny versjon lansert"/>
+  <s key="Next Day" value="Neste dag"/>
+  <s key="No" value="Nei"/>
+  <s key="No weather" value="Ingen vær"/>
+  <s key="N/A" value="Ikke tilgjengelig"/>
+  <s key="Notify me when a new version is available" value="Varsle meg når ny versjon er lansert"/>
+  <s key="Online" value="Online"/>
+  <s key="Open {0}" value="Åpne {1}"/>
+  <s key="Options" value="Alternativer"/>
+  <s key="Advanced" value="Avansert"/>
+  <s key="Application choice" value="Program valg"/>
+  <s key="Date" value="Dato"/>
+  <s key="Display" value="Skjerm"/>
+  <s key="Animate clouds" value="Animer skyer"/>
+  <s key="Default" value="Standard"/>
+  <s key="Full screen mode" value="Fullskjem modus"/>
+  <s key="Quality" value="Kvalitet"/>
+  <s key="Custom" value="Egen definert"/>
+  <s key="Excellent" value="Best"/>
+  <s key="Moderate" value="Moderat"/>
+  <s key="Number of days to display:" value="Antall dager å vise:"/>
+  <s key="Tile contents:" value="Tittel inneholder:"/>
+  <s key="General" value="Generellt"/>
+  <s key="Contents" value="Innhold"/>
+  <s key="Show N/A parameters" value="Vis  N/A parametere"/>
+  <s key="Live indicator" value="Nåtid"/>
+  <s key="Locations" value="Steder"/>
+  <s key="Operation successful!" value="Forespørsel fullført korrekt!"/>
+  <s key="Refresh locations DB" value="Oppdater steds database"/>
+  <s key="Reset to defaults" value="Tilbakestill til standardverdier"/>
+  <s key="Add" value="Legg til"/>
+  <s key="User interface" value="Brukergrensesnitt"/>
+  <s key="Screen saver" value="Skjerm sparer"/>
+  <s key="Time Bar" value="Tidslinje"/>
+  <s key="Unit system:" value="Enhets oppsett:"/>
+  <s key="Units" value="Enheter"/>
+  <s key="Auto-detected" value="Automatisk oppdag"/>
+  <s key="Custom" value="Egen definert"/>
+  <s key="Distance:" value="Avstand:"/>
+  <s key="Metric" value="Metrisk"/>
+  <s key="Russia" value="Russland"/>
+  <s key="Finland" value="Finland"/>
+  <s key="Pressure:" value="Trykk:"/>
+  <s key="Temperature:" value="Temperatur:"/>
+  <s key="US" value="US"/>
+  <s key="Wind speed:" value="Vind hastighet:"/>
+  <s key="Landscape Options" value="Bakgrunns instillinger"/>
+  <s key="Show Daylight Diagram" value="Vis Dagslys Diagram"/>
+  <s key="Show Forecast Panel" value="Vis varsels panelet"/>
+  <s key="Show Full Screen button" value="Vis fullskjerm knapp"/>
+  <s key="Show Inspector" value="Vis utforsker"/>
+  <s key="Show Time Bar" value="Vis tidslinje"/>
+  <s key="Show User interface" value="Vis brukergrensesnitt"/>
+  <s key="Show forecast when current weather is expired" value="Vis varsel når gjeldene vær er utdatert"/>
+  <s key="Organize" value="Organiser"/>
+  <s key="Organize locations" value="Organiser steder"/>
+  <s key="Organize pictures" value="Organiser bilder"/>
+  <s key="Pictures" value="Bilder"/>
+  <s key="press" value="Trykk"/>
+  <s key="Falling" value="Fallende"/>
+  <s key="Falling Rapidly" value="Hurtig fallende"/>
+  <s key="Rising" value="Stigende"/>
+  <s key="Rising Rapidly" value="Hurtig stigende"/>
+  <s key="Steady" value="Stabilt"/>
+  <s key="Previous Day" value="Forrige dag"/>
+  <s key="Properties" value="Instillinger"/>
+  <s key="Refresh Locations data base" value="Oppdater steds database"/>
+  <s key="Register" value="Registrer"/>
+  <s key="Remove" value="Fjern"/>
+  <s key="Rename" value="Gi nytt navn"/>
+  <s key="Rename location" value="Endre stedsnavn"/>
+  <s key="Rename picture" value="Endre bildenavn"/>
+  <s key="Retry" value="Prøv igjen"/>
+  <s key="Run with Windows (minimized to tray)" value="Kjør med Windows (minimert til system)"/>
+  <s key="Season map" value="Sesong kart"/>
+  <s key="Select" value="Velg"/>
+  <s key="Select country" value="Velg land"/>
+  <s key="Select a landscape" value="Velg bakgrunn"/>
+  <s key="Select location" value="Velg sted"/>
+  <s key="Select region" value="Velg region"/>
+  <s key="Select state" value="Velg stat"/>
+  <s key="Set as default" value="Sett som standard"/>
+  <s key="Set YoWindow as ScreenSaver" value="Sett YoWindow som Skjermsparer"/>
+  <s key="Setup" value="Oppsett"/>
+  <s key="Show" value="Vis"/>
+  <s key="Show again" value="Vis igjen"/>
+  <s key="Speed" value="Hastighet"/>
+  <s key="Time" value="Tid"/>
+  <s key="{0} ago" value="{0} siden"/>
+  <s key="Time zone" value="Tids sone"/>
+  <s key="Today" value="I dag"/>
+  <s key="Tomorrow" value="I morgen"/>
+  <s key="Tom." value="i morgen"/>
+  <s key="Tonight" value="I kveld"/>
+  <s key="Add New Location" value="Legg til nytt sted"/>
+  <s key="Open Calendar..." value="Åpne kalender..."/>
+  <s key="Show Less Days" value="Vis færre dager"/>
+  <s key="Show More Days" value="Vis flere dager"/>
+  <s key="Update Weather" value="Oppdater været"/>
+  <s key="Unknown" value="Ukjent"/>
+  <s key="Up" value="Opp"/>
+  <s key="Update interval" value="Oppdaterings intervall"/>
+  <s key="Update weather" value="Oppdater været"/>
+  <s key="Updating weather" value="Oppdaterer været"/>
+  <s key="View" value="Vis"/>
+  <s key="Please wait..." value="Vennligst vent..."/>
+  <s key="Weather" value="Været"/>
+  <s key="Daily rain total" value="Total daglig nedbør"/>
+  <s key="Weather expired" value="Været er utgått"/>
+  <s key="Feels like" value="Føles som"/>
+  <s key="Day maximum temperature" value="Dagens maksimum temperatur"/>
+  <s key="Day minimum temperature" value="Dagens minimum temperatur"/>
+  <s key="Weather forecast" value="Værmelding"/>
+  <s key="Forecast issued" value="Værmelding utstedt"/>
+  <s key="Hail" value="Haggel"/>
+  <s key="Humidity" value="Fuktighet"/>
+  <s key="Observed" value="Observert"/>
+  <s key="Pressure" value="Trykk"/>
+  <s key="PWS only" value="PWS bare"/>
+  <s key="Rain" value="Regn"/>
+  <s key="Rain/Snow rate" value="Regn/Snø tempo"/>
+  <s key="Description" value="Beskrivelse"/>
+  <s key="Sky image" value="Sky bilde"/>
+  <s key="Snow" value="Snø"/>
+  <s key="Snow level" value="Mengde snø"/>
+  <s key="Weather station properties" value="Egenskaper for værstasjon"/>
+  <s key="Temperature" value="Temperatur"/>
+  <s key="Temperature range" value="Temperaturområde"/>
+  <s key="Update error" value="Oppdaterings feil"/>
+  <s key="Update time" value="Oppdaterings tid"/>
+  <s key="UV index" value="Ultra violet index"/>
+  <s key="Visibility" value="Sikt"/>
+  <s key="Unlimited" value="Ubegrenset"/>
+  <s key="Wind" value="Vind"/>
+  <s key="Calm" value="Stille"/>
+  <s key="Variable" value="Variert"/>
+  <s key="Welcome to YoWindow!" value="Velkommen til YoWindow!"/>
+  <s key="Wind direction:" value="Vind retning:"/>
+  <s key="East" value="Øst"/>
+  <s key="North" value="Nord"/>
+  <s key="South" value="Sør"/>
+  <s key="West" value="Vest"/>
+  <s key="Yes" value="Ja"/>
+  <s key="Close screensaver on mouse move" value="Steng skjermsparer ved beveging av musen"/>
+  <s key="Color" value="Farge"/>
+  <s key="Background" value="Bakgrunn"/>
+  <s key="Choose color" value="Velg farge"/>
+  <s key="System tray" value="System ikon"/>
+  <s key="Transparent" value="Gjennomsiktig"/>
+  <s key="Precipitation chance" value="Fare for nedbør"/>
+  <s key="Rain chance" value="Fare for regn"/>
+  <s key="Snow chance" value="Fare for snø"/>
+  <s key="{0} only" value="{0} kun"/>
+  <s key="US" value="US"/>
+  <s key="Dew point" value="Duggpunkt"/>
+  <s key="I want to have fun" value="Jeg vil ha det morro"/>
+  <s key="Enable surprises" value="Slå på overraskelser"/>
+  <s key="NWS forecasts for the USA" value="NWS værmelding for USA"/>
+  <s key="h" value="t"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Åpne"/>
+  <s key="Browse" value="Bla igjennom"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Skriv inn \&quot;adressen\&quot; til et bilde eller landskap på internett eller datamaskinen din"/>
+  <s key="Landscape load error" value="Feil ved lasting av landskap"/>
+  <s key="Picture load error" value="Feil ved lasting av bilde"/>
+  <s key="The landscape is already added" value="Landskapet er allerede lagt til"/>
+  <s key="Landscape collection" value="Landskaps bibliotek"/>
+  <s key="Turn your photo into Landscape" value="Gjør ditt bilde om til landskap"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Lær{1} hvordan du gjør bildet ditt om til et landskap"/>
+  <s key="Village" value="Landsby"/>
+  <s key="Seaside" value="Sjøutsikt"/>
+  <s key="Airport" value="Flyplass"/>
+  <s key="Oriental" value="Orientalsk"/>
+  <s key="Sky" value="Himmel"/>
+  <s key="Landscape made from picture" value="Landskap laget av bilde"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Dette vil ta med igjennom prosessen med å gjøre et bilde om til et YoWindow Landskap."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Vær vennlig å lese brukerveiledningen {0}How to turn a picture into Landscape?{1} (eng) på forhånd"/>
+  <s key="Click Next to continue..." value="Trykk neste for å fortsette..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Velg et bilde du vil gjøre om til landskap."/>
+  <s key="How to pick the best landscape picture?" value="Hvordan du velger den beste landskapsbilde bilde?"/>
+  <s key="Source picture" value="Opprinnelig bilde"/>
+  <s key="The landscape will be created in the following folder" value="Landskapet vil bli opprettet i følgende mappe"/>
+  <s key="Landscape folder name" value="Landskap mappe navn"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Trykk &quot;Lag&quot; knappen for å lage {0} Landskapet"/>
+  <s key="{0} landscape has been created successfully!" value="{0} er korrekt opprettet som et Landskap!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Start det redigeringsprogrammet du foretrekker, for å redigere {0}. Du må nå fjerne bakgrunnen fra bildet. Bildet ditt vil du finne {1}HER{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Det er enkelt å fjerne bakgrunnen. Les vår lille {0}tutorial{1} (eng)."/>
+  <s key="Auto" value="Auto"/>
+  <s key="Horizon Level Setup" value="Still inn horisontlinjen"/>
+  <s key="Keys: Up/Down" value="Knapper: Opp/Ned"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Dette vil slette landskapsbildet {0}. Denne operasjonen kan ikke angres. Er du sikker?"/>
+  <s key="Edit Landscape" value="Rediger landskap"/>
+  <s key="Edit Horizon Level" value="Rediger horisontalt nivå"/>
+  <s key="File not found." value="Fil ikke funnet!"/>
+  <s key="The name is empty" value="Du må skrive inn et navn"/>
+  <s key="The folder already exists" value="Mappen eksisterer allerede"/>
+  <s key="Illegal folder name" value="Ulovlig mappe navn"/>
+  <s key="The file format is not supported." value="Filformatet er ikke støttet."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Bildet er for stort for YoWindow. Størrelsen på bildet må ikke overskride 2880 pixler i høyde eller bredde."/>
+  <s key="Landscape Image" value="Landskaps bilde"/>
+  <s key="Landscape Folder" value="Landskaps mappe"/>
+  <s key="About Landscape" value="Om landskap"/>
+  <s key="Picture {0} imported successfully" value="Importering av {0} var vellykket"/>
+  <s key="Remind Me Later" value="Minn meg på senere"/>
+  <s key="Skip This Version" value="Hopp over denne versjonen"/>
+  <s key="Loading" value="Laster inn"/>
+  <s key="Next" value="Neste"/>
+  <s key="Back" value="Tilbake"/>
+  <s key="Finish" value="Ferdig"/>
+  <s key="Create" value="Lag"/>
+  <s key="Import" value="Importer"/>
+  <s key="Delete" value="Slett"/>
+  <s key="Path" value="Sti"/>
+  <s key="Options" value="Alternativer"/>
+  <s key="Select the options you like" value="Velg alternativene du liker"/>
+  <s key="Set YoWindow as default screen saver" value="Bruk YoWindow som standard skjermsparer"/>
+  <s key="Start with Windows (minimized to system tray)" value="Start med Windows (minimer til system icon)"/>
+  <s key="Add a shortcut to quick launch bar" value="Legg til icon på hurtigstartlinjen"/>
+  <s key="You are about to upgrade YoWindow." value="Du skal til å oppdatere YoWindow."/>
+  <s key="Click OK to install the new version." value="Trykk OK for å installere den nye versjonen."/>
+  <s key="You must close YoWindow before you can continue." value="Du må lukke YoWindow før du kan fortsette."/>
+  <s key="After you have closed YoWindow, select Retry." value="Etter at du har lukket YoWindow, velg Retry."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Hvis du ønsker å avbryte avinstalleringen, velg Cancel."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Hvis du ønsker å installere allikevel, velg Ignore."/>
+  <s key="If you wish to abort the installation, select Abort." value="Hvis du ønsker å avbryte installasjonen, velg Abort."/>
+  <s key="Final step" value="Siste steg"/>
+  <s key="Start YoWindow on system startup" value="Start YoWindow ved systemstart"/>
+  <s key="Check for new version..." value="Se etter ny versjon.."/>
+  <s key="YoWindow is up to date!" value="YoWindow er oppdatert!"/>
+  <s key="You have the latest version" value="Du har den nyeste versjonen"/>
+  <s key="Download new version!" value="Last ned nyeste versjon."/>
+  <s key="Preview" value="Forhåndsvis"/>
+  <s key="Show small YoWindow logo" value="Vis liten YoWindow logo"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Dette landskapet er kun tilgjengelig i fullversjonen."/>
+  <s key="id_short_hour" value="t"/>
+  <s key="id_short_minute" value="min"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="fot"/>
+  <s key="id_unit_short_miles" value="miles"/>
+  <s key="id_unit_short_miles_per_hour" value="miles/t"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/t"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="knop"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Displaye &quot;?&quot;"/>
+  <s key="Hide parameter" value="Skjul parameter"/>
+  <s key="When weather parameter is not available" value="Når været parameter er ikke tilgjengelig"/>
+  <s key="Information" value="Informasjon"/>
+  <s key="id_information_all" value="Alle"/>
+  <s key="Temperature and Time" value="Temperatur og Tid"/>
+  <s key="This is Unlimited Edition." value="Dette er Ubegrenset Utgaven."/>
+  <s key="It is already registered." value="Det er allerede registrert."/>
+  <s key="Free edition" value="Gratis utgaven"/>
+  <s key="Unlimited edition" value="Ubegrenset utgaven"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="For å nyte YoWindow må du installere Flash Player (for Internet Explorer) {0} eller nyere."/>
+  <s key="Get Adobe Flash Player" value="Få Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Lås opp landskap"/>
+  <s key="YoWindow for Chrome" value="YoWindow for Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow for iPhone og iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Følg YoWindow på Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Følg YoWindow på Twitter"/>
+  <s key="Landscape trial, days left:" value="Landskap prøveperiode, dager gjenstående:"/>
+  <s key="Landscape trial period is over" value="Landskap prøveperiode er over"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; landskap er en del av YoWindow Unlimited."/>
+  <s key="Details" value="Detaljer"/>
+  <s key="View direction" value="Se retning"/>
+  <s key="Fixed sky" value="Fikset himmel"/>
+  <s key="Edit" value="Avslutt"/>
+  <s key="Reload" value="Last inn på nytt"/>
+  <s key="Minimized" value="Minimert"/>
+  <s key="affects wind only" value="Påvirker bare vind"/>
+  <s key="Broadcast" value="Kringkasting"/>
+  <s key="Share" value="Dele"/>
+  <s key="Publishing" value="Publisering"/>
+  <s key="Authorizing" value="Godkjennelse"/>
+  <s key="Published!" value="Publisert!"/>
+  <s key="Space" value="Mellomromstast"/>
+  <s key="Weather now in {0}" value="Været nå i {0}"/>
+  <s key="Weather forecast for {0} in {1}" value="Værmelding for {0} i {1}"/>
+  <s key="Today in {0} (forecast)" value="I dag i {0} (forecast)"/>
+  <s key="Tomorrow in {0} (forecast)" value="I morgen i {0} (forecast)"/>
+  <s key="Forecast" value="Varsel"/>
+  <s key="Sound" value="Lyd"/>
+  <s key="Enable sound" value="Aktiver lyd"/>
+  <s key="Volume" value="Volum"/>
+  <s key="Skip" value="Lukk"/>
+  <s key="Presented in Stereo" value="Presentert i Stereo"/>
+  <s key="Override current season" value="Overstyr gjeldende sesong"/>
+  <s key="Winter" value="Vinter"/>
+  <s key="Spring" value="Vår"/>
+  <s key="Summer" value="Sommer"/>
+  <s key="Autumn" value="Høst"/>
+  <s key="Naked" value="Naken"/>
+  <s key="Countries" value="Land"/>
+  <s key="Vote!" value="Stem!"/>
+  <s key="Vote for YoWindow, thank you" value="Stem på YoWindow, takk"/>
+  <s key="More YoWindow" value="Mer YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="Stryk over skjermen for å se været forandre seg over tid"/>
+  <s key="And one more time" value="Og en gang til"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Trykk på 'live' for å gå tilbake til nåværende tidspunkt"/>
+  <s key="Watch weather with pleasure" value="Se været med glede"/>
+  <s key="Disable Auto-Lock" value="Slå av automatisk lås"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Hold skjermen på hvis telefonen er koblet til eller batteriet er over 25%."/>
+  <s key="More" value="Mer"/>
+  <s key="Parallax effect" value="Parallakse effekt"/>
+  <s key="An illusion of 3D space when you tilt the device" value="En illusjon av 3D effekt når du tilter enheten"/>
+  <s key="Temperature in Status Bar" value="Temperatur i statusbaren"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Vis temperatur for &quot;hjemsted&quot;"/>
+  <s key="Not enough free space." value="For lite ledig minne."/>
+  <s key="YoWindow may run unstable." value="YoWindow kan kjøre ustabilt"/>
+  <s key="{0} MB minimum required." value="Kreves {0} MB ledig."/>
+  <s key="YoWindow Weather" value="YoWindow Vær"/>
+  <s key="YoWindow Zero" value="YoWindow Null"/>
+  <s key="Get Full Version" value="Få Full Versjon"/>
+  <s key="No ads, no limitations, all landscapes available" value="Ingen annonser, ingen begrensninger, alle landskap tilgjengelige"/>
+  <s key="No advertising" value="Ingen reklame"/>
+  <s key="Remove ads" value="Fjern annonser"/>
+  <s key="Weather forecast is limited" value="Værmelding er begrenset"/>
+  <s key="Demo" value="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; Landskap tilgang er begrenset."/>
+  <s key="Connecting to {0}" value="Kobler til {0}"/>
+  <s key="Camera" value="Kamera"/>
+  <s key="Photos" value="Bilder"/>
+  <s key="Wallpaper" value="Bakgrunn"/>
+  <s key="Enable animations" value="Vis animasjoner"/>
+  <s key="Show weather" value="Vis været"/>
+  <s key="No animation - almost no battery power consumed." value="Ingen animasjon - nesten ingen strøm forbrukes."/>
+  <s key="Widget Settings" value="Innstillinger for skjermelement (widget)"/>
+  <s key="Create Widget" value="Lag skjermelement (widget)"/>
+  <s key="Tap to search for a location" value="Berør for å søke etter plassering"/>
+  <s key="Show background" value="Vis bakgrunn"/>
+  <s key="Move On Top" value="Flytt øverst"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Avinstaller &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Du har både full og fri utgaver av YoWindow installert."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Vennligst, avinstaller YoWindow Free, for å unngå forvirring."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Legg til YoWindow widgets - se værmeldingen med komfort"/>
+  <s key="Tap to continue" value="Trykk for å fortsette"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow er installert på eksternt minne."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="ADVARSEL: YoWindow bakgrunn og moduler (widget) kan være utilgjengelige når applikasjonen er installert på eksternt minne (SD kort)."/>
+  <s key="Location Search" value="Stedssøk"/>
+  <s key="Redeem code" value="Løs inn kode"/>
+  <s key="Full Version privilege granted." value="Full versjon privilegium gitt."/>
+  <s key="Advertising removed, no limitations." value="Reklame fjernet, ingen begrensninger."/>
+  <s key="Unexpected code" value="Uventet kode"/>
+  <s key="Restore privileges" value="Gjenopprett privilegier"/>
+  <s key="Set As Wallpaper" value="Sett som bakgrunn"/>
+  <s key="Post" value="Send"/>
+  <s key="Enter the message" value="Tast inn meldingen"/>
+  <s key="Fill in the weather" value="Legg til været"/>
+  <s key="You just have posted to Facebook!" value="Du har nettopp lagt ut på Facebook!"/>
+</body>

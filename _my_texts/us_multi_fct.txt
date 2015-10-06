@@ -1,0 +1,29 @@
+#latitude |longitude  |
+#
+# You have to find the correct latitude and longitude for the places you want to use
+# You can go to google maps and click (on the city name) on the map to find the information in the browser address-area
+# example	https://www.google.be/maps/place/Albrightsville,+PA+18210,+Verenigde+Staten/@41.0145313,-75.6010222,15z
+#
+# name               |
+# You can type here the name you want to use for this city/area
+#
+# METAR|
+# You can find the  nearest METAR at http://www.travelmath.com/nearest-airport/
+# by searching for the nearest airport for that city
+#
+# yahoo |
+#
+# You also have to find the yahoo id for those cities at https://weather.yahoo.com/
+# example	https://weather.yahoo.com/united-states/pennsylvania/albrightsville-2352790/
+#
+# yr.no	
+#
+#To find the correct Country/region/City code visit http://www.yr.no/ and locate the nearest city the place you want to use. 
+#In the browser address area you find the correct code. Example http://www.yr.no/place/United_States/Arizona/Carefree/
+#
+#latitude |longitude  |name               |METAR|yahoo |yr.no					 |
+|41.014531|-75.6010222|Albrightsville, PA |KAVP|2352790|United_States/Pennsylvania/Albrightsville|
+|33.432928|-111.578449|Apache Junction, AZ|KIWA|2355198|United_States/Arizona/Apache_Junction    |
+|39.792800|-81.9343033|Blue Rock, OH      |KPKB|2365905|United_States/Ohio/Blue_Rock             |
+|41.302135|-72.7961569|Branford, CT       |KHVN|2368213|United_States/Connecticut/Branford       |
+|33.826619|-111.901630|Carefree, AZ       |KPHX|2374931|United_States/Arizona/Carefree           |

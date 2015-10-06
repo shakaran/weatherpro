@@ -1,0 +1,38 @@
+# generated at 01-06-2015 23:45 Europe/Brussels
+|versionYday|3.02 2015-04-20|!
+|pagenameYday|yesterday.php|!
+|fromtempYday|&deg;C|!
+|datetimeYday|20150601233910|!
+|tempMinYday|9.7|!
+|tempMinYdayTime|20150601062000|!
+|tempMaxYday|18.6|!
+|tempMaxYdayTime|20150601162100|!
+|dewpMinYday|5.3|!
+|dewpMinYdayTime|20150601062000|!
+|dewpMaxYday|11.7|!
+|dewpMaxYdayTime|20150601000000|!
+|chilMinYday|8.8|!
+|chilMinYdayTime|20150601065600|!
+|heatMaxYday|18.6|!
+
+|frombaroYday| hPa|!
+|baroMinYday|1011|!
+|baroMinYdayTime|20150601000800|!
+|baroMaxYday|1016.9|!
+|baroMaxYdayTime|20150601112300|!
+|humiMinYday|46|!
+|humiMinYdayTime|20150601144000|!
+|humiMaxYday|94|!
+|humiMaxYdayTime|20150601000000|!
+|fromrainYday| mm|!
+|rainRateYday|0|!
+|rainYday|0|!
+|etYday|3.6|!
+|fromwindYday| km/h|!
+|gustMaxYday|13|!
+|gustMaxYdayTime|20150601145000|!
+|uvMaxYday|5.7|!
+|uvMaxYdayTime|20150601134300|!
+|solarMaxYday|1148|!
+|solarMaxYdayTime|20150601134900|!
+|heatMaxYdayTime|20150601162100|!

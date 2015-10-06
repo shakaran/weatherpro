@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Cancelar"/>
+  <s key="Change" value="Cambiar"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Pronóstico del tiempo de {0}, emitido por el Instituto Meteorológico de Noruega y la NRK"/>
+  <s key="Forecast from {0}" value="Pronóstico de {0}"/>
+  <s key="Friday" value="Viernes"/>
+  <s key="Monday" value="Lunes"/>
+  <s key="Saturday" value="Sábado"/>
+  <s key="Sunday" value="Domingo"/>
+  <s key="Thursday" value="Jueves"/>
+  <s key="Tuesday" value="Martes"/>
+  <s key="Wednesday" value="Miércoles"/>
+  <s key="Fr" value="vier."/>
+  <s key="Mo" value="lun."/>
+  <s key="Sa" value="sáb."/>
+  <s key="Su" value="dom."/>
+  <s key="Th" value="juev."/>
+  <s key="Tu" value="mar."/>
+  <s key="We" value="miér."/>
+  <s key="LIVE" value="EN VIVO"/>
+  <s key="Loading" value="Cargando..."/>
+  <s key="April" value="Abril"/>
+  <s key="August" value="Agosto"/>
+  <s key="December" value="Diciembre"/>
+  <s key="February" value="Febrero"/>
+  <s key="January" value="Enero"/>
+  <s key="July" value="Julio"/>
+  <s key="June" value="Junio"/>
+  <s key="March" value="Marzo"/>
+  <s key="May" value="Mayo"/>
+  <s key="November" value="Noviembre"/>
+  <s key="October" value="Octubre"/>
+  <s key="September" value="Septiembre"/>
+  <s key="Network error" value="Error de la red"/>
+  <s key="No weather" value="No hay previsiones meteorológicas"/>
+  <s key="Retry" value="Reintentar"/>
+  <s key="Tomorrow" value="Mañana"/>
+  <s key="Updating weather" value="Actualizando los datos..."/>
+  <s key="Please wait..." value="Espere por favor..."/>
+  <s key="Weather expired" value="Datos anticuados"/>
+  <s key="Loading" value="Cargando..."/>
+</body>

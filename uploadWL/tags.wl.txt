@@ -1,0 +1,147 @@
+|pagename|tagsWL|!      http://wx3660.dk/vejrprogrammer/weatherlink/weatherLink_html_tags.htm
+|version|3.00 2015-03-29 16:00:00  BETA|!
+
+|date|02-06-15|! 
+|time|18:22|!         
+
+|fromtemp|°C|! 
+
+|tempAct|19.4|!
+
+|tempMinToday|11.4|!
+|tempMinTodayTime| 6:10|!
+|tempMinMonth|9.7|!
+|tempMinYear|-3.8|!
+
+|tempMaxToday|19.5|!
+|tempMaxTodayTime|17:38|!
+|tempMaxMonth|19.5|!
+|tempMaxYear|27.4|!
+
+|dewpAct|14.2|!
+
+|dewpMinToday|7.2|!
+|dewpMinTodayTime| 0:00|!
+
+|dewpMaxToday|14.4|!
+|dewpMaxTodayTime|16:39|!
+
+|heatAct|19.7|!
+
+|heatMaxToday|20.0|!
+|heatMaxTodayTime|17:34|!
+
+|heatMaxMonth|20.0|!
+|heatMaxYear|26.7|!
+
+|chilAct|19.4|!
+
+|chilMinToday|11.1|!
+|chilMinTodayTime| 5:46|!
+|chilMinMonth|9.4|!
+|chilMinYear|-3.9|!
+
+
+|tempActInside|20.4|!
+|tempActExtra1|24.4|!
+|tempActExtra2|---|!
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|hPa|!                //  = 'inHg', 'hPa', 'kPa', 'mb'
+
+|baroAct|1011.3|!
+|baroTrend|Rising Slowly|!
+
+|baroMinToday|1008.3|!
+|baroMinTodayTime| 8:11|!
+|baroMinMonth|1008.3|!
+|baroMinYear|971.9|!
+
+|baroMaxToday|1011.8|!
+|baroMaxTodayTime| 0:00|!
+|baroMaxMonth|1016.2|!
+|baroMaxYear|1040.6|!
+------------------------------------------humidity-----------------------------------
+|humiAct|72|!
+
+|humiMinToday|67|!
+|humiMinTodayTime| 0:00|!
+|humiMinMonth|46|!
+|humiMinYear|28|!
+
+|humiMaxToday|87|!
+|humiMaxTodayTime| 6:10|!
+|humiMaxMonth|94|!
+|humiMaxYear|98|!
+
+
+|humiInAct|54|!
+|humiActExtra1|---|!
+|humiActExtra2|---|!
+------------------------------------------rain---------------------------------------
+|fromrain|mm|!         //  'mm', 'in'
+
+|rainRateAct|0.0|!
+
+|rainRateMaxToday|1.0|!
+
+|rainToday|0.8|!
+|rainMonth|0.8|!
+|rainYear|205.8|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|1.35|!
+|etMonth|4.90|!
+|etYear|250.77|!
+------------------------------------------wind---------------------------------------
+|fromwind|m/s|!     //  = 'kts','mph','kmh','km/h','m/s','Bft'
+
+|windAct|2.2|!
+|gustAct|9.4|!
+
+|windActDsc|W|!
+|windActDir|262|!
+
+|gustMaxToday|9.4|!
+|gustMaxTodayTime|18:10|!
+
+|gustMaxMonth|9.4|!
+|gustMaxYear|13.4|!
+|------------------------------------------UV    ---------------------------------------
+|uvAct|0.6|!
+
+|uvMaxToday|6.3|!
+|uvMaxTodayTime|13:14|!
+|uvMaxMonth|6.3|!
+|uvMaxYear|6.4|!
+|------------------------------------------Solar  --------------------------------------
+|solarAct|111|!
+|solarActPerc|--|! 
+
+|solarMaxToday|798|!
+|solarMaxTodayTime|13:15|!
+|solarMaxMonth|1148|!
+|solarMaxYear|1215|!
+|------------------------------------------cloudheight  --------------------------------
+|------------------------------------------forecasts -----------------------------------
+|fcstTxt| Increasing clouds with little temperature change. |!
+|------------------------------------------somemor  e-----------------------------------
+|wsVersion|--|!
+|wsHardware|--|!
+|wsUptime|--|!
+|-------------------------------------- soil
+|soilTempAct|12.8 # 12.8 # --- # ---|!
+
+|soilTempMaxToday|12.8#12.8#---#---|!
+|soilTempMaxTodayTime| 0:00# 0:00#---#---|!
+|soilTempMinToday|12.2#12.8#---#---|!
+|soilTempMinTodayTime|11:03# 0:00#---#---|!
+
+|soilMoistAct|37#29#---#---|!
+|soilMoistMaxToday|38#29#---#---|!
+|soilMoistMaxTodayTime| 2:47# 0:00#---#---|!
+|soilMoistMinToday|37#29#---#---|!
+|soilMoistMinTodayTime| 0:00# 0:00#---#---|!
+
+|leafTempAct|12.8#---|!
+|leafWetAct|0$#---|!

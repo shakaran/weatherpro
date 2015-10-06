@@ -1,0 +1,66 @@
+<?php
+if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
+   $filenameReal = __FILE__;			# display source of script if requested so
+   $download_size = filesize($filenameReal);
+   header('Pragma: public');
+   header('Cache-Control: private');
+   header('Cache-Control: no-cache, must-revalidate');
+   header("Content-type: text/plain");
+   header("Accept-Ranges: bytes");
+   header("Content-Length: $download_size");
+   header('Connection: close');
+   readfile($filenameReal);
+   exit;
+}
+$pageName	= 'global-lang-fr.html';
+$pageVersion	= '3.20 2015-07-23';
+#-------------------------------------------------------------------------------
+# 3.20 2015-07-23 release 2.8 version
+#-------------------------------------------------------------------------------
+if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
+$SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {$SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName;}
+echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_EOL;
+#-------------------------------------------------------------------------------
+#
+if ( $doLinkTarget == true) {$target = 'target="_blank"';} else {$target = '';}
+# The $firstPart is what gets printed when the page is first presented.
+$firstPart = <<<EOT
+<noscript><p><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+However, it seems JavaScript is either disabled or not supported by your browser. 
+To view Google Maps, enable JavaScript by changing your browser options, and then 
+try again.</p>
+</noscript>
+EOT;
+// do not remove the above EOT line
+
+# The $secondPart is what gets printed under the legend on the map.
+
+$secondPart = <<<EOT
+<p> Cette <a href="http://maps.google.com/">Google Map</a> montre l'emplacement des stations météo personnelles connecté à un réseau météo régionale.</p>
+<p>Les pointeurs avec numéro indiquent des groupes de stations météorologiques - cliquez pour agrandir la carte afin que les stations météorologiques individuelles soient affichées.
+Si vous cliquez sur sur un pointeur de station, une fenêtre apparaît avec les données météorologiques actuelles de la station, un lien vers le site web / paged'accueil et un lien vers le réseau régional auquel est relié  cette station.</p>
+EOT;
+// do not remove the above EOT line
+
+# The $thirdPart is what gets printed at the bottom of the page.
+
+$thirdPart = <<<EOT
+<p><small>
+Si vous possédez votre propre station météorologique et vous voulez publier vos informations sur cette carte, s'il vous plaît visitez la page de votre réseau local et connectez-vous.
+</small></p>
+
+EOT;
+// do not remove the above EOT line
+
+$creditPart =  '<small>
+L\'information sur cette carte est fournie par 
+<a href="http://www.northamericanweather.net/">les réseaux météorologique régionaux affiliés </a>
+ et le script par <a href="http://saratoga-weather.org/">Saratoga-Weather.org</a>.
+Adapté pour le 
+<a href="http://leuven-template.eu/" '.$target.'>Leuven-Template</a>.</small>.
+';
+// do not remove the above EOT line
+# ----------------------  version history
+# 3.20 2015-07-23 release 2.8 version 

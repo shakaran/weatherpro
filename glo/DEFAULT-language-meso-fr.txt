@@ -1,0 +1,62 @@
+<?php
+# language settings - 1 file for every supported language - default always an EN language file is needed !
+# Version 3.20  - 2015-08-14
+#
+define('MESO_THISSTATION',	$ThisStation				);  
+# define('MESO_LONG',		'Regional Weather Network');
+
+define('MESO_BOXPRTB', ' est fière d\'être membre du '.MESO_LONG.'.<br/><br/>
+Nous vous invitons à visiter les stations du réseau; vous devez cliquer sur la station désirée dans la
+carte ci-dessus ou cliquer sur les liens ci-dessous. Les stations affichent les prévisons météorologiques
+soient, la température, le point de rosée, l\'humidité, la direction et la vitesse des vents et des rafales,
+les pluies de la journée, la pression barométrique et la tendance, les conditions actuelles
+et le nom de la municipalité dans laquelle la station météo est située.');
+
+define('MESO_COLSORT', 		'Note: Cliquez sur le titre de la colonne afin de modifier l\'ordre des valeurs de la colonne.');
+
+# Tables and title= tags
+define('MESO_PAGEHEAD', 	'Conditions météo actuelles obtenues des stations membres du '	);
+define('MESO_CONDHEAD', 	'Conditions météo actuelles obtenues des stations');
+define('MESO_MEMBHEAD', 	'Stations membres du ');
+
+# table headers
+define('MESO_FEAT', 		'Station<br/>Caractéristiques/Altitude');
+define('MESO_STATE',		'Departement');
+define('MESO_STATION',		'Station');
+define('MESO_CURHEAD', 		'Cond.');
+define('MESO_CONDL',		'Conditions actuelles');
+define('MESO_TEMP', 		'Temp.');
+define('MESO_TEMPL', 		'Température');
+define('MESO_DEWPT', 		'Point de rosée');
+define('MESO_DEWPTABBREV',	'PR');
+define('MESO_HUM', 		'Humid.');
+define('MESO_HUML', 		'Humidité');
+define('MESO_AVGWIND', 		'Vents');
+define('MESO_GUSTWIND', 	'Rafales');
+define('MESO_GUSTABBREV', 	'R');
+define('MESO_WINDL',		 'Direction et vitesse du vent/rafale');
+define('MESO_WIND', 		'Vent');
+define('MESO_WINDFROM', 	'Vents du');
+define('MESO_PRECIPS', 		'Pluie');
+define('MESO_PRECIPSL', 	'Pluie de la journée');
+define('MESO_BAROB', 		'Pression');
+define('MESO_BAROT', 		'Tendan.');
+define('MESO_BAROL', 		'Pression et tendance');
+define('MESO_SNOB', 		'Neige');
+define('MESO_TXTGUST', 		'Rafale');
+define('MESO_DATAUPDT',		 'Dernière mise à jour');
+define('MESO_NOCOND', 		'Aucun bulletin des conditions actuelles');
+define('MESO_TOWN',		'Nom de la municipalité');
+define('MESO_OFFLINE',		'Offline'); 
+
+# for javascript animation control button lables
+define('MESO_RUN', 		'Animer');
+define('MESO_PAUSE', 		'Pause');
+define('MESO_STEP', 		'Étapes');
+
+# date-time appears
+define('MESO_CONDSFROM', 	'Les données des conditions météo furent recueillies au cours de périodes de:');
+define('MESO_CONDSTO', 		' à ');
+
+
+// ---------------------end of language-meso-fr.txt-------------------------------

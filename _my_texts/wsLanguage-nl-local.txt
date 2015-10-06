@@ -1,0 +1,51 @@
+# langfile  from: 2015-05-24 15:00 CET
+charset|UTF-8|
+# local additions improvements - do not change the lang/wsLanguage-??.txt file use this local one
+langlookup|Home|Welkom|  # just an example
+langlookup|weerstation wilsele|weerstation wilsele|
+langlookup|your organization|your organization|
+langlookup|conf-yourArea|conf-yourArea|
+langlookup|conf-curCondFrom|conf-curCondFrom|
+langlookup|conf-yaPlaceID|conf-yaPlaceID|
+langlookup|link-yaPlaceID|link-yaPlaceID|
+langlookup|conf-METAR|conf-METAR|
+langlookup|link-METAR|link-METAR|
+langlookup|Austria Weather Network|Austria Weather Network|
+langlookup|conf-pageWidth|conf-pageWidth|
+langlookup|conf-menuWidth|conf-menuWidth|
+langlookup|conf-menuPlace|conf-menuPlace|
+langlookup|conf-maintenanceShow|conf-maintenanceShow|
+langlookup|conf-maintenanceTxt|conf-maintenanceTxt|
+langlookup|conf-colorNumber|conf-colorNumber|
+langlookup|link-colorNumber|link-colorNumber|
+langlookup|conf-sideDisplay|conf-sideDisplay|
+langlookup|conf-bottomDysplay|conf-bottomDysplay|
+langlookup|conf-bannerTop|conf-bannerTop|
+langlookup|conf-bannerTopTxt|conf-bannerTopTxt|
+langlookup|conf-bannerBottom|conf-bannerBottom|
+langlookup|conf-bannerBottomTxt|conf-bannerBottomTxt|
+langlookup|conf-stripAll|conf-stripAll|
+langlookup|conf-stripMenu|conf-stripMenu|
+langlookup|Weerstation Herent|Weerstation Herent|
+langlookup|HWA forecast|HWA forecast|
+langlookup|conf-wowMember|conf-wowMember|
+langlookup|conf-wowID|conf-wowID|
+langlookup|my station somewhere|my station somewhere|
+langlookup|Australia Weather Network|Australia Weather Network|
+langlookup|conf-wuId|conf-wuId|
+langlookup|Weerstation - MeteoSauwerd|Weerstation - MeteoSauwerd|
+langlookup|pages visited|pages visited|
+langlookup|conf-bottomDisplay|conf-bottomDisplay|
+langlookup|Weerstation Assen Zuid-West|Weerstation Assen Zuid-West|
+langlookup|Het Weer Actueel - alleen voor leden|Het Weer Actueel - alleen voor leden|
+langlookup|Template for Meteobridge Test|Template for Meteobridge Test|
+langlookup|Actuele weersite van Hardinxveld-Giessendam|Actuele weersite van Hardinxveld-Giessendam|
+langlookup|Weerstation Lembeke|Weerstation Lembeke|
+langlookup|Weerstation-Streefkerk|Weerstation-Streefkerk|
+langlookup|Apeldoorn Weer|Apeldoorn Weer|
+langlookup|Initial settings|Initial settings|
+langlookup|The settings-file can be checked on-line here|The settings-file can be checked on-line here|
+langlookup|Settings-file can be downloaded from here|Settings-file can be downloaded from here|
+langlookup|Weerstation Noordbergum|Weerstation Noordbergum|
+langlookup|Continue where we were|Continue where we were|
+langlookup|my station in Europe|my station in Europe|

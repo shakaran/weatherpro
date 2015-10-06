@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Batal"/>
+  <s key="Change" value="Ganti"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Ramalan cuaca dari {0}, dikirim oleh the Norwegian Meteorological Institute dan NRK"/>
+  <s key="Forecast from {0}" value="Ramalan cuaca dari {0}"/>
+  <s key="Friday" value="Jum'at"/>
+  <s key="Monday" value="Senin"/>
+  <s key="Saturday" value="Sabtu"/>
+  <s key="Sunday" value="Minggu"/>
+  <s key="Thursday" value="Kamis"/>
+  <s key="Tuesday" value="Selasa"/>
+  <s key="Wednesday" value="Rabu"/>
+  <s key="Fr" value="Ju"/>
+  <s key="Mo" value="Sen"/>
+  <s key="Sa" value="Sa"/>
+  <s key="Su" value="Mi"/>
+  <s key="Th" value="Ka"/>
+  <s key="Tu" value="Sel"/>
+  <s key="We" value="Ra"/>
+  <s key="LIVE" value="Saat ini"/>
+  <s key="Loading" value="Memuat"/>
+  <s key="April" value="April"/>
+  <s key="August" value="Agustus"/>
+  <s key="December" value="Desember"/>
+  <s key="February" value="Februari"/>
+  <s key="January" value="Januari"/>
+  <s key="July" value="Juli"/>
+  <s key="June" value="Juni"/>
+  <s key="March" value="Maret"/>
+  <s key="May" value="Mei"/>
+  <s key="November" value="Nopember"/>
+  <s key="October" value="Oktober"/>
+  <s key="September" value="September"/>
+  <s key="Network error" value="Jaringan bermasalah"/>
+  <s key="No weather" value="Tidak ada cuaca"/>
+  <s key="Retry" value="Coba lagi"/>
+  <s key="Tomorrow" value="Besok"/>
+  <s key="Updating weather" value="Memperbaharui cuaca"/>
+  <s key="Please wait..." value="Harap tunggu..."/>
+  <s key="Weather expired" value="Cuaca tidak berlaku lagi"/>
+  <s key="Loading" value="Memuat"/>
+</body>

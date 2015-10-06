@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="清除完整版授权信息"/>
+  <s key="Absent" value="空缺"/>
+  <s key="Add" value="添加"/>
+  <s key="Animate" value="动画"/>
+  <s key="Apply" value="应用"/>
+  <s key="Astronomy" value="天文学"/>
+  <s key="Day Length" value="日长"/>
+  <s key="Moon Phase" value="月相"/>
+  <s key="Sunrise" value="日出"/>
+  <s key="Sunset" value="日落"/>
+  <s key="Auto update weather" value="自动更新天气"/>
+  <s key="Bad ICAO code" value="错误的ICAO代码"/>
+  <s key="Buy YoWindow Unlimited!" value="购买YoWindow完全版！"/>
+  <s key="Calendar" value="日历"/>
+  <s key="Cancel" value="取消"/>
+  <s key="Change" value="更改"/>
+  <s key="Code" value="代码"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="天气预报信息来自 {0}，由挪威气象研究所和 NRK 提供"/>
+  <s key="Forecast from {0}" value="预报来自{0}"/>
+  <s key="Current weather" value="当前天气"/>
+  <s key="Friday" value="星期五"/>
+  <s key="Monday" value="星期一"/>
+  <s key="Saturday" value="星期六"/>
+  <s key="Sunday" value="星期日"/>
+  <s key="Thursday" value="星期四"/>
+  <s key="Tuesday" value="星期二"/>
+  <s key="Wednesday" value="星期三"/>
+  <s key="Fr" value="五"/>
+  <s key="Mo" value="一"/>
+  <s key="Sa" value="六"/>
+  <s key="Su" value="日"/>
+  <s key="Th" value="四"/>
+  <s key="Tu" value="二"/>
+  <s key="We" value="三"/>
+  <s key="day ago" value="天前"/>
+  <s key="days ago" value="天前"/>
+  <s key="Default" value="默认"/>
+  <s key="Blowing" value="微风"/>
+  <s key="Clear" value="晴"/>
+  <s key="Cloudy" value="多云"/>
+  <s key="Overcast" value="阴天"/>
+  <s key="Drizzle" value="毛毛雨"/>
+  <s key="Fair" value="晴朗"/>
+  <s key="Fog" value="有雾"/>
+  <s key="Freezing" value="结冰"/>
+  <s key="Hail" value="冰雹"/>
+  <s key="Haze" value="起雾"/>
+  <s key="Heavy" value="猛烈"/>
+  <s key="Ice Crystals" value="冰晶"/>
+  <s key="Ice Pellets" value="冰丸"/>
+  <s key="In Vicinity" value="附近"/>
+  <s key="Light" value="光亮"/>
+  <s key="Low Drifting" value="浮尘"/>
+  <s key="Mist" value="薄雾"/>
+  <s key="Mostly Cloudy" value="浓云"/>
+  <s key="Partial" value="部分"/>
+  <s key="Partly Cloudy" value="多云"/>
+  <s key="Patches" value="单点"/>
+  <s key="Rain" value="雨"/>
+  <s key="Rain And Thunder" value="雷雨"/>
+  <s key="Sand" value="沙尘"/>
+  <s key="Shallow" value="浅"/>
+  <s key="Shower" value="阵雨"/>
+  <s key="Shower With Thunder" value="雷阵雨"/>
+  <s key="Sleet" value="冻雨"/>
+  <s key="Small Hail" value="小冰雹"/>
+  <s key="Smoke" value="尘雾"/>
+  <s key="Snow" value="雪"/>
+  <s key="Snow And Thunder" value="雷雪"/>
+  <s key="Snow Grains" value="雪粒"/>
+  <s key="Snow Showers" value="阵雪"/>
+  <s key="Thunderstorm" value="雷暴"/>
+  <s key="Unknown Precipitation" value="未知降水量"/>
+  <s key="Widespread Dust Haze" value="大量尘霾"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="无效的授权密钥，请重试。请确保您输入的是正确密钥（您可以将其复制到这里）。"/>
+  <s key="Wrong license key" value="无效的的授权密钥"/>
+  <s key="You will have to restart the application for this to take effect" value="您必须重新启动该应用程序才能生效"/>
+  <s key="Language change" value="更改语言"/>
+  <s key="No limits!" value="无限制!"/>
+  <s key="Buy now!" value="立即购买！"/>
+  <s key="Buy Unlimited License  to remove any limits." value="购买完整版授权来解除所有限制。"/>
+  <s key="Not now" value="暂时不"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="请输入我们发送给您的许可证密钥来完成注册。您可以将其复制到此处。"/>
+  <s key="License registration" value="注册授权信息"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="感谢您注册YoWindow，所有限制已全部解除，尽情享受吧！"/>
+  <s key="Distance" value="距离"/>
+  <s key="Down" value="下"/>
+  <s key="Download" value="下载"/>
+  <s key="Enter weather source URL please" value="请输入天气原始链接"/>
+  <s key="Error" value="错误"/>
+  <s key="The location is already added" value="此位置已经添加"/>
+  <s key="Exit" value="退出"/>
+  <s key="To get started, pick your home location" value="若要开始，请先选择您所在的位置"/>
+  <s key="Forecast Panel" value="预测面板"/>
+  <s key="Full Screen" value="全屏"/>
+  <s key="Help" value="帮助"/>
+  <s key="Highlight weather station parameters" value="高亮气象站参数"/>
+  <s key="Home" value="主页"/>
+  <s key="h" value="时"/>
+  <s key="Inspector" value="信息预报版"/>
+  <s key="Landscape" value="景观"/>
+  <s key="Foreground" value="前景"/>
+  <s key="Landscape Options" value="景观设置"/>
+  <s key="Landscape pictures" value="景观图"/>
+  <s key="Landscapes" value="景观"/>
+  <s key="Language:" value="语言:"/>
+  <s key="English" value="英语"/>
+  <s key="System Default" value="系统默认"/>
+  <s key="Latitude" value="纬度"/>
+  <s key="{0} locations" value="{0} 地点"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="您最多能添加{0}个位置。 完全版中您可以随意添加位置。"/>
+  <s key="Weather auto-update is off" value="关闭天气数据自动更新"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="请按F5刷新天气信息。完全版中天气信息会自动更新。"/>
+  <s key="{0} weather forecast days only" value="只能预报{0}天"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="您可以查看{0}天的天气预报。完全版提供{1}天的天气预报。"/>
+  <s key="Licence key" value="授权密钥"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="完全版会自动更新天气信息"/>
+  <s key="LIVE" value="实时"/>
+  <s key="Load weather from personal weather station" value="从个人气象站加载天气"/>
+  <s key="Loading" value="读取中"/>
+  <s key="Loading landscape..." value="正在加载景观……"/>
+  <s key="Location" value="位置"/>
+  <s key="Location ID" value="位置ID"/>
+  <s key="Location Properties" value="位置属性"/>
+  <s key="id_internet_link" value="链接"/>
+  <s key="Locations" value="位置"/>
+  <s key="All locations" value="全部位置"/>
+  <s key="All regions" value="所有地区"/>
+  <s key="All states" value="所有国家"/>
+  <s key="Change landscape" value="更改景观"/>
+  <s key="Select a location" value="选择一个位置"/>
+  <s key="The location is already added" value="此位置已经添加"/>
+  <s key="Location is not selected yet" value="位置尚未选择"/>
+  <s key="Major cities (more than 100,000 citizens)" value="主要城市(大于100,000个)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="网络错误，无法访问位置信息。无法选中该位置。"/>
+  <s key="No locations in scope" value="范围内没有位置"/>
+  <s key="Scope" value="范围内找不到置顶位置"/>
+  <s key="Region" value="地区"/>
+  <s key="Cannot find a location?" value="找不到你的位置？"/>
+  <s key="Set as Home" value="设为主页"/>
+  <s key="Current Location" value="当前定位"/>
+  <s key="Unknown" value="未知"/>
+  <s key="Longitude" value="经度"/>
+  <s key="Looking at the North (West wind blows from the left)" value="北方（东风从左侧吹来）"/>
+  <s key="Looking at the South (West wind blows from the right)" value="南方（东风从右侧吹来）"/>
+  <s key="April" value="四月"/>
+  <s key="August" value="八月"/>
+  <s key="December" value="十二月"/>
+  <s key="February" value="二月"/>
+  <s key="January" value="一月"/>
+  <s key="July" value="七月"/>
+  <s key="June" value="六月"/>
+  <s key="March" value="三月"/>
+  <s key="May" value="五月"/>
+  <s key="November" value="十一月"/>
+  <s key="October" value="十月"/>
+  <s key="September" value="九月"/>
+  <s key="About" value="关于"/>
+  <s key="Facebook Edition" value="Facebook 版本"/>
+  <s key="License Agreement" value="授权协议"/>
+  <s key="Program" value="程序"/>
+  <s key="Visit our Forum" value="访问我们的论坛"/>
+  <s key="YoWindow for your Site or Blog" value="为您的网站或Blog添加YoWindow"/>
+  <s key="m" value="米"/>
+  <s key="{0} minutes back" value="{0}分钟后"/>
+  <s key="{0} minutes forward" value="{0}分钟前"/>
+  <s key="Name" value="名称"/>
+  <s key="Network error" value="网络错误"/>
+  <s key="Network not available" value="无网络连接"/>
+  <s key="It is available on {0}" value="可用于{0}"/>
+  <s key="New version released" value="新版已发布"/>
+  <s key="Next Day" value="下一天"/>
+  <s key="No" value="否"/>
+  <s key="No weather" value="无天气"/>
+  <s key="N/A" value="不适用"/>
+  <s key="Notify me when a new version is available" value="有新版本时通知我"/>
+  <s key="Online" value="在线"/>
+  <s key="Open {0}" value="打开 {0}"/>
+  <s key="Options" value="设置"/>
+  <s key="Advanced" value="高级"/>
+  <s key="Application choice" value="应用选择"/>
+  <s key="Date" value="日期"/>
+  <s key="Display" value="显示"/>
+  <s key="Animate clouds" value="动画云"/>
+  <s key="Default" value="默认"/>
+  <s key="Full screen mode" value="全屏模式"/>
+  <s key="Quality" value="质量"/>
+  <s key="Custom" value="自定义"/>
+  <s key="Excellent" value="优秀"/>
+  <s key="Moderate" value="温和"/>
+  <s key="Number of days to display:" value="显示天数:"/>
+  <s key="Tile contents:" value="标题内容:"/>
+  <s key="General" value="常规"/>
+  <s key="Contents" value="内容"/>
+  <s key="Show N/A parameters" value="显示 N/A 参数"/>
+  <s key="Live indicator" value="实时指示符"/>
+  <s key="Locations" value="位置"/>
+  <s key="Operation successful!" value="操作成功！"/>
+  <s key="Refresh locations DB" value="刷新位置数据库"/>
+  <s key="Reset to defaults" value="重设为默认值"/>
+  <s key="Add" value="添加"/>
+  <s key="User interface" value="用户界面"/>
+  <s key="Screen saver" value="屏幕保护"/>
+  <s key="Time Bar" value="时间栏"/>
+  <s key="Unit system:" value="单位系统:"/>
+  <s key="Units" value="单位"/>
+  <s key="Auto-detected" value="自动探测"/>
+  <s key="Custom" value="自定义"/>
+  <s key="Distance:" value="距离:"/>
+  <s key="Metric" value="公制"/>
+  <s key="Russia" value="俄国"/>
+  <s key="Finland" value="芬兰"/>
+  <s key="Pressure:" value="气压:"/>
+  <s key="Temperature:" value="温度:"/>
+  <s key="US" value="美国"/>
+  <s key="Wind speed:" value="风速:"/>
+  <s key="Landscape Options" value="景观设置"/>
+  <s key="Show Daylight Diagram" value="显示日光图"/>
+  <s key="Show Forecast Panel" value="显示预测面板"/>
+  <s key="Show Full Screen button" value="显示全屏按钮"/>
+  <s key="Show Inspector" value="显示"/>
+  <s key="Show Time Bar" value="显示时间栏"/>
+  <s key="Show User interface" value="显示用户界面"/>
+  <s key="Show forecast when current weather is expired" value="当前天气预报过期时显示预报信息"/>
+  <s key="Organize" value="组织"/>
+  <s key="Organize locations" value="组织位置"/>
+  <s key="Organize pictures" value="组织图片"/>
+  <s key="Pictures" value="图片"/>
+  <s key="press" value="按"/>
+  <s key="Falling" value="下降"/>
+  <s key="Falling Rapidly" value="快速下降"/>
+  <s key="Rising" value="升起"/>
+  <s key="Rising Rapidly" value="迅速上升"/>
+  <s key="Steady" value="稳定"/>
+  <s key="Previous Day" value="前一天"/>
+  <s key="Properties" value="属性"/>
+  <s key="Refresh Locations data base" value="刷新位置数据库"/>
+  <s key="Register" value="注册"/>
+  <s key="Remove" value="移除"/>
+  <s key="Rename" value="重命名"/>
+  <s key="Rename location" value="重命名位置"/>
+  <s key="Rename picture" value="重命名图片"/>
+  <s key="Retry" value="重试"/>
+  <s key="Run with Windows (minimized to tray)" value="随Windows启动(最小化至托盘)"/>
+  <s key="Season map" value="季节地图"/>
+  <s key="Select" value="选择"/>
+  <s key="Select country" value="选择国家"/>
+  <s key="Select a landscape" value="选择景观"/>
+  <s key="Select location" value="选择位置"/>
+  <s key="Select region" value="选择地区"/>
+  <s key="Select state" value="选择国家"/>
+  <s key="Set as default" value="设为默认值"/>
+  <s key="Set YoWindow as ScreenSaver" value="设置YoWindow为屏保"/>
+  <s key="Setup" value="设置"/>
+  <s key="Show" value="显示"/>
+  <s key="Show again" value="重新显示"/>
+  <s key="Speed" value="速度"/>
+  <s key="Time" value="时间"/>
+  <s key="{0} ago" value="{0}前"/>
+  <s key="Time zone" value="时区"/>
+  <s key="Today" value="今天"/>
+  <s key="Tomorrow" value="明天"/>
+  <s key="Tom." value="明天"/>
+  <s key="Tonight" value="今晚"/>
+  <s key="Add New Location" value="添加新位置"/>
+  <s key="Open Calendar..." value="打开日历..."/>
+  <s key="Show Less Days" value="显示少一些"/>
+  <s key="Show More Days" value="显示多一些"/>
+  <s key="Update Weather" value="更新天气"/>
+  <s key="Unknown" value="未知"/>
+  <s key="Up" value="上"/>
+  <s key="Update interval" value="更新间隔"/>
+  <s key="Update weather" value="更新天气"/>
+  <s key="Updating weather" value="正在更新天气"/>
+  <s key="View" value="查看"/>
+  <s key="Please wait..." value="请稍后..."/>
+  <s key="Weather" value="天气"/>
+  <s key="Daily rain total" value="连阴雨"/>
+  <s key="Weather expired" value="天气过期"/>
+  <s key="Feels like" value="感觉"/>
+  <s key="Day maximum temperature" value="日最高气温"/>
+  <s key="Day minimum temperature" value="日最低气温"/>
+  <s key="Weather forecast" value="天气预报"/>
+  <s key="Forecast issued" value="预报发布"/>
+  <s key="Hail" value="冰雹"/>
+  <s key="Humidity" value="湿度"/>
+  <s key="Observed" value="信息"/>
+  <s key="Pressure" value="气压"/>
+  <s key="PWS only" value="只PWS"/>
+  <s key="Rain" value="雨"/>
+  <s key="Rain/Snow rate" value="雨/雪率"/>
+  <s key="Description" value="描述"/>
+  <s key="Sky image" value="天空图"/>
+  <s key="Snow" value="雪"/>
+  <s key="Snow level" value="雪水平"/>
+  <s key="Weather station properties" value="气象站属性"/>
+  <s key="Temperature" value="温度"/>
+  <s key="Temperature range" value="温度范围"/>
+  <s key="Update error" value="更新错误"/>
+  <s key="Update time" value="更新时间"/>
+  <s key="UV index" value="UV指数"/>
+  <s key="Visibility" value="能见度"/>
+  <s key="Unlimited" value="无限制"/>
+  <s key="Wind" value="风力"/>
+  <s key="Calm" value="平静"/>
+  <s key="Variable" value="变量"/>
+  <s key="Welcome to YoWindow!" value="欢迎使用 YoWindow!"/>
+  <s key="Wind direction:" value="风向:"/>
+  <s key="East" value="东"/>
+  <s key="North" value="北"/>
+  <s key="South" value="南"/>
+  <s key="West" value="西"/>
+  <s key="Yes" value="是"/>
+  <s key="Close screensaver on mouse move" value="移动鼠标时退出屏保"/>
+  <s key="Color" value="颜色"/>
+  <s key="Background" value="背景"/>
+  <s key="Choose color" value="选择颜色"/>
+  <s key="System tray" value="系统托盘"/>
+  <s key="Transparent" value="透明"/>
+  <s key="Precipitation chance" value="降雨概率"/>
+  <s key="Rain chance" value="降雨概率"/>
+  <s key="Snow chance" value="降雪率"/>
+  <s key="{0} only" value="{0} 仅"/>
+  <s key="US" value="美国"/>
+  <s key="Dew point" value="霜点"/>
+  <s key="I want to have fun" value="我想玩得开心"/>
+  <s key="Enable surprises" value="时不时来点惊喜之类的……嗯，没错"/>
+  <s key="NWS forecasts for the USA" value="NWS 预测为美国"/>
+  <s key="h" value="时"/>
+  <s key="min" value="分"/>
+  <s key="Open" value="打开"/>
+  <s key="Browse" value="浏览"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="输入本机或网络中的图片地址"/>
+  <s key="Landscape load error" value="景观加载错误"/>
+  <s key="Picture load error" value="图片加载错误"/>
+  <s key="The landscape is already added" value="景观已添加"/>
+  <s key="Landscape collection" value="景观收集"/>
+  <s key="Turn your photo into Landscape" value="将你的照片变为景观"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}学习{1}如何将照片变为景观"/>
+  <s key="Village" value="村庄"/>
+  <s key="Seaside" value="海边"/>
+  <s key="Airport" value="机场"/>
+  <s key="Oriental" value="东方的"/>
+  <s key="Sky" value="天空"/>
+  <s key="Landscape made from picture" value="景观来自图片"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="我们将指导您转化为 YoWindow 景观图片的过程。 "/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="请阅读我们的教程{0}如何将一张图片转换为景观？{1} beforehand"/>
+  <s key="Click Next to continue..." value="点击下一步以继续..."/>
+  <s key="Specify a picture you want to turn into landscape." value="指定一个您想要变成景观的图片。"/>
+  <s key="How to pick the best landscape picture?" value="如何挑选最好的景观图片?"/>
+  <s key="Source picture" value="源图片"/>
+  <s key="The landscape will be created in the following folder" value="该景观将创建在下列文件夹中"/>
+  <s key="Landscape folder name" value="源文件夹名称"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="点击 &quot;创建&quot; 按钮以创建 {0} 景观"/>
+  <s key="{0} landscape has been created successfully!" value="{0} 前景已创建成功！"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="现在打开您喜欢的图像编辑器 {0}。您需要从图像中移除sky。您将会发现在景观文件夹 {1} 里的图像{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="很容易的移除了 sky。请阅读我们的简短 {0}教程 {1}。"/>
+  <s key="Auto" value="自动"/>
+  <s key="Horizon Level Setup" value="地平线配置"/>
+  <s key="Keys: Up/Down" value="键: 上/下"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="您将要删除前景图像 {0}。该操作是不可恢复的，您确定吗？"/>
+  <s key="Edit Landscape" value="编辑景观"/>
+  <s key="Edit Horizon Level" value="编辑地平线"/>
+  <s key="File not found." value="文件未找到。"/>
+  <s key="The name is empty" value="名称为空。"/>
+  <s key="The folder already exists" value="已存在该文件夹。"/>
+  <s key="Illegal folder name" value="非法文件夹名称"/>
+  <s key="The file format is not supported." value="该文件格式不支持。"/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="导入到YoWindow的图片太大。图片大小不能超过2880 像素的宽度和高度。"/>
+  <s key="Landscape Image" value="景观图像"/>
+  <s key="Landscape Folder" value="前景文件夹"/>
+  <s key="About Landscape" value="关于景观"/>
+  <s key="Picture {0} imported successfully" value="图片 {0} 导入成功"/>
+  <s key="Remind Me Later" value="稍后提醒我"/>
+  <s key="Skip This Version" value="跳过这个版本"/>
+  <s key="Loading" value="读取中"/>
+  <s key="Next" value="下一步"/>
+  <s key="Back" value="后退"/>
+  <s key="Finish" value="完成"/>
+  <s key="Create" value="创建"/>
+  <s key="Import" value="导入"/>
+  <s key="Delete" value="删除"/>
+  <s key="Path" value="路径"/>
+  <s key="Options" value="设置"/>
+  <s key="Select the options you like" value="选择您喜欢的设置"/>
+  <s key="Set YoWindow as default screen saver" value="设置YoWindow作为您的默认屏保"/>
+  <s key="Start with Windows (minimized to system tray)" value="随Windows启动(最小化至系统托盘)"/>
+  <s key="Add a shortcut to quick launch bar" value="添加快捷方式至快速启动栏"/>
+  <s key="You are about to upgrade YoWindow." value="您将要更新YoWindow。"/>
+  <s key="Click OK to install the new version." value="点击确定开始安装新版本。"/>
+  <s key="You must close YoWindow before you can continue." value="在继续下一步之前，您必须先关闭YoWindow。"/>
+  <s key="After you have closed YoWindow, select Retry." value="在您退出YoWindow之后，请点击重试。"/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="如果您希望取消卸载进程，请点击取消。"/>
+  <s key="If you wish to try to install anyway, select Ignore." value="如果您希望尝试进行安装，请点击忽略。"/>
+  <s key="If you wish to abort the installation, select Abort." value="如果您希望取放弃安装，请点击放弃。"/>
+  <s key="Final step" value="完成"/>
+  <s key="Start YoWindow on system startup" value="在系统启动时启动 YoWindow"/>
+  <s key="Check for new version..." value="检查新版本..."/>
+  <s key="YoWindow is up to date!" value="YoWindow 是最新!"/>
+  <s key="You have the latest version" value="你有最新的版本"/>
+  <s key="Download new version!" value="下载新版本!"/>
+  <s key="Preview" value="预览"/>
+  <s key="Show small YoWindow logo" value="显示小 YoWindow 标志"/>
+  <s key="The landscape is available in Unlimited Edition only." value="景观是无限版。"/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="英尺"/>
+  <s key="id_unit_short_miles" value="英里"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="节"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="显示 &quot;?&quot;"/>
+  <s key="Hide parameter" value="隐藏参数"/>
+  <s key="When weather parameter is not available" value="当气象参数是不可用"/>
+  <s key="Information" value="信息"/>
+  <s key="id_information_all" value="所有"/>
+  <s key="Temperature and Time" value="温度和时间"/>
+  <s key="This is Unlimited Edition." value="这是无限的版本。"/>
+  <s key="It is already registered." value="它已被注册。"/>
+  <s key="Free edition" value="免费版"/>
+  <s key="Unlimited edition" value="无限版"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="享受 YoWindow，您需要安装 Flash 播放器 (为 Internet Explorer) {0} 或更高版本。"/>
+  <s key="Get Adobe Flash Player" value="下载 Adobe Flash 播放器"/>
+  <s key="Unlock landscape" value="解锁景观"/>
+  <s key="YoWindow for Chrome" value="YoWindow 为谷歌浏览器"/>
+  <s key="YoWindow for Windows" value="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow for iPhone and iPad"/>
+  <s key="Follow YoWindow on Facebook" value="按照 Facebook 的 YoWindow"/>
+  <s key="Follow YoWindow on Twitter" value="按照 Twitter 的 YoWindow"/>
+  <s key="Landscape trial, days left:" value="景观审判, 剩余天数:"/>
+  <s key="Landscape trial period is over" value="景观试用是过期"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; 景观是 YoWindow 无限的一部分。"/>
+  <s key="Details" value="详情"/>
+  <s key="View direction" value="显示方向"/>
+  <s key="Fixed sky" value="固定的天空"/>
+  <s key="Edit" value="编辑"/>
+  <s key="Reload" value="重新加载"/>
+  <s key="Minimized" value="YoWindow最小化到这里了哦~"/>
+  <s key="affects wind only" value="仅影响风向显示"/>
+  <s key="Broadcast" value="分享"/>
+  <s key="Share" value="分享我的天气"/>
+  <s key="Publishing" value="正在发送……"/>
+  <s key="Authorizing" value="正在验证……"/>
+  <s key="Published!" value="分享成功！"/>
+  <s key="Space" value="空格键"/>
+  <s key="Weather now in {0}" value="{0}现在的天气"/>
+  <s key="Weather forecast for {0} in {1}" value="{1}{0}的天气预报"/>
+  <s key="Today in {0} (forecast)" value="{0}今天的天气预报"/>
+  <s key="Tomorrow in {0} (forecast)" value="{0}明天的天气预报"/>
+  <s key="Forecast" value="预报数据"/>
+  <s key="Sound" value="声音"/>
+  <s key="Enable sound" value="启用所有音效"/>
+  <s key="Volume" value="音量"/>
+  <s key="Skip" value="跳过"/>
+  <s key="Presented in Stereo" value="请稍候"/>
+  <s key="Override current season" value="使用以下选项覆盖当前季节"/>
+  <s key="Winter" value="冬季"/>
+  <s key="Spring" value="春季"/>
+  <s key="Summer" value="夏季"/>
+  <s key="Autumn" value="秋季"/>
+  <s key="Naked" value="不采用任何修饰"/>
+  <s key="Countries" value="国家或地区"/>
+  <s key="Vote!" value="为我们投上一票！"/>
+  <s key="Vote for YoWindow, thank you" value="给YoWindow一个好评！"/>
+  <s key="More YoWindow" value="其它平台上的YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="轻轻扫过屏幕即可查看一天中的天气变化"/>
+  <s key="And one more time" value="不错！再试一次！"/>
+  <s key="Press the 'LIVE' button to return to current time" value="按下“实时”按钮来回到当前时间"/>
+  <s key="Watch weather with pleasure" value="享受你的天气预报！"/>
+  <s key="Disable Auto-Lock" value="禁用自动锁定"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="开启此选项后，在设备正在充电或电池电量超过25%时，该设备将不会自动锁定。"/>
+  <s key="More" value="更多"/>
+  <s key="Parallax effect" value="视差效果"/>
+  <s key="An illusion of 3D space when you tilt the device" value="启用动态三位视觉效果"/>
+  <s key="Temperature in Status Bar" value="在状态栏中显示温度"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="在状态栏中显示主页位置的当前温度"/>
+  <s key="Not enough free space." value="磁盘空间不足。"/>
+  <s key="YoWindow may run unstable." value="当前情况下无法保证YoWindow稳定运行"/>
+  <s key="{0} MB minimum required." value="请至少清理出{0} MB的空闲空间"/>
+  <s key="YoWindow Weather" value="YoWindow"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="获取完整版（App Store）"/>
+  <s key="No ads, no limitations, all landscapes available" value="完整版将解除对三个精美的景观和后四天预报的锁定，同时将清除广告"/>
+  <s key="No advertising" value="无广告"/>
+  <s key="Remove ads" value="清除广告"/>
+  <s key="Weather forecast is limited" value="啊哦，不能看哦……"/>
+  <s key="Demo" value="仅供试用"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="此场景仅供试用"/>
+  <s key="Connecting to {0}" value="正在尝试连接至{0}……"/>
+  <s key="Camera" value="拍摄新照片"/>
+  <s key="Photos" value="从相册选择"/>
+  <s key="Wallpaper" value="壁纸"/>
+  <s key="Enable animations" value="启用动画效果"/>
+  <s key="Show weather" value="显示天气"/>
+  <s key="No animation - almost no battery power consumed." value="在低电量时将自动关闭动画"/>
+  <s key="Widget Settings" value="小工具设置"/>
+  <s key="Create Widget" value="创建小工具"/>
+  <s key="Tap to search for a location" value="轻触此处搜索位置"/>
+  <s key="Show background" value="显示背景"/>
+  <s key="Move On Top" value="移到顶部"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="请卸载免费版YoWindow"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="我们检测到您的机器上同时安装有完整版和免费版的YoWindow"/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="为了避免可能带来的疑难问题，请卸载免费版YoWindow"/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="安装YoWindow小工具，您便可以以很舒服的方式享受您的天气预报。"/>
+  <s key="Tap to continue" value="轻触此处继续"/>
+  <s key="YoWindow installed on an external storage." value="检测到YoWindow被安装到外置存储器。"/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="警告：YoWindow动态壁纸以及桌面挂件在程序被安装于外置存储器时可能不可用。"/>
+  <s key="Location Search" value="搜索"/>
+  <s key="Redeem code" value="使用激活码"/>
+  <s key="Full Version privilege granted." value="您已成功激活完整版。"/>
+  <s key="Advertising removed, no limitations." value="所有的广告和限制均已移除，感谢支持。"/>
+  <s key="Unexpected code" value="激活码无效"/>
+  <s key="Restore privileges" value="我曾经使用过激活码"/>
+  <s key="Set As Wallpaper" value="设为壁纸"/>
+  <s key="Post" value="发送"/>
+  <s key="Enter the message" value="输入内容"/>
+  <s key="Fill in the weather" value="填入当前天气"/>
+  <s key="You just have posted to Facebook!" value="成功发送到Facebook"/>
+</body>

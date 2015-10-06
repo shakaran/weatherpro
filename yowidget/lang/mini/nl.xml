@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Annuleren"/>
+  <s key="Change" value="Wijzig"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Weersverwachting van {0}, uitgebracht door het Meteorologisch Instituut Noorwegen en het NRK"/>
+  <s key="Forecast from {0}" value="Verwachting van {0}"/>
+  <s key="Friday" value="Vrijdag"/>
+  <s key="Monday" value="Maandag"/>
+  <s key="Saturday" value="Zaterdag"/>
+  <s key="Sunday" value="Zondag"/>
+  <s key="Thursday" value="Donderdag"/>
+  <s key="Tuesday" value="Dinsdag"/>
+  <s key="Wednesday" value="Woensdag"/>
+  <s key="Fr" value="Vrij"/>
+  <s key="Mo" value="Ma"/>
+  <s key="Sa" value="Zat"/>
+  <s key="Su" value="Zon"/>
+  <s key="Th" value="Don"/>
+  <s key="Tu" value="Din"/>
+  <s key="We" value="Woe"/>
+  <s key="LIVE" value="LIVE"/>
+  <s key="Loading" value="Laden"/>
+  <s key="April" value="Apr"/>
+  <s key="August" value="Aug"/>
+  <s key="December" value="Dec"/>
+  <s key="February" value="Feb"/>
+  <s key="January" value="Jan"/>
+  <s key="July" value="Jul"/>
+  <s key="June" value="Jun"/>
+  <s key="March" value="Mrt"/>
+  <s key="May" value="Mei"/>
+  <s key="November" value="Nov"/>
+  <s key="October" value="Okt"/>
+  <s key="September" value="Sep"/>
+  <s key="Network error" value="Netwerkfout"/>
+  <s key="No weather" value="Niet beschikbaar"/>
+  <s key="Retry" value="Opnieuw proberen"/>
+  <s key="Tomorrow" value="Morgen"/>
+  <s key="Updating weather" value="Ophalen gegevens"/>
+  <s key="Please wait..." value="Even wachten a.u.b."/>
+  <s key="Weather expired" value="Actueel weer verlopen"/>
+  <s key="Loading" value="Laden"/>
+</body>

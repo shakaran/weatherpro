@@ -1,0 +1,394 @@
+<!-- %customfile=tagsWS.txt% -->
+|pagename|tagsWS|!
+|version|3.00 2015-04-20 10:30:00|!
+%unit_off%  %curminmaxhour_on% %alwaysmetric_on% %alwaysseppoint_on% %minus_text_off%  %ws_time_in_text_off% %ws_userdate=YYYYMMDD%
+|date|                  %ws_date%|!
+|time|                  %ws_time%|!
+
+|fromtemp|              %unitname[0]%|!
+
+|tempAct|               %curval[0]%|!
+|tempDelta|             %tempchange[0]=60%|!
+|tempArray|             %ws_arraytemp[25]%|! 
+
+|tempMinToday|          %mintempday%|!
+|tempMinTodayTime|      %ws_date%T%mintempdaytime%|!
+|tempMinMonth|          %ws_m_minval[%ws_month%,0]%|!
+|tempMinMonthTime|      %ws_m_minday[%ws_month%,0]%T%ws_m_mintime[%ws_month%,0]%|!
+|tempMinYear|           %ws_m_minval[0,0]%|!
+|tempMinYearTime|       %ws_m_minday[0,0]%T%ws_m_mintime[0,0]%|!
+
+|tempMaxToday|          %maxtempday%|!
+|tempMaxTodayTime|      %ws_date%T%maxtempdaytime%|!
+|tempMaxMonth|          %ws_m_maxval[%ws_month%,0]%|!
+|tempMaxMonthTime|      %ws_m_maxday[%ws_month%,0]%T%ws_m_maxtime[%ws_month%,0]%|!
+|tempMaxYear|           %ws_m_maxval[0,0]%|!
+|tempMaxYearTime|       %ws_m_maxday[0,0]%T%ws_m_maxtime[0,0]%|!
+
+|dewpAct|               %curval[43]%|!
+|dewpDelta|             %tempchange[43]=60%|!
+|dewpArray|             %ws_arrayx[43~25]%|!
+
+|dewpMinToday|          %curminmaxhour[1,0,43]%|!
+|dewpMinTodayTime|      %ws_date%T%mintimecurday[41]%|!
+|dewpMinMonth|          %ws_m_minval[%ws_month%,41]%|!
+|dewpMinMonthTime|      %ws_m_minday[%ws_month%,41]%T%ws_m_mintime[%ws_month%,41]%|!
+|dewpMinYear|           %ws_m_minval[0,41]%|!
+|dewpMinYearTime|       %ws_m_minday[0,41]%T%ws_m_mintime[0,41]%|!
+
+
+|dewpMaxToday|          %curminmaxhour[2,0,43]%|!
+|dewpMaxTodayTime|      %ws_date%T%maxtimecurday[43]%|!
+|dewpMaxMonth|          %ws_m_minval[%ws_month%,41]%|!
+|dewpMaxMonthTime|      %ws_m_minday[%ws_month%,41]%T%ws_m_mintime[%ws_month%,41]%|!
+|dewpMaxYear|           %ws_m_minval[0,41]%|!
+|dewpMaxYearTime|       %ws_m_minday[0,41]%T%ws_m_mintime[0,41]%|!
+
+|apptemp|               %apparenttemp%|!
+
+|heatAct|               %heatindex[0]%|!
+
+
+|chilAct|               %curval[44]%|!
+|chilDelta|             %tempchange[44]=60%|!
+
+|chilMinToday|          %curminmaxhour[1,0,44]%|!
+|chilMinTodayTime|      %ws_date%T%mintimecurday[44]%|!
+|chilMinMonth|          %ws_m_maxval[%ws_month%,44]%|!
+|chilMinMonthTime|      %ws_m_maxday[%ws_month%,44]%T%ws_m_maxday[%ws_month%,44]%|!
+|chilMinYear|           %ws_m_maxval[0,44]%|!
+|chilMinYearTime|       %ws_m_maxday[0,44]%T%ws_m_maxday[0,44]%|!
+
+|chilMaxToday|          %curminmaxhour[2,0,44]%|!
+|chilMaxTodayTime|      %ws_date%T%maxtimecurday[44]%|!
+
+|tempActInside|         %curval[1]%|!
+|tempActExtra1|         %curval[3]%|!
+|tempActExtra2|         %curval[4]%|!
+
+------------------------------------------extremetemp------------------------------
+|daysXHighMonth|        %ws_hotdays_m%|!
+|daysHighMonth|         %ws_warmdays_m%|!
+|daysLowMonth|          %ws_colddays_m%|!
+|daysXLowMonth|         %ws_icedays_m%|!
+|daysXHighYear|         %ws_hotdays_y%|!
+|daysHighYear|          %ws_warmdays_y%|!
+|daysLowYear|           %ws_colddays_y%|!
+|daysXLowYear|          %ws_icedays_y%|!
+------------------------------------------pressure/baro-----------------------------
+|frombaro|              %unitname[33]%|!
+
+|baroAct|               %curval[33]%|!
+|baroDelta|             %valuechange[33]=60%|!
+|baroArray|             %ws_arraybaro[25]%|! 
+
+|baroMinToday|          %minbaroday%|!
+|baroMinTodayTime|      %ws_date%T%minbarodaytime%|!
+|baroMinMonth|          %ws_m_minval[%ws_month%,33]%|!
+|baroMinMonthTime|      %ws_m_minday[%ws_month%,33]%T%ws_m_mintime[%ws_month%,33]%|!
+|baroMinYear|           %ws_m_minval[0,33]%|!
+|baroMinYearTime|       %ws_m_minday[0,33]%T%ws_m_mintime[0,33]%|!
+
+|baroMaxToday|          %maxbaroday%|!
+|baroMaxTodayTime|      %ws_date%T%maxbarodaytime%|!
+|baroMaxMonth|          %ws_m_maxval[%ws_month%,33]%|!
+|baroMaxMonthTime|      %ws_m_maxday[%ws_month%,33]%T%ws_m_maxday[%ws_month%,33]%|!
+|baroMaxYear|           %ws_m_maxval[0,33]%|!
+|baroMaxYearTime|       %ws_m_maxday[0,33]%%ws_m_maxtime[0,33]%|!
+------------------------------------------humidity-----------------------------------
+|humiAct|               %curval[-1]%|!
+|humiDelta|             %valuechange[-1]=60%|!
+|humArray|              %ws_arrayhum[25]%|! 
+
+|humiMinToday|          %curminmaxhour[1,0,-1]%|!
+|humiMinTodayTime|      %ws_date%T%mintimecurday[-1]% 
+|humiMinMonth|          %ws_m_minval[%ws_month%,-1]%|!
+|humiMinMonthTime|      %ws_m_minday[%ws_month%,-1]%T%ws_m_mintime[%ws_month%,-1]%|!
+|humiMinYear|           %ws_m_minval[0,-1]%|!
+|humiMinYearTime|       %ws_m_minday[0,-1]%T%ws_m_mintime[0,-1]%|!
+
+|humiMaxToday|          %curminmaxhour[2,0,-1]%|!
+|humiMaxTodayTime|      %ws_date%T%maxtimecurday[-1]%|!
+|humiMaxMonth|          %ws_m_maxval[%ws_month%,-1]%|!
+|humiMaxMonthTime|      %ws_m_maxday[%ws_month%,-1]%T%ws_m_maxday[%ws_month%,-1]%|!
+|humiMaxYear|           %ws_m_maxval[0,-1]%|!
+|humiMaxYearTime|       %ws_m_maxday[0,-1]%%ws_m_maxtime[0,-1]%|!
+
+|humiInAct|             %curval[17]%|!
+|humiExtra1|            %curval[19]%|!
+|humiExtra2|            %curval[20]%|!
+------------------------------------------rain---------------------------------------
+|fromrain|              %unitname[34]%|!
+
+|rainArray|             %ws_arrayrain[25]%|! 
+
+|rainRateAct|           %rainrate%|!
+|rainRateToday|         %rainrate%|!
+|lastRained|            %ws_lastrain%|!
+
+|rainToday|             %rainday%|!
+|rainHour|              %rain1h%|!
+|rainWeek|              %rainweek%|!
+|rainMonth|             %rainmonth%|!
+|rainYear|              %rainyear%|!
+
+|rainDayMnth|           %raindaysmonth[%ws_month%]%|!
+|rainDayYear|           %raindaysmonth[0]%|!
+|rainDaysWithNo|        %ws_desert_days%|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|               %ws_evapotrans_day%|!
+|etMonth|               %ws_evapotrans_month%|!
+|etYear|                %ws_evapotrans_year%|!
+------------------------------------------wind---------------------------------------
+|fromwind|              %unitname[35]%|!
+
+|windAct|               %curval[35]%|!
+|windActDsc|            %curval[36]%|!
+
+|windArray|             %ws_arraywind[25]%|!
+|gustArray|             %ws_arraygust[25]%|!
+|windDircArray|         %ws_arraywinddir[25]%|!
+
+|windAvgDir|            %avgval[36]%|!
+
+|gustAct|               %curval[45]%|!
+
+|gustMaxToday|          %maxgustday%|!
+|gustMaxTodayTime|      %ws_date%T%maxgustdaytime%|!
+|gustMaxMonth|          %ws_m_maxval[%ws_month%,45]%|!
+|gustMaxMonthTime|      %ws_m_maxday[%ws_month%,45]%T%ws_m_maxtime[%ws_month%,45]%|!
+|gustMaxYear|           %ws_m_maxval[0,45]%|!
+|gustMaxYearTime|       %ws_m_maxday[0,45]%T%ws_m_maxtime[0,45]%|!
+
+|------------------------------------------UV---------------------------------------
+|uvAct|                 %curval[41]%|!
+|uvArray|               %ws_arrayx[41~25]%|!
+
+|uvMaxToday|            %curminmaxhour[2,0,41]%|!
+|uvMaxTodayTime|        %ws_date%T%maxtimecurday[41]%|!
+|uvMaxMonth|            %ws_m_maxval[%ws_month%,41]%|!
+|uvMaxMonthTime|        %ws_m_maxday[%ws_month%,41]%T%ws_m_maxtime[%ws_month%,41]%|!
+|uvMaxYear|             %ws_m_maxval[0,41]%|!
+|uvMaxYearTime|         %ws_m_maxday[0,41]%T%ws_m_maxtime[0,41]%|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|              %curval[42]%|!
+|solarActPerc|          ?|!
+|solarArray|            %ws_arrayx[42~25]%|!
+
+|solarMaxToday|         %curminmaxhour[2,0,42]%|!
+|solarMaxTodayTime|     %ws_date%T%maxtimecurday[42]%|!
+|solarMaxMonth|         %ws_m_maxval[%ws_month%,42]%|!
+|solarMaxMonthTime|     %ws_m_maxday[%ws_month%,42]%T%ws_m_maxtime[%ws_month%,42]%|!
+|solarMaxYear|          %ws_m_maxval[0,42]%|!
+|solarMaxYearTime|      %ws_m_maxday[0,42]%T%ws_m_maxtime[0,42]%|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|m|!
+|cloudHeight|%cloudline%|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt2|              %forecast_txt[1]%|!
+|fcstTxt1|              %forecast_vant%|!
+|fcstTxt|               %forecast_vant[1]%|!
+|------------------------------------------moon---------------------------------------
+|moonrise|              %ws_moonrise%|!
+|moonset|               %ws_moonset%|!
+|lunarPhasePerc|        %ws_moonphasev%|!
+|lunarAge|              %ws_moonage%|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|             %ws_vers0%|!
+
+|---------soil: temp 13-16  moist 29-32 leaf temp 9-12 wetness 25-28 ------------------
+|fromsoiltemp|                  %unitname[13]%|!
+
+|soilTempAct[1]|                %curval[13]%|!
+|soilTempMax24h[1]|             %maxval[13]%|!
+|soilTempMax24hTime[1]|         %ws_date%T%maxtime[13]%|!
+
+|soilTempMaxToday[1]|           %curminmaxhour[2,0,13]%|!
+|soilTempMaxTodayTime[1]|       %ws_date%T%maxtimecurday[13]%|!
+|soilTempMaxMonth[1]|           %ws_m_maxval[%ws_month%,13]%|!
+|soilTempMaxMonthTime[1]|       %ws_m_maxday[%ws_month%,13]%T%ws_m_maxtime[%ws_month%,13]%|!
+|soilTempMaxYear[1]|            %ws_m_maxval[0,13]%|!
+|soilTempMaxYearTime[1]|        %ws_m_maxday[0,13]%T%ws_m_maxtime[0,13]%|!
+
+|soilTempMin24h[1]|             %minval[13]%|!
+|soilTempMin24hTime[1]|         %ws_date%T%mintime[13]%|!
+|soilTempMinToday[1]|           %curminmaxhour[1,0,13]%|!
+|soilTempMinTodayTime[1]|       %ws_date%T%mintimecurday[13]%|!
+|soilTempMinMonth[1]|           %ws_m_minval[%ws_month%,13]%|!
+|soilTempMinMonthTime[1]|       %ws_m_minday[%ws_month%,13]%T%ws_m_mintime[%ws_month%,13]%|!
+|soilTempMinYear[1]|            %ws_m_minval[0,13]%|!
+|soilTempMinYearTime[1]|        %ws_m_minday[0,13]%T%ws_m_mintime[0,13]%|!
+
+|fromsoilmoist|         %unitname[29]%|!
+|moistAct[1]|           %curval[29]%|!
+|moistMax24h[1]|        %maxval[29]%|!
+|moistMax24hTime[1]|    %ws_date%T%maxtime[29]%|!
+|moistMaxToday[1]|      %curminmaxhour[2,0,29]%|!
+|moistMaxTodayTime[1]|  %ws_date%T%maxtimecurday[29]%|!
+|moistMaxMonth[1]|      %ws_m_maxval[%ws_month%,29]%|!
+|moistMaxMonthTime[1]|  %ws_m_maxday[%ws_month%,29]%T%ws_m_maxtime[%ws_month%,29]%|!
+|moistMaxYear[1]|       %ws_m_maxval[0,29]%|!
+|moistMaxYearTime[1]|   %ws_m_maxday[0,29]%T%ws_m_maxtime[0,29]%|!
+|moistMin24h[1]|        %minval[29]%|!
+|moistMin24hTime[1]|    %ws_date%T%mintime[29]%|!
+|moistMinToday[1]|      %curminmaxhour[1,0,29]%|!
+|moistMinTodayTime[1]|  %ws_date%T%mintimecurday[29]%|!
+|moistMinMonth[1]|      %ws_m_minval[%ws_month%,29]%|!
+|moistMinMonthTime[1]|  %ws_m_minday[%ws_month%,29]%T%ws_m_mintime[%ws_month%,29]%|!
+|moistMinYear[1]|       %ws_m_minval[0,29]%|!
+|moistMinYearTime[1]|   %ws_m_minday[0,29]%T%ws_m_mintime[0,29]%|!
+|--------------------------- soil temp 2 = 14  soilmoist 2 = 30
+|soilTempAct[2]|                %curval[14]%|!
+|soilTempMax24h[2]|             %maxval[14]%|!
+|soilTempMax24hTime[2]|         %ws_date%T%maxtime[14]%|!
+
+|soilTempMaxToday[2]|           %curminmaxhour[2,0,14]%|!
+|soilTempMaxTodayTime[2]|       %ws_date%T%maxtimecurday[14]%|!
+|soilTempMaxMonth[2]|           %ws_m_maxval[%ws_month%,14]%|!
+|soilTempMaxMonthTime[2]|       %ws_m_maxday[%ws_month%,14]%T%ws_m_maxtime[%ws_month%,14]%|!
+|soilTempMaxYear[2]|            %ws_m_maxval[0,14]%|!
+|soilTempMaxYearTime[2]|        %ws_m_maxday[0,14]%T%ws_m_maxtime[0,14]%|!
+
+|soilTempMin24h[2]|             %minval[14]%|!
+|soilTempMin24hTime[2]|         %ws_date%T%mintime[14]%|!
+|soilTempMinToday[2]|           %curminmaxhour[1,0,14]%|!
+|soilTempMinTodayTime[2]|       %ws_date%T%mintimecurday[14]%|!
+|soilTempMinMonth[2]|           %ws_m_minval[%ws_month%,14]%|!
+|soilTempMinMonthTime[2]|       %ws_m_minday[%ws_month%,14]%T%ws_m_mintime[%ws_month%,14]%|!
+|soilTempMinYear[2]|            %ws_m_minval[0,14]%|!
+|soilTempMinYearTime[2]|        %ws_m_minday[0,14]%T%ws_m_mintime[0,14]%|!
+
+|fromsoilmoist|         %unitname[30]%|!
+|moistAct[2]|           %curval[30]%|!
+|moistMax24h[2]|        %maxval[30]%|!
+|moistMax24hTime[2]|    %ws_date%T%maxtime[30]%|!
+|moistMaxToday[2]|      %curminmaxhour[2,0,30]%|!
+|moistMaxTodayTime[2]|  %ws_date%T%maxtimecurday[30]%|!
+|moistMaxMonth[2]|      %ws_m_maxval[%ws_month%,30]%|!
+|moistMaxMonthTime[2]|  %ws_m_maxday[%ws_month%,30]%T%ws_m_maxtime[%ws_month%,30]%|!
+|moistMaxYear[2]|       %ws_m_maxval[0,30]%|!
+|moistMaxYearTime[2]|   %ws_m_maxday[0,30]%T%ws_m_maxtime[0,30]%|!
+|moistMin24h[2]|        %minval[30]%|!
+|moistMin24hTime[2]|    %ws_date%T%mintime[30]%|!
+|moistMinToday[2]|      %curminmaxhour[1,0,30]%|!
+|moistMinTodayTime[2]|  %ws_date%T%mintimecurday[30]%|!
+|moistMinMonth[2]|      %ws_m_minval[%ws_month%,30]%|!
+|moistMinMonthTime[2]|  %ws_m_minday[%ws_month%,30]%T%ws_m_mintime[%ws_month%,30]%|!
+|moistMinYear[2]|       %ws_m_minval[0,30]%|!
+|moistMinYearTime[2]|   %ws_m_minday[0,30]%T%ws_m_mintime[0,30]%|!
+|--------------------------- soil temp 3 = 15  soilmoist 3 = 31
+|soilTempAct[3]|                %curval[15]%|!
+|soilTempMax24h[3]|             %maxval[15]%|!
+|soilTempMax24hTime[3]|         %ws_date%T%maxtime[15]%|!
+
+|soilTempMaxToday[3]|           %curminmaxhour[2,0,15]%|!
+|soilTempMaxTodayTime[3]|       %ws_date%T%maxtimecurday[15]%|!
+|soilTempMaxMonth[3]|           %ws_m_maxval[%ws_month%,15]%|!
+|soilTempMaxMonthTime[3]|       %ws_m_maxday[%ws_month%,15]%T%ws_m_maxtime[%ws_month%,15]%|!
+|soilTempMaxYear[3]|            %ws_m_maxval[0,15]%|!
+|soilTempMaxYearTime[3]|        %ws_m_maxday[0,15]%T%ws_m_maxtime[0,15]%|!
+
+|soilTempMin24h[3]|             %minval[15]%|!
+|soilTempMin24hTime[3]|         %ws_date%T%mintime[15]%|!
+|soilTempMinToday[3]|           %curminmaxhour[1,0,15]%|!
+|soilTempMinTodayTime[3]|       %ws_date%T%mintimecurday[15]%|!
+|soilTempMinMonth[3]|           %ws_m_minval[%ws_month%,15]%|!
+|soilTempMinMonthTime[3]|       %ws_m_minday[%ws_month%,15]%T%ws_m_mintime[%ws_month%,15]%|!
+|soilTempMinYear[3]|            %ws_m_minval[0,15]%|!
+|soilTempMinYearTime[3]|        %ws_m_minday[0,15]%T%ws_m_mintime[0,15]%|!
+
+|fromsoilmoist|         %unitname[31]%|!
+|moistAct[3]|           %curval[31]%|!
+|moistMax24h[3]|        %maxval[31]%|!
+|moistMax24hTime[3]|    %ws_date%T%maxtime[31]%|!
+|moistMaxToday[3]|      %curminmaxhour[2,0,31]%|!
+|moistMaxTodayTime[3]|  %ws_date%T%maxtimecurday[31]%|!
+|moistMaxMonth[3]|      %ws_m_maxval[%ws_month%,31]%|!
+|moistMaxMonthTime[3]|  %ws_m_maxday[%ws_month%,31]%T%ws_m_maxtime[%ws_month%,31]%|!
+|moistMaxYear[3]|       %ws_m_maxval[0,31]%|!
+|moistMaxYearTime[3]|   %ws_m_maxday[0,31]%T%ws_m_maxtime[0,31]%|!
+|moistMin24h[3]|        %minval[31]%|!
+|moistMin24hTime[3]|    %ws_date%T%mintime[31]%|!
+|moistMinToday[3]|      %curminmaxhour[1,0,31]%|!
+|moistMinTodayTime[3]|  %ws_date%T%mintimecurday[31]%|!
+|moistMinMonth[3]|      %ws_m_minval[%ws_month%,31]%|!
+|moistMinMonthTime[3]|  %ws_m_minday[%ws_month%,31]%T%ws_m_mintime[%ws_month%,31]%|!
+|moistMinYear[3]|       %ws_m_minval[0,31]%|!
+|moistMinYearTime[3]|   %ws_m_minday[0,31]%T%ws_m_mintime[0,31]%|!
+|--------------------------- soil temp 4 = 16  soilmoist 4 = 32
+|soilTempAct[4]|                %curval[16]%|!
+|soilTempMax24h[4]|             %maxval[16]%|!
+|soilTempMax24hTime[4]|         %ws_date%T%maxtime[16]%|!
+
+|soilTempMaxToday[4]|           %curminmaxhour[2,0,16]%|!
+|soilTempMaxTodayTime[4]|       %ws_date%T%maxtimecurday[16]%|!
+|soilTempMaxMonth[4]|           %ws_m_maxval[%ws_month%,16]%|!
+|soilTempMaxMonthTime[4]|       %ws_m_maxday[%ws_month%,16]%T%ws_m_maxtime[%ws_month%,16]%|!
+|soilTempMaxYear[4]|            %ws_m_maxval[0,16]%|!
+|soilTempMaxYearTime[4]|        %ws_m_maxday[0,16]%T%ws_m_maxtime[0,16]%|!
+
+|soilTempMin24h[4]|             %minval[16]%|!
+|soilTempMin24hTime[4]|         %ws_date%T%mintime[16]%|!
+|soilTempMinToday[4]|           %curminmaxhour[1,0,16]%|!
+|soilTempMinTodayTime[4]|       %ws_date%T%mintimecurday[16]%|!
+|soilTempMinMonth[4]|           %ws_m_minval[%ws_month%,16]%|!
+|soilTempMinMonthTime[4]|       %ws_m_minday[%ws_month%,16]%T%ws_m_mintime[%ws_month%,16]%|!
+|soilTempMinYear[4]|            %ws_m_minval[0,16]%|!
+|soilTempMinYearTime[4]|        %ws_m_minday[0,16]%T%ws_m_mintime[0,16]%|!
+
+|fromsoilmoist|         %unitname[32]%|!
+|moistAct[4]|           %curval[32]%|!
+|moistMax24h[4]|        %maxval[32]%|!
+|moistMax24hTime[4]|    %ws_date%T%maxtime[32]%|!
+|moistMaxToday[4]|      %curminmaxhour[2,0,32]%|!
+|moistMaxTodayTime[4]|  %ws_date%T%maxtimecurday[32]%|!
+|moistMaxMonth[4]|      %ws_m_maxval[%ws_month%,32]%|!
+|moistMaxMonthTime[4]|  %ws_m_maxday[%ws_month%,32]%T%ws_m_maxtime[%ws_month%,32]%|!
+|moistMaxYear[4]|       %ws_m_maxval[0,32]%|!
+|moistMaxYearTime[4]|   %ws_m_maxday[0,32]%T%ws_m_maxtime[0,32]%|!
+|moistMin24h[4]|        %minval[32]%|!
+|moistMin24hTime[4]|    %ws_date%T%mintime[32]%|!
+|moistMinToday[4]|      %curminmaxhour[1,0,32]%|!
+|moistMinTodayTime[4]|  %ws_date%T%mintimecurday[32]%|!
+|moistMinMonth[4]|      %ws_m_minval[%ws_month%,32]%|!
+|moistMinMonthTime[4]|  %ws_m_minday[%ws_month%,32]%T%ws_m_mintime[%ws_month%,32]%|!
+|moistMinYear[4]|       %ws_m_minval[0,32]%|!
+|moistMinYearTime[4]|   %ws_m_minday[0,32]%T%ws_m_mintime[0,32]%|!
+
+|--------------------------- 
+|fromleafwetness|       %unitname[25]%|!
+
+|leafTempAct[1]|%curval[9]%|!
+|leafTempAct[2]|%curval[10]%|!
+|leafTempAct[3]|%curval[11]%|!
+|leafTempAct[4]|%curval[12]%|!
+
+|leafWetAct[1]|%curval[25]%|!
+|leafWetAct[2]|%curval[26]%|!
+|leafWetAct[3]|%curval[27]%|!
+|leafWetAct[4]|%curval[28]%|!
+
+
+|leafWetMaxToday[1]|%curminmaxhour[2,0,25]%|!
+|leafWetMaxToday[2]|%curminmaxhour[2,0,26]%|!
+|leafWetMaxToday[3]|%curminmaxhour[2,0,27]%|!
+|leafWetMaxToday[4]|%curminmaxhour[2,0,28]%|!
+
+|leafWetMinToday[1]|%curminmaxhour[1,0,25]%|!
+|leafWetMinToday[2]|%curminmaxhour[1,0,26]%|!
+|leafWetMinToday[3]|%curminmaxhour[1,0,27]%|!
+|leafWetMinToday[4]|%curminmaxhour[1,0,28]%|!
+
+|leafWetMaxTodayTime[1]|   %ws_date%T%maxtimecurday[25]%|!
+|leafWetMaxTodayTime[2]|   %ws_date%T%maxtimecurday[26]%|!
+|leafWetMaxTodayTime[3]|   %ws_date%T%maxtimecurday[27]%|!
+|leafWetMaxTodayTime[4]|   %ws_date%T%maxtimecurday[28]%|!
+
+|leafWetMinTodayTime[1]|   %ws_date%T%mintimecurday[25]%|!
+|leafWetMinTodayTime[2]|   %ws_date%T%mintimecurday[26]%|!
+|leafWetMinTodayTime[3]|   %ws_date%T%mintimecurday[27]%|!
+|leafWetMinTodayTime[4]|   %ws_date%T%mintimecurday[28]%|!
+
+<!-- %openfile=tags.wswin.txt% -->

@@ -1,0 +1,18 @@
+<div 
+  class="blockDiv" 
+  style="
+        height: 120px; 
+        background-size: cover; 
+        background-image: url(img/headThunder.jpg); 
+        vertical-align: bottom;
+        color: white;
+        text-align: center;
+  "
+>
+<br />
+<h3> This is an optional block.  Switch it on/off in your settings-file:  $SITE['bannerTop'] = false;  or $SITE['bannerBottom'] = false;
+<br /><br />You can display ads, any other important text or photo’s using text / html or PHP code. 
+<br /><br />You can place one or more at the top and or bottom and it can all be different for content / size .
+</h3>
+</div>
+

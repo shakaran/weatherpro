@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="გაუქმება"/>
+  <s key="Change" value="შეცვლა"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="ამინდის პროგნოზი {0}-დან, მოწოდებულია ნორვეგიის მეტეოროლოგიური ინსტიტუტის და NRK-ს მიერ"/>
+  <s key="Forecast from {0}" value="პროგნოზი {0}-დან"/>
+  <s key="Friday" value="პარასკევი"/>
+  <s key="Monday" value="ორშაბათი"/>
+  <s key="Saturday" value="შაბათი"/>
+  <s key="Sunday" value="კვირა"/>
+  <s key="Thursday" value="ხუთშაბათი"/>
+  <s key="Tuesday" value="სამშაბათი"/>
+  <s key="Wednesday" value="ოთხშაბათი"/>
+  <s key="Fr"/>
+  <s key="Mo"/>
+  <s key="Sa"/>
+  <s key="Su"/>
+  <s key="Th"/>
+  <s key="Tu"/>
+  <s key="We"/>
+  <s key="LIVE" value="პირდაპირი"/>
+  <s key="Loading" value="იტვირთება"/>
+  <s key="April" value="აპრილი"/>
+  <s key="August" value="აგვისტო"/>
+  <s key="December" value="დეკემბერი"/>
+  <s key="February" value="თებერვალი"/>
+  <s key="January" value="იანვარი"/>
+  <s key="July" value="ივლისი"/>
+  <s key="June" value="ივნისი"/>
+  <s key="March" value="მარტი"/>
+  <s key="May" value="მაისი"/>
+  <s key="November" value="ნოემბერი"/>
+  <s key="October" value="ოქტომბერი"/>
+  <s key="September" value="სექტემბერი"/>
+  <s key="Network error" value="ქსელური შეცდომა"/>
+  <s key="No weather" value="ამინდი არ არის"/>
+  <s key="Retry" value="კიდევ სცადე"/>
+  <s key="Tomorrow" value="ხვალ"/>
+  <s key="Updating weather" value="მიმდინარეობს ამინდის განახლება"/>
+  <s key="Please wait..." value="დაელოდეთ..."/>
+  <s key="Weather expired" value="ამინდი ვადაგასულია"/>
+  <s key="Loading" value="იტვირთება"/>
+</body>

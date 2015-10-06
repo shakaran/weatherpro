@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="A korlátlan licenc elhagyása"/>
+  <s key="Absent" value="Hiányzó"/>
+  <s key="Add" value="Hozzáadás"/>
+  <s key="Animate" value="Animálás"/>
+  <s key="Apply" value="Alkalmaz"/>
+  <s key="Astronomy" value="Csillagászat"/>
+  <s key="Day Length" value="A nap hossza"/>
+  <s key="Moon Phase" value="Holdfázis"/>
+  <s key="Sunrise" value="Napkelte"/>
+  <s key="Sunset" value="Napnyugta"/>
+  <s key="Auto update weather" value="Automatikus időjárás-frissítés"/>
+  <s key="Bad ICAO code" value="Rossz ICAO azonosító"/>
+  <s key="Buy YoWindow Unlimited!" value="Korlátlan licenc vásárlása"/>
+  <s key="Calendar" value="Naptár"/>
+  <s key="Cancel" value="Mégse"/>
+  <s key="Change" value="Változtat"/>
+  <s key="Code" value="Azonosító"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Az időjárás-előrejelzést az {0} biztosítja a Norvég Meteorológiai Intézet és az NRK jóvoltából"/>
+  <s key="Forecast from {0}" value="Előrejelzés: {0}"/>
+  <s key="Current weather" value="Jelenlegi időjárás"/>
+  <s key="Friday" value="Péntek"/>
+  <s key="Monday" value="Hétfő"/>
+  <s key="Saturday" value="Szombat"/>
+  <s key="Sunday" value="Vasárnap"/>
+  <s key="Thursday" value="Csütörtök"/>
+  <s key="Tuesday" value="Kedd"/>
+  <s key="Wednesday" value="Szerda"/>
+  <s key="Fr" value="P"/>
+  <s key="Mo" value="H"/>
+  <s key="Sa" value="Szo"/>
+  <s key="Su" value="V"/>
+  <s key="Th" value="Cs"/>
+  <s key="Tu" value="K"/>
+  <s key="We" value="Sze"/>
+  <s key="day ago" value="nappal ezelőtt"/>
+  <s key="days ago" value="nappal ezelőtt"/>
+  <s key="Default" value="Alapértelmezés"/>
+  <s key="Blowing" value="Magasan sodródó"/>
+  <s key="Clear" value="Derült"/>
+  <s key="Cloudy" value="Borult"/>
+  <s key="Overcast"/>
+  <s key="Drizzle" value="Szitálás"/>
+  <s key="Fair" value="Kissé felhős"/>
+  <s key="Fog" value="Köd"/>
+  <s key="Freezing" value="Túlhűlt"/>
+  <s key="Hail" value="Jégeső"/>
+  <s key="Haze" value="Száraz légköri homály"/>
+  <s key="Heavy" value="Erős"/>
+  <s key="Ice Crystals" value="Jégtűk"/>
+  <s key="Ice Pellets" value="Fagyott eső"/>
+  <s key="In Vicinity" value="a közelben"/>
+  <s key="Light" value="Gyenge"/>
+  <s key="Low Drifting" value="Alacsonyan sodródó"/>
+  <s key="Mist" value="Párásság"/>
+  <s key="Mostly Cloudy" value="Erősen felhős"/>
+  <s key="Partial" value="Részleges"/>
+  <s key="Partly Cloudy" value="Közepesen felhős"/>
+  <s key="Patches" value="Szakadozott"/>
+  <s key="Rain" value="Eső"/>
+  <s key="Rain And Thunder" value="Zivatar"/>
+  <s key="Sand" value="Homok"/>
+  <s key="Shallow" value="Talajmenti"/>
+  <s key="Shower" value="Zápor"/>
+  <s key="Shower With Thunder" value="Zivatar"/>
+  <s key="Sleet" value="Havas eső"/>
+  <s key="Small Hail" value="Jégdara"/>
+  <s key="Smoke" value="Füst"/>
+  <s key="Snow" value="Havazás"/>
+  <s key="Snow And Thunder" value="Hózivatar"/>
+  <s key="Snow Grains" value="Szemcsés hó"/>
+  <s key="Snow Showers" value="Hózápor"/>
+  <s key="Thunderstorm" value="Dörgés"/>
+  <s key="Unknown Precipitation" value="Ismeretlen csapadék"/>
+  <s key="Widespread Dust Haze" value="Porfelhő"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Érvénytelen licenc. Próbálja újra. Győződjön meg róla, hogy helyesen írta-e be a kulcsot. Próbálja meg kimásolni és beilleszteni."/>
+  <s key="Wrong license key" value="Rossz licenckulcs"/>
+  <s key="You will have to restart the application for this to take effect" value="Újra kell indítania az alkalmazást a változtatás véglegesítéséhez"/>
+  <s key="Language change" value="Nyelv választása"/>
+  <s key="No limits!" value="Korlátok feloldva!"/>
+  <s key="Buy now!" value="Vásárlás most!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Vásárolja meg a licencet, és korlátok nélkül használhatja."/>
+  <s key="Not now" value="Most nem"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="A regisztráció befejezéséhez írja be a licenckulcsot. Tipp: Használja a másolást, beillesztést."/>
+  <s key="License registration" value="Licenc regisztráció"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Köszönjük a regisztrációt a YoWindow-hoz! Minden korlát feloldva, így már teljes körűen használhatja."/>
+  <s key="Distance" value="Távolság"/>
+  <s key="Down" value="Le"/>
+  <s key="Download" value="Letöltés"/>
+  <s key="Enter weather source URL please" value="Írja be a forrásadatok URL címét"/>
+  <s key="Error" value="Hiba"/>
+  <s key="The location is already added" value="A helyszín már hozzáadva"/>
+  <s key="Exit" value="Kilépés"/>
+  <s key="To get started, pick your home location" value="A kezdéshez válassza ki a saját helyét"/>
+  <s key="Forecast Panel" value="Előrejelző panel"/>
+  <s key="Full Screen" value="Teljes képernyő"/>
+  <s key="Help" value="Súgó"/>
+  <s key="Highlight weather station parameters" value="A saját időjárás-állomásról származó adatok kiemelése"/>
+  <s key="Home" value="Otthon"/>
+  <s key="h" value="óra"/>
+  <s key="Inspector" value="Részletes adatok"/>
+  <s key="Landscape" value="Tájkép"/>
+  <s key="Foreground" value="Előtér"/>
+  <s key="Landscape Options" value="A tájkép beállításai"/>
+  <s key="Landscape pictures" value="Tájkép fotó"/>
+  <s key="Landscapes" value="Tájképek rendezése"/>
+  <s key="Language:" value="Nyelv:"/>
+  <s key="English" value="Magyar"/>
+  <s key="System Default" value="Alapértelmezés"/>
+  <s key="Latitude" value="Szélesség"/>
+  <s key="{0} locations" value="{0} helyszín"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Jelenleg legfeljebb {0} helyszínt lehet hozzáadni. A Teljes verzióban korlátlan számú hely adható hozzá."/>
+  <s key="Weather auto-update is off" value="Az időjárás automatikus frissítése ki van kapcsolva."/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Az F5 billentyű lenyomásával frissítheti az időjárást. A Teljes verzióban automatikusan frissülnek az időjárási adatok."/>
+  <s key="{0} weather forecast days only" value="{0} napos előrejelzés"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Az Ingyenes verzióban csak {0} napos, a Teljes verzióban {1} napos előrejelzés érhető el."/>
+  <s key="Licence key" value="Licenckulcs"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Az időjárás automatikusan frissül a Teljes verzióban."/>
+  <s key="LIVE" value="ÉLŐ"/>
+  <s key="Load weather from personal weather station" value="Saját meteorológiai állomásról tölti be az adatokat"/>
+  <s key="Loading" value="Töltés"/>
+  <s key="Loading landscape..." value="Tájkép betöltése..."/>
+  <s key="Location" value="Helyszín"/>
+  <s key="Location ID" value="ID"/>
+  <s key="Location Properties" value="A helyszín részletei"/>
+  <s key="id_internet_link" value="Online"/>
+  <s key="Locations" value="Helyszínek"/>
+  <s key="All locations" value="Minden helyszín"/>
+  <s key="All regions" value="Minden régió"/>
+  <s key="All states" value="Minden állam"/>
+  <s key="Change landscape" value="Tájkép változtatása"/>
+  <s key="Select a location" value="Válasszon ki egy helyszínt"/>
+  <s key="The location is already added" value="A helyszín már hozzáadva"/>
+  <s key="Location is not selected yet" value="A helyszín még nincs kiválasztva"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Nagyvárosok (több mint 100,000 lakos)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Hálózati hiba, tartózkodási helyére vonatkozó információ nem érhető el. Emiatt a helyszínt jelenleg nem lehet kiválasztani."/>
+  <s key="No locations in scope" value="A helyszín nem választható"/>
+  <s key="Scope" value="Bővítés"/>
+  <s key="Region" value="Régió"/>
+  <s key="Cannot find a location?" value="Nem talál egy helyszínt?"/>
+  <s key="Set as Home" value="Beállítás otthonként"/>
+  <s key="Current Location" value="Aktuális hely"/>
+  <s key="Unknown" value="Ismeretlen"/>
+  <s key="Longitude" value="Hosszúság"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Északi Nézet (nyugati szél fúj balról)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Déli nézet (nyugati szél fúj jobbról)"/>
+  <s key="April" value="Április"/>
+  <s key="August" value="Augusztus"/>
+  <s key="December" value="December"/>
+  <s key="February" value="Február"/>
+  <s key="January" value="Január"/>
+  <s key="July" value="Július"/>
+  <s key="June" value="Június"/>
+  <s key="March" value="Március"/>
+  <s key="May" value="Május"/>
+  <s key="November" value="November"/>
+  <s key="October" value="Október"/>
+  <s key="September" value="Szeptember"/>
+  <s key="About" value="Névjegy"/>
+  <s key="Facebook Edition" value="Facebook változat"/>
+  <s key="License Agreement" value="Licenc szerződés"/>
+  <s key="Program" value="Program"/>
+  <s key="Visit our Forum" value="YoWindow fórum"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow weboldalra vagy blogra"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} perc vissza"/>
+  <s key="{0} minutes forward" value="{0} perc előre"/>
+  <s key="Name" value="Név"/>
+  <s key="Network error" value="Hálózati hiba"/>
+  <s key="Network not available"/>
+  <s key="It is available on {0}" value="Hozzáférhető itt: {0}"/>
+  <s key="New version released" value="Új verzió érhető el"/>
+  <s key="Next Day" value="Következő nap"/>
+  <s key="No" value="Nem"/>
+  <s key="No weather" value="Nincs időjárás"/>
+  <s key="N/A" value="N/A"/>
+  <s key="Notify me when a new version is available" value="Kérek értesítést, ha új verzió áll rendelkezésre"/>
+  <s key="Online" value="Online"/>
+  <s key="Open {0}" value="{0} megnyitása"/>
+  <s key="Options" value="Beállítások"/>
+  <s key="Advanced" value="Haladó"/>
+  <s key="Application choice" value="Alkalmazás választása"/>
+  <s key="Date" value="Dátum"/>
+  <s key="Display" value="Megjelenítési mód"/>
+  <s key="Animate clouds" value="Animált felhők"/>
+  <s key="Default" value="Alapértelmezés"/>
+  <s key="Full screen mode" value="Teljes képernyő"/>
+  <s key="Quality" value="Minőség"/>
+  <s key="Custom" value="Egyéni"/>
+  <s key="Excellent" value="Kiváló"/>
+  <s key="Moderate" value="Közepes"/>
+  <s key="Number of days to display:" value="Megjelenítendő napok száma:"/>
+  <s key="Tile contents:" value="A panel tartalma:"/>
+  <s key="General" value="Általános"/>
+  <s key="Contents" value="Tartalom"/>
+  <s key="Show N/A parameters" value="Paraméter megjelenítése adathiány (N/A) esetén"/>
+  <s key="Live indicator" value="ÉLŐ felirat"/>
+  <s key="Locations" value="Helyszínek"/>
+  <s key="Operation successful!" value="Művelet sikeres!"/>
+  <s key="Refresh locations DB" value="Hely adatbázis frissítése"/>
+  <s key="Reset to defaults" value="Alapértelmezésre visszaállít"/>
+  <s key="Add" value="Hozzáadás"/>
+  <s key="User interface" value="Felhasználói felület"/>
+  <s key="Screen saver" value="Képernyőkímélő"/>
+  <s key="Time Bar" value="Idősáv"/>
+  <s key="Unit system:" value="Egységrendszer"/>
+  <s key="Units" value="Mértékegységek"/>
+  <s key="Auto-detected" value="Automatikus felismerés"/>
+  <s key="Custom" value="Egyéni"/>
+  <s key="Distance:" value="Távolság:"/>
+  <s key="Metric" value="Metrikus"/>
+  <s key="Russia" value="Orosz"/>
+  <s key="Finland" value="Finn"/>
+  <s key="Pressure:" value="Légnyomás:"/>
+  <s key="Temperature:" value="Hőmérséklet:"/>
+  <s key="US" value="US"/>
+  <s key="Wind speed:" value="Szélsebesség:"/>
+  <s key="Landscape Options" value="A tájkép beállításai"/>
+  <s key="Show Daylight Diagram" value="Napfénytartamot jelző diagram"/>
+  <s key="Show Forecast Panel" value="Előrejelző panel"/>
+  <s key="Show Full Screen button" value="Teljes képernyő gomb"/>
+  <s key="Show Inspector" value="Részletes adatok"/>
+  <s key="Show Time Bar" value="Idősáv"/>
+  <s key="Show User interface" value="Felhasználói felület"/>
+  <s key="Show forecast when current weather is expired" value="Előrejelzés megjelenítése, ha az aktuális időjárás lejárt"/>
+  <s key="Organize" value="Rendezés"/>
+  <s key="Organize locations" value="Helyszínek rendezése"/>
+  <s key="Organize pictures" value="Képek rendezése"/>
+  <s key="Pictures" value="Képek"/>
+  <s key="press" value="nyomd meg ezt:"/>
+  <s key="Falling" value="Süllyed"/>
+  <s key="Falling Rapidly" value="Erősen süllyed"/>
+  <s key="Rising" value="Emelkedik"/>
+  <s key="Rising Rapidly" value="Erősen emelkedik"/>
+  <s key="Steady" value="Állandó"/>
+  <s key="Previous Day" value="Előző nap"/>
+  <s key="Properties" value="Részletek"/>
+  <s key="Refresh Locations data base" value="A hely adatbázis frissítése"/>
+  <s key="Register" value="Regisztráció"/>
+  <s key="Remove" value="Eltávolítás"/>
+  <s key="Rename" value="Átnevezés"/>
+  <s key="Rename location" value="Helyszín átnevezése"/>
+  <s key="Rename picture" value="Kép átnevezése"/>
+  <s key="Retry" value="Újra"/>
+  <s key="Run with Windows (minimized to tray)" value="Futtatás a Windows indulásakor (minimalizálás a tálcára)"/>
+  <s key="Season map" value="Évszak térkép"/>
+  <s key="Select" value="Kiválaszt"/>
+  <s key="Select country" value="Válasszon országot"/>
+  <s key="Select a landscape" value="Válassza ki a tájképet"/>
+  <s key="Select location" value="Válasszon helyszínt"/>
+  <s key="Select region" value="Válasszon régiót"/>
+  <s key="Select state" value="Válasszon államot"/>
+  <s key="Set as default" value="Beállítás alapértelmezettként"/>
+  <s key="Set YoWindow as ScreenSaver" value="YoWindow beállítása képernyőkímélőnek"/>
+  <s key="Setup" value="Beállítás"/>
+  <s key="Show" value="Mutatás"/>
+  <s key="Show again" value="Mutassa újra"/>
+  <s key="Speed" value="Sebesség"/>
+  <s key="Time" value="Idő"/>
+  <s key="{0} ago" value="{0}e"/>
+  <s key="Time zone" value="Időzóna"/>
+  <s key="Today" value="Ma"/>
+  <s key="Tomorrow" value="Holnap"/>
+  <s key="Tom." value="Holnap"/>
+  <s key="Tonight" value="Éjjel"/>
+  <s key="Add New Location" value="Új helyszín hozzáadása"/>
+  <s key="Open Calendar..." value="Naptár megnyitása..."/>
+  <s key="Show Less Days" value="Kevesebb nap megjelenítése"/>
+  <s key="Show More Days" value="Több nap megjelenítése"/>
+  <s key="Update Weather" value="Időjárás frissítése"/>
+  <s key="Unknown" value="Ismeretlen"/>
+  <s key="Up" value="Fel"/>
+  <s key="Update interval" value="Frissítés gyakorisága"/>
+  <s key="Update weather" value="Időjárás frissítése"/>
+  <s key="Updating weather" value="Időjárás frissítése"/>
+  <s key="View" value="Megjelenítés"/>
+  <s key="Please wait..." value="Kérem várjon..."/>
+  <s key="Weather" value="Időjárás"/>
+  <s key="Daily rain total" value="Napi csapadékösszeg"/>
+  <s key="Weather expired" value="Időjárás lejárt"/>
+  <s key="Feels like" value="Hőérzet"/>
+  <s key="Day maximum temperature" value="Napi maximum-hőmérséklet"/>
+  <s key="Day minimum temperature" value="Napi minimum-hőmérséklet"/>
+  <s key="Weather forecast" value="Időjárás-előrejelzés"/>
+  <s key="Forecast issued" value="Előrejelzés kiadva"/>
+  <s key="Hail" value="Jégeső"/>
+  <s key="Humidity" value="Páratartalom"/>
+  <s key="Observed" value="Megfigyelés"/>
+  <s key="Pressure" value="Légnyomás"/>
+  <s key="PWS only" value="Csak PWS"/>
+  <s key="Rain" value="Eső"/>
+  <s key="Rain/Snow rate" value="Eső/Hó arány"/>
+  <s key="Description" value="Égkép leírása"/>
+  <s key="Sky image" value="Égkép"/>
+  <s key="Snow" value="Havazás"/>
+  <s key="Snow level" value="Hóhatár"/>
+  <s key="Weather station properties" value="Meteorológiai állomás tulajdonságai"/>
+  <s key="Temperature" value="Hőmérséklet"/>
+  <s key="Temperature range" value="Hőmérsékleti szélsőértékek"/>
+  <s key="Update error" value="Frissítési hiba"/>
+  <s key="Update time" value="Frissítési idő"/>
+  <s key="UV index" value="UV-index"/>
+  <s key="Visibility" value="Látástávolság"/>
+  <s key="Unlimited" value="Korlátlan"/>
+  <s key="Wind" value="Szél"/>
+  <s key="Calm" value="szélcsend"/>
+  <s key="Variable" value="változó"/>
+  <s key="Welcome to YoWindow!" value="Köszönti a YoWindow!"/>
+  <s key="Wind direction:" value="Szélirány:"/>
+  <s key="East" value="Kelet"/>
+  <s key="North" value="Észak"/>
+  <s key="South" value="Dél"/>
+  <s key="West" value="Nyugat"/>
+  <s key="Yes" value="Igen"/>
+  <s key="Close screensaver on mouse move" value="A képernyőkímélő bezárása az egér megmozdításával"/>
+  <s key="Color" value="Szín"/>
+  <s key="Background" value="Háttér"/>
+  <s key="Choose color" value="Színválaszték"/>
+  <s key="System tray" value="Értesítési terület"/>
+  <s key="Transparent" value="Áttetsző"/>
+  <s key="Precipitation chance" value="Csapadék esélye"/>
+  <s key="Rain chance" value="Eső esélye"/>
+  <s key="Snow chance" value="Havazás esélye"/>
+  <s key="{0} only" value="csak {0}"/>
+  <s key="US" value="US"/>
+  <s key="Dew point" value="Harmatpont"/>
+  <s key="I want to have fun" value="Szórakoztató elemek engedélyezése"/>
+  <s key="Enable surprises"/>
+  <s key="NWS forecasts for the USA" value="NWS előrejelzések az USA-ban"/>
+  <s key="h" value="óra"/>
+  <s key="min" value="perc"/>
+  <s key="Open" value="Megnyitás"/>
+  <s key="Browse" value="Tallózás"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Adja meg a tájkép helyét az interneten vagy a számítógépén"/>
+  <s key="Landscape load error" value="Tájkép betöltési hiba"/>
+  <s key="Picture load error" value="A kép betöltése sikertelen"/>
+  <s key="The landscape is already added" value="A tájkép már hozzáadva"/>
+  <s key="Landscape collection" value="Tájkép kollekció"/>
+  <s key="Turn your photo into Landscape" value="Útmutató saját fotó tájképbe illesztéséhez"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Tudja meg{1} hogyan kell egy fotót a tájképbe illeszteni"/>
+  <s key="Village" value="Vidéki látkép"/>
+  <s key="Seaside" value="Tengerpart"/>
+  <s key="Airport" value="Repülőtér"/>
+  <s key="Oriental" value="Távol-Kelet"/>
+  <s key="Sky" value="Égbolt"/>
+  <s key="Landscape made from picture" value="Tájkép készítése"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Ez az útmutató segítséget nyújt ahhoz, hogyan illesszünk be egy képet a YoWindow tájképébe."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Elsőként kérjük olvassa el az alábbi leírást: {0}How to turn a picture into Landscape?{1}"/>
+  <s key="Click Next to continue..." value="Kattintson a Tovább gombra a folytatáshoz..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Válasszon egy képet, amit a tájképhez kíván használni."/>
+  <s key="How to pick the best landscape picture?" value="Hogyan válasszuk ki a legjobb tájképet?"/>
+  <s key="Source picture" value="A kép helye"/>
+  <s key="The landscape will be created in the following folder" value="A tájkép a következő mappába fog kerülni"/>
+  <s key="Landscape folder name" value="Tájkép mappa neve"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Kattintson az &quot;Elkészítés&quot; gombra, hogy elkészítse a(z) {0} tájképet"/>
+  <s key="{0} landscape has been created successfully!" value="A(z) {0} tájkép sikeresen elkészült!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Most nyissa meg a(z) {0} tájképet kedvenc képszerkesztő programjában. El kell távolítania az égboltot a képről. A képet itt találja: {1}Tájkép mappa{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Egyszerű eltávolítani az égboltot. Olvassa el hozzá rövid {0}leírásunkat{1}."/>
+  <s key="Auto" value="Automatikus"/>
+  <s key="Horizon Level Setup" value="Horizont beállítása"/>
+  <s key="Keys: Up/Down" value="Gombok: Fel/Le"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="A következő tájkép törlésére készül: {0}. A művelet nem visszafordítható. Biztos benne?"/>
+  <s key="Edit Landscape" value="Tájkép szerkesztése"/>
+  <s key="Edit Horizon Level" value="Horizont szerkesztése"/>
+  <s key="File not found." value="A fájl nem található."/>
+  <s key="The name is empty" value="A névmező üres"/>
+  <s key="The folder already exists" value="A mappa már létezik"/>
+  <s key="Illegal folder name" value="Nem megfelelő mappanév"/>
+  <s key="The file format is not supported." value="A fájlformátum nem támogatott."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="A kép túl nagy a YoWindow számára. A kép szélessége és magassága sem haladhatja meg a 2880 pixelt."/>
+  <s key="Landscape Image" value="Tájkép"/>
+  <s key="Landscape Folder" value="Tájkép mappa"/>
+  <s key="About Landscape" value="A tájképről"/>
+  <s key="Picture {0} imported successfully" value="A(z) {0} tájkép sikeresen beillesztve"/>
+  <s key="Remind Me Later" value="Emlékeztessen később"/>
+  <s key="Skip This Version" value="A verzió kihagyása"/>
+  <s key="Loading" value="Töltés"/>
+  <s key="Next" value="Tovább"/>
+  <s key="Back" value="Vissza"/>
+  <s key="Finish" value="Befejezés"/>
+  <s key="Create" value="Létrehozás"/>
+  <s key="Import" value="Beillesztés"/>
+  <s key="Delete" value="Törlés"/>
+  <s key="Path" value="Elérési út"/>
+  <s key="Options" value="Beállítások"/>
+  <s key="Select the options you like" value="Válasszon a beállítások közül"/>
+  <s key="Set YoWindow as default screen saver" value="A YoWindow beállítása alapértelmezett képernyőkímélőnek"/>
+  <s key="Start with Windows (minimized to system tray)" value="A Windows-zal induljon (minimalizálás a tálcára)"/>
+  <s key="Add a shortcut to quick launch bar" value="Parancsikon hozzáadása a gyorsindítás menüben"/>
+  <s key="You are about to upgrade YoWindow." value="A YoWindow frissítésére készül."/>
+  <s key="Click OK to install the new version." value="Kattintson az OK gombra az új verzió telepítéséhez."/>
+  <s key="You must close YoWindow before you can continue." value="Zárja be a YoWindow programot a folytatáshoz."/>
+  <s key="After you have closed YoWindow, select Retry." value="Miután bezárta, próbálja Újra."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Ha meg akarja szakítani az eltávolítást, válassza a Mégse gombot."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Ha mindenképpen folytatni akarja a telepítést, válassza az Ismét parancsot."/>
+  <s key="If you wish to abort the installation, select Abort." value="Ha meg akarja szakítani a telepítést, válassza a Kihagyás parancsot."/>
+  <s key="Final step" value="Utolsó lépés"/>
+  <s key="Start YoWindow on system startup" value="YoWindow futtatása a rendszer indításával"/>
+  <s key="Check for new version..." value="Új verzió keresése..."/>
+  <s key="YoWindow is up to date!" value="Az Ön YoWindow programja naprakész"/>
+  <s key="You have the latest version" value="Ön a YoWindow legfrissebb verzióját használja"/>
+  <s key="Download new version!" value="Új verzió letöltése!"/>
+  <s key="Preview" value="Előnézet"/>
+  <s key="Show small YoWindow logo" value="Kisméretű YoWindow logó megjelenítése"/>
+  <s key="The landscape is available in Unlimited Edition only." value="A tájkép csak a Teljes verzióban érhető el."/>
+  <s key="id_short_hour" value="óra"/>
+  <s key="id_short_minute" value="perc"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="láb"/>
+  <s key="id_unit_short_miles" value="mérföld"/>
+  <s key="id_unit_short_miles_per_hour" value="mérföld/h"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="csomó"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="inch"/>
+  <s key="Display &quot;?&quot;" value="&quot;?&quot; megjelenítése"/>
+  <s key="Hide parameter" value="Paraméter elrejtése"/>
+  <s key="When weather parameter is not available" value="Ha az időjárási paraméter nem áll rendelkezésre"/>
+  <s key="Information" value="Információk"/>
+  <s key="id_information_all" value="Minden adat"/>
+  <s key="Temperature and Time" value="Hőmérséklet és idő"/>
+  <s key="This is Unlimited Edition." value="Ez a Teljes verzió."/>
+  <s key="It is already registered." value="Ön már regisztrált."/>
+  <s key="Free edition" value="Ingyenes verzió"/>
+  <s key="Unlimited edition" value="Teljes verzió"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="A YoWindow használatához telepíteni kell a Flash Player {0} vagy későbbi verzióját (az Internet Explorer számára)."/>
+  <s key="Get Adobe Flash Player" value="Az Adobe Flash Player letöltése"/>
+  <s key="Unlock landscape" value="Tájkép feloldása"/>
+  <s key="YoWindow for Chrome" value="YoWindow a Google Chrome-ban"/>
+  <s key="YoWindow for Windows" value="YoWindow Windows rendszerre"/>
+  <s key="YoWindow for Mac OS" value="YoWindow Macintosh rendszerre"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow iPhone-ra és iPad-re"/>
+  <s key="Follow YoWindow on Facebook" value="A YoWindow követése a Facebookon"/>
+  <s key="Follow YoWindow on Twitter" value="A YoWindow követése a Twitteren"/>
+  <s key="Landscape trial, days left:" value="A tájkép használatából hátralévő napok száma:"/>
+  <s key="Landscape trial period is over" value="A tájkép már nem használható ingyenesen"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="A &quot;{0}&quot; tájkép a YoWindow Teljes verziójának a része."/>
+  <s key="Details" value="Tudnivalók"/>
+  <s key="View direction" value="Nézőpont iránya"/>
+  <s key="Fixed sky" value="Rögzített égbolt"/>
+  <s key="Edit" value="Szerkesztés"/>
+  <s key="Reload" value="Újratöltés"/>
+  <s key="Minimized" value="Minimalizálás"/>
+  <s key="affects wind only" value="csak a szélirányt befolyásolja"/>
+  <s key="Broadcast" value="Közvetítés"/>
+  <s key="Share" value="Megosztás"/>
+  <s key="Publishing" value="Közzététel"/>
+  <s key="Authorizing" value="Engedélyezés"/>
+  <s key="Published!" value="Sikeres közzététel!"/>
+  <s key="Space" value="Space"/>
+  <s key="Weather now in {0}" value="{0} jelenlegi időjárása"/>
+  <s key="Weather forecast for {0} in {1}" value="Időjárás-előrejelzés: {1}, {0}"/>
+  <s key="Today in {0} (forecast)" value="{0} mára előrejelzett időjárása"/>
+  <s key="Tomorrow in {0} (forecast)" value="{0} holnapra előrejelzett időjárása"/>
+  <s key="Forecast" value="Előrejelzés"/>
+  <s key="Sound" value="Hang"/>
+  <s key="Enable sound" value="Hangok engedélyezése"/>
+  <s key="Volume" value="Hangerő"/>
+  <s key="Skip" value="Kihagyás"/>
+  <s key="Presented in Stereo" value="Sztereó hangminőség"/>
+  <s key="Override current season" value="Az évszak kézi beállítása"/>
+  <s key="Winter" value="Havas tél"/>
+  <s key="Spring" value="Tavasz"/>
+  <s key="Summer" value="Nyár"/>
+  <s key="Autumn" value="Ősz"/>
+  <s key="Naked" value="Tél"/>
+  <s key="Countries" value="Országok"/>
+  <s key="Vote!" value="Szavazz!"/>
+  <s key="Vote for YoWindow, thank you" value="Szavazzon a YoWindow-ra, köszönjük"/>
+  <s key="More YoWindow" value="Még több YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="Csúsztassa ujját a képernyőn, hogy lássa az időjárás időbeli változását"/>
+  <s key="And one more time" value="... és még egyszer"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Nyomja meg az 'ÉLŐ' gombot, hogy visszatérjen az aktuális időhöz"/>
+  <s key="Watch weather with pleasure" value="Tekintsen örömmel az időjárásra"/>
+  <s key="Disable Auto-Lock" value="Automatikus lezárás tiltása"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Bekapcsolva tartja a képernyőt, ha a készülék töltés alatt áll vagy a töltöttség 25% feletti."/>
+  <s key="More" value="Továbbiak"/>
+  <s key="Parallax effect" value="Parallax effektus"/>
+  <s key="An illusion of 3D space when you tilt the device" value="3D térhatás jelentkezése a készülék megdöntése során"/>
+  <s key="Temperature in Status Bar" value="Hőmérséklet kijelzése az állapotsorban"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Az &quot;Otthoni&quot; helyszín hőmérsékletének megjelenítése"/>
+  <s key="Not enough free space." value="Nincs elegendő szabad memória."/>
+  <s key="YoWindow may run unstable." value="A YoWindow instabillá válhat."/>
+  <s key="{0} MB minimum required." value="Legalább {0} MB szükséges."/>
+  <s key="YoWindow Weather" value="YoWindow Időjárás"/>
+  <s key="YoWindow Zero" value="YoWindow Zéró"/>
+  <s key="Get Full Version" value="Teljes verzió letöltése"/>
+  <s key="No ads, no limitations, all landscapes available" value="Nincsenek hirdetések, nincs korlátozás és minden tájkép elérhető"/>
+  <s key="No advertising"/>
+  <s key="Remove ads" value="Hirdetések eltávolítása"/>
+  <s key="Weather forecast is limited" value="Az időjárás-előrejelzés korlátozott"/>
+  <s key="Demo" value="Demó mód"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; A tájképhez való hozzáférés korlátozott."/>
+  <s key="Connecting to {0}" value="Csatlakozás a következőhöz: {0}"/>
+  <s key="Camera" value="Kamera"/>
+  <s key="Photos" value="Fényképek"/>
+  <s key="Wallpaper" value="Háttérkép"/>
+  <s key="Enable animations" value="Animációk engedélyezése"/>
+  <s key="Show weather" value="Időjárási adatok megjelenítése"/>
+  <s key="No animation - almost no battery power consumed." value="Nincs animáció - nincs számottevő akkumulátor-használat."/>
+  <s key="Widget Settings" value="Widget beállítások"/>
+  <s key="Create Widget" value="Widget létrehozása"/>
+  <s key="Tap to search for a location" value="Érintse meg helyszín kereséséhez"/>
+  <s key="Show background" value="Háttér megjelenítése"/>
+  <s key="Move On Top" value="Mozgatás a lista elejére"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="&quot;Ingyenes YoWindow&quot; eltávolítása"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="A YoWindow Teljes és Ingyenes verziója is telepítve van a készülékén."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Kérjük, távolítsa el az Ingyenes YoWindow-t a stabilitás biztosítása érdekében."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Adjon hozzá YoWindow widgeteket - kövesse kényelmesen az időjárás-előrejelzést"/>
+  <s key="Tap to continue" value="Érintse meg a folytatáshoz"/>
+  <s key="YoWindow installed on an external storage." value="A YoWindow külső adattárolóra lett telepítve."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="FIGYELMEZTETÉS: a YoWindow élő háttérkép és a widgetek lehet, hogy nem lesznek elérhetőek, ha a YoWindow külső adattárolóra (SD-kártya) van telepítve."/>
+  <s key="Location Search" value="Helyszín keresése"/>
+  <s key="Redeem code" value="Promóciós kód beváltása"/>
+  <s key="Full Version privilege granted." value="A Teljes Verzió immáron szabadon használható."/>
+  <s key="Advertising removed, no limitations." value="Hirdetések eltávolítva, nincsenek korlátozások."/>
+  <s key="Unexpected code" value="Ismeretlen kód"/>
+  <s key="Restore privileges" value="Bővített jogosultságok visszaállítása"/>
+  <s key="Set As Wallpaper"/>
+  <s key="Post"/>
+  <s key="Enter the message"/>
+  <s key="Fill in the weather"/>
+  <s key="You just have posted to Facebook!"/>
+</body>

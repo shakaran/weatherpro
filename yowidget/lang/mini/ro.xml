@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Renunţă"/>
+  <s key="Change" value="Modifică"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Prognoză meteo de la {0}, asigurată de Institutul Meteorologic Norwegian şi de NRK"/>
+  <s key="Forecast from {0}" value="Prognoză de la {0}"/>
+  <s key="Friday" value="Vineri"/>
+  <s key="Monday" value="Luni"/>
+  <s key="Saturday" value="Sâmbătă"/>
+  <s key="Sunday" value="Duminică"/>
+  <s key="Thursday" value="Joi"/>
+  <s key="Tuesday" value="Marţi"/>
+  <s key="Wednesday" value="Miercuri"/>
+  <s key="Fr" value="Vi"/>
+  <s key="Mo" value="Lu"/>
+  <s key="Sa" value="Sâ"/>
+  <s key="Su" value="Du"/>
+  <s key="Th" value="Jo"/>
+  <s key="Tu" value="Ma"/>
+  <s key="We" value="Mi"/>
+  <s key="LIVE" value="ACUM"/>
+  <s key="Loading" value="Se încarcă"/>
+  <s key="April" value="Aprilie"/>
+  <s key="August" value="August"/>
+  <s key="December" value="Decembrie"/>
+  <s key="February" value="Februarie"/>
+  <s key="January" value="Ianuarie"/>
+  <s key="July" value="Iulie"/>
+  <s key="June" value="Iunie"/>
+  <s key="March" value="Martie"/>
+  <s key="May" value="Mai"/>
+  <s key="November" value="Noiembrie"/>
+  <s key="October" value="Octombrie"/>
+  <s key="September" value="Septembrie"/>
+  <s key="Network error" value="Eroare reţea"/>
+  <s key="No weather" value="Fără prognoză"/>
+  <s key="Retry" value="Reîncearcă"/>
+  <s key="Tomorrow" value="Mâine"/>
+  <s key="Updating weather" value="Actualizează vremea"/>
+  <s key="Please wait..." value="Vă rugăm aşteptaţi..."/>
+  <s key="Weather expired" value="Expirare prognoză"/>
+  <s key="Loading" value="Se încarcă"/>
+</body>

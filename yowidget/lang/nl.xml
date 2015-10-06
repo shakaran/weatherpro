@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Schakel licentie uit (!)"/>
+  <s key="Absent" value="Afwezig"/>
+  <s key="Add" value="Toevoegen"/>
+  <s key="Animate" value="Animatie"/>
+  <s key="Apply" value="Toepassen"/>
+  <s key="Astronomy" value="Astronomie"/>
+  <s key="Day Length" value="Daglengte"/>
+  <s key="Moon Phase" value="Maanfase"/>
+  <s key="Sunrise" value="Zonsopkomst"/>
+  <s key="Sunset" value="Zonsondergang"/>
+  <s key="Auto update weather" value="Auto update weer"/>
+  <s key="Bad ICAO code" value="Onbekende ICAO code"/>
+  <s key="Buy YoWindow Unlimited!" value="Koop ongelimiteerde versie"/>
+  <s key="Calendar" value="Kalender"/>
+  <s key="Cancel" value="Annuleren"/>
+  <s key="Change" value="Wijzig"/>
+  <s key="Code" value="Code"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Weersverwachting van {0}, uitgebracht door het Meteorologisch Instituut Noorwegen en het NRK"/>
+  <s key="Forecast from {0}" value="Verwachting van {0}"/>
+  <s key="Current weather" value="Actueel weer"/>
+  <s key="Friday" value="Vrijdag"/>
+  <s key="Monday" value="Maandag"/>
+  <s key="Saturday" value="Zaterdag"/>
+  <s key="Sunday" value="Zondag"/>
+  <s key="Thursday" value="Donderdag"/>
+  <s key="Tuesday" value="Dinsdag"/>
+  <s key="Wednesday" value="Woensdag"/>
+  <s key="Fr" value="Vrij"/>
+  <s key="Mo" value="Ma"/>
+  <s key="Sa" value="Zat"/>
+  <s key="Su" value="Zon"/>
+  <s key="Th" value="Don"/>
+  <s key="Tu" value="Din"/>
+  <s key="We" value="Woe"/>
+  <s key="day ago" value="dag geleden"/>
+  <s key="days ago" value="dagen geleden"/>
+  <s key="Default" value="Standaard"/>
+  <s key="Blowing" value="Opwaaiende"/>
+  <s key="Clear" value="Onbewolkt"/>
+  <s key="Cloudy" value="Bewolkt"/>
+  <s key="Overcast" value="Zwaar bewolkt"/>
+  <s key="Drizzle" value="Motregen"/>
+  <s key="Fair" value="Helder"/>
+  <s key="Fog" value="Mist"/>
+  <s key="Freezing" value="Vorst"/>
+  <s key="Hail" value="Hagel"/>
+  <s key="Haze" value="Nevel"/>
+  <s key="Heavy" value="Zware"/>
+  <s key="Ice Crystals" value="IJskristallen"/>
+  <s key="Ice Pellets" value="Hagelstenen"/>
+  <s key="In Vicinity" value="In omgeving"/>
+  <s key="Light" value="Lichte"/>
+  <s key="Low Drifting" value="Laag opwaaiend(e)"/>
+  <s key="Mist" value="Mist"/>
+  <s key="Mostly Cloudy" value="Meest bewolkt"/>
+  <s key="Partial" value="Gedeeltelijk"/>
+  <s key="Partly Cloudy" value="Gedeeltelijk bewolkt"/>
+  <s key="Patches" value="Vlagen"/>
+  <s key="Rain" value="Regen"/>
+  <s key="Rain And Thunder" value="Regen en onweer"/>
+  <s key="Sand" value="Zandbank"/>
+  <s key="Shallow" value="Vlagen"/>
+  <s key="Shower" value="Buien"/>
+  <s key="Shower With Thunder" value="Buien met onweer"/>
+  <s key="Sleet" value="Natte sneeuw"/>
+  <s key="Small Hail" value="Lichte hagel"/>
+  <s key="Smoke" value="Nevelig"/>
+  <s key="Snow" value="Sneeuw"/>
+  <s key="Snow And Thunder" value="Sneeuw en onweer"/>
+  <s key="Snow Grains" value="Sneeuwvlokken"/>
+  <s key="Snow Showers" value="Sneeuwbuien"/>
+  <s key="Thunderstorm" value="Onweer"/>
+  <s key="Unknown Precipitation" value="Neerslag onbekend"/>
+  <s key="Widespread Dust Haze" value="Stofstorm"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Licentiesleutel ongeldig. Probeer het opnieuw. Let op dat u de juiste sleutel intoetst. Probeer copy en paste."/>
+  <s key="Wrong license key" value="Verkeerde licentiesleutel"/>
+  <s key="You will have to restart the application for this to take effect" value="Opnieuw opstarten om wijzigingen door te voeren"/>
+  <s key="Language change" value="Wijzig Taal"/>
+  <s key="No limits!" value="Onbeperkt!"/>
+  <s key="Buy now!" value="Koop nu!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Koop een licentie om beperkingen te voorkomen"/>
+  <s key="Not now" value="Later"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Voer de licentiesleutel in. U kunt copy en paste gebruiken."/>
+  <s key="License registration" value="Licentie registratie"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Dank u voor de registratie van YoWindow! Alle beperkingen zijn nu opgeheven. Veel plezier!"/>
+  <s key="Distance" value="Afstand"/>
+  <s key="Down" value="Omlaag"/>
+  <s key="Download" value="Download"/>
+  <s key="Enter weather source URL please" value="Voer weerbron URL in a.u.b."/>
+  <s key="Error" value="Fout"/>
+  <s key="The location is already added" value="Deze locatie is reeds toegevoegd"/>
+  <s key="Exit" value="Afsluiten"/>
+  <s key="To get started, pick your home location" value="Kies uw thuislocatie"/>
+  <s key="Forecast Panel" value="Verwachtingsscherm"/>
+  <s key="Full Screen" value="Volledig scherm"/>
+  <s key="Help" value="Help"/>
+  <s key="Highlight weather station parameters" value="Geef eigen weerstation parameters weer"/>
+  <s key="Home" value="Thuis"/>
+  <s key="h" value="u"/>
+  <s key="Inspector" value="Inspectiescherm"/>
+  <s key="Landscape" value="Landschap"/>
+  <s key="Foreground" value="Voorgrond"/>
+  <s key="Landscape Options" value="Landschapsopties"/>
+  <s key="Landscape pictures" value="Landschapsafbeeldingen"/>
+  <s key="Landscapes" value="Landschappen"/>
+  <s key="Language:" value="Taal:"/>
+  <s key="English" value="Engels"/>
+  <s key="System Default" value="Standaard Taal"/>
+  <s key="Latitude" value="Breedtegraad"/>
+  <s key="{0} locations" value="(0) locaties"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="U kunt maximaal {0} locaties toevoegen. In de ongelimiteerde versie kunt u zoveel locaties toevoegen als u wilt."/>
+  <s key="Weather auto-update is off" value="Weer auto-update staat uit"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Druk op F5 om het weer te updaten.  Het weer wordt automatisch geupdate in de ongelimiteerde versie."/>
+  <s key="{0} weather forecast days only" value="Uitsluitend {0} weersvoorspelling dagen"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="U hebt nu toegang tot {0} dagen voor de weersvoorspelling. De ongelimiteerde versie biedt u {1} dagen weersvoorspelling"/>
+  <s key="Licence key" value="Licentie sleutel"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Weer auto-updated in Ongelimiteerde Versie"/>
+  <s key="LIVE" value="LIVE"/>
+  <s key="Load weather from personal weather station" value="Haal weer van PWS"/>
+  <s key="Loading" value="Laden"/>
+  <s key="Loading landscape..." value="Laad landschap..."/>
+  <s key="Location" value="Locatie"/>
+  <s key="Location ID" value="Locatie-ID"/>
+  <s key="Location Properties" value="Locatie eigenschappen"/>
+  <s key="id_internet_link" value="Internet link"/>
+  <s key="Locations" value="Locaties"/>
+  <s key="All locations" value="Alle locaties"/>
+  <s key="All regions" value="Alle regio's"/>
+  <s key="All states" value="Alle staten"/>
+  <s key="Change landscape" value="Verander landschap"/>
+  <s key="Select a location" value="Selecteer een locatie"/>
+  <s key="The location is already added" value="Deze locatie is reeds toegevoegd"/>
+  <s key="Location is not selected yet" value="Locatie is nog niet geselecteerd"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Hoofdsteden (meer dan 100.000 inwoners)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Netwerk fout, locatieinfo niet toegankelijk. Daarom kan de locatie nu niet worden geselecteerd."/>
+  <s key="No locations in scope" value="Geen locaties in bereik"/>
+  <s key="Scope" value="Bereik"/>
+  <s key="Region" value="Regio"/>
+  <s key="Cannot find a location?" value="Locatie niet aanwezig?"/>
+  <s key="Set as Home" value="Sla op als Thuis"/>
+  <s key="Current Location" value="Huidige locatie"/>
+  <s key="Unknown" value="Onbekend"/>
+  <s key="Longitude" value="Lengtegraad"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Kijkend naar het noorden (westenwind vanaf links)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Kijkend naar het zuiden (westenwind vanaf rechts)"/>
+  <s key="April" value="Apr"/>
+  <s key="August" value="Aug"/>
+  <s key="December" value="Dec"/>
+  <s key="February" value="Feb"/>
+  <s key="January" value="Jan"/>
+  <s key="July" value="Jul"/>
+  <s key="June" value="Jun"/>
+  <s key="March" value="Mrt"/>
+  <s key="May" value="Mei"/>
+  <s key="November" value="Nov"/>
+  <s key="October" value="Okt"/>
+  <s key="September" value="Sep"/>
+  <s key="About" value="Over"/>
+  <s key="Facebook Edition" value="Facebook editie"/>
+  <s key="License Agreement" value="Licentie overeenkomst"/>
+  <s key="Program" value="Programma"/>
+  <s key="Visit our Forum" value="Bezoek ons forum"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow voor uw Site of Blog"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} minuten terug"/>
+  <s key="{0} minutes forward" value="{0} minuten vooruit"/>
+  <s key="Name" value="Naam"/>
+  <s key="Network error" value="Netwerkfout"/>
+  <s key="Network not available" value="Netwerk niet beschikbaar"/>
+  <s key="It is available on {0}" value="Beschikbaar op {0}"/>
+  <s key="New version released" value="Nieuwe versie beschikbaar"/>
+  <s key="Next Day" value="Volgende dag"/>
+  <s key="No" value="Nee"/>
+  <s key="No weather" value="Niet beschikbaar"/>
+  <s key="N/A" value="N/A"/>
+  <s key="Notify me when a new version is available" value="Melden wanneer nieuwe versie beschikbaar is"/>
+  <s key="Online" value="Online"/>
+  <s key="Open {0}" value="Open {1}"/>
+  <s key="Options" value="Opties"/>
+  <s key="Advanced" value="Geavanceerde opties"/>
+  <s key="Application choice" value="Applicatie keuze"/>
+  <s key="Date" value="Datum"/>
+  <s key="Display" value="Display"/>
+  <s key="Animate clouds" value="Toon wolkenanimatie"/>
+  <s key="Default" value="Standaard"/>
+  <s key="Full screen mode" value="Volledig schermmodus"/>
+  <s key="Quality" value="Display kwaliteit"/>
+  <s key="Custom" value="Eigen instellingen"/>
+  <s key="Excellent" value="Uitstekend"/>
+  <s key="Moderate" value="Gemiddeld"/>
+  <s key="Number of days to display:" value="Aantal weer te geven dagen:"/>
+  <s key="Tile contents:" value="Inhoud:"/>
+  <s key="General" value="Algemeen"/>
+  <s key="Contents" value="Inhoud"/>
+  <s key="Show N/A parameters" value="Toon N/A parameters"/>
+  <s key="Live indicator" value="Live aanduiding"/>
+  <s key="Locations" value="Locaties"/>
+  <s key="Operation successful!" value="Handeling succesvol!"/>
+  <s key="Refresh locations DB" value="Vernieuw locatie database"/>
+  <s key="Reset to defaults" value="Standaardinstellingen"/>
+  <s key="Add" value="Toevoegen"/>
+  <s key="User interface" value="Gebruikersinterface"/>
+  <s key="Screen saver" value="Schermbeveiliging"/>
+  <s key="Time Bar" value="Tijdbalk"/>
+  <s key="Unit system:" value="Systeemeenheden:"/>
+  <s key="Units" value="Eenheden"/>
+  <s key="Auto-detected" value="Automatisch gevonden"/>
+  <s key="Custom" value="Eigen instellingen"/>
+  <s key="Distance:" value="Afstand:"/>
+  <s key="Metric" value="Metrisch"/>
+  <s key="Russia" value="Rusland"/>
+  <s key="Finland" value="Finland"/>
+  <s key="Pressure:" value="Luchtdruk:"/>
+  <s key="Temperature:" value="Temperatuur:"/>
+  <s key="US" value="USA"/>
+  <s key="Wind speed:" value="Windsnelheid:"/>
+  <s key="Landscape Options" value="Landschapsopties"/>
+  <s key="Show Daylight Diagram" value="Toon daglicht grafiek"/>
+  <s key="Show Forecast Panel" value="Toon verwachtingsscherm"/>
+  <s key="Show Full Screen button" value="Toon volledig scherm knop"/>
+  <s key="Show Inspector" value="Toon Inspectiescherm"/>
+  <s key="Show Time Bar" value="Toon tijdbalk"/>
+  <s key="Show User interface" value="Toon gebruikersinterface"/>
+  <s key="Show forecast when current weather is expired" value="Toon verwachting wanneer actueel weer is verlopen"/>
+  <s key="Organize" value="Beheer"/>
+  <s key="Organize locations" value="Locaties beheren"/>
+  <s key="Organize pictures" value="Beheer afbeeldingen"/>
+  <s key="Pictures" value="Afbeeldingen"/>
+  <s key="press" value="Kies"/>
+  <s key="Falling" value="Dalend"/>
+  <s key="Falling Rapidly" value="Snel dalend"/>
+  <s key="Rising" value="Stijgend"/>
+  <s key="Rising Rapidly" value="Snel stijgend"/>
+  <s key="Steady" value="Bestendig"/>
+  <s key="Previous Day" value="Vorige dag"/>
+  <s key="Properties" value="Eigenschappen"/>
+  <s key="Refresh Locations data base" value="Vernieuw locatie database"/>
+  <s key="Register" value="Registreer"/>
+  <s key="Remove" value="Verwijder"/>
+  <s key="Rename" value="Hernoemen"/>
+  <s key="Rename location" value="Hernoem Locatie"/>
+  <s key="Rename picture" value="Hernoem Afbeelding"/>
+  <s key="Retry" value="Opnieuw proberen"/>
+  <s key="Run with Windows (minimized to tray)" value="Opstarten met Windows (in systeembalk)"/>
+  <s key="Season map" value="Seizoensachtergronden"/>
+  <s key="Select" value="Selecteer"/>
+  <s key="Select country" value="Selecteer land"/>
+  <s key="Select a landscape" value="Selecteer landschap"/>
+  <s key="Select location" value="Selecteer locatie"/>
+  <s key="Select region" value="Selecteer regio"/>
+  <s key="Select state" value="Selecteer staat"/>
+  <s key="Set as default" value="Sla op als standaard"/>
+  <s key="Set YoWindow as ScreenSaver" value="Stel YoWindow in als ScreenSaver"/>
+  <s key="Setup" value="Instellen"/>
+  <s key="Show" value="Toon"/>
+  <s key="Show again" value="Toon nogmaals"/>
+  <s key="Speed" value="Snelheid"/>
+  <s key="Time" value="Tijd"/>
+  <s key="{0} ago" value="{0} geleden"/>
+  <s key="Time zone" value="Tijdzone"/>
+  <s key="Today" value="Vandaag"/>
+  <s key="Tomorrow" value="Morgen"/>
+  <s key="Tom." value="Morgen"/>
+  <s key="Tonight" value="Vannacht"/>
+  <s key="Add New Location" value="Voeg nieuwe locatie toe"/>
+  <s key="Open Calendar..." value="Open kalender"/>
+  <s key="Show Less Days" value="Toon minder dagen"/>
+  <s key="Show More Days" value="Toon meer dagen"/>
+  <s key="Update Weather" value="Ververs gegevens"/>
+  <s key="Unknown" value="Onbekend"/>
+  <s key="Up" value="Omhoog"/>
+  <s key="Update interval" value="Update interval"/>
+  <s key="Update weather" value="Ververs gegevens"/>
+  <s key="Updating weather" value="Ophalen gegevens"/>
+  <s key="View" value="Beeld"/>
+  <s key="Please wait..." value="Even wachten a.u.b."/>
+  <s key="Weather" value="Weer"/>
+  <s key="Daily rain total" value="Dagelijks regentotaal"/>
+  <s key="Weather expired" value="Actueel weer verlopen"/>
+  <s key="Feels like" value="Gevoelstemp."/>
+  <s key="Day maximum temperature" value="Maximum dag temperatuur"/>
+  <s key="Day minimum temperature" value="Minimum dag temperatuur"/>
+  <s key="Weather forecast" value="Weersverwachting"/>
+  <s key="Forecast issued" value="Update"/>
+  <s key="Hail" value="Hagel"/>
+  <s key="Humidity" value="Vochtigheid"/>
+  <s key="Observed" value="Laatste update"/>
+  <s key="Pressure" value="Luchtdruk"/>
+  <s key="PWS only" value="Alleen eigen weerstation"/>
+  <s key="Rain" value="Regen"/>
+  <s key="Rain/Snow rate" value="Hoeveelheid neerslag"/>
+  <s key="Description" value="Beschrijving"/>
+  <s key="Sky image" value="Weericonen"/>
+  <s key="Snow" value="Sneeuw"/>
+  <s key="Snow level" value="Sneeuwhoogte"/>
+  <s key="Weather station properties" value="Weerstation eigenschappen"/>
+  <s key="Temperature" value="Temperatuur"/>
+  <s key="Temperature range" value="Temperatuurbereik"/>
+  <s key="Update error" value="Update fout"/>
+  <s key="Update time" value="Laatste update"/>
+  <s key="UV index" value="UV index"/>
+  <s key="Visibility" value="Zicht"/>
+  <s key="Unlimited" value="Onbeperkt"/>
+  <s key="Wind" value="Wind"/>
+  <s key="Calm" value="Kalm"/>
+  <s key="Variable" value="Variabel"/>
+  <s key="Welcome to YoWindow!" value="Welkom bij YoWindow"/>
+  <s key="Wind direction:" value="Windrichting:"/>
+  <s key="East" value="Oost"/>
+  <s key="North" value="Noord"/>
+  <s key="South" value="Zuid"/>
+  <s key="West" value="West"/>
+  <s key="Yes" value="Ja"/>
+  <s key="Close screensaver on mouse move" value="Sluit schermbeveiliging bij muisbeweging"/>
+  <s key="Color" value="Kleur"/>
+  <s key="Background" value="Achtergrond"/>
+  <s key="Choose color" value="Kies kleur"/>
+  <s key="System tray" value="Systeembalk"/>
+  <s key="Transparent" value="Transparant"/>
+  <s key="Precipitation chance" value="Neerslagkans"/>
+  <s key="Rain chance" value="Regenkans"/>
+  <s key="Snow chance" value="Sneeuwkans"/>
+  <s key="{0} only" value="Alleen {0}"/>
+  <s key="US" value="USA"/>
+  <s key="Dew point" value="Dauwpunt"/>
+  <s key="I want to have fun" value="Ik wil lol hebben"/>
+  <s key="Enable surprises" value="Geef verrassingen vrij"/>
+  <s key="NWS forecasts for the USA" value="NWS voorspellingen voor de USA"/>
+  <s key="h" value="u"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Openen"/>
+  <s key="Browse" value="Zoek"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Open het pad naar een afbeelding of landschap op internet of uw computer"/>
+  <s key="Landscape load error" value="Landschap uploadfout"/>
+  <s key="Picture load error" value="Foto uploadfout"/>
+  <s key="The landscape is already added" value="Het landschap is al toegevoegd"/>
+  <s key="Landscape collection" value="Landschapscollectie"/>
+  <s key="Turn your photo into Landscape" value="Uw foto als Landschap"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Leer{1} uw foto als landschap in te stellen"/>
+  <s key="Village" value="Dorp"/>
+  <s key="Seaside" value="Zeezicht"/>
+  <s key="Airport" value="Luchthaven"/>
+  <s key="Oriental" value="Oosters"/>
+  <s key="Sky" value="Hemel"/>
+  <s key="Landscape made from picture" value="Landschap gemaakt van foto"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="We zullen u begeleiden bij het proces om een foto om te vormen tot YoWindow landschap."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Lees aub onze hulptekst {0}How to turn a picture into Landscape?{1} vooraf"/>
+  <s key="Click Next to continue..." value="Druk op verder om door te gaan..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Kies een foto om als landschap in te stellen."/>
+  <s key="How to pick the best landscape picture?" value="Hoe kiest u de beste landschapsfoto?"/>
+  <s key="Source picture" value="Bron foto"/>
+  <s key="The landscape will be created in the following folder" value="Het landschap wordt in de volgende map gecreëerd"/>
+  <s key="Landscape folder name" value="Landschaps map naam"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Kies &quot;Creëer&quot; toets om landschap {0} te creëren"/>
+  <s key="{0} landscape has been created successfully!" value="{0} Landschap succesvol gecreëerd!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Open nu {0} in uw favoriete foto editor. U moet de lucht in uw foto verwijderen. U vindt de foto in {1} Landschap Map{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Het is eenvoudig om de lucht te verwijderen. Lees onze korte {0}hulptekst{1}."/>
+  <s key="Auto" value="Auto"/>
+  <s key="Horizon Level Setup" value="Horizon niveau Setup"/>
+  <s key="Keys: Up/Down" value="Toetsen: Op/Neer"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="U staat op het punt om landschapsfoto {0} te verwijderen. Deze handeling is niet meer te herstellen. Weet u het zeker?"/>
+  <s key="Edit Landscape" value="Bewerk landschap"/>
+  <s key="Edit Horizon Level" value="Bewerk horizon niveau"/>
+  <s key="File not found." value="Bestand niet gevonden."/>
+  <s key="The name is empty" value="De naam is leeg"/>
+  <s key="The folder already exists" value="De map bestaat reeds"/>
+  <s key="Illegal folder name" value="Ongeldige mapnaam"/>
+  <s key="The file format is not supported." value="Dit bestandsformaat wordt niet ondersteund."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="De foto is te groot voor YoWindow. De afmetingen mogen niet groter zijn dan 2880 pixels breed of hoog."/>
+  <s key="Landscape Image" value="Landschapsfoto"/>
+  <s key="Landscape Folder" value="Landschapsmap"/>
+  <s key="About Landscape" value="Over landschappen"/>
+  <s key="Picture {0} imported successfully" value="Foto {0} succesvol geïmporteerd"/>
+  <s key="Remind Me Later" value="Herinner me later"/>
+  <s key="Skip This Version" value="Sla deze versie over"/>
+  <s key="Loading" value="Laden"/>
+  <s key="Next" value="Verder"/>
+  <s key="Back" value="Terug"/>
+  <s key="Finish" value="Beëindigen"/>
+  <s key="Create" value="Creëer"/>
+  <s key="Import" value="Importeer"/>
+  <s key="Delete" value="Wis"/>
+  <s key="Path" value="Pad"/>
+  <s key="Options" value="Opties"/>
+  <s key="Select the options you like" value="Selecteer de gewenste opties"/>
+  <s key="Set YoWindow as default screen saver" value="Set YoWindow als standaard screensaver"/>
+  <s key="Start with Windows (minimized to system tray)" value="Start met Windows (verkleint naar systeembalk)"/>
+  <s key="Add a shortcut to quick launch bar" value="Voeg starticoon toe aan doelbalk"/>
+  <s key="You are about to upgrade YoWindow." value="U staat op het punt YoWindow te upgraden."/>
+  <s key="Click OK to install the new version." value="Klik op OK om de nieuwe versie te installeren."/>
+  <s key="You must close YoWindow before you can continue." value="U moet YoWindow afsluiten alvorens door te gaan."/>
+  <s key="After you have closed YoWindow, select Retry." value="Nadat u YoWindow hebt afgesloten, selecteer Retry."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Als u het ongeinstalleerde proces wilt afsluiten, selecteer Cancel."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Als u toch wilt installeren, selecteer Ignore."/>
+  <s key="If you wish to abort the installation, select Abort." value="Als u de installatie wilt stoppen, selecteer Abort."/>
+  <s key="Final step" value="Laatste stap"/>
+  <s key="Start YoWindow on system startup" value="Start YoWindow bij het opstarten van het systeem"/>
+  <s key="Check for new version..." value="Controleer op nieuwere versie"/>
+  <s key="YoWindow is up to date!" value="YoWindow is up to date!"/>
+  <s key="You have the latest version" value="U heeft de laatste versie"/>
+  <s key="Download new version!" value="Download nieuwe versie!"/>
+  <s key="Preview" value="Voorbeeld"/>
+  <s key="Show small YoWindow logo" value="Toon klein YoWindow logo"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Het landschap is uitsluitend in de ongelimiteerde versie beschikbaar."/>
+  <s key="id_short_hour" value="u"/>
+  <s key="id_short_minute" value="min."/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="voet"/>
+  <s key="id_unit_short_miles" value="mijl"/>
+  <s key="id_unit_short_miles_per_hour" value="mijl/u"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/u"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="knopen"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Beeldscherm"/>
+  <s key="Hide parameter" value="Verberg parameter"/>
+  <s key="When weather parameter is not available" value="Wanneer de weer parameter niet beschikbaar is"/>
+  <s key="Information" value="Informatie"/>
+  <s key="id_information_all" value="Alle informatie"/>
+  <s key="Temperature and Time" value="Temperatuur en Tijd"/>
+  <s key="This is Unlimited Edition." value="Dit is de ongelimiteerde versie"/>
+  <s key="It is already registered." value="Het is al geregistreerd"/>
+  <s key="Free edition" value="Gratis versie"/>
+  <s key="Unlimited edition" value="Ongelimiteerde versie"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="Om YoWindow te gebruiken moet u Flash Player (voor Internet Explorer) {0} of hoger installeren."/>
+  <s key="Get Adobe Flash Player" value="Download Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Landschap vrijgeven"/>
+  <s key="YoWindow for Chrome" value="YoWindow voor Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow voor Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow voor Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow voor iPhone en iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Volg YoWindow op Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Volg YoWindow op Twitter"/>
+  <s key="Landscape trial, days left:" value="Landschap probeer periode, aantal dagen resterend:"/>
+  <s key="Landscape trial period is over" value="Landschap probeer periode is beëindigd"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; landschap is onderdeel van YoWindow Ongelimiteerd."/>
+  <s key="Details" value="Details"/>
+  <s key="View direction" value="Kijkrichting"/>
+  <s key="Fixed sky" value="Vaste hemel"/>
+  <s key="Edit" value="Bewerken"/>
+  <s key="Reload" value="Herlaad"/>
+  <s key="Minimized" value="Geminimaliseerd"/>
+  <s key="affects wind only" value="Heeft alleen effect op de wind"/>
+  <s key="Broadcast" value="Verzenden"/>
+  <s key="Share" value="Delen"/>
+  <s key="Publishing" value="Publiceren"/>
+  <s key="Authorizing" value="Authoriseren"/>
+  <s key="Published!" value="Gepubliceerd"/>
+  <s key="Space" value="Spatie"/>
+  <s key="Weather now in {0}" value="Het huidige weer in {0}"/>
+  <s key="Weather forecast for {0} in {1}" value="De weersverwachting voor {0} in {1}"/>
+  <s key="Today in {0} (forecast)" value="De weersverwachting vandaag in {0} "/>
+  <s key="Tomorrow in {0} (forecast)" value="De weersverwachting morgen in {0} "/>
+  <s key="Forecast" value="Weersverwachting"/>
+  <s key="Sound" value="Geluid"/>
+  <s key="Enable sound" value="Gebruik geluid"/>
+  <s key="Volume" value="Volume"/>
+  <s key="Skip" value="Overslaan"/>
+  <s key="Presented in Stereo" value="Weergegeven in Stereo"/>
+  <s key="Override current season" value="Overschrijf huidig seizoen"/>
+  <s key="Winter" value="Winter"/>
+  <s key="Spring" value="Lente"/>
+  <s key="Summer" value="Zomer"/>
+  <s key="Autumn" value="Herfst"/>
+  <s key="Naked" value="Kaal"/>
+  <s key="Countries" value="Landen"/>
+  <s key="Vote!" value="Stem!"/>
+  <s key="Vote for YoWindow, thank you" value="Geef YoWindow uw stem, dank u"/>
+  <s key="More YoWindow" value="Meer YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="Beweeg over het scherm om de weersveranderingen in de tijd te zien"/>
+  <s key="And one more time" value="En nog een keer"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Druk op 'LIVE' knop om terug te gaan naar de huidige tijd"/>
+  <s key="Watch weather with pleasure" value="Kijk met plezier naar het weer"/>
+  <s key="Disable Auto-Lock" value="Auto-Lock uitschakelen"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Hou het scherm aan als uw apparaat is aangesloten of de batterij boven de 25% is."/>
+  <s key="More" value="Meer"/>
+  <s key="Parallax effect" value="Parallax (3D) effect"/>
+  <s key="An illusion of 3D space when you tilt the device" value="Een 3D illusie als je het toestel heen en weer kantelt."/>
+  <s key="Temperature in Status Bar" value="Temperatuur in statusbalk"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Laat de temperatuur zien van &quot;Thuis&quot; locatie"/>
+  <s key="Not enough free space." value="Niet genoeg vrije ruimte"/>
+  <s key="YoWindow may run unstable." value="YoWindow kan instabiel worden"/>
+  <s key="{0} MB minimum required." value="Minimaal {0} MB benodigd."/>
+  <s key="YoWindow Weather" value="YoWindow Weer"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="Volledige versie"/>
+  <s key="No ads, no limitations, all landscapes available" value="Geen advertenties, geen beperkingen, alle landschappen beschikbaar"/>
+  <s key="No advertising" value="Geen reclames"/>
+  <s key="Remove ads" value="Verwijder advertenties"/>
+  <s key="Weather forecast is limited" value="Weersvoorspelling is beperkt"/>
+  <s key="Demo" value="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; Landschap toegang is beperkt"/>
+  <s key="Connecting to {0}" value="Verbinden met {0}"/>
+  <s key="Camera" value="Camera"/>
+  <s key="Photos" value="Foto's"/>
+  <s key="Wallpaper" value="Achtergrondafbeelding"/>
+  <s key="Enable animations" value="Animaties inschakelen"/>
+  <s key="Show weather" value="Weer tonen"/>
+  <s key="No animation - almost no battery power consumed." value="Geen animatie - lage batterij consumptie."/>
+  <s key="Widget Settings" value="Widget instellingen"/>
+  <s key="Create Widget" value="Widget aanmaken"/>
+  <s key="Tap to search for a location" value="Tik aan om een locatie te zoeken"/>
+  <s key="Show background" value="Laat achtergrond zien"/>
+  <s key="Move On Top" value="Bovenaan plaatsen"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Zowel de volledige als de gratis versie van YoWindow zijn geinstalleerd."/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Zowel de volledige als de gratis versie van YoWindow zijn geinstalleerd."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Deinstalleer svp YoWindow Free om verwarring te voorkomen."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Voeg YoWindow widgets toe - bekijk de weersvoorspelling comfortabel"/>
+  <s key="Tap to continue" value="Tik aan om door te gaan"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow geinstalleerd in extern geheugen."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="WAARSCHUWING: YoWindow Wallpaper en Widgets zijn mogelijk NIET beschikbaar als YoWindow is geinstalleerd in extern geheugen (SD kaart)."/>
+  <s key="Location Search" value="Locatie zoeken"/>
+  <s key="Redeem code" value="Vrijgeefcode"/>
+  <s key="Full Version privilege granted." value="Volledige versie toegang verleend."/>
+  <s key="Advertising removed, no limitations." value="Advertenies verwijderd, geen beperkingen."/>
+  <s key="Unexpected code" value="Onverwachte code"/>
+  <s key="Restore privileges" value="Herstel toegang"/>
+  <s key="Set As Wallpaper" value="Instellen als achtergrond"/>
+  <s key="Post" value="Posten"/>
+  <s key="Enter the message" value="Voer een boodschap in"/>
+  <s key="Fill in the weather" value="Vul het weer in"/>
+  <s key="You just have posted to Facebook!" value="Je hebt zojuist gepost op Facebook!"/>
+</body>

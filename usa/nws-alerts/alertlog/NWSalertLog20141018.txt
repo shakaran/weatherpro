@@ -1,0 +1,16 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Frost Advisory',
+    1 => 'Test',
+    2 => 1413618660,
+    3 => 1413723600,
+    4 => 'FRY.gif',
+    5 => 'Champaign; Christian; Clark; Clay; Coles; Crawford; Cumberland; De Witt; Douglas; Edgar; Effingham; Fulton; Jasper; Knox; Lawrence; Logan; Macon; Marshall; Mason; McLean; Menard; Moultrie; Peoria; Piatt; Richland; Sangamon; Shelby; Stark; Tazewell; Vermilion; Woodford',
+    6 => 'AREAS OF FROST POSSIBLE OVERNIGHT',
+  ),
+);
+
+?>

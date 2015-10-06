@@ -1,0 +1,26 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Heat Advisory',
+    1 => 'Cedar, IA',
+    2 => 1437120960,
+    3 => 1437264000,
+    4 => 'HTY.gif',
+    5 => 'Benton; Cedar; Clinton; Des Moines; Henry; Iowa; Jefferson; Johnson; Jones; Keokuk; Lee; Linn; Louisa; Muscatine; Scott; Van Buren; Washington',
+    6 => 'DANGEROUS HEAT TODAY AND SATURDAY',
+  ),
+  1 => 
+  array (
+    0 => 'Heat Advisory',
+    1 => 'Clinton, IA',
+    2 => 1437120960,
+    3 => 1437264000,
+    4 => 'HTY.gif',
+    5 => 'Benton; Cedar; Clinton; Des Moines; Henry; Iowa; Jefferson; Johnson; Jones; Keokuk; Lee; Linn; Louisa; Muscatine; Scott; Van Buren; Washington',
+    6 => 'DANGEROUS HEAT TODAY AND SATURDAY',
+  ),
+);
+
+?>

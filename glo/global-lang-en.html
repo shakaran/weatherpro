@@ -1,0 +1,64 @@
+<?php
+if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
+   $filenameReal = __FILE__;			# display source of script if requested so
+   $download_size = filesize($filenameReal);
+   header('Pragma: public');
+   header('Cache-Control: private');
+   header('Cache-Control: no-cache, must-revalidate');
+   header("Content-type: text/plain");
+   header("Accept-Ranges: bytes");
+   header("Content-Length: $download_size");
+   header('Connection: close');
+   readfile($filenameReal);
+   exit;
+}
+$pageName	= 'global-lang-en.html';
+$pageVersion	= '3.20 2015-08-01';
+#-------------------------------------------------------------------------------
+# 3.20 2015-08-01 release 2.8 version
+#-------------------------------------------------------------------------------
+if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
+$SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {$SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName;}
+ws_message ('<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile].' -->');
+#-------------------------------------------------------------------------------
+
+if ( $doLinkTarget == true) {$target = 'target="_blank"';} else {$target = '';}
+// copy of  Saratoga  Version 2.00 - 27-Nov-2012 - initial release
+# The $firstPart is what gets printed when the page is first presented.
+$firstPart = '
+<noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+<br />However, it seems JavaScript is either disabled or not supported by your browser. 
+<br />To view Google Maps, enable JavaScript by changing your browser options, and then  try again.
+</noscript>';
+#
+# The $secondPart is what gets printed under the legend on the map.
+$secondPart = '
+<p>This <a href="http://maps.google.com/" '.$target.'>Google Map</a> shows the locations of current affiliated regional weather network member stations.</p>
+<p><img src="glo/MESO-images/m1.png" width="25" height="25" alt="cluster marker image" /> 
+Markers with numbers indicate clusters of stations - click to zoom the map to show station markers.
+If you click on a marker for a station, a descriptive window will open and show the station features,
+a link to the station\'s homepage, the regional network affiliations for the station, 
+and current conditions at the station (where available).</p>
+';
+#
+# The $thirdPart is what gets printed at the bottom of the page.
+$thirdPart = '
+<p><small>
+If you have a personal weather station publishing to a personal weather website, you can submit a request to have your
+data included in this display by visiting the network for your geography from the list above.
+</small></p>
+';
+#
+$creditPart = '
+<small>Map data from 
+<a href="http://www.northamericanweather.net/" '.$target.'>Affiliated Regional Networks</a> 
+. Original scripts from
+<a href="http://saratoga-weather.org/" '.$target.'>Saratoga-Weather.org</a>
+. Adapted for the 
+<a href="http://leuven-template.eu/" '.$target.'>Leuven-Template</a>.
+</small>
+';
+# ----------------------  version history
+# 3.20 2015-08-01 release 2.8 version 

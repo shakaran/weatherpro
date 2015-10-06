@@ -1,0 +1,7 @@
+<landscape name="Village" type="plugin" id="com.yowindow.village">
+	<data src="village.swf">
+        <about>(C) RepkaSoft
+Art: Yuri Elshin
+Programming: Pavel Repkin</about>
+	</data>
+</landscape>

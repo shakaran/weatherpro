@@ -1,0 +1,68 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Houston',
+    2 => 1421746800,
+    3 => 1421769600,
+    4 => 'FGY.gif',
+    5 => 'Austin; Brazoria; Brazos; Burleson; Chambers; Colorado; Fort Bend; Galveston; Grimes; Harris; Houston; Jackson; Liberty; Madison; Matagorda; Montgomery; Polk; San Jancinto; Trinity; Walker; Waller; Washington; Wharton',
+    6 => 'DENSE FOG ADVISORY REMAINS IN EFFECT THROUGH 10 AM TUESDAY',
+  ),
+  1 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Austin',
+    2 => 1421746800,
+    3 => 1421769600,
+    4 => 'FGY.gif',
+    5 => 'Austin; Brazoria; Brazos; Burleson; Chambers; Colorado; Fort Bend; Galveston; Grimes; Harris; Houston; Jackson; Liberty; Madison; Matagorda; Montgomery; Polk; San Jancinto; Trinity; Walker; Waller; Washington; Wharton',
+    6 => 'DENSE FOG ADVISORY REMAINS IN EFFECT THROUGH 10 AM TUESDAY',
+  ),
+  2 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Galveston',
+    2 => 1421746800,
+    3 => 1421769600,
+    4 => 'FGY.gif',
+    5 => 'Austin; Brazoria; Brazos; Burleson; Chambers; Colorado; Fort Bend; Galveston; Grimes; Harris; Houston; Jackson; Liberty; Madison; Matagorda; Montgomery; Polk; San Jancinto; Trinity; Walker; Waller; Washington; Wharton',
+    6 => 'DENSE FOG ADVISORY REMAINS IN EFFECT THROUGH 10 AM TUESDAY',
+  ),
+  3 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Fort Bend',
+    2 => 1421746800,
+    3 => 1421769600,
+    4 => 'FGY.gif',
+    5 => 'Austin; Brazoria; Brazos; Burleson; Chambers; Colorado; Fort Bend; Galveston; Grimes; Harris; Houston; Jackson; Liberty; Madison; Matagorda; Montgomery; Polk; San Jancinto; Trinity; Walker; Waller; Washington; Wharton',
+    6 => 'DENSE FOG ADVISORY REMAINS IN EFFECT THROUGH 10 AM TUESDAY',
+  ),
+  4 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Corpus Cristi',
+    2 => 1421729580,
+    3 => 1421766000,
+    4 => 'FGY.gif',
+    5 => 'Aransas; Bee; Calhoun; Goliad; Jim Wells; Kleberg; Live Oak; Nueces; San Patricio; TXZ246; Victoria',
+    6 => 'AREAS OF DENSE FOG SPREADING ACROSS THE COASTAL BEND AND
+VICTORIA CROSSROADS',
+  ),
+  5 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'Galveston',
+    2 => 1421770080,
+    3 => 1421769600,
+    4 => 'FGY.gif',
+    5 => 'Chambers; Galveston; Liberty',
+    6 => 'DENSE FOG ADVISORY HAS BEEN EXTENDED THROUGH NOON FOR PARTS OF
+GALVESTON',
+  ),
+);
+
+?>

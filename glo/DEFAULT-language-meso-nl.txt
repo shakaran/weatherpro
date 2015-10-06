@@ -1,0 +1,59 @@
+<?php   
+# language settings - 1 file for every supported language - default always an EN language file is needed !
+# Version 3.20  - 2015-08-14
+#
+define('MESO_THISSTATION',	$ThisStation				);  
+#define('MESO_LONG',		'Regional Weather Network');
+
+define('MESO_BOXPRTB', 		' is trots om lid te zijn van het '.MESO_LONG.'.<br/><br/>
+Wilt u andere stations van dit netwerk bezoeken dan kunt u op de kaart hierboven het destreffende station aan klikken. 
+Ook zijn ze via een van de onderstreepte linken te bereiken.
+De stations laten de volgende weer condities zien: temperatuur, dauwpunt, luchtvochtigheid,
+wind richting en snelheid/windvlaag snelheid, neerslag vandaag, luchtdruk en trend, actuele condities
+en de plaatsnaam waar het weerstation is gelegen.');
+#
+define('MESO_COLSORT', 		'Note: Klik in de tabel op een kolom titel om de waarden in de desbetreffende kolom te ordenen.');
+
+# Tables and title= tags
+define('MESO_PAGEHEAD', 	'Actuele weer condities verkregen van weerstations die lid zijn van het '	);
+define('MESO_CONDHEAD', 	'Actuele weer condities van de weerstations');
+define('MESO_MEMBHEAD', 	'Deelnemende weerstations bij het ');
+
+# table headers
+define('MESO_FEAT', 		'Station<br/>Functies/Hoogte'		);
+define('MESO_STATE', 		'Land'					);
+define('MESO_STATION',		'Station'				);
+#define('MESO_CURHEAD', 		'Current<br />Cond.'		);
+define('MESO_CONDL',		'Actuele condities'			);
+define('MESO_TEMP', 		'Temp.'					);
+define('MESO_TEMPL', 		'Temperatuur'				);
+define('MESO_DEWPT', 		'Dauw punt'				);
+define('MESO_DEWPTABBREV',	'DP'					);
+define('MESO_HUM', 		'Vochtigheid'				);
+define('MESO_HUML', 		'Vochtigheid'				);
+define('MESO_AVGWIND', 		'Wind'					);
+define('MESO_GUSTWIND', 	'Windvlaag'				);
+define('MESO_GUSTABBREV',	'Vlaag'					);
+define('MESO_WINDL', 		'Windrichting en Snelheid'		);
+define('MESO_WIND', 		'Wind'					);
+define('MESO_WINDFROM', 	'Wind uit'				);
+define('MESO_PRECIPS', 		'Regen'					);
+define('MESO_PRECIPSL', 	'Neerslag Vandaag'			);
+define('MESO_BAROB', 		'Luchtdruk'				);
+define('MESO_BAROT', 		'Trend'					);
+define('MESO_BAROL', 		'Luchtdruk en Trend'			);
+define('MESO_SNOB', 		'Sneeuw'				);
+define('MESO_TXTGUST', 		'Windvlaag'				);
+define('MESO_DATAUPDT', 	'Laatste<br />Update'			);
+define('MESO_NOCOND', 		'Actuele condities niet aanwezig'	);
+define('MESO_TOWN',		'Plaatsnaam'				);
+define('MESO_OFFLINE',		'Offline'				); // text to display on mesomap when station data is stale/not available
+
+# for javascript animation control button lables
+define('MESO_RUN', 		'Loop'					);
+define('MESO_PAUSE', 		'Pauze'					);
+define('MESO_STEP', 		'Stap'					);
+
+# date-time appears
+define('MESO_CONDSFROM', 	'Huidige weercondities werden verzameld van ');
+define('MESO_CONDSTO', 		' tot '	);

@@ -1,0 +1,33 @@
+Outside temperature/dew point/baro since yesterday
+format 
+language 0
+tf_mode 1
+last_num 2
+last_ind 2
+tr_ind 0
+crop 0
+xsize 610
+ysize 300
+fontsize 7
+dspmode 0
+left_unit 0
+right_unit 2
+left_measure 1
+left_measuremin 
+left_measuremax 
+right_measure 3
+right_measuremin 
+right_measuremax 
+left_gmode 0
+right_gmode 0
+left_sensors 2
+left_sensor-0 SENSORTEMPOUT (temp)
+left_sensorcolor-0 16711680
+left_sensorname-0 Temperature
+left_sensor-1 SENSORTEMPOUT-dew (temp)
+left_sensorcolor-1 49152
+left_sensorname-1 Dew_point
+right_sensors 1
+right_sensor-0 SENSORBARO (tempin-baro)
+right_sensorcolor-0 33023
+right_sensorname-0 Baro

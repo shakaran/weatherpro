@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Luovuta lisenssi"/>
+  <s key="Absent" value="Puuttuu"/>
+  <s key="Add" value="Lisää"/>
+  <s key="Animate" value="Animaatio"/>
+  <s key="Apply" value="Käytä"/>
+  <s key="Astronomy" value="Astronomia"/>
+  <s key="Day Length" value="Päivän pituus"/>
+  <s key="Moon Phase" value="Kuun vaihe"/>
+  <s key="Sunrise" value="Aurinko nousee"/>
+  <s key="Sunset" value="Aurinko laskee"/>
+  <s key="Auto update weather" value="Päivitä sää automaattisesti"/>
+  <s key="Bad ICAO code" value="Väärä ICAO koodi"/>
+  <s key="Buy YoWindow Unlimited!" value="Osta YoWindow!"/>
+  <s key="Calendar" value="Kalenteri"/>
+  <s key="Cancel" value="Peruuta"/>
+  <s key="Change" value="Vaihda"/>
+  <s key="Code" value="Koodi"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Sääennusteen tarjoaa {0}, toimittaa Norjan ilmatieteen laitos ja NRK"/>
+  <s key="Forecast from {0}" value="Sääennuste: {0}"/>
+  <s key="Current weather" value="Säätila"/>
+  <s key="Friday" value="Perjantai"/>
+  <s key="Monday" value="Maanantai"/>
+  <s key="Saturday" value="Lauantai"/>
+  <s key="Sunday" value="Sunnuntai"/>
+  <s key="Thursday" value="Torstai"/>
+  <s key="Tuesday" value="Tiistai"/>
+  <s key="Wednesday" value="Keskiviikko"/>
+  <s key="Fr" value="Pe"/>
+  <s key="Mo" value="Ma"/>
+  <s key="Sa" value="La"/>
+  <s key="Su" value="Su"/>
+  <s key="Th" value="To"/>
+  <s key="Tu" value="Ti"/>
+  <s key="We" value="Ke"/>
+  <s key="day ago" value="päivä sitten"/>
+  <s key="days ago" value="päivää sitten"/>
+  <s key="Default" value="Oletus"/>
+  <s key="Blowing" value="Tuulta"/>
+  <s key="Clear" value="Selkeää"/>
+  <s key="Cloudy" value="Pilvistä"/>
+  <s key="Overcast" value="Pilvistä"/>
+  <s key="Drizzle" value="Tihkusadetta"/>
+  <s key="Fair" value="Poutaa"/>
+  <s key="Fog" value="Sumua"/>
+  <s key="Freezing" value="Jäätävää"/>
+  <s key="Hail" value="Rakeita"/>
+  <s key="Haze" value="Usvaa"/>
+  <s key="Heavy" value="Voimakasta"/>
+  <s key="Ice Crystals" value="Jääkiteitä"/>
+  <s key="Ice Pellets" value="Rakeita"/>
+  <s key="In Vicinity" value="Lähistöllä"/>
+  <s key="Light" value="Heikkoa"/>
+  <s key="Low Drifting" value="Kinostavaa"/>
+  <s key="Mist" value="Utua"/>
+  <s key="Mostly Cloudy" value="Enimmäkseen pilvistä"/>
+  <s key="Partial" value="Osittain"/>
+  <s key="Partly Cloudy" value="Puolipilvistä"/>
+  <s key="Patches" value="Paikallisia"/>
+  <s key="Rain" value="Sadetta"/>
+  <s key="Rain And Thunder" value="Sadetta ja ukkosta"/>
+  <s key="Sand" value="Heikka"/>
+  <s key="Shallow" value="Matalaa"/>
+  <s key="Shower" value="Sadekuuroja"/>
+  <s key="Shower With Thunder" value="Sadekuuroja ja ukkosta"/>
+  <s key="Sleet" value="Räntää"/>
+  <s key="Small Hail" value="Raesadetta"/>
+  <s key="Smoke" value="Savua"/>
+  <s key="Snow" value="Lumi"/>
+  <s key="Snow And Thunder" value="Lumisadetta ja ukkosta"/>
+  <s key="Snow Grains" value="Lumipyryä"/>
+  <s key="Snow Showers" value="Lumisadekuuroja"/>
+  <s key="Thunderstorm" value="Ukkosta"/>
+  <s key="Unknown Precipitation" value="Sademäärä ei tiedossa"/>
+  <s key="Widespread Dust Haze" value="Pölyusvaa"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Väärä lisenssiavain. Yritä uudelleen. Varmista että kirjoitit lisenssiavaimen oikein. Yritä leikata/liimata lisenssiavain."/>
+  <s key="Wrong license key" value="Väärä lisenssiavain"/>
+  <s key="You will have to restart the application for this to take effect" value="Sinun täytyy käynnistää ohjelma uudelleen, jotta asetus astuu voimaan"/>
+  <s key="Language change" value="Kielen vaihto"/>
+  <s key="No limits!" value="Ei rajoituksia!"/>
+  <s key="Buy now!" value="Osta nyt!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Osta Lisenssi poistaaksesi rajoitukset."/>
+  <s key="Not now" value="Ei nyt"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Suorita rekisteröinti loppuun syöttämällä lähettämämme lisenssiavain. Vinkki: käytä leikkaa/liimaa toimintoa."/>
+  <s key="License registration" value="Lisenssin rekisteröinti"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Kiitos kun rekisteröit YoWindowin! Kaikki rajoitukset on poistettu. Nauti!"/>
+  <s key="Distance" value="Etäisyys"/>
+  <s key="Down" value="Alas"/>
+  <s key="Download" value="Lataa"/>
+  <s key="Enter weather source URL please" value="Syötä sään lähde URL"/>
+  <s key="Error" value="Virhe"/>
+  <s key="The location is already added" value="Sijainti on jo lisätty"/>
+  <s key="Exit" value="Poistu"/>
+  <s key="To get started, pick your home location" value="Valitse ensin kotisijaintisi"/>
+  <s key="Forecast Panel" value="Sääennustepaneli"/>
+  <s key="Full Screen" value="Koko näyttö"/>
+  <s key="Help" value="Ohje"/>
+  <s key="Highlight weather station parameters" value="Korosta sääaseman tiedot"/>
+  <s key="Home" value="Koti"/>
+  <s key="h" value="h"/>
+  <s key="Inspector" value="Säätila"/>
+  <s key="Landscape" value="Maisema"/>
+  <s key="Foreground" value="Etuala"/>
+  <s key="Landscape Options" value="Maisema ominaisuudet"/>
+  <s key="Landscape pictures" value="Maisema kuvat"/>
+  <s key="Landscapes" value="Maisemat"/>
+  <s key="Language:" value="Kieli:"/>
+  <s key="English" value="Englanti"/>
+  <s key="System Default" value="Järjestelmän oletus"/>
+  <s key="Latitude" value="Leveyspiiri"/>
+  <s key="{0} locations" value="{0} sijaintia"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Voit lisätä enintään {0} sijaintia. Rekisteröidyllä versiolla voit lisätä sijainteja haluamasi määrän."/>
+  <s key="Weather auto-update is off" value="Sään automaattinen päivitys poissa käytöstä"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Päivitä sää painamalla F5.  Rekisteröity versio päivittää sään automaattisesti."/>
+  <s key="{0} weather forecast days only" value="Vain {0} päivän sääennuste"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Voit katsella {0} päivän sääennustetta.  Ostamalla lisenssin voit katsella {1} päivän sääennusteita."/>
+  <s key="Licence key" value="Lisenssi avain"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Rekisteröidyssä versiossa on automaattinen sään päivitys"/>
+  <s key="LIVE" value="NYT"/>
+  <s key="Load weather from personal weather station" value="Lataa säätiedot paikallisesta sääasemasta"/>
+  <s key="Loading" value="Lataa"/>
+  <s key="Loading landscape..." value="Lataa maisemaa..."/>
+  <s key="Location" value="Sijainti"/>
+  <s key="Location ID" value="Sijainti ID"/>
+  <s key="Location Properties" value="Sijainnin ominaisuudet"/>
+  <s key="id_internet_link" value="id_internet_link"/>
+  <s key="Locations" value="Paikat"/>
+  <s key="All locations" value="Kaikki paikat"/>
+  <s key="All regions" value="Kaikki alueet"/>
+  <s key="All states" value="Kaikki osavaltiot"/>
+  <s key="Change landscape" value="Vaihda maisema"/>
+  <s key="Select a location" value="Valitse sijainti"/>
+  <s key="The location is already added" value="Sijainti on jo lisätty"/>
+  <s key="Location is not selected yet" value="Sijantia ei ole vielä valittu"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Kaupungit (yli 100,000 asukasta)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Yhteys virhe, sijannin tiedot eivät ole saatavilla. Sijaintia ei voida valita."/>
+  <s key="No locations in scope" value="Ei sijainteja alueella"/>
+  <s key="Scope" value="Ei sijainteja alueella"/>
+  <s key="Region" value="Alue"/>
+  <s key="Cannot find a location?" value="Eikö sijaintia löydy?"/>
+  <s key="Set as Home" value="Aseta Kodiksi"/>
+  <s key="Current Location" value="Nykyinen sijainti"/>
+  <s key="Unknown" value="Tuntematon"/>
+  <s key="Longitude" value="Pituuspiiri"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Katse pohjoiseen (Länsituuli tuulee vasemmalta)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Katse etelään (Länsituuli puhaltaa oikealta)"/>
+  <s key="April" value="Huhtikuu"/>
+  <s key="August" value="Elokuu"/>
+  <s key="December" value="Joulukuu"/>
+  <s key="February" value="Helmikuu"/>
+  <s key="January" value="Tammikuu"/>
+  <s key="July" value="Heinäkuu"/>
+  <s key="June" value="Kesäkuu"/>
+  <s key="March" value="Maaliskuu"/>
+  <s key="May" value="Toukokuu"/>
+  <s key="November" value="Marraskuu"/>
+  <s key="October" value="Lokakuu"/>
+  <s key="September" value="Syyskuu"/>
+  <s key="About" value="Tietoja"/>
+  <s key="Facebook Edition" value="Facebook Edition"/>
+  <s key="License Agreement" value="Lisenssisopimus"/>
+  <s key="Program" value="Ohjelma"/>
+  <s key="Visit our Forum" value="Vieraile Foorumilla"/>
+  <s key="YoWindow for your Site or Blog" value="Lisää YoWindow sivustolle tai Blogiin"/>
+  <s key="m" value="min"/>
+  <s key="{0} minutes back" value="{0} minuuttia taaksepäin"/>
+  <s key="{0} minutes forward" value="{0} minuuttia eteenpäin"/>
+  <s key="Name" value="Nimi"/>
+  <s key="Network error" value="Yhteysvirhe"/>
+  <s key="Network not available" value="Ei verkkoa"/>
+  <s key="It is available on {0}" value="Uusi versio saatavilla {0}"/>
+  <s key="New version released" value="Uusi versio julkaistu"/>
+  <s key="Next Day" value="Seuraava päivä"/>
+  <s key="No" value="Ei"/>
+  <s key="No weather" value="Ei säätilaa"/>
+  <s key="N/A" value="?"/>
+  <s key="Notify me when a new version is available" value="Ilmoita kun uusi versio on saatavilla"/>
+  <s key="Online" value="Saatavilla"/>
+  <s key="Open {0}" value="Avaa {0}"/>
+  <s key="Options" value="Asetukset"/>
+  <s key="Advanced" value="Lisäasetukset"/>
+  <s key="Application choice" value="Ohjelman valinta"/>
+  <s key="Date" value="Päiväys"/>
+  <s key="Display" value="Näyttö"/>
+  <s key="Animate clouds" value="Animaatio pilvet"/>
+  <s key="Default" value="Oletus"/>
+  <s key="Full screen mode" value="Koko näyttö tila"/>
+  <s key="Quality" value="Laatu"/>
+  <s key="Custom" value="Mukautettu"/>
+  <s key="Excellent" value="Loistava"/>
+  <s key="Moderate" value="Kohtalainen"/>
+  <s key="Number of days to display:" value="Näytettävien päivien lukumäärä:"/>
+  <s key="Tile contents:" value="Näytä:"/>
+  <s key="General" value="Yleiset"/>
+  <s key="Contents" value="Näytä"/>
+  <s key="Show N/A parameters" value="Näytä N/A tiedot"/>
+  <s key="Live indicator" value="Live ilmaisin"/>
+  <s key="Locations" value="Paikat"/>
+  <s key="Operation successful!" value="Onnistui!"/>
+  <s key="Refresh locations DB" value="Päivitä sijaintitietokanta"/>
+  <s key="Reset to defaults" value="Palauta oletukset"/>
+  <s key="Add" value="Lisää"/>
+  <s key="User interface" value="Käyttöliittymä"/>
+  <s key="Screen saver" value="Näytönsäästäjä"/>
+  <s key="Time Bar" value="Aikapalkki"/>
+  <s key="Unit system:" value="Yksikkö järjestelmä:"/>
+  <s key="Units" value="Yksiköt"/>
+  <s key="Auto-detected" value="Tunnista automaattisesti"/>
+  <s key="Custom" value="Mukautettu"/>
+  <s key="Distance:" value="Etäisyys:"/>
+  <s key="Metric" value="Metrinen"/>
+  <s key="Russia" value="Venäjä"/>
+  <s key="Finland" value="Suomi"/>
+  <s key="Pressure:" value="Ilmanpaine:"/>
+  <s key="Temperature:" value="Lämpötila:"/>
+  <s key="US" value="Amerikka"/>
+  <s key="Wind speed:" value="Tuulen nopeus:"/>
+  <s key="Landscape Options" value="Maisema ominaisuudet"/>
+  <s key="Show Daylight Diagram" value="Näytä päivänvalo kuvaaja"/>
+  <s key="Show Forecast Panel" value="Näytä sääennustepaneli"/>
+  <s key="Show Full Screen button" value="Näytä Koko näyttö -painike"/>
+  <s key="Show Inspector" value="Näytä säätila"/>
+  <s key="Show Time Bar" value="Näytä aika palkki"/>
+  <s key="Show User interface" value="Näytä käyttöliittymä"/>
+  <s key="Show forecast when current weather is expired" value="Näytä sääennuste kun säätila vanhentunut"/>
+  <s key="Organize" value="Järjestele"/>
+  <s key="Organize locations" value="Järjestele sijainteja"/>
+  <s key="Organize pictures" value="Järjestele kuvia"/>
+  <s key="Pictures" value="Kuvat"/>
+  <s key="press" value="paina"/>
+  <s key="Falling" value="Laskee"/>
+  <s key="Falling Rapidly" value="Laskee nopeasti"/>
+  <s key="Rising" value="Nousee"/>
+  <s key="Rising Rapidly" value="Nousee nopeasti"/>
+  <s key="Steady" value="Vakaa"/>
+  <s key="Previous Day" value="Edellinen päivä"/>
+  <s key="Properties" value="Ominaisuudet"/>
+  <s key="Refresh Locations data base" value="Päivitä sijaintitietokanta"/>
+  <s key="Register" value="Rekisteröi"/>
+  <s key="Remove" value="Poista"/>
+  <s key="Rename" value="Nimeä uudelleen"/>
+  <s key="Rename location" value="Nimeä sijainti uudelleen"/>
+  <s key="Rename picture" value="Nimeä kuva uudelleen"/>
+  <s key="Retry" value="Yritä uudelleen"/>
+  <s key="Run with Windows (minimized to tray)" value="Käynnistä automaattisesti"/>
+  <s key="Season map" value="Vuodenaika kartta"/>
+  <s key="Select" value="Valitse"/>
+  <s key="Select country" value="Valitse maa"/>
+  <s key="Select a landscape" value="Valitse maisema"/>
+  <s key="Select location" value="Valitse sijainti"/>
+  <s key="Select region" value="Valitse alue"/>
+  <s key="Select state" value="Valitse osavaltio"/>
+  <s key="Set as default" value="Aseta oletukseksi"/>
+  <s key="Set YoWindow as ScreenSaver" value="Aseta YoWindow näytönsäästäjäksi"/>
+  <s key="Setup" value="Asennus"/>
+  <s key="Show" value="Näytä"/>
+  <s key="Show again" value="Näytä uudelleen"/>
+  <s key="Speed" value="Nopeus"/>
+  <s key="Time" value="Aika"/>
+  <s key="{0} ago" value="{0} sitten"/>
+  <s key="Time zone" value="Aikavyöhyke"/>
+  <s key="Today" value="Tänään"/>
+  <s key="Tomorrow" value="Huomenna"/>
+  <s key="Tom." value="Huom."/>
+  <s key="Tonight" value="Tänä iltana"/>
+  <s key="Add New Location" value="Lisää uusi sijainti"/>
+  <s key="Open Calendar..." value="Avaa kalenteri..."/>
+  <s key="Show Less Days" value="Vähemmän päiviä"/>
+  <s key="Show More Days" value="Lisää päiviä"/>
+  <s key="Update Weather" value="Päivitä säätiedot"/>
+  <s key="Unknown" value="Tuntematon"/>
+  <s key="Up" value="Ylös"/>
+  <s key="Update interval" value="Päivitysväli"/>
+  <s key="Update weather" value="Päivitä säätila"/>
+  <s key="Updating weather" value="Päivitetään säätilaa"/>
+  <s key="View" value="Näytä"/>
+  <s key="Please wait..." value="Odota..."/>
+  <s key="Weather" value="Sää"/>
+  <s key="Daily rain total" value="Päivän sademäärä"/>
+  <s key="Weather expired" value="Säätila vanhentunut"/>
+  <s key="Feels like" value="Tuntuu kuin"/>
+  <s key="Day maximum temperature" value="Päivän enimmäislämpötila"/>
+  <s key="Day minimum temperature" value="Päivän vähimmäislämpötila"/>
+  <s key="Weather forecast" value="Sääennuste"/>
+  <s key="Forecast issued" value="Sääennuste julkaistu"/>
+  <s key="Hail" value="Rakeita"/>
+  <s key="Humidity" value="Suht. kosteus"/>
+  <s key="Observed" value="Havaintoaika"/>
+  <s key="Pressure" value="Ilmanpaine"/>
+  <s key="PWS only" value="Vain PWS"/>
+  <s key="Rain" value="Sadetta"/>
+  <s key="Rain/Snow rate" value="Sateen voimakkuus"/>
+  <s key="Description" value="Kuvaus"/>
+  <s key="Sky image" value="Ikoni"/>
+  <s key="Snow" value="Lumi"/>
+  <s key="Snow level" value="Lumen syvyys"/>
+  <s key="Weather station properties" value="Sääasema ominaisuudet"/>
+  <s key="Temperature" value="Lämpötila"/>
+  <s key="Temperature range" value="Lämpötila vaihteluväli"/>
+  <s key="Update error" value="Virhe päivityksessä"/>
+  <s key="Update time" value="Havaintoaika"/>
+  <s key="UV index" value="UV-indeksi"/>
+  <s key="Visibility" value="Näkyvyys"/>
+  <s key="Unlimited" value="Rajaton"/>
+  <s key="Wind" value="Tuuli"/>
+  <s key="Calm" value="Tyyntä"/>
+  <s key="Variable" value="Vaihteleva"/>
+  <s key="Welcome to YoWindow!" value="Tervetuloa YoWindowiin!"/>
+  <s key="Wind direction:" value="Tuulen suunta:"/>
+  <s key="East" value="Itä"/>
+  <s key="North" value="Pohjoinen"/>
+  <s key="South" value="Etelä"/>
+  <s key="West" value="Länsi"/>
+  <s key="Yes" value="Kyllä"/>
+  <s key="Close screensaver on mouse move" value="Sulje näytönsäästäjä hiirtä liikuttamalla"/>
+  <s key="Color" value="Väri"/>
+  <s key="Background" value="Tausta"/>
+  <s key="Choose color" value="Valitse väri"/>
+  <s key="System tray" value="Ilmaisinalue"/>
+  <s key="Transparent" value="Läpinäkyvä"/>
+  <s key="Precipitation chance" value="Sateen todennäköisyys"/>
+  <s key="Rain chance" value="Vesisateen todennäköisyys"/>
+  <s key="Snow chance" value="Lumisateen todennäköisyys"/>
+  <s key="{0} only" value="{0} vain"/>
+  <s key="US" value="Amerikka"/>
+  <s key="Dew point" value="Kastepiste"/>
+  <s key="I want to have fun" value="Haluan pitää hauskaa"/>
+  <s key="Enable surprises" value="Ota yllätykset käyttöön"/>
+  <s key="NWS forecasts for the USA" value="NWS sääennuste (USA)"/>
+  <s key="h" value="h"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Avaa"/>
+  <s key="Browse" value="Selaa"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Syötä polku kuvaan tai maisemaan Internetissä tai omalla tietokoneella"/>
+  <s key="Landscape load error" value="Maiseman lataus virhe"/>
+  <s key="Picture load error" value="Kuvan lataus virhe"/>
+  <s key="The landscape is already added" value="Maisema on jo lisätty"/>
+  <s key="Landscape collection" value="Maisema kokoelma"/>
+  <s key="Turn your photo into Landscape" value="Kuvasta maisemaksi"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Opettele{1} tekemään kuvasta maisema"/>
+  <s key="Village" value="Kylä"/>
+  <s key="Seaside" value="Merenranta"/>
+  <s key="Airport" value="Lentokenttä"/>
+  <s key="Oriental" value="Itämainen"/>
+  <s key="Sky" value="Taivas"/>
+  <s key="Landscape made from picture" value="Kuvasta tehty maisema"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Opastamme sinua luomaan kuvastasi YoWindow-maiseman"/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Lue oppaamme {0}Kuvan muuttaminen maisemaksi{1} ensin"/>
+  <s key="Click Next to continue..." value="Napsauta Seuraava jatkaaksesi..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Määritä kuva, josta haluat tehdä maiseman."/>
+  <s key="How to pick the best landscape picture?" value="Kuinka valita paras maisemakuva?"/>
+  <s key="Source picture" value="Lähdekuva"/>
+  <s key="The landscape will be created in the following folder" value="Maisema luodaan seuraavaan hakemistoon"/>
+  <s key="Landscape folder name" value="Maisemakansion nimi"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Napsauta &quot;Luo&quot;-painiketta luodaksesi maiseman {0}"/>
+  <s key="{0} landscape has been created successfully!" value="Maisema {0} luotu onnistuneesti!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Now open {0} inside your favorite image editor. You need to remove the sky from the image.You will find the image in {1}Landscape Folder{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Taivaan poisto on helppoa. Lue {0}oppaamme{1}."/>
+  <s key="Auto" value="Automaattinen"/>
+  <s key="Horizon Level Setup" value="Vaakatason asetus"/>
+  <s key="Keys: Up/Down" value="Näppäimet: Ylös/Alas"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Olet aikeissa poistaa maisemakuvan {0}. Toimintoa ei voi peruuttaa. Oletko varma?"/>
+  <s key="Edit Landscape" value="Muokkaa maisemaa"/>
+  <s key="Edit Horizon Level" value="Muokkaa vaakatasoa"/>
+  <s key="File not found." value="Tiedostoa ei löydy."/>
+  <s key="The name is empty" value="Nimi on tyhjä"/>
+  <s key="The folder already exists" value="Kansio on jo olemassa"/>
+  <s key="Illegal folder name" value="Kelpaamaton kansionimi"/>
+  <s key="The file format is not supported." value="Tiedostomuotoa ei tueta."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Kuva on liian iso YoWindowille. Koon ei tule ylittää 2880 pikseliä leveydeltä tai pituudelta."/>
+  <s key="Landscape Image" value="Maisemakuva"/>
+  <s key="Landscape Folder" value="Maisemakansio"/>
+  <s key="About Landscape" value="Tietoa maisemasta"/>
+  <s key="Picture {0} imported successfully" value="Kuva {0} tuotu onnistuneesti"/>
+  <s key="Remind Me Later" value="Muistuta myöhemmin"/>
+  <s key="Skip This Version" value="Ohita tämä versio"/>
+  <s key="Loading" value="Lataa"/>
+  <s key="Next" value="Seuraava"/>
+  <s key="Back" value="Edellinen"/>
+  <s key="Finish" value="Valmis"/>
+  <s key="Create" value="Luo"/>
+  <s key="Import" value="Tuo"/>
+  <s key="Delete" value="Poista"/>
+  <s key="Path" value="Polku"/>
+  <s key="Options" value="Asetukset"/>
+  <s key="Select the options you like" value="Valitse haluamasi asetukset"/>
+  <s key="Set YoWindow as default screen saver" value="Aseta YoWindow oletus näytönsäästäjäksi"/>
+  <s key="Start with Windows (minimized to system tray)" value="Käynnistä automaattisesti"/>
+  <s key="Add a shortcut to quick launch bar" value="Lisää pikakäynnistyspalkkiin"/>
+  <s key="You are about to upgrade YoWindow." value="YoWindow päivitys."/>
+  <s key="Click OK to install the new version." value="Klikkaa OK asentaaksesi uuden version."/>
+  <s key="You must close YoWindow before you can continue." value="YoWindow täytyy sulkea ennen kuin voit jatkaa."/>
+  <s key="After you have closed YoWindow, select Retry." value="Suljettuasi YoWindowin, valitse Yritä uudelleen."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Jos haluat peruuttaa ohjelman poistamisen, valitse Peruuta."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Jos haluat yrittää asentaa joka tapauksessa, valitse Ohita."/>
+  <s key="If you wish to abort the installation, select Abort." value="Jos haluat peruuttaa asennuksen, valitse Peruuta."/>
+  <s key="Final step" value="Viimeinen vaihe"/>
+  <s key="Start YoWindow on system startup" value="Käynnistä automaattisesti"/>
+  <s key="Check for new version..." value="Tarkista päivitykset..."/>
+  <s key="YoWindow is up to date!" value="YoWindow on ajan tasalla!"/>
+  <s key="You have the latest version" value="Viimeisin versio asennettu"/>
+  <s key="Download new version!" value="Lataa uusi versio!"/>
+  <s key="Preview" value="Esikatselu"/>
+  <s key="Show small YoWindow logo" value="Näytä pieni logo"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Maisema saatavilla vain rekisteröidyssä versiossa."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="jalka"/>
+  <s key="id_unit_short_miles" value="maili"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="solmu"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Näytä &quot;?&quot;"/>
+  <s key="Hide parameter" value="Piilota muuttuja"/>
+  <s key="When weather parameter is not available" value="Kun säämuuttujaa ei ole saatavilla"/>
+  <s key="Information" value="Tietoa"/>
+  <s key="id_information_all" value="id_information_all"/>
+  <s key="Temperature and Time" value="Lämpötila ja aika"/>
+  <s key="This is Unlimited Edition." value="Tämä on rajoittamaton versio."/>
+  <s key="It is already registered." value="Tämä on jo rekisteröity."/>
+  <s key="Free edition" value="Ilmainen versio"/>
+  <s key="Unlimited edition" value="Rajoittamaton versio"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="Nauttiaksesi YoWindowista tarvitset Flash Playerin (Internet Explorerille) {0} tai uudemman."/>
+  <s key="Get Adobe Flash Player" value="Hanki Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Poista maiseman lukitus"/>
+  <s key="YoWindow for Chrome" value="YoWindow Chromelle"/>
+  <s key="YoWindow for Windows" value="YoWindow Windowsille"/>
+  <s key="YoWindow for Mac OS" value="YoWindow OS X:lle"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow iPhonelle ja iPadillle"/>
+  <s key="Follow YoWindow on Facebook" value="Seuraa YoWindowia Facebookissa"/>
+  <s key="Follow YoWindow on Twitter" value="Seuraa YoWindowia Twitterissä"/>
+  <s key="Landscape trial, days left:" value="Maisemakokeilu, päiviä jäljellä:"/>
+  <s key="Landscape trial period is over" value="Maisemakokeilu on ohi"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="Maisema &quot;{0}&quot; on osa YoWindow Unlimitediä."/>
+  <s key="Details" value="Tiedot"/>
+  <s key="View direction" value="Näytä suunta"/>
+  <s key="Fixed sky" value="Kohdistettu taivas"/>
+  <s key="Edit" value="Muokkaa"/>
+  <s key="Reload" value="Päivitä"/>
+  <s key="Minimized" value="Pienennetty"/>
+  <s key="affects wind only" value="vaikuttaa vain tuuleen"/>
+  <s key="Broadcast" value="Lähetys"/>
+  <s key="Share" value="Jaa"/>
+  <s key="Publishing" value="Julkaistaan"/>
+  <s key="Authorizing" value="Tunnistaudutaan"/>
+  <s key="Published!" value="Julkaistu"/>
+  <s key="Space" value="Välilyönti"/>
+  <s key="Weather now in {0}" value="Kohteen {0} sää nyt"/>
+  <s key="Weather forecast for {0} in {1}" value="Sää {0} kohteessa {1}"/>
+  <s key="Today in {0} (forecast)" value="Tänään kohteessa {0} (ennuste)"/>
+  <s key="Tomorrow in {0} (forecast)" value="Huomenna kohteessa {0} (ennuste)"/>
+  <s key="Forecast" value="Ennuste"/>
+  <s key="Sound" value="Äänet"/>
+  <s key="Enable sound" value="Ota äänet käyttöön"/>
+  <s key="Volume" value="Äänenvoimakkuus"/>
+  <s key="Skip" value="Ohita"/>
+  <s key="Presented in Stereo" value="Esitetty stereona"/>
+  <s key="Override current season" value="Ohita tämänhetkinen kausi"/>
+  <s key="Winter" value="Talvi"/>
+  <s key="Spring" value="Kevät"/>
+  <s key="Summer" value="Kesä"/>
+  <s key="Autumn" value="Syksy"/>
+  <s key="Naked" value="Avoin"/>
+  <s key="Countries" value="Maat"/>
+  <s key="Vote!" value="Äänestä!"/>
+  <s key="Vote for YoWindow, thank you" value="Arvostele YoWindow, kiitos"/>
+  <s key="More YoWindow" value="Katso myös"/>
+  <s key="Swipe the screen to see weather changes over time" value="Pyyhkäise näyttöä nähdäksesi sään muutokset"/>
+  <s key="And one more time" value="Ja vielä kerran"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Paina 'NYT'-painiketta palataksesi aikaan nyt"/>
+  <s key="Watch weather with pleasure" value="Miellyttävää säänseurantaa"/>
+  <s key="Disable Auto-Lock" value="Poista automaattinen lukitus käytöstä"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Pidä näyttö päällä akun tilan ollessa yli 25% tai laitteen ollessa yhdistetty virtalähteeseen."/>
+  <s key="More" value="Lisää"/>
+  <s key="Parallax effect" value="Parallaksiefekti"/>
+  <s key="An illusion of 3D space when you tilt the device" value="3D-illuusio laitetta kääntäessä"/>
+  <s key="Temperature in Status Bar" value="Lämpötila tilarivillä"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Näytä lämpötila kotipaikalle"/>
+  <s key="Not enough free space." value="Ei riittävästi vapaata tilaa."/>
+  <s key="YoWindow may run unstable." value="YoWindow saattaa toimia epävakaasti."/>
+  <s key="{0} MB minimum required." value="Vähintään {0} Mt vaaditaan."/>
+  <s key="YoWindow Weather" value="YoWindow-sää"/>
+  <s key="YoWindow Zero" value="YoWindow Perus"/>
+  <s key="Get Full Version" value="Hanki täysversio"/>
+  <s key="No ads, no limitations, all landscapes available" value="Ei mainoksia eikä rajoituksia. Kaikki maisemat saatavilla."/>
+  <s key="No advertising" value="Ei mainoksia"/>
+  <s key="Remove ads" value="Poista mainokset"/>
+  <s key="Weather forecast is limited" value="Rajoitettu sääennuste"/>
+  <s key="Demo" value="esittely"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="Maiseman &quot;{0}&quot; käyttö on rajoitettu."/>
+  <s key="Connecting to {0}" value="Yhdistetään palve-luun {0}"/>
+  <s key="Camera" value="Kamera"/>
+  <s key="Photos" value="Kuvat"/>
+  <s key="Wallpaper" value="Taustakuva"/>
+  <s key="Enable animations" value="Käytä animaatioita"/>
+  <s key="Show weather" value="Näytä sää"/>
+  <s key="No animation - almost no battery power consumed." value="Ei animaatiota - akkua ei kuluteta lähes lainkaan."/>
+  <s key="Widget Settings" value="Vimpainasetukset"/>
+  <s key="Create Widget" value="Luo vimpain"/>
+  <s key="Tap to search for a location" value="Etsi sijaintia napauttamalla"/>
+  <s key="Show background" value="Näytä tausta"/>
+  <s key="Move On Top" value="Siirrä ylös"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Poista &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Sinulla on asennettuna YoWindowin maksullinen ja maksuton versio."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Suosittelemme, että poistat YoWindow Free'n sekaannuksien välttämiseksi."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Lisää YoWindow-vimpaimia - tarkastele sääennusteita helposti"/>
+  <s key="Tap to continue" value="Jatka napauttamalla"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow on asennettu siirrettävälle medialle."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="VAROITUS: YoWindow-taustakuva ja -widgetit välttämättä EIVÄT toimi kun YoWindow on asennettuna siirrettävälle medialle (SD-muistikortille)."/>
+  <s key="Location Search" value="Paikkahaku"/>
+  <s key="Redeem code" value="Lunasta koodi"/>
+  <s key="Full Version privilege granted." value="Täydet oikeudet myönnetty."/>
+  <s key="Advertising removed, no limitations." value="Mainokset ja rajoitukset poistettu."/>
+  <s key="Unexpected code" value="Tuntematon koodi"/>
+  <s key="Restore privileges" value="Palauta oikeudet"/>
+  <s key="Set As Wallpaper" value="Aseta taustakuvaksi"/>
+  <s key="Post" value="Lähetä"/>
+  <s key="Enter the message" value="Kirjoita viesti"/>
+  <s key="Fill in the weather" value="Lisää sää"/>
+  <s key="You just have posted to Facebook!" value="Lähetys Facebookiin onnistui!"/>
+</body>

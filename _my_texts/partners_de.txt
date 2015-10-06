@@ -1,0 +1,92 @@
+<?php
+if (!isset($SITE)){
+	header ("Location: ../index.php");	// back to index/startpage if someone tries an
+	exit;  								//  page to load without menu system//
+}
+$pageName		= 'partners_de.txt';
+$pageVersion	= '1.01 2012-06-10';
+$SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {
+	$SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName;
+}
+echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_EOL;
+#-------------------------------------------------------------------------------------------------
+
+$partnersTxt = <<<EOT
+<p> In der Welt der Wetterstationen gibt es eine Menge von Zusammenarbeit und Austausch von Informationen.
+Es folgt eine (nicht vollständige) Liste von kommerziellen Organisationen und Verbänden, wo mit diese Wetterstation zusammen arbeitet. </p>
+<p> Die folgende Liste ist streng zufällig.
+Das erste Wort jeden Absatzes verbindet ihnen (wenn möglich) zu der Seite auf der Website mit unseren Daten.
+Die Haupt-Website kann durch Klick auf das Logo erreicht werden. </p>
+EOT;
+$name = 'wow';	
+$arrPartners[$name]['text']		= <<<EOT
+- Die 'Weather Observations Website'  spiegelt jüngsten Fortschritte in der Technologie und wie Wetterbeobachtungen vorgenommen werden kann.
+Gleichzeitig macht der wachsenden Welt der Social-Networking-Online es relativ einfach für jeden, sich zu engagieren und  Wetterbeobachtungen zu teilen.
+Das 'Met Office' hilft zu koordinieren das wachsen des Wetters beobachten Gemeinde in Großbritannien.
+EOT;
+$name = 'meso';
+$arrPartners[$name]['text']		= <<<EOT
+ Das Benelux-Weather Network ist ein Zusammenschluss von persönlichen Wetter Websites in den Benelux-Ländern (Belgien, Niederlande, Luxemburg). <br />
+Diese Station ist stolz darauf, ein Mitglied der BNLWN Netzwerk zu sein.
+EOT;
+$name = 'hwa';	
+$arrPartners[$name]['text']		= <<<EOT
+Wie ist die gegenwärtige Wetter im Moment?
+Wie viel Niederschlag gibt es heute in meiner Heimatstadt? Gab es Frost in der Nacht?
+Was war die maximale Temperatur heute in meiner Heimatstadt? Nur ein paar Fragen über das Wetter, 
+die jeden Tag in fast jedem Haushalt gestellt werden.
+Die Chancen stehen gut, dass Sie auch dieses Fragen. Hetweeractueel.nl beantwortet all diese Fragen.
+Neben dem <a href="http://www.hetweeractueel.nl/" Wetterbedingungen target="_blank"> </a> von allen kooperierenden Wetterstationen, 
+finden Sie auch eine umfassende Wettervorhersage.
+Die Daten eignet sich auch für einen <a href="http://www.hetweeractueel.nl/actueel-temperatuur-kaartje" target="_blank"> 
+aktuelle Temperatur </a> Karte.
+EOT;
+$name = 'awekas';
+$arrPartners[$name]['text']		= <<<EOT
+AWEKAS ist eine Abkürzung für "<span style="color: #0000FF;">A</span>utomatisches <span style="color: #0000FF;">WE</span>tter<span style="color: #0000FF;">KA</span>rten <span style="color: #0000FF;">S</span>ystem" 
+und ist wie der Name schon sagt ein System das aus Messdaten 
+privater Wetterstationen automatisch Übersichtskarten erstellt.
+<br />Die Werte werden auf den jeweiligen Webseiten der Teilnehmer als Datei zur Verfügung gestellt und vom 
+AWEKAS Server abgeholt. AWEKAS unterstützt den direkten Import von sehr verschiedener Software.
+Der Vorgang ist vollautomatisch und liefert immer Karten für Temperatur, Wind, Niederschlag, Luftdruck mit aktuellen Wettersituationen.
+<br />
+Die Teilnahme bei AWEKAS ist völlig kostenlos und kann jederzeit wieder beendet werden,
+EOT;
+$name = 'weatherlink';
+$arrPartners[$name]['text']		= <<<EOT
+ist die neue, kostenlose und einfache Methode, um Daten von Ihrem Davis Wetterstation direkt mit zu dem Internet zu senden ohne einen PC zu nutzen .
+Einfach den Datenlogger in die Rückseite Ihrer Vantage Pro Konsole, Vantage Pro2-Konsole oder Weather Envoy und Ihrem Kabel / DSL-Router.
+Innerhalb weniger Minuten werden Sie Ihre Wetterdaten live im Internet sehen können!
+<br />
+Mit WeatherLinkIP können Sie: <br />
+<li>
+Automatisches Daten hochladen  an Drittanbieter-Websites, einschließlich Wetter CWOP (Citizen Weather Observer Program), 
+das GLOBE-Programm und vieles mehr.
+</li><li>
+Holen Sie sich E-Mail-Benachrichtigungen über aktuelle Wetterbedingungen oder einfach Alarmbedingungen.
+</li><li>
+Laden Sie die Daten auf Ihren PC für die ganze leistungsstarkes Diagramm, grafische Darstellung und Analyse wie unsere Standard WeatherLink.
+</li> 
+EOT;
+$name = 'wu';
+$arrPartners[$name]['text']		= <<<EOT
+ist wohl die "bekannteste" Zusammenarbeit zwischen Persönlichen Wetterstationen.
+Ursprünglich aus den USA, sondern sie bietet jetzt frei, in Echtzeit Online-Wetterinformationen, um Millionen von Web-Nutzern auf der ganzen Welt
+Sie sind entschlossen, die meisten zuverlässigen, genauen Wetterinformationen möglich zu gestalten. Ihre state-of-the-art Technologie überwacht Bedingungen und Vorhersagen für Orte auf der ganzen Welt. <br />
+Ein großer Vorteil ist, dass Ihre eigenen Wetterdaten problemlos mit anderen ähnlichen Wetterstationen verglichen werden.
+EOT;
+$name = 'cwop';	
+$arrPartners[$name]['text']		= <<<EOT
+EOT;
+$name = 'pws';	
+$arrPartners[$name]['text']		= <<<EOT
+EOT;
+$name = 'wp24';
+$arrPartners[$name]['text']		= <<<EOT
+EOT;
+$name = 'anWe';
+$arrPartners[$name]['text']		= <<<EOT
+EOT;
+?>

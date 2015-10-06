@@ -1,0 +1,46 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'Santa Cruz',
+    2 => 1397883300,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE LATE SEASON NORTHWESTERLY SWELL EXPECTED TO ARRIVE SUNDAY MORNING',
+  ),
+  1 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'San Francisco',
+    2 => 1397883300,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE LATE SEASON NORTHWESTERLY SWELL EXPECTED TO ARRIVE SUNDAY MORNING',
+  ),
+  2 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'Santa Cruz',
+    2 => 1397907060,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE NORTHWESTERLY SWELL EXPECTED SUNDAY AND SUNDAY NIGHT',
+  ),
+  3 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'San Francisco',
+    2 => 1397907060,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE NORTHWESTERLY SWELL EXPECTED SUNDAY AND SUNDAY NIGHT',
+  ),
+);
+
+?>

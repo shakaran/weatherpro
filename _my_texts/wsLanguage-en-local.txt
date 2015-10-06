@@ -1,0 +1,38 @@
+# langfile  from: 2015-05-24 15:00 CET
+charset|UTF-8|
+# local additions improvements - do not change the lang/wsLanguage-??.txt file use this local one
+langlookup|your organization|your organization|
+langlookup|Thunder radar|Thunder radar|
+langlookup|Rain radar|Rain radar|
+langlookup|conf-WXsoftware|conf-WXsoftware|
+langlookup|Austria Weather Network|Austria Weather Network|
+langlookup|conf-wowMember|conf-wowMember|
+langlookup|conf-wowID|conf-wowID|
+langlookup|Weerstation Herent|Weerstation Herent|
+langlookup|HWA forecast|HWA forecast|
+langlookup|Demo Leuven-Template 2.4b  USA|Demo Leuven-Template 2.4b  USA|
+langlookup|Northwest Weather Network|Northwest Weather Network|
+langlookup|Demo Leuven-Template 2.4b Canada|Demo Leuven-Template 2.4b Canada|
+langlookup|EC Forecast|EC Forecast|
+langlookup|AHQI list|AHQI list|
+langlookup|There are no warnings in order|There are no warnings in order|
+langlookup|Western Canada Weather Network|Western Canada Weather Network|
+langlookup|Continue where we were|Continue where we were|
+langlookup|your station|your station|
+langlookup|needs a valid email address|needs a valid email address|
+langlookup|Australia Weather Network|Australia Weather Network|
+langlookup|Northeastern Weather Network|Northeastern Weather Network|
+langlookup|my station in Europe|my station in Europe|
+langlookup|my station somewhere|my station somewhere|
+langlookup|conf-wcloudID|conf-wcloudID|
+langlookup|conf-cwopID|conf-cwopID|
+langlookup|conf-wuId|conf-wuId|
+langlookup|Initial settings|Initial settings|
+langlookup|Settings-file can be downloaded from here also|Settings-file can be downloaded from here also|
+langlookup|Settings-file can be downloaded from here|Settings-file can be downloaded from here|
+langlookup|Or the settings-file can be check on-line here|Or the settings-file can be check on-line here|
+langlookup|The settings-file can be check on-line here|The settings-file can be check on-line here|
+langlookup|The settings-file can be checked on-line here|The settings-file can be checked on-line here|
+langlookup|Het Weer Actueel - alleen voor leden|Het Weer Actueel - alleen voor leden|
+langlookup|Inital settings|Inital settings|
+langlookup|example external link|example external link|

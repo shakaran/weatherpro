@@ -1,0 +1,1165 @@
+charset|UTF-8|
+# ajax-dashboard
+langlookup|/hr|/hr|
+langlookup|Baro Trend|Tendencia baro.|
+langlookup|Barometer|Barometro|
+langlookup|Cooler|Mas Frio|
+langlookup|Currently|Actualmente|
+langlookup|Decreased by|Diminucion de|
+langlookup|Dew Point|Punto de rocio|
+langlookup|Enable JavaScript for live updates|Activa Javascript para actualizar en tiempo real|
+langlookup|Falling|Abajo|
+langlookup|Feels like|Se siente como|
+langlookup|Forecast|Pronostico del tiempo|
+langlookup|Gust|Rafagas|
+langlookup|Gust today|Rafagas de hoy|
+langlookup|High:|Maxima:|
+langlookup|Humidity|Humedad|
+langlookup|Illuminated|Iluminado|
+langlookup|Increased by|Aumento de|
+langlookup|Inside|Interior|
+langlookup|Language|Idioma|
+langlookup|Last updated:|Ultima actualizacion:|
+langlookup|Low:|Minima:|
+langlookup|Max|max|
+langlookup|Max:|max:|
+langlookup|Min|min|
+langlookup|Moonrise|Salida de la luna|
+langlookup|Moonset|Puesta de luna|
+langlookup|Now:|Ahora :|
+#langlookup|Pool|Pool|
+langlookup|Rain|Luvia|
+langlookup|Rain Rate|Intensidad de la Lluvia|
+langlookup|Rain Today|Lluvia hoy|
+langlookup|Rising|Creciente|
+langlookup|Season Total|Total anual|
+langlookup|Solar Radiation|Radiación Solar|
+langlookup|Summary|Resumen|
+langlookup|Sunrise|Salida del Sol|
+langlookup|Sunset|Puesta del Sol|
+langlookup|Temperature|Temperatura|
+langlookup|This Month|Este mes|
+langlookup|Today|Hoy|
+langlookup|Trend|Tendencia|
+langlookup|UV Index|Index UV|
+langlookup|Updates paused - reload page to start|Actualizaciones en pausa - recarga la pagina para empezar|
+langlookup|Warmer|Mas calido|
+langlookup|Yesterday|Ayer|
+langlookup|at|en|
+langlookup|days with rain this month|días con lluvia este mes|
+langlookup|forecast|pronóstico |
+langlookup|forecasts|predicciones|
+langlookup|inside|interior|
+langlookup|m/s| m/s|
+langlookup|mm| mm|
+langlookup|seconds ago|hace segundos|
+langlookup|than last hour|que en la última hora|
+langlookup|the last hour|la última hora|
+langlookup|today|hoy|
+# astro
+langlookup|Astronomy|Astronomia|
+langlookup|Autumn Equinox|Equinoccio de Otoño|
+langlookup|Daylight|iluminación natural|
+langlookup|Lunar cycle|Ciclo Lunar|
+langlookup|Moon|Luna|
+langlookup|Moon age|Edad de la Luna|
+langlookup|Moon at day|Luna en día|
+langlookup|Our home|Nuestra casa|
+langlookup|Our home on our planet as seen from space|Nuestro hogar en nuestro planeta visto desde el espacio|
+langlookup|Seasons|Estaciones|
+langlookup|Start of Fall|Inicio de Otoño|
+langlookup|Start of Spring|Inicio de Primavera|
+langlookup|Start of Summer|Inicio de Verano|
+langlookup|Start of Winter|Inicio de Invierno|
+langlookup|Summer Solstice|Solsticio de Verano|
+langlookup|Sun&nbsp;|Sol|
+langlookup|Vernal Equinox|Equinoccio de Primavera|
+langlookup|Winter Solstice|Solsticio de Invierno|
+langlookup|of the mooncycle|ciclo de la luna|
+# barometer trend
+langlookup|Falling Rapidly|Cae rapidamente|
+langlookup|Falling Slowly|Cae lentamente|
+langlookup|Rising Rapidly|Crece rapidamente|
+langlookup|Rising Slowly|Crece lentamente|
+langlookup|Steady|Constantes|
+# beafort wind names
+langlookup|Calm|calma|
+langlookup|Fresh breeze| Brisa|
+langlookup|Gale|golpe de viento|
+langlookup|Gentle breeze|Brisa|
+langlookup|Hurricane|Huracan|
+langlookup|Light air|Ventolina|
+langlookup|Light breeze|Brisa ligera|
+langlookup|Moderate breeze|Brisa moderada|
+langlookup|Near gale|Galerna cerca|
+langlookup|Storm|Tormenta|
+langlookup|Strong breeze|Brisa fuerte|
+langlookup|Strong gale|vendaval fuerte|
+langlookup|Violent storm|Tormenta violenta|
+langlookup|Wind from|Viento de|
+# buoy
+langlookup|Air|Air|
+langlookup|Air Temperature|Temperatura del aire|
+langlookup|Baro|Baro|
+langlookup|Barometer Trend|Tendencia baro.|
+langlookup|Water|Agua|
+langlookup|Water Temperature|Temperatura del agua|
+langlookup|Wave Height|Altura de las olas|
+langlookup|Waves|Ondas|
+langlookup|Wind Direction @ Speed|Dirección del Viento @ Velocidad|
+langlookup|Wind Gust Speed|Velocidad ráfaga de viento|
+# clientraw
+langlookup|(or davis)|(o davis)|
+langlookup|- for east of gmt|- para el este de GMT|
+langlookup|- for southern hemisphere|- para el hemisferio sur|
+langlookup|9am|9am|
+langlookup|The requested file|El archivo solicitado|
+langlookup|This Station Clientraw|Esta estación utiliza Clientraw.txt|
+langlookup|This stations|Esta Estacion|
+langlookup|Xref Clientraw|Xref Clientraw|
+langlookup|Y|S|
+langlookup|actual_date|Fecha actual|
+langlookup|age|Edad|
+langlookup|alltime|siempre|
+langlookup|also: baro max|tambien: baro max|
+langlookup|also: baro min|tambien: baro min|
+langlookup|apparent|aparente|
+langlookup|avg|promedio|
+langlookup|avg over daylight|promedio durante la luz del día|
+langlookup|avg over night|promedio durante la noche|
+langlookup|avg over night time|Tiempo promedio durante la noche|
+langlookup|baro|baro|
+langlookup|batt|batt|
+langlookup|bearing|direccion|
+langlookup|beginning|Inicio|
+langlookup|bulb|bulbo|
+langlookup|cloud|nube|
+langlookup|coldest|frio
+langlookup|contains the following raw data|contiene los siguientes datos|
+langlookup|continues at pos 562|continua en pos|
+langlookup|continues at pos 566|continua en pos 566|
+langlookup|continues at pos 570|continua en pos 570|
+langlookup|continues at pos 574|continua en pos 574|
+langlookup|continues at pos 578|continua en pos 578|
+langlookup|continues at pos 582|continua en pos 582|
+langlookup|continues at pos 586|continua en pos 586|
+langlookup|continues at pos 590|continua en pos 590|
+langlookup|count|contar|
+langlookup|current|actual|
+langlookup|d = day n = night|d = dia, n = noche|
+langlookup|daily|diario|
+langlookup|dallas|dallas|
+langlookup|davis|davis|
+langlookup|depth|profundidad|
+langlookup|desc|descendente|
+langlookup|dewpoint|Punto de rocio|
+langlookup|dir|dir|
+langlookup|display|display|
+langlookup|dist|distancia|
+langlookup|does not include build #|No incluye build #|
+langlookup|end|acabar|
+langlookup|et|y|
+langlookup|example: !!c10.37f!!|ejemplo: !!c10.37f!!|
+langlookup|example: !!h10.37f!!|ejemplo: !!h10.37f!!|
+langlookup|extra|extra|
+langlookup|extra_sensor|extra_sensor|
+langlookup|file|archivo|
+langlookup|flag|bandera|
+langlookup|for|el|
+langlookup|format depends on wd setting|el formato depende de la configuración de wd|
+langlookup|fri|vie|
+langlookup|fwi|fwi|
+langlookup|grass|cesped|
+langlookup|gust|rafaga|
+langlookup|heatindex|indice de calor|
+langlookup|height|altura|
+langlookup|hour|hora|
+langlookup|hours|horas|
+langlookup|hr|hr|
+langlookup|hrs_min_ago|hace_hrs_min|
+langlookup|hum|hum|
+langlookup|humidex|humidex|
+langlookup|humidity|humedad|
+langlookup|if enabled in wd|wd si está disponible|
+langlookup|index|indice|
+langlookup|indoor|interior|
+langlookup|inputed|regístrate|
+langlookup|install|instalación|
+langlookup|into|en|
+langlookup|last|ultimo|
+langlookup|last_60_min_for|ultimo minuto para|
+langlookup|last_60_min_for_min|ultimo minuto para|
+langlookup|last_hour|Última hora|
+langlookup|latitude|latitud|
+langlookup|leaf|hojas|
+langlookup|lightning|relampago|
+langlookup|logic|logico|
+langlookup|longitude|longitud|
+langlookup|lst|ultimo|
+langlookup|max|max|
+langlookup|mi|mi|
+langlookup|midnight|medianoche|
+langlookup|min|min|
+langlookup|minute|minuto|
+langlookup|moisture|humedad|
+langlookup|mon|luna|
+langlookup|month|mes|
+langlookup|monthly|mensual|
+langlookup|moon|luna|
+langlookup|moonphase|fase de la luna|
+langlookup|moonrise|salida de la luna|
+langlookup|moonset|puesta de la luna|
+langlookup|mtd|mtd|
+langlookup|name|nommbre|
+langlookup|nexstorm|tormenta|
+langlookup|no|no|
+langlookup|not used|no se utiliza|
+langlookup|number|numero|
+langlookup|o1 or o0|o1 or o0|
+langlookup|of|de|
+langlookup|or enter your own path-file name|o ingrese su propia ruta, nombre de archivo|
+langlookup|outside|exterior|
+langlookup|rate|velocidad|
+langlookup|rcd|registro|
+langlookup|reading|medida|
+langlookup|record|record|
+langlookup|reset|restablecer|
+langlookup|s1 or s0|s1 or s0|
+langlookup|sat|sab|
+langlookup|season|temporada|
+langlookup|seconds|segundos|
+langlookup|sensor|sensor|
+langlookup|snow|nieve|
+langlookup|soil|sol|
+langlookup|solarwm|intensidad solar|
+langlookup|station|estacion|
+langlookup|strikes|impactos|
+langlookup|strk/hour|impactos / hr|
+langlookup|sun|sol|
+langlookup|sunrise|salida del sol|
+langlookup|sunset|puesta del sol|
+langlookup|sunshine|soleado|
+langlookup|temp|temp|
+langlookup|thsws|thsws|
+langlookup|thur|juego|
+langlookup|time|tiempo|
+langlookup|timestamp|sello del tiempo|
+langlookup|total|total|
+langlookup|trend|Tendencia|
+langlookup|tues|mar|
+langlookup|type|tipo|
+langlookup|u1 or u0|u1 or u0|
+langlookup|unused|no usado|
+langlookup|used for wind speed chart| utilizado para la velocidad gráfica de viento|
+langlookup|uv|uv|
+langlookup|value|valor|
+langlookup|value was / by 10 to get correct value|Valor / 10 , da un valor correcto|
+langlookup|verified|vérificada|
+langlookup|version|version|
+langlookup|vp|vp|
+langlookup|vpp|vpp|
+langlookup|w/m2|w/m2|
+langlookup|warmest|mas caliente|
+langlookup|warn|advertirle|
+langlookup|wd|wd|
+langlookup|wdl|wdl|
+langlookup|weather|el tiempo|
+langlookup|wed|mar|
+langlookup|wet|mojado|
+langlookup|wetness|humedad|
+langlookup|windchill|sensacion termica|
+langlookup|with|con|
+langlookup|wm/2|wm/2|
+langlookup|wmr968|wmr968|
+langlookup|year|año|
+langlookup|yearly|anual|
+langlookup|yesterday|ayer|
+langlookup|ytd|este año|
+# conditions
+langlookup|-|-|
+langlookup|Afternoon|Tarde|
+langlookup|Chance of Rain|Probabilidad de lluvia|
+langlookup|Chance of a Thunderstorm|Probabilidad de tormenta|
+langlookup|Chance of drizzle|Posibilidad de llovizna|
+langlookup|Chance of freezing rain|Posibilidad de lluvia helada|
+langlookup|Chance of rain|Probabilidad de lluvia|
+langlookup|Chance of rain and or sleet|Posibilidad de lluvia o aguanieve|
+langlookup|Chance of showers|Probabilidad de lluvia|
+langlookup|Chance of sleet|Riesgo de hielo|
+langlookup|Chance of sleet and F|Riesgo de hielo|
+langlookup|Chance of sleet and or freezing rain|Posibilidad de aguanieve o lluvia helada|
+langlookup|Chance of sleet and or mix|condiciones muy invernales|
+langlookup|Chance of sleet and or snow|condiciones muy invernales|
+langlookup|Chance of snow|Riesgo de nieve|
+langlookup|Chance of snow and or rain|Probabilidad de lluvia o nieve|
+langlookup|Chance of snow and rain|Probabilidad de lluvia y nieve|
+langlookup|Chance ofsleet and snow|Posibilidad de nieve y hielo|
+langlookup|Clear|Claros|
+langlookup|Clearing Late|aclarará más adelante|
+langlookup|Clouds|Nublado|
+langlookup|Clouds Early|Nubes Tempranas|
+langlookup|Cloudy|Nublado|
+langlookup|Dense fog|Niebla Densa|
+langlookup|Drizzle|Llovizna|
+langlookup|Drizzle Late|llovizna mas tarde|
+langlookup|Fair|claro|
+langlookup|Few Clouds|Nubes dispersas|
+langlookup|Few Showers|Parcialmente nublado|
+langlookup|Few clouds|Nubes|
+langlookup|Fog|Niebla|
+langlookup|Foggy|Brumoso|
+langlookup|Freezing drizzle|llovizna congelación|
+langlookup|Freezing rain|Hielo|
+langlookup|Frost heavy|Fuerte helada|
+langlookup|Frost scattered|Heladas dispersas|
+langlookup|Hail|Granizo|
+langlookup|Haze|Niebla|
+langlookup|Heavy Rain|Lluvia fuerte|
+langlookup|Heavy Rain Shower|Chubascos de lluvia fuerte|
+langlookup|Heavy dew|Abundante rocio|
+langlookup|Heavy frost|Helada intensa|
+langlookup|Heavy rain|Fuertes lluvias|
+langlookup|Heavy sleet|Mucha lluvia helada|
+langlookup|Heavy sleet and or mix|Condiciones muy invernales|
+langlookup|Heavy snow|Fuertes nevadas|
+langlookup|Heavy snow and or rain|Fuertes nevadas y lluvia|
+langlookup|Ice Crystals|Cristales de hielo|
+langlookup|Ice storm|Tormenta de hielo|
+langlookup|Late| Final del día|
+langlookup|Light Drizzle|Bajo la llovizna|
+langlookup|Light Freezing Drizzle|Congelación baja llovizna|
+langlookup|Light Ice Pellets|Gránulos de hielo|
+langlookup|Light Rain|lluvia|
+langlookup|Light Rain Drizzle|Parcialmente nublado Lluvia|
+langlookup|Light Rain Early|Lluvia Temprana|
+langlookup|Light Rain Late|Lluvia ligera al final del dia|
+langlookup|Light Rain Shower|Muy nuboso|
+langlookup|Light Rain Showers|Chubascos|
+langlookup|Light Rain with Thunder|Lluvia ligera con Truenos|
+langlookup|Light Snow|Ligeros copos de nieve|
+langlookup|Light Snow Grains|Ligeros granizos|
+langlookup|Light Snow Showers|Ligeros chubascos de nieve|
+langlookup|Light dew|Rocio de luz|
+langlookup|Light drizzle|llovizna ligera|
+langlookup|Light fog|Luz de niebla|
+langlookup|Light frost|Escarcha de luz|
+langlookup|Light rain|Lluvia ligera|
+langlookup|Light rain and or snow|Cubierto y nieve|
+langlookup|Light rain drizzle|llovizna ligera|
+langlookup|Light rain shower|Lluvia fuerte|
+langlookup|Light rain showers|lluvias ligeras|
+langlookup|Light rain, few clouds|Fuertes lluvias,algunas nubes|
+langlookup|Light sleet|Aguanieve|
+langlookup|Light sleet and or mixture|aguanieve o nieve ligera|
+langlookup|Light sleet and or snow|aguanieve o nieve ligera|
+langlookup|Light snow|Ligeros copos de nieve|
+langlookup|Light snow and rain|Poca nieve y lluvia|
+langlookup|Meteoplug|n/a|
+langlookup|Mist|Niebla|
+langlookup|Moderate dew|Rocio moderado|
+langlookup|Moderate fog|Niebla moderada|
+langlookup|Moderate frost|Hielo moderado|
+langlookup|Moderate rain|Lluvias moderadas|
+langlookup|Moderate sleet|Aguanieve moderada|
+langlookup|Moderate snow|Nieve moderada|
+langlookup|Morning|Mañana|
+langlookup|Mostly Clear|Parcialmente despejado|
+langlookup|Mostly Cloudy|Parcialmente nublado|
+langlookup|Mostly Sunny|Soleado|
+langlookup|Mostly clear|Parcialmente despejado|
+langlookup|Mostly cloudy|Parcialmente nublado|
+langlookup|No precip|Ninguna precipitación <br />|
+langlookup|Overcast|Nublado|
+langlookup|Partly Cloudy|Parcialmente Nublado|
+langlookup|Partly cloudy|Parcialmente nublado|
+langlookup|Patchy rain nearby|Lluvia|
+langlookup|Probably drizzle|Probablemente llovizna|
+langlookup|Probably freezing rain|lluvia helada probable|
+langlookup|Probably rain and or sleet|Probablemente lluvia y aguanieve|
+langlookup|Probably rain and or snow|Probablemente lluvia y la nieve|
+langlookup|Probably showers|probablemente Duchas|
+langlookup|Probably sleet|Probablemente aguanieve|
+langlookup|Probably sleet and or freezing rain|Probablemente  aguanieve y lluvia helada|
+langlookup|Probably sleet and or mixture|Probablemente aguanieve y lluvia helada|
+langlookup|Probably sleet and or snow|Probablemente aguanieve y lluvia helada|
+langlookup|Probably snow|Probablemente nieve|
+langlookup|Rain Shower|Lluvias|
+langlookup|Rain and Sleet|Lluvia y aguanieve|
+langlookup|Rain and Snow|Lluvia y nieve|
+langlookup|Rain and or sleet|Lluvia y aguanieve |
+langlookup|Rain showers|Lluvias|
+langlookup|Scattered Showers|Chubascos dispersos|
+langlookup|Scattered Snow Showers|Nieve dispersa|
+langlookup|Scattered Thunderstorms|Tormentas dispersas|
+langlookup|Scattered frost|Heladas dispersas|
+langlookup|Showers|Lluvias|
+langlookup|Showers Early|Lluvia Temprana|
+langlookup|Showers Nearby|Lluvia Cercana|
+langlookup|Showers in the Vicinity|Lluvias en las proximidades|
+langlookup|Sleet|Aguanieve|
+langlookup|Sleet and or freezing rain|Aguanieve y lluvia helada|
+langlookup|Sleet and or mixture|condiciones invernales|
+langlookup|Sleet and or snow|condiciones invernales|
+langlookup|Sleet showers|Aguanieve|
+langlookup|Snow|Nieve|
+langlookup|Snow Grains|nieve granulada|
+langlookup|Snow Showers|Chubascos de nieve|
+langlookup|Snow Showers Late| La lluvia y la nieve|
+langlookup|Snow accumulation|Acumulacion de nieve|
+langlookup|Snow and blizzards|La nieve y las ventiscas|
+langlookup|Snow and or rain|Nieve y lluvia|
+langlookup|Snow flurries| copos de nieve|
+langlookup|Snow grains|granos de nieve|
+langlookup|Snow showers|Nieve|
+langlookup|Snow/Ice|Nieve / Hielo|
+langlookup|Snowdepth|Espesor de la nieve|
+langlookup|Soil|Sol|
+langlookup|Sprinkles|Luz|
+langlookup|Stopped snowing|Ha dejado de nevar|
+langlookup|Sunny|Soleado|
+langlookup|sunny|soleado|
+langlookup|Sunny with haze|Nublado con niebla|
+langlookup|Thunder|Tormentas|
+langlookup|Thundershowers|Tormentoso|
+langlookup|Thunderstorm|Tormenta|
+langlookup|Thunderstorms|Tormentas|
+langlookup|Thunderstorms Early|Primeras Tormentas|
+langlookup|What forecast do you want on the main page|¿Qué previsión es lo que quieres en la página principal|
+langlookup|Wilsele/Leuven|n/a|
+langlookup|Wind|Viento|
+langlookup|by:|Generado por:|
+langlookup|chance|probabilidad|
+langlookup|chance of|probabilidad de|
+langlookup|chance of rain|probabilidad de lluvia|
+langlookup|chancerain|riesgo de lluvia|
+langlookup|chancesnow|riesgo de nieve|
+langlookup|clear|Claros|
+langlookup|cloudy|Nublado|
+langlookup|evening|tarde|
+langlookup|ewn|ewn|
+langlookup|less than|menos que|
+langlookup|morning| mañana|
+langlookup|mostlycloudy|Parcialmente nublado|
+langlookup|none|ninguna|
+langlookup|overnight|durante la noche|
+langlookup|partlycloudy|Parcialmente nublado|
+langlookup|quantity|Cantidad|
+langlookup|thunderstorm|tormenta|
+# contact form
+langlookup|An error occured, please try again later|Se ha producido un error, por favor intente de nuevo más tarde|
+langlookup|Code|Código|
+langlookup|Comments or questions are welcome|Los comentarios o preguntas son bienvenidos|
+langlookup|Email|Correo electrónico|
+langlookup|Email, please type again| por favor, escriba su correo electronico de nuevo|
+langlookup|Kind regards|Saludos cordiales|
+langlookup|Message|Mensaje|
+langlookup|Name|Nombre|
+langlookup|Send me a copy|Deseo recibir una copia|
+langlookup|Subject|Asunto|
+langlookup|Your message is sent, we will react swiftly|Su mensaje es enviado, vamos a reaccionar con rapidez|
+langlookup|clear fields|Borrar campos|
+langlookup|e-mail addresses should be equal|las direcciones de correo electrónico deben ser iguales|
+langlookup|incorrect|incorrectas|
+langlookup|required|exigida|
+langlookup|submit|enviar|
+# customize
+langlookup|, giving us permission to store a cookie.|, dándonos permiso para guardar una cookie |
+langlookup|160px header  with pictures|160px cabecera con fotos|
+langlookup|Adept to the weatherconditions|Adepto a las condiciones climáticas|
+langlookup|After setting your preferences, you can click on|Después de configurar las preferencias, pulse en|
+langlookup|Always one colour and style|Siempre un color y estilo|
+langlookup|Automatically adept coulors and backgrounds|Ajuste los colores y el fondo de forma automática |
+langlookup|Celcius|Celsius|
+langlookup|Choose a language|Elija un idioma |
+langlookup|Customize|Personalizar|
+langlookup|Customize the appearence of this site|Personalizar la apariencia de este sitio|
+langlookup|Do not want that|No quiero que|
+langlookup|Fahrenheit|Fahrenheit|
+langlookup|Home page|Entrar|
+langlookup|Horizontal below header|Horizontal debajo del encabezado|
+langlookup|If you click on|Si hace clic en|
+langlookup|Like nearly all websites we store your preferences in a small file (cookie) in the browser on your PC. On a subsequent visit, you do not have to set your preferences again.|Como casi todos los sitios web almacenamos las preferencias en un archivo pequeño ( cookie) en el navegador de su PC. En una visita posterior ,  no tiene que establecer sus preferencias de nuevo.|
+langlookup|Low 80px header, text only|Sólo encabezado Baja 80px , texto|
+langlookup|Reset to website defaults|Regreso prefijados sitio web|
+langlookup|Save your changes|Guarde los cambios|
+langlookup|The cookie law requires us to ask you permission for the posting of this file.|La ley cookie nos obliga a pedirle permiso para la publicación de este archivo.|
+langlookup|The first page you want to see when you visit our site|La primera página que desea ver cuando usted visita nuestro sitio|
+langlookup|Vertical - leftside|Vertical - leftside|
+langlookup|Where do we place the menu|¿Dónde ponemos el menú|
+langlookup|Which header type do you want| Tipo ¿Qué es lo que quieres de cabecera|
+langlookup|Which unit of measurement do you prefer for|¿Qué unidad de medida prefiere para|
+langlookup|hPa|hPa|
+langlookup|in|in|
+langlookup|inHg|inHg|
+langlookup|kts|Kts|
+langlookup|mb|mb|
+langlookup|mph|mph|
+langlookup|pressure|pression atmosferica|
+langlookup|rain|lluvia|
+langlookup|windspeed|velocidad del viento|
+langlookup|you go back to the starting page without storing your preferences for the next visit.|regresas a la página de inicio sin guardar sus preferencias para la próxima visita|
+# days of the week long
+langlookup|Friday|Viernes|
+langlookup|Monday|Lunes|
+langlookup|Saturday|Sabado|
+langlookup|Sunday|Domingo|
+langlookup|Thursday|Jueves|
+langlookup|Tuesday|Martes|
+langlookup|Wednesday|Miercoles|
+# days of the week short
+langlookup|Fri|Vie|
+langlookup|Mon|Lun|
+langlookup|Sat|Sab|
+langlookup|Sun|Dom|
+langlookup|Thu|Jue|
+langlookup|Tue|Mar|
+langlookup|Wed|Mie|
+# footer
+langlookup|Bookmark Page|Marcar página|
+langlookup|Contact Us|Contáctenos |
+langlookup|Never base important decisions on this or any weather information obtained from the Internet|Nunca base decisiones importantes en estos datos u otros obtenidos de Internet|
+langlookup|Original script by|Guión original por|
+langlookup|Scripts from|Scripts de|
+langlookup|Top|Top|
+langlookup|Valid|Válido|
+langlookup|Weather program|Programa de Tiempo|
+langlookup|user(s) online|usuario(s) en linea|
+# forecast terms
+langlookup|48 hour details|detalles 48 horas|
+langlookup|48 hours details|48 horas detalles|
+langlookup|Amount|Cantidad |
+langlookup|Amount of rain|Cantidad De Precipitaciones|
+langlookup|Chance of Snow|Probabilidad de nevada|
+langlookup|Chance of Thunder|Posibilidad de tormenta|
+langlookup|Cloud| Nube|
+langlookup|Cloud cover|La cobertura de nubes|
+langlookup|Current weather|Tiempo de hoy|
+langlookup|Daylength|Duración del día|
+langlookup|Description|Descripción|
+langlookup|Forecast by 3 hour intervals|Pronóstico por intervalos de 3 horas|
+langlookup|Forecast by 6 hour intervals|Pronóstico por intervalos de 6 horas|
+langlookup|Forecast generated|Prévisiones géneradas por:|
+langlookup|Graph|Gráfica|
+langlookup|Grass and soil forecast| previsión en hierba y suelo|
+langlookup|Grass temperature|Temperatura Hierba|
+langlookup|Het Weer Actueel|Het Weer Actueel|
+langlookup|MetNoForecast.|Prévisiones météorologicas para|
+langlookup|Next update|Siguiente actualización|
+langlookup|UV forecast courtesy of and Copyright &copy; KNMI/ESA (http://www.temis.nl/). Used with permission.|Prévisions UV: Copyright © KNMI/ESA (http://www.temis.nl/). Utilisé avec permission.|
+langlookup|WXSIM Hourly forecast for:|WXSIM Prévisiones graficas para:|
+langlookup|afternoon|| Tarde|
+langlookup|and|y|
+langlookup|barometer|Barómetro|
+langlookup|chance of Snow|Riesgo de Nieve|
+langlookup|chance of Thunder|Posibilidad de tormenta|
+langlookup|date|Fecha|
+langlookup|day forecast for|Previsión del día para|
+langlookup|day graphical forecast for|Mapas del tiempo|
+langlookup|direction|Dirección|
+langlookup|for this station|para esta estación|
+langlookup|from the|del:|
+langlookup|icon|ícono|
+langlookup|km/h|kmh|
+langlookup|less|menos|
+langlookup|none expected|ninguna espera|
+langlookup|period|périodo|
+langlookup|precipitation|precipitaciones|
+langlookup|probability|probabilidad|
+langlookup|shifting|variable|
+langlookup|speed|velocidad|
+langlookup|temperature|températura|
+langlookup|this station|esta estación|
+langlookup|to|a|
+langlookup|weather forecast|prévisiones meteo|
+langlookup|wind|viento|
+langlookup|wsWxsimForecast.|Previsiones para|
+# graphs
+langlookup|All-in-One|All-in-One|
+langlookup|Graphs generated by|Los gráficos generados por|
+langlookup|Heat Index|Índice de calor|
+langlookup|Last 24 Hours|Últimas 24 Horas|
+langlookup|Last 72 Hours|Últimas 72 Horas|
+langlookup|Month to Date|Mes actual|
+langlookup|Move the mouse horizontally over the graph and the different values will be displayed|Mueva el ratón horizontalmente sobre la gráfica y se mostrarán los diferentes valores|
+langlookup|Weather Trend Graphs|Graficos de Tendencia|
+langlookup|last three days|ultimos tres días|
+# heat words
+langlookup|Cold|Frio|
+langlookup|Comfortable|Confortable|
+langlookup|Cool|Enfriar|
+langlookup|Extreme Cold|Frío Extremo|
+langlookup|Extreme Heat Caution|Precaucion calor extremo|
+langlookup|Extreme Heat Danger|Peligro calor extremo|
+langlookup|Extremely Hot|Extremadamente Calientes|
+langlookup|Heat Danger|Peligro Calor|
+langlookup|Hot|Caliente|
+langlookup|Uncomfortably Cold|Incomodamente fría|
+langlookup|Uncomfortably Hot|Incomodamente caliente|
+langlookup|Unknown|Desconocido|
+langlookup|Very Cold|Muy fria|
+langlookup|Warm|Caliente|
+# hwa weather maps
+langlookup|Click on a map to get a pop-up with a larger image|Haga clic en el mapa para obtener una ventana emergente con una imagen más grande|
+langlookup|HWA weather maps|HWA Mapas del tiempo|
+langlookup|The South-East of Belgium remains light gray, as no weather stations are nearby.|El sudeste de Bélgica sigue siendo de color gris claro , ya que hay estaciones meteorológicas cercanas|
+langlookup|The map with the actual  windspeed (10 minute average) is constructed 2 times per hour from the current data from all weather stations, provided that the data is less than 1 hour old.|El mapa de la velocidad del viento real (media 10 minutos ) se construye 2 veces por hora a partir de los datos actuales de todas las estaciones meteorológicas, a condición de que los datos están a menos de 1 hora de vida|
+langlookup|The map with the current temperatures is generated  every 10 minutes from the current data from all weather stations, provided that the data is less than 1 hour old.|El mapa con las temperaturas actuales se genera cada 10 minutos de los datos actuales de todas las estaciones meteorológicas, a condición de que los datos están a menos de 1 hora de vida|
+langlookup|The second map shows the precipitation that has fallen today until the time stated on the map.| El segundo mapa muestra la precipitación que ha caído hoy hasta el tiempo señalado en el mapa|
+langlookup|Weather maps|Mapas del tiempo|
+langlookup|Weather maps provided by|Mapas del tiempo proporcionados por|
+# links
+langlookup|Personal Weather Station Networks|Redes de estaciones meteo Personales|
+langlookup|Separate page with extra info|página independiente con información extra|
+langlookup|Weather Education| Clima Educación|
+langlookup|Weather Station Software|Estación meteorológica Software|
+langlookup|Weather Website PHP Scripts|Méteo Site Web Scripts PHP|
+langlookup|Weather forums|foros meteorológicos|
+# menu items
+langlookup|About| Acerca de|
+langlookup|Graphics WXSIM|Graficos WXSIM|
+langlookup|Advisories|Avisos|
+langlookup|Air Quality|Calidad del Aire|
+langlookup|Air Quality BE|Calidad del aire BE|
+langlookup|Air Quality CA|Calidad del aire CA|
+langlookup|Air Quality NL|NL Calidad del Aire|
+langlookup|Air Quality and warnings by Belgian IRCEL/CELINE|Calidad del aire y de las advertencias de los belgas IRCEL/CELINE|
+langlookup|Air Quality and warnings by Belgian IRCEL/CELINE|Calidad del aire y de las advertencias en Cantabria CIMA|
+langlookup|Air Quality and warnings by Dutch RIVM|Calidad del aire y de las advertencias de los holandeses RIVM|
+langlookup|Airport weather|Metars  Aeropuertos|
+langlookup|All-in-One graph last 3 days|Todo-en - Uno gráfico 3 últimos días|
+langlookup|All-in-One graph live|Gráfico Todo -en-uno directo|
+langlookup|Almanac|Almanaque|
+langlookup|Benelux|Benelux|
+langlookup|Benelux Weather Network|Réseau Météo Benelux|
+langlookup|Buoys and other weather mesuring devices at sea| Boyas y otros dispositivos de medición del tiempo en el mar|
+langlookup|CWOP Data Check|CWOP Data Check|
+langlookup|CWOP Stats| CWOP Estadísticas|
+langlookup|Click on image for the blitzortung.org site with a lot of extra information|Haga clic en la imagen para el sitio blitzortung.org con una gran cantidad de información extra|
+langlookup|Click on image for the meteox site with a lot of extra information|Haga clic en la imagen para el sitio meteox con una gran cantidad de información extra|
+langlookup|Clientraw|Clientraw|
+langlookup|Cloud Radar|Nube Radar|
+langlookup|Cloud Radar by sat24.com|Nubes  Radar por sat24.com|
+langlookup|Contact|Contacto|
+langlookup|Contact page with CATCHA|Página de contacto con CATCHA|
+langlookup|Cumulus Tags|Cumulus Etiquetas|
+langlookup|Data provided by|Datos proporcionados por|
+langlookup|Development|Desarrollo|
+langlookup|Earthquake activity|Actividad sísmica|
+langlookup|Forecast &amp; Advisories|Predicción y avisos|
+langlookup|Global Station Map of Affiliated Weather Networks|Estaciónes Globales Mapa de afiliados a Redes del Tiempo|
+langlookup|Go to our mobile site|Ir a nuestro sitio móvil|
+langlookup|Tides|Mareas|
+langlookup|Home| Inicio|
+langlookup|Home Page| Inicio|
+langlookup|Icons|Iconos|
+langlookup|Icons Used|Iconos utilizados|
+langlookup|IconsUsed|iconos utilizados|
+langlookup|Information from NOAA Space Weather Prediction Center|Información NOAA Space Weather Prediction Center|
+langlookup|Firedanger|Peligro de Incendio|
+langlookup|Live Data|Datos en vivo|
+langlookup|Live Data by Meteoware|Datos en vivo por Meteoware|
+langlookup|Local Weather Exchange Stations|Clima Local Estaciones Tipo Météo|
+langlookup|Maps|Mapas|
+langlookup|Mesonet|Mesonet|
+langlookup|MeteoHub/plug|MeteoHub/plug|
+langlookup|Meteoalarm test|Meteoalarm test|
+langlookup|Meteohub|Meteohub|
+langlookup|Meteohub Docs|Meteohub documentacion|
+langlookup|Meteohub Docs / Weather variables|Variables Meteohub Docs / meteorológicas|
+langlookup|Meteohub Tags|Meteohub variables|
+langlookup|Meteohub/plug Live Data|Datos Meteohub /plug vivo|
+langlookup|Meteoware Live|Meteoware Vivo |
+langlookup|Mobile site|sitio Web mobil|
+langlookup|Nearby Buoys|Boyas Maritimas|
+langlookup|North Sea and Atlantic Ocean weather buoys and platforms|Mar del Norte y el Océano Atlántico boyas y plataformas|
+langlookup|Other Stuff|Otras Cosas|
+langlookup|Our own forecast|Nuestro propio pronóstico|
+langlookup|Partnerships|Asociaciones|
+langlookup|Precipitation HWA and Meteox|Precipitaciones HWA y Meteox|
+langlookup|Precipitation Radar|Precipitacion Radar|
+langlookup|Precipitation Radar forecast 3 hours|Precipitación Radar 3 horas|
+langlookup|Precipitation Radar past 2 &amp; coming 3 hours|Radar de precipitación pasadas 2&amp; y próximas 3 horas|
+langlookup|Precipitation by Meteox.com| Precipitación por Meteox.com|
+langlookup|Soil moisture and temperature|La humedad del suelo y la temperatura|
+langlookup|Soil test|Análisis de suelos|
+langlookup|Start page|Página de inicio|
+langlookup|Station Graphs seperate|Estación de gráficos independientes|
+langlookup|Status|Estado|
+langlookup|Status of weather software|Estado del software de tiempo|
+langlookup|Steelseries|Steelseries|
+langlookup|Sun activity|Actividad del sol|
+langlookup|Sun/Moon Almanac|Almanaque Sol / Luna|
+langlookup|Temperature Worldwide|Temperatura en el mundo|
+langlookup|Temperature Worldwide in seperate window|Temperatura en el mundo en ventana separada|
+langlookup|Thunderstorms by blitzortung.org|Tormentas  por blitzortung.org|
+langlookup|Translate|Traducir|
+langlookup|Trend Graphs|Gráficos de tendencia|
+langlookup|Trends, Sun/Moon, Earthquakes|Tendencias, Sol / Luna, Terremotos|
+langlookup|UV Index Forecast|Indice UV Pronóstico|
+langlookup|UV forecast and warnings by KNMI|Pronóstico UV y advertencias de KNMI|
+langlookup|Useful Links|Enlaces útiles|
+langlookup|WD Live|WD Vivo|
+langlookup|WD Live Data|WD Datos en vivo|
+langlookup|WD Live Data by Meteohub|Datos WD Live Meteohub|
+langlookup|WD Live Meteoplug|Datos WD Live par Meteoplug|
+langlookup|WD-Live Data|WD-Live Data|
+langlookup|WU History Txt|WU Historico Txt|
+langlookup|WU forecast|Previsiones de WU |
+langlookup|WXSIM Forecast|WXSIM previsiones|
+langlookup|WXSIM conditions used|WXSIM condiciones meteorologicas|
+langlookup|WXSIM field names| nombres de campo WXSIM|
+langlookup|WXSIM hourly forecast|WXSIM Predicción hora|
+langlookup|WXSim forecast|WXSim previsiones|
+langlookup|Watches/Warnings/Advisories|Avisos|
+langlookup|Weather Display Tags|Weather Display Tags|
+langlookup|Weather Station Info|Estación meteorológica Info|
+langlookup|Weather Station Status|Status de la estacion|
+langlookup|Weather Trends|Tendencias del tiempo|
+langlookup|Weather Trends and high lows this year|El tiempo Tendencias  altas y mínimas este año|
+langlookup|Weather Underground History page Text|Pagina Historial Weather Underground texto|
+langlookup|Weather alarms by European MeteoAlarm|Alarmas meteorologicas de Europa MeteoAlarm|
+langlookup|Weather graphs last 2 days|Graficos ultimos 2 días|
+langlookup|Weather graphs last 3 days|Graficos ultimos 3 dias|
+langlookup|Weather outlook|Previsiones Meteorologicas|
+langlookup|Weather outlook by HetWeerAktueel|Previsiones detalladas de HetWeerAktueel|
+langlookup|Weather outlook by World Weather| Previsiones detalladas de World Weather|
+langlookup|Weather outlook by Wunderground| Previsiones detalladas de Wunderground|
+langlookup|Weather outlook by YR.NO| Previsiones detalladas de YR.NO|
+langlookup|Weather outlook by Yahoo| Previsiones detalladas de Yahoo|
+langlookup|Weatherconditions nearby airports|Condiciones meteorologicas de aeropuertos proximos|
+langlookup|Website Map|Mapa Web|
+langlookup|Who is Online|En línea|
+langlookup|WhoIsOnline|En línea|
+langlookup|World Weather forecast details|Previsión Meteorológica Mundial detalles|
+langlookup|World map|Mapa del Mundo|
+langlookup|YRno forecast details|YRno previsiones detalladas|
+langlookup|Yahoo forecast details|Yahoo previsiones detalladas|
+langlookup|Yr.no 7 day forecast for|Yr.no 7 previsiones 7 dias|
+langlookup|by WD live|por WD live|
+langlookup|day forecast for this station|Previsión del día para esta estación|
+langlookup|from MeteoHub/MeteoPlug|de MeteoHub/MeteoPlug|
+langlookup|iPhone|iPhone|
+# mesonet world map
+langlookup|About the Global Map|Acerca del Mapa Global|
+langlookup|Affiliated Regional Weather Networks|Redes del Tiempo|
+langlookup|Nets|Redes|
+langlookup|Stations in|Estaciones de|
+langlookup|Weather|El tiempo|
+langlookup|Weather, Lightning|Tiempo , Rayo|
+langlookup|Weather, Lightning, WebCam|Tiempo , Rayo , WebCam|
+langlookup|Weather, WebCam|Tiempo , WebCam|
+langlookup|Weather, WebCam, Lightning|Tiempo , WebCam , Rayo |
+langlookup|stations in affiliated networks worldwide as of| Red de estaciones afiliadas en todo el mundo |
+# metar
+langlookup|Cloud details|detalles de la nube|
+langlookup|Distance from station| Distancia hasta la estación|
+langlookup|Nearby METAR Reports|Informes METAR proximidad|
+langlookup|Updated|Actualización|
+langlookup|Visibility|Visibilidad|
+langlookup|Wind Chill|Térmica |
+langlookup|greater than|mayor que|
+langlookup|varies|varía|
+# mobile site
+langlookup|Current weather for|Tiempo de hoy para|
+# moisture
+langlookup|ERROR no reading|ERROR ninguna lectura|
+# month names long
+langlookup|April|Abril|
+langlookup|August|Agosto|
+langlookup|December|Diciembre|
+langlookup|February|Febrero|
+langlookup|Janvier|Enero|
+langlookup|July|Julio|
+langlookup|June|Junio|
+langlookup|March|Marzo|
+langlookup|November|Noviembre|
+langlookup|October|Octubre|
+langlookup|September|Septiembre|
+# month names short
+langlookup|Apr|Abr|
+langlookup|Aug|Ago|
+langlookup|Dec|Dic|
+langlookup|Feb|Feb|
+langlookup|Jan|Ene|
+langlookup|Jul|Jul|
+langlookup|Jun|Jun|
+langlookup|Mar|Mar|
+langlookup|May|May|
+langlookup|Nov|Nov|
+langlookup|Oct|Oct|
+langlookup|Sep|Sep|
+# moon words
+langlookup|First Quarter|Primer Trimestre|
+langlookup|First Quarter Moon|Cuarto Creciente|
+langlookup|Full Moon|Luna Llena |
+langlookup|Last Quarter|Cuarto Menguante |
+langlookup|Last Quarter Moon|Luna Cuarto Menguante|
+langlookup|Moon phases|Fases de la Luna|
+langlookup|New Moon|Luna nueva|
+langlookup|Waning Crescent|Cuarto Creciente|
+langlookup|Waning Crescent Moon|Luna Cuarto creciente|
+langlookup|Waning Gibbous|Luna llena|
+langlookup|Waning Gibbous Moon|Luna Cuarto menguante|
+langlookup|Waxing Crescent|Creciente|
+langlookup|Waxing Crescent Moon|Creciente Luna|
+langlookup|Waxing Gibbous| Luna llena|
+langlookup|Waxing Gibbous Moon|Luna llena Luna|
+# quakes
+langlookup|Adapted for the template by|Adaptado para la plantilla por|
+langlookup|Cluster - click to expand details| Cluster - hacer clic para ampliar detalles|
+langlookup|Distance to <br />Epicenter|Distancia a <br /> Epicentro|
+langlookup|Distance to Epicenter|Distancia Epicentro|
+langlookup|Distance to epicenter|Distancia al Epicentro|
+langlookup|Earthquakes|Terremotos|
+langlookup|Earthquakes in the past 7 days|Los terremotos en los últimos 7 días|
+langlookup|Earthquakes in the past 7 days of magnitude|Los terremotos en los últimos 7 días de la magnitud|
+langlookup|Earthquakes of magnitude|Los terremotos de magnitud|
+langlookup|Earthquakes worldwide|Los terremotos en todo el mundo|
+langlookup|Enable JavaScript to view the Google Map.|Habilitar JavaScript para ver el mapa de Google.|
+langlookup|Epicenter Near|Epicentro Cerca|
+langlookup|Link|Enlace|
+langlookup|Link to<br />Map|Enlace a <br /> Mapa|
+langlookup|Local Time|Hora local|
+langlookup|Magnitude|Magnitud|
+langlookup|Map and data courtesy of|Mapa y datos son cortesía de|
+langlookup|No earthquakes of magnitude|No hay terremotos de magnitud|
+langlookup|Note: Click on column heading marked with|Nota: Haga clic en título de la columna marcada con|
+langlookup|Originele script ontwikkeld door|Script desarrollado por|
+langlookup|United States Geological Survey|Encuesta sobre geológica Estados Unidos|
+langlookup|Update time|Tiempo de actualización|
+langlookup|Your weatherstationName|Su nombre de estacion meteo|
+langlookup|earthquakes found. Click on location or map links for more details from the|Haga clic en la ubicación del mapa o enlaces para obtener más detalles de los terremotos|
+langlookup|km|km|
+langlookup|km reported in last 7 days|km reportado en los últimos 7 días|
+langlookup|map|mapa|
+langlookup|or greater within|o mayor dentro de|
+langlookup|reported in last 7 days|reportado en los últimos 7 días|
+langlookup|to sort column contents.| para ordenar el contenido de la columna.|
+# side gadgets text
+langlookup|Equipment we use|Equipo utilizado|
+langlookup|Our weatherpage on|Nuestra página de tiempo en|
+langlookup|Provider|Proveedor|
+langlookup|Visit our other weathersites|Visita nuestra red de sitios de meteo|
+langlookup|Weatherprogram|Weather-program|
+langlookup|Weatherserver|Weather-server|
+langlookup|Weatherstation|Weather-station|
+langlookup|Firedanger|Peligro de Incendio|
+langlookup|You find our weatherinfo also at|Usted encontrará nuestra información del tiempo también en|
+# soil moisture and temperature
+langlookup|Actual|Actual|
+langlookup|Adequate|Adecuado|
+langlookup|All time|Siempre|
+langlookup|Background information|Información básica|
+langlookup|Buttton text|Buttton text|
+langlookup|Current Planting & Watering Guide|La siembra actual y Guía de riego|
+langlookup|Dangerous Dry|Peligo seco|
+langlookup|Date| Fecha|
+langlookup|Depth|Profundidad|
+langlookup|Explanation|Explicación|
+langlookup|Explanation Soil condition| Explicación condiciones del suelo|
+langlookup|Grow conditions|crecer condiciones|
+langlookup|Irrigate at the upper end of this range in cool humid climates and with higher water-holding capacity soils.|Riegue en el extremo superior de este rango en climas húmedos y fríos con mayores suelos de capacidad de retención de agua.|
+langlookup|Irrigation desired|Riego deseado|
+langlookup|Irrigation needed|Riego necesario|
+langlookup|Moisture|Humedad|
+langlookup|Optimal growth|Crecimiento óptimo|
+langlookup|Record Soil Temperatures|Las temperaturas record de suelos|
+langlookup|Saturated|saturada|
+langlookup|Saturated Soil. Occurs for a day or two after irrigation.|Saturacion del suelo . Se produce por un día o dos después del riego .|
+langlookup|Soil is adequately wet (except coarse sands which are drying out at this range)|El suelo es suficientemente húmedo ( excepto las arenas gruesas que se sequen en este rango)|
+langlookup|Soil is becoming dangerously dry for maximum production.|El suelo se está convirtiendo peligrosamente seco para la producción máxima .|
+langlookup|This month|Este mes|
+langlookup|This year|Este año|
+langlookup|Usual range to irrigate heavy clay soils|Tamaño usual para el riego de los suelos arcillosos pesados|
+langlookup|Usual range to irrigate or water (except heavy clay soils).|Tamaño usual para el riego o el agua (excepto suelos muy arcillosos ).|
+langlookup|min/max|min/max|
+# status
+langlookup|Age|Edad |
+langlookup|Component|Componentes|
+langlookup|Current status of the weather systems used in the operation of this website|El estado actual de los sistemas meteorológicos utilizados en las mediciones de este sitio|
+langlookup|Daily Statistics|Estadísticas diarias|
+langlookup|FTP|FTP|
+langlookup|It was last started|Se inició por última vez|
+langlookup|Latest update time as of|Última hora de actualización a partir de|
+langlookup|NOT Current|NO actual|
+langlookup|Station Status|Estado de la estación|
+langlookup|Station system is up for|Sistema de estación está a la|
+langlookup|This software runs on a|Este software se ejecuta en un|
+langlookup|This station uses|Esta estación utiliza|
+langlookup|This website uses|Este sitio web utiliza|
+langlookup|computer|equipo|
+langlookup|for weather conditions reporting|informes para las condiciones climáticas|
+langlookup|graphs|Gráficos|
+langlookup|h:m:s|h:m:s|
+langlookup|realtime|En tiempo real|
+langlookup|software|Software|
+langlookup|weather data|datos meteorológicos|
+langlookup|weatherfiles|Ficheros meteo|
+# tags and values
+langlookup|For instance: First click on tag-heading will sort the table descending, second click ascending on tag|Por ejemplo : En primer lugar , haga clic en la etiqueta -encabezamiento ordenará la descendente de etiquetas , segundo clic ascendente de etiquetas|
+langlookup|Tags and values used within this template set|Etiquetas y valores utilizados en este conjunto de plantillas|
+langlookup|Weather Display field|campo Weather Display|
+langlookup|You can sort the table on the first two colomns by clicking in the corresponding heading|Puede ordenar la tabla en los dos primeras columnas haciendo clic en el encabezado|
+langlookup|You can sort the table on the values in the columns by clicking in the corresponding heading|Puede ordenar la tabla de los valores de las columnas haciendo clic en el encabezado correspondiente|
+langlookup|tag|tag|
+# temperature
+langlookup|Deep freeze|Congelacion|
+langlookup|Frost line|Línea de Frio|
+langlookup|Ideal growth|Crecimiento Ideal|
+langlookup|Minimum growth|Crecimiento mínimo|
+langlookup|Too cold to plant| Demasiado frío para plantar|
+# to be sorted
+langlookup|Colour and style|Color y estilo|
+langlookup|Dewpoint|Punto de rocío|
+langlookup|Dry|Seco|
+langlookup|Hour|Hora|
+langlookup|Icon|icono|
+langlookup|Legenda|Leyenda|
+langlookup|Leuven / België|Louvain / Belgique|
+langlookup|Max/Min Temperature|Max / Min de temperatura|
+langlookup|Maximum temperature|Temperatura máxima|
+langlookup|Minimum temperature|Temperatura mínima.|
+langlookup|NOAA reports|Informes NOAA|
+langlookup|No precipation|Ninguna precipitación|
+langlookup|Our weatherstation|Nuestra estación meteorológica|
+langlookup|Overview|Resumen|
+langlookup|Period|Período|
+langlookup|Personal Weatherstation|Estacion Meteo Personal|
+langlookup|PoP|Probabilidad de precipitaciones|
+langlookup|Precipation|Precipation|
+langlookup|Sol|Sol|
+langlookup|Surface temperature|Temperatura de superficie|
+langlookup|Tonight|Esta noche|
+langlookup|UV|UV|
+langlookup|Wind direction and force|Dirección y fuerza del del viento|
+langlookup|Windgust|Ráfagas de viento|
+langlookup|Your City|Mi Ciudad|
+langlookup|amount of rain|cantidad de lluvia|
+langlookup|and chance|y el azar|
+langlookup|and force|y la fuerza|
+langlookup|day|día|
+langlookup|daytime|durante el día|
+langlookup|max/min|max/min|
+langlookup|meteohub field|Meteohub variables|
+langlookup|more or less|más o menos|
+langlookup|night|noche|
+langlookup|nighttime|la noche|
+langlookup|online for|online para|
+langlookup|this|esto|
+langlookup|this current week|esta semana en curso|
+langlookup|thunder|trueno|
+langlookup|who|quién|
+langlookup|wind direction|dirección del viento|
+langlookup|yourArea|su Area|
+# trends
+langlookup|AGO|AGO|
+langlookup|BAROMETER LOWS|MINIMAS BARÓMETRO|
+langlookup|CURRENT|ACTUAL|
+langlookup|Current|Actual|
+langlookup|DIR|DIRECCION|
+langlookup|EVAPOTRANSPIRATION|EVAPOTRANSPIRACION|
+langlookup|GUST|RACHA|
+langlookup|Gust/hr| Rachas / hr |
+langlookup|HUMIDITY|HUMEDAD|
+langlookup|MINUTES|MINUTOS|
+langlookup|Month|Mes|
+langlookup|Now|Ahora|
+langlookup|PRESSURE|PRESION BARO|
+langlookup|RAIN|LLUVIA|
+langlookup|RAIN HISTORY|HISTORICO DE LLUVIA|
+langlookup|Records and Stats|Records y Estadísticas|
+langlookup|SOLAR HIGHS|MAXIMAS SOLAR|
+langlookup|SPEED|VELOCIDAD|
+langlookup|TEMP|TEMP|
+langlookup|TEMPERATURE HIGHS|MAXIMAS DE TEMPERATURA|
+langlookup|TEMPERATURE LOWS|MÍNIMOS DE TEMPERATURA|
+langlookup|TIME|TIEMPO|
+langlookup|Trends as of|Tendencias|
+langlookup|UV HIGHS|MAXIMAS UV|
+langlookup|WIND|VIENTO|
+langlookup|WIND CHILL LOWS|MINIMAS térmica del viento|
+langlookup|WIND DIR|DIRECCION DEL VIENTO|
+langlookup|WIND GUST|RACHA|
+langlookup|WIND GUST HIGHS|MAXIMAS ráfaga de viento|
+langlookup|WIND SPEED|VELOCIDAD DEL VIENTO|
+langlookup|Week|Semana|
+langlookup|Wind Data|Datos del Viento|
+langlookup|Year|Año|
+langlookup|day since last rain|días desde que llovió|
+langlookup|days|día|
+langlookup|days since last rain|día desde la última precipitación|
+langlookup|last hour|última hora|
+langlookup|last month|el mes pasado|
+langlookup|more than 30|más de 30|
+langlookup|on|de|
+langlookup|over last 7 days|por encima últimos 7 días|
+langlookup|rain days this month|día de lluvia este mes|
+langlookup|rain days this year|días de lluvia este año|
+langlookup|this month|Este mes|
+# uv words
+langlookup|Extreme|extrema|
+langlookup|High|Alto |
+langlookup|Low|Baja|
+langlookup|Medium|Mediano|
+langlookup|None|Ninguna|
+langlookup|Very&nbsp;High|Muy Alta|
+# vantage
+langlookup|Clearing, cooler and windy|Compensación, más fresco y ventoso.|
+langlookup|Forecast requires 3 hours of recent data|Pronóstico requiere 3 horas de datos recientes.|
+langlookup|Increasing clouds and cooler|Aumento de nubes frías.|
+langlookup|Increasing clouds and warmer| Aumento de las nubes y más cálidas.|
+langlookup|Increasing clouds with little temperature change|Aumento de nubes con poco cambio de temperatura .|
+langlookup|Increasing winds|El aumento de los vientos .|
+langlookup|Mostly clear and cooler|Muy claro y más fresco.|
+langlookup|Mostly clear and warmer|Muy clara y más caliente.|
+langlookup|Mostly clear for 12 hours with little temperature change| Mayormente despejado durante 12 horas con pocos cambios de temperatura.|
+langlookup|Mostly clear for 12 to 24 hours and cooler|Mayormente despejado durante 12 a 24 horas y más fresco. |
+langlookup|Mostly clear with little temperature change|Medio nublado con poco cambio de temperatura. |
+langlookup|Mostly cloudy and cooler|Muy nublado y fresco.|
+langlookup|Mostly cloudy with little temperature change|Parcialmente nublado con poco cambio de temperatura.|
+langlookup|Partly cloudy and cooler|Parcialmente nublado y fresco .|
+langlookup|Partly cloudy with little temp. change|Parcialmente nublado con poca temperatura . cambiar .|
+langlookup|Partly cloudy with little temperature change|Parcialmente nublado con poco cambio de temperatura .|
+langlookup|Possible wind shift to the W, NW, or N|Posible cambio de viento a  Oeste , NorOeste, o Norte|
+langlookup|Possible wind shift to the w,nw, or n|Posible cambio de viento a oeste , noroeste , o norte.|
+langlookup|Precipitation continuing|Precipitación continua.|
+langlookup|Precipitation continuing, possibly heavy at times|Precipitación continua, posiblemente pesado a veces.|
+langlookup|Precipitation ending within 12 hours|Las Precipitaciones acaban dentro de 12 horas.|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the W, NW, or N|Precipitaciones acaban dentro de 12 horas  con un posible cambio de viento a Oeste , NorOeste, o Norte .|
+langlookup|Precipitation ending within 12 hours windy with possible wind shift to the w,nw, or n|Precipitaciones acaban dentro de 12 horas  con un posible cambio de viento a oeste , noroeste , o norte .|
+langlookup|Precipitation ending within 6 hours|final Precipitación en las 6 horas .|
+langlookup|Precipitation likely| Precipitaciones probables .|
+langlookup|Precipitation possible and windy within 6 hours|Precipitaciones posible y con mucho viento en las 6 horas.|
+langlookup|Precipitation possible within 12 hours|Precipitaciones posible dentro de 12 horas.|
+langlookup|Precipitation possible within 12 hours, possibly heavy at times|Precipitaciones posible dentro de las 12 horas, posiblemente fuertes a veces.|
+langlookup|Precipitation possible within 12 to 24 hours|Precipitaciones posible dentro de 12 a 24 horas .|
+langlookup|Precipitation possible within 12 to 24 hours Windy|Precipitaciones posible dentro de 12 a 24 horas del Viento .|
+langlookup|Precipitation possible within 24 hours| Precipitaciones posible dentro de 24 horas.|
+langlookup|Precipitation possible within 24 to 48 hours|Precipitaciones posible dentro de 24 a 48 horas.|
+langlookup|Precipitation possible within 6 hours|Precipitaciones posible dentro de 6 horas .|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the W, NW, or N|Precipitaciones posibles dentro de 6 horas  con un posible cambio de viento a Oeste , NorOeste, o Norte.|
+langlookup|Precipitation possible within 6 hours windy with possible wind shift to the w,nw, or n|Precipitaciones posible dentro de 6 horas de viento con el posible cambio de viento a oeste , noroeste , o norte.|
+langlookup|Precipitation possible within 6 to 12 hours windy|Precipitaciones posible dentro de 6 a 12 horas de viento|
+langlookup|Precipitation possible within 6 to 12 hours, possibly heavy at times|Precipitaciones posible dentro de 6 a 12 horas , posiblemente fuertes a veces .|
+langlookup|Precipitation possibly heavy at times and ending within 12 hrs|Posiblemente fuertes Precipitaciones y que terminan en el plazo de 12 horas.|
+langlookup|Windy|Viento|
+langlookup|Windy with possible wind shift to the W  NW  Or N|posible cambio de viento a  W NW O N.|
+langlookup|Windy with possible wind shift to the W, NW, or N|posible cambio de viento a  W , NW, o N.|
+langlookup|Windy with possible wind shift to the w, nw, or n|posible cambio de viento a  w , nw , o n .|
+# warnings
+langlookup|Actual Air quality|Calidad del aire Actual|
+langlookup|Click here to get more details.|Haga clic aquí para obtener más detalles.|
+langlookup|Nitrogen Dioxyde|Dioxyde nitrógeno|
+langlookup|Ozone|Ozono|
+langlookup|Particulate Matter|Partículas |
+langlookup|Provided by|Por|
+langlookup|Sulphur Dioxyde|Azufre Dioxyde|
+langlookup|There are weatherwarnings from METEOalarm.EU|Hay avisos meteorológicos de METEOalarm.EU|
+langlookup|from|desde|
+langlookup|level|Nivel|
+langlookup|no warnings|No hay advertencias|
+langlookup|until| hasta|
+langlookup|warning for|aviso para|
+langlookup|wrnAvalanches|Avalanchas|
+langlookup|wrnCoastal Event| Oleaje|
+langlookup|wrnExtreme high temperature|temperatura Extreme|
+langlookup|wrnExtreme low temperature|temperatura muy baja|
+langlookup|wrnFog|Niebla|
+langlookup|wrnForestfire|Incendio forestal|
+langlookup|wrnGreenTxt|La situacion Meteorologica no ofrece ningún peligro inmediato.|
+langlookup|wrnOrange|Naranja|
+langlookup|wrnOrangeTxt|Peligro Potencial|
+langlookup|wrnRain|Lluvia |
+langlookup|wrnRed|Rojo|
+langlookup|wrnRedTxt|El tiempo es muy Peligroso|
+langlookup|wrnSnow/Ice|Nieve / Hielo|
+langlookup|wrnThunderstorms|Tormentas|
+langlookup|wrnWind|Viento |
+langlookup|wrnYellow|Amarillo|
+langlookup|wrnYellowTxt|El tiempo es Peligroso para las actividades externas.|
+# wind direction compass headings
+langlookup|E|E|
+langlookup|ENE|ENE|
+langlookup|ESE|ESE|
+langlookup|East|Est|
+langlookup|N|N|
+langlookup|NE|NE|
+langlookup|NNE|NNE|
+langlookup|NNW|NNO|
+langlookup|NW|NO|
+langlookup|North|North|
+langlookup|S|S|
+langlookup|SE|SE|
+langlookup|SSE|SSE|
+langlookup|SSW|SSO|
+langlookup|SW|SO|
+langlookup|South|Sud|
+langlookup|W|O|
+langlookup|WNW|ONO|
+langlookup|WSW|OSO|
+langlookup|West|Oeste|
+langlookup|E|E|
+langlookup|ENE|ENE|
+langlookup|ESE|ESE|
+langlookup|East|East|
+langlookup|N|N|
+langlookup|NE|NE|
+langlookup|NNE|NNE|
+langlookup|NNW|NNW|
+langlookup|NW|NW|
+langlookup|North|North|
+langlookup|S|S|
+langlookup|SE|SE|
+langlookup|SSE|SSE|
+langlookup|SSW|SSW|
+langlookup|SW|SW|
+langlookup|South|South|
+langlookup|W|W|
+langlookup|WNW|WNW|
+langlookup|WSW|WSW|
+langlookup|West|West|
+# wu history
+langlookup|Average|Media|
+langlookup|Both|Tanto|
+langlookup|Comma Delimited File|Archivo delimitado por comas|
+langlookup|Compliments of|Elogios de|
+langlookup|Conditions|Condiciones|
+langlookup|Custom|Personalizada|
+langlookup|Custom Date Range Tabular Data| Fecha personalizada Range datos tabulares|
+langlookup|Daily|Diario|
+langlookup|Day|Dia|
+langlookup|English|impérial|
+langlookup|Gust Speed|Velocidad de las Ráfagas|
+langlookup|Metric|Métrico|
+langlookup|Monthly|Mensual|
+langlookup|Months Tabular Data|Meses datos tabulares|
+langlookup|Next|Siguiente|
+langlookup|Nil|Ninguna|
+langlookup|Precip|Precipitación|
+langlookup|Precipitation|Précipitaciones|
+langlookup|Pressure|Pression baro|
+langlookup|Previous|Anterior|
+langlookup|Rainfall Rate (Hourly)| Las precipitaciones Rate ( Hora )|
+langlookup|Return to Current Day|Volver al Día actual|
+langlookup|Return to Top|Volver arriba|
+langlookup|Sea Level Pressure|Presión al nivel del mar|
+langlookup|Solar|Solar|
+langlookup|Station Historical Data|Datos históricos|
+langlookup|Summary for|Resumen|
+langlookup|Tabular Data for|Datos de tabla para|
+langlookup|Temp|Temperatura|
+langlookup|Time|Tiempo|
+langlookup|Units|Unidades|
+langlookup|View|Ver|
+langlookup|WXSIM hourly forecasttest|WXSIM Predicción hora|
+langlookup|Weekly|Semana|
+langlookup|Weeks Tabular Data|Datos Semanales|
+langlookup|Wind Gust|Ráfagas de viento|
+langlookup|Wind Speed|Velocidad del Viento|
+langlookup|Yearly|Anual|
+langlookup|Years Tabular Data|Datos Anuales|
+langlookup|ave|ave|
+langlookup|high|alta|
+langlookup|low|baja|
+langlookup|solar|solar|
+langlookup|sum|resumen|

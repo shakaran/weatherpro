@@ -1,0 +1,17 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Special Weather Statement',
+    1 => 'Corpus Cristi',
+    2 => 1420406760,
+    3 => 1420459200,
+    4 => 'SPS.gif',
+    5 => 'Aransas; Bee; Calhoun; Duval; Goliad; Jim Wells; Kleberg; Nueces; San Patricio; TXZ246; Victoria; Webb',
+    6 => 'BRIEF LIGHT FREEZE POTENTIAL FOR SOUTHERN PORTIONS OF SOUTH
+TEXAS',
+  ),
+);
+
+?>

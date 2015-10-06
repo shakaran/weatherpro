@@ -1,0 +1,97 @@
+/* version 0.00   2016-06-23 */
+#config__manager .headerline2 td {
+	text-align: center;
+	border: 0px solid #ccc;
+	font-weight: bold;
+	font-size: 1.17em;
+	padding-bottom: 5px;
+	padding-top: 0px;
+}
+#config__manager .headerline1 td {
+	text-align: left;
+	border: 1px solid #ccc;
+	font-weight: bold;
+	font-size: 1.0em;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	background-color: #ccc;
+}
+#config__manager a.urlextern {
+	background-image: url(globe.png);
+	background-repeat: no-repeat;
+	background-position: 0 center;
+  	background-position-x: 0px;
+  	background-position-y: 50%;
+  	padding: 0 0 0 18px;
+}
+#config__manager .headerline tr {
+	text-align: center;
+	border: 0px solid #ccc;
+}
+
+#config__manager {
+  background-color: #eee;
+  padding: 10px;
+/*  max-width: 800px; */
+  border: 1px solid #ccc;
+  margin: 0 auto;
+}
+#config__manager table {
+  border-collapse: collapse;
+  empty-cells: show;
+  border-spacing: 0;
+  border: 0px solid #ccc;
+  width: 100%;
+  margin-bottom: 10px;
+}
+#config__manager button {
+	margin-bottom: 5px;
+}
+#config__manager td {
+  border: 1px solid #ccc;
+  padding: .3em .5em;
+  vertical-align: top;
+}
+#config__manager label {
+}
+#config__manager td.label {
+  padding: .1em 0.2em .1em 1em;
+  vertical-align: middle;
+  text-align: right;
+}
+#config__manager td.value {
+    width: 31em; 
+}
+#config__manager select.default { 
+    background-color: #cdf;
+}
+#config__manager div.input  {
+	margin: 0.8em;
+}
+#config__manager div.default input.edit {
+	background-color: #cdf;
+}
+#config__manager input div.default.edit {
+	background-color: #cdf;
+}
+#config__manager div.default, span.default, div.default.edit{
+	background-color: #cdf;
+	min-width: 20em;
+}
+#config__manager td input.edit {
+  width: 36em;
+}
+
+#config__manager td.value span.outkey{
+  font-size: 70%;
+  margin-top: -0.7em;
+  margin-right: 2em;
+  margin-bottom: 0.5em;
+  display: block;
+  background-color: #fff;
+  color: #666;
+  float: left;
+  padding: 0 .1em;
+  position: relative;
+  z-index: 1;
+}

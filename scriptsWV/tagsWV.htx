@@ -1,0 +1,241 @@
+|pagename|tagsWVIEW|!
+|version|3.00 2015-04-20 18:00:00|!
+
+|datetime|              <!--stationDate--> <!--stationTime-->|!
+|date|                  <!--stationDate-->|!
+|time|                  <!--stationTime-->|!
+
+|fromtemp|              <!--tempUnit-->|!
+
+|tempAct|               <!--outsideTemp-->|!
+|tempDelta|             <!--hourchangetemp-->|!
+
+|tempMinToday|          <!--lowOutsideTemp-->|!
+|tempMinTodayTime|      <!--lowOutsideTempTime-->|!
+|tempMinMonth|          <!--lowMonthlyOutsideTemp-->|!
+|tempMinMonthTime|      <!--monthtodatemintempdate-->|!
+|tempMinYear|           <!--lowYearlyOutsideTemp-->|!
+|tempMinYearTime|       <!--yeartodatemintempdate-->|!
+|tempMinAll|            <!--lowAllTimeOutsideTemp-->|!
+|tempMinAllTime|        <!--alltimemintempdate-->|!
+
+|tempMaxToday|          <!--hiOutsideTemp-->|!
+|tempMaxTodayTime|      <!--hiOutsideTempTime-->|!
+|tempMaxMonth|          <!--hiMonthlyOutsideTemp-->|!
+|tempMaxMonthTime|      <!--monthtodatemaxtempdate-->|!
+|tempMaxYear|           <!--hiYearlyOutsideTemp-->|!
+|tempMaxYearTime|       <!--yeartodatemaxtempdate-->|!
+|tempMaxAll|            <!--hiAllTimeOutsideTemp-->|!
+|tempMaxAllTime|        <!--alltimemaxtempdate-->|!
+
+|dewpAct|               <!--outsideDewPt-->|!
+|dewpDelta|             <!--hourchangedewpt-->|!
+
+|dewpMinToday|          <!--lowDewpoint-->|!
+|dewpMinTodayTime|      <!--lowDewpointTime-->|!
+|dewpMinMonth|          <!--lowMonthlyDewpoint-->|!
+|dewpMinMonthTime|      <!--monthtodatemindewptdate-->|!
+|dewpMinYear|           <!--lowYearlyDewpoint-->|!
+|dewpMinYearTime|       <!--yeartodatemindewptdate-->|!
+|dewpMinAll|            <!--lowAllTimeDewpoint-->|!
+|dewpMinAllTime|        <!--alltimemindewptdate-->|!
+
+|dewpMaxToday|          <!--hiDewpoint-->|!
+|dewpMaxTodayTime|      <!--hiDewpointTime-->|!
+|dewpMaxMonth|          <!--hiMonthlyHeatindex-->|!
+|dewpMaxMonthTime|      <!--monthtodatemaxdewptdate-->|!
+|dewpMaxYear|           <!--hiYearlyDewpoint-->|!
+|dewpMaxYearTime|       <!--yeartodatemaxdewptdate-->|!
+|dewpMaxAll|            <!--hiAllTimeDewpoint-->|!
+|dewpMaxAllTime|        <!--alltimemaxdewptdate-->|!
+
+|apptemp|               <!--apparentTemp-->|!
+
+|heatAct|               <!--outsideHeatIndex-->|!
+|heatDelta|             <!--hourchangetemp-->|!
+
+|heatMaxToday|          <!--hiHeatindex-->|!
+|heatMaxTodayTime|      <!--hiHeatindexTime-->|!
+|heatMaxMonth|          <!--hiMonthlyHeatindex-->|!
+|heatMaxMonthTime|      <!--monthtodatemaxheatdate-->|!
+|heatMaxYear|           <!--hiYearlyHeatindex-->|!
+|heatMaxYearTime|       <!--yeartodatemaxheatdate-->|!
+|heatMaxAll|            <!--hiAllTimeHeatindex-->|!
+|heatMaxAllTime|        <!--alltimemaxheatdate-->|!
+
+|chilAct|               <!--windChill-->|!
+|chilDelta|             <!--hourchangetemp-->|!
+
+|chilMinToday|          <!--lowWindchill-->|!
+|chilMinTodayTime|      <!--lowWindchillTime-->|!
+|chilMinMonth|          <!--lowMonthlyWindchill-->|!
+|chilMinMonthTime|      <!--monthtodateminchilldate-->|!
+|chilMinYear|           <!--lowYearlyWindchill-->|!
+|chilMinYearTime|       <!--yeartodateminchilldate-->|!
+|chilMinAll|            <!--lowAllTimeWindchill-->|!
+|chilMinAllTime|        <!--alltimeminchilldate-->|!
+
+|chilMaxToday|          ?|!
+|chilMaxTodayTime|      ?|!
+
+|tempActInside|         <!--insideTemp-->|!
+|tempActExtra1|         <!--extraTemp1-->|!
+|tempActExtra2|         <!--extraTemp2-->|!
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|              <!--barUnit-->|!
+
+|baroAct|               <!--barometer-->|!
+|baroDelta|             <!--hourchangebarom-->|!
+|baroTrend|             <!--baromtrend-->|!
+
+|baroMinToday|          <!--lowBarometer-->|!
+|baroMinTodayTime|      <!--lowBarometerTime-->|!
+|baroMinMonth|          <!--lowMonthlyBarometer-->|!
+|baroMinMonthTime|      <!--monthtodateminbaromdate-->|!
+|baroMinYear|           <!--lowYearlyBarometer-->|!
+|baroMinYearTime|       <!--yeartodateminbaromdate-->|!
+|baroMinAll|            <!--lowAllTimeBarometer-->|!
+|baroMinAllTime|        <!--alltimeminbaromdate-->|!
+
+|baroMaxToday|          <!--hiBarometer-->|!
+|baroMaxTodayTime|      <!--hiBarometerTime-->|!
+|baroMaxMonth|          <!--hiMonthlyBarometer-->|!
+|baroMaxMonthTime|      <!--monthtodatemaxbaromdate-->|!
+|baroMaxYear|           <!--hiYearlyBarometer-->|!
+|baroMaxYearTime|       <!--yeartodatemaxbaromdate-->|!
+|baroMaxAll|            <!--hiAllTimeBarometer-->|!
+|baroMaxAllTime|        <!--alltimemaxbaromdate-->|!
+
+------------------------------------------humidity-----------------------------------
+|humiAct|               <!--outsideHumidity-->|!
+|humiDelta|             <!--hourchangehumid-->|!
+
+|humiMinToday|          <!--lowHumidity-->|!
+|humiMinTodayTime|      <!--lowHumTime-->|! 
+|humiMinMonth|          <!--lowMonthlyHumidity-->|!
+|humiMinMonthTime|      <!--monthtodateminhumiddate-->|!
+|humiMinYear|           <!--lowYearlyHumidity-->|!
+|humiMinYearTime|       <!--yeartodateminhumiddate-->|!
+|humiMinAll|            <!--lowAllTimeHumidity-->|!
+|humiMinAllTime|        <!--alltimeminhumiddate-->|!
+
+
+|humiMaxToday|          <!--hiHumidity-->|!
+|humiMaxTodayTime|      <!--hiHumTime-->|!
+|humiMaxMonth|          <!--hiMonthlyHumidity-->|!
+|humiMaxMonthTime|      <!--monthtodatemaxhumiddate-->|!
+|humiMaxYear|           <!--hiYearlyHumidity-->|!
+|humiMaxYearTime|       <!--yeartodatemaxhumiddate-->|!
+|humiMaxAll|            <!--hiAllTimeHumidity-->|!
+|humiMaxAllTime|        <!--alltimemaxhumiddate-->|!
+
+|humiInAct|             <!--insideHumidity-->|!
+|humiExtra1|            <!--extraHumid1-->|!
+|humiExtra2|            <!--extraHumid2-->|!
+------------------------------------------rain---------------------------------------
+|fromrain|              <!--rainUnit-->|!
+
+|rainRateAct|           <!--rainRate-->|!
+|rainRateToday|         ?|!
+|lastRained|            ?|!
+
+|rainToday|             <!--dailyRain-->|!
+|rainHour|              <!--hourrain-->|!
+|rainWeek|              ?|!
+|rainMonth|             <!--monthlyRain-->|!
+|rainYear|              <!--totalRain-->|!
+
+|rainDayMnth|           ?|!
+|rainDayYear|           ?|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|               <!--ET-->|!
+------------------------------------------wind---------------------------------------
+|fromwind|              <!--windUnit-->|!
+
+|windAct|               <!--windSpeed-->|!
+|windActDsc|            <!--windDirection-->|!
+|windActDir|            <!--windDirectionDegrees-->|!
+|windBeafort|           <!--windBeaufortScale-->|!
+
+|windAvgDir|            <!--hourdomwinddir-->|!
+
+|gustAct|               <!--windGustSpeed-->|!
+|gustMaxToday|          <!--hiWindSpeed-->|!
+|gustMaxTodayTime|      <!--hiWindSpeedTime-->|!
+|gustMaxMonth|          <!--hiMonthlyWindSpeed-->|!
+|gustMaxMonthTime|      <!--monthtodatemaxgustdate-->|!
+|gustMaxYear|           <!--hiYearlyWindSpeed-->|!
+|gustMaxYearTime|       <!--yeartodatemaxgustdate-->|!
+|gustMaxAll|            <!--hiAllTimeWindSpeed-->|!
+|gustMaxAllTime|        <!--alltimemaxgustdate-->|!
+
+|------------------------------------------UV---------------------------------------
+|uvAct|                 <!--UV-->|!
+
+|uvMaxToday|            <!--hiUV-->|!
+|uvMaxTodayTime|        <!--hiUVTime-->|!
+|uvMaxMonth|            <!--hiMonthlyUV-->|!
+|uvMaxMonthTime|        <!--monthtodatemaxUVdate-->|!
+|uvMaxYear|             <!--hiYearlyUV-->|!
+|uvMaxYearTime|         <!--yeartodatemaxUVdate-->|!|!
+|uvMaxAll|              <!--hiAllTimeUV-->|!
+|uvMaxAllTime|          <!--alltimemaxUVdate-->|!|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|              <!--solarRad-->|!
+
+|solarMaxToday|         <!--hiRadiation-->|!
+|solarMaxTodayTime|     <!--hiRadiationTime-->|!
+|solarMaxMonth|         <!--hiMonthlyRadiation-->|!
+|solarMaxMonthTime|     <!--monthtodatemaxRadiationdate-->|!
+|solarMaxYear|          <!--hiYearlyRadiation-->|!
+|solarMaxYearTime|      <!--yeartodatemaxRadiationdate-->|!
+|solarMaxAll|           <!--hiAllTimeRadiation-->|!
+|solarMaxAllTime|       <!--alltimemaxRadiationdate-->|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|            <!--cumulusBaseUnit-->|!
+|cloudHeight|           ?|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt|               ?|!
+|fcstRule|              <!--forecastRule-->|!
+|------------------------------------------moon---------------------------------------
+|moonrise|              <!--moonriseTime-->|!
+|moonset|               <!--moonsetTime-->|!
+|lunarPhasePerc|        <!--moonPhase-->|!
+|lunarAge|              ?|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|             <!--wviewVersion-->|!
+|wsVersionBuild|        ?|!
+|wsHardware|            ?|!
+|wsUptime|              <!--wviewUpTime-->|!
+|latitude|              <!--stationLatitude-->|!
+|longitude|             <!--stationLongitude-->|!
+
+|---------soil-----------------
+
+|fromsoiltemp|          <!--tempUnit-->|!
+|fromsoilmoist|         mb|!
+
+|soilTempAct_1|         <!--soilTemp1-->|!
+|soilTempAct_2|         <!--soilTemp2-->|!
+|soilTempAct_3|         <!--soilTemp3-->|!
+|soilTempAct_4|         <!--soilTemp4-->|!
+
+|moistAct_1|            <!--soilMoist1-->|!
+|moistAct_2|            <!--soilMoist2-->|!
+|moistAct_3|            <!--soilMoist3-->|!
+|moistAct_4|            <!--soilMoist4-->|!
+
+|leafTempAct_1|         <!--leafTemp1-->|!
+|leafTempAct_2|         <!--leafTemp2-->|!
+
+|leafWetAct_1|          <!--leafWet1-->|!
+|leafWetAct_2|          <!--leafWet2-->|!
+
+# <!--hiLeafTemp1-->
+# <!--hiLeafTemp1Time-->
+# <!--hiSoilTemp1-->
+# <!--hiSoilTemp1Time-->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Ακύρωση"/>
+  <s key="Change" value="Αλλαγή"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Πρόγνωση καιρού του {0} - Εκδίδεται από το Νορβηγικό Μετεωρολογικό Ινστιτούτο και το NRK"/>
+  <s key="Forecast from {0}" value="Πρόγνωση από {0}"/>
+  <s key="Friday" value="Παρασκευή"/>
+  <s key="Monday" value="Δευτέρα"/>
+  <s key="Saturday" value="Σάββατο"/>
+  <s key="Sunday" value="Κυριακή"/>
+  <s key="Thursday" value="Πέμπτη"/>
+  <s key="Tuesday" value="Τρίτη"/>
+  <s key="Wednesday" value="Τετάρτη"/>
+  <s key="Fr" value="Παρ"/>
+  <s key="Mo" value="Δευ"/>
+  <s key="Sa" value="Σάβ"/>
+  <s key="Su" value="Κυρ"/>
+  <s key="Th" value="Πέμ"/>
+  <s key="Tu" value="Τρί"/>
+  <s key="We" value="Τετ"/>
+  <s key="LIVE" value="ΤΩΡΑ"/>
+  <s key="Loading" value="Φόρτωση"/>
+  <s key="April" value="Απρίλιος"/>
+  <s key="August" value="Αύγουστος"/>
+  <s key="December" value="Δεκέμβριος"/>
+  <s key="February" value="Φεβρουάριος"/>
+  <s key="January" value="Ιανουάριος"/>
+  <s key="July" value="Ιούλιος"/>
+  <s key="June" value="Ιούνιος"/>
+  <s key="March" value="Μάρτιος"/>
+  <s key="May" value="Μάιος"/>
+  <s key="November" value="Νοέμβριος"/>
+  <s key="October" value="Οκτώβριος"/>
+  <s key="September" value="Σεπτέμβριος"/>
+  <s key="Network error" value="Σφάλμα δικτύου"/>
+  <s key="No weather" value="Δεν υπάρχουν καιρικά στοιχεία"/>
+  <s key="Retry" value="Δοκιμάστε πάλι"/>
+  <s key="Tomorrow" value="Αύριο"/>
+  <s key="Updating weather" value="Ανανέωση Καιρικών Στοιχείων..."/>
+  <s key="Please wait..." value="Παρακαλώ περιμένετε..."/>
+  <s key="Weather expired" value="Λήξη χρόνου καιρικών στοιχείων"/>
+  <s key="Loading" value="Φόρτωση"/>
+</body>

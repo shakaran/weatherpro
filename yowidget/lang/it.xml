@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Abbandona Licenza Illimitata"/>
+  <s key="Absent" value="Assente"/>
+  <s key="Add" value="Aggiungi"/>
+  <s key="Animate" value="Animato"/>
+  <s key="Apply" value="Applica"/>
+  <s key="Astronomy" value="Astronomia"/>
+  <s key="Day Length" value="Durata del Giorno"/>
+  <s key="Moon Phase" value="Fase Lunare"/>
+  <s key="Sunrise" value="Alba"/>
+  <s key="Sunset" value="Tramonto"/>
+  <s key="Auto update weather" value="Aggiorna il meteo automaticamente"/>
+  <s key="Bad ICAO code" value="Codice ICAO errato"/>
+  <s key="Buy YoWindow Unlimited!" value="Acquista YoWindow Illimitato!"/>
+  <s key="Calendar" value="Calendario"/>
+  <s key="Cancel" value="Annulla"/>
+  <s key="Change" value="Cambia"/>
+  <s key="Code" value="Codice"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Previsioni Meteo da {0}, distribuito dall'Istituto Meteorologico Norvegese e la NRK"/>
+  <s key="Forecast from {0}" value="Previsioni da {0}"/>
+  <s key="Current weather" value="Meteo Corrente"/>
+  <s key="Friday" value="Venerdì"/>
+  <s key="Monday" value="Lunedì"/>
+  <s key="Saturday" value="Sabato"/>
+  <s key="Sunday" value="Domenica"/>
+  <s key="Thursday" value="Giovedì"/>
+  <s key="Tuesday" value="Martedì"/>
+  <s key="Wednesday" value="Mercoledì"/>
+  <s key="Fr" value="Ve"/>
+  <s key="Mo" value="Lu"/>
+  <s key="Sa" value="Sa"/>
+  <s key="Su" value="Do"/>
+  <s key="Th" value="Gi"/>
+  <s key="Tu" value="Ma"/>
+  <s key="We" value="Me"/>
+  <s key="day ago" value="giorno fa"/>
+  <s key="days ago" value="giorni fa"/>
+  <s key="Default" value="Predefinito"/>
+  <s key="Blowing" value="Ventoso"/>
+  <s key="Clear" value="Sereno"/>
+  <s key="Cloudy" value="Coperto"/>
+  <s key="Overcast" value="Cielo coperto"/>
+  <s key="Drizzle" value="Pioviggine"/>
+  <s key="Fair" value="Sereno o Poco Nuvoloso"/>
+  <s key="Fog" value="Nebbia"/>
+  <s key="Freezing" value="Gelata"/>
+  <s key="Hail" value="Grandine"/>
+  <s key="Haze" value="Nebbiolina"/>
+  <s key="Heavy" value="Forte"/>
+  <s key="Ice Crystals" value="Cristalli di Ghiaccio"/>
+  <s key="Ice Pellets" value="Granuli di Ghiaccio"/>
+  <s key="In Vicinity" value="Nelle vicinanze"/>
+  <s key="Light" value="Leggera"/>
+  <s key="Low Drifting" value="Vortice"/>
+  <s key="Mist" value="Foschia"/>
+  <s key="Mostly Cloudy" value="Molto Nuvoloso"/>
+  <s key="Partial" value="Parziale"/>
+  <s key="Partly Cloudy" value="Parzialmente Nuvoloso"/>
+  <s key="Patches" value="Banchi di"/>
+  <s key="Rain" value="Pioggia"/>
+  <s key="Rain And Thunder" value="Pioggia e Tuoni"/>
+  <s key="Sand" value="Sabbia"/>
+  <s key="Shallow" value="Sottile"/>
+  <s key="Shower" value="Pioggia"/>
+  <s key="Shower With Thunder" value="Rovesci Temporaleschi"/>
+  <s key="Sleet" value="Nevischio"/>
+  <s key="Small Hail" value="Piccola Grandine"/>
+  <s key="Smoke" value="Fumo"/>
+  <s key="Snow" value="Neve"/>
+  <s key="Snow And Thunder" value="Neve e Tuoni"/>
+  <s key="Snow Grains" value="Neve Granulosa"/>
+  <s key="Snow Showers" value="Nevicate"/>
+  <s key="Thunderstorm" value="Temporale"/>
+  <s key="Unknown Precipitation" value="Precipitazioni sconosciute"/>
+  <s key="Widespread Dust Haze" value="Foschia di polvere molto estesa"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Chiave licenza non valida. Riprova! Assicurati che la chiave è stata digitata correttamente. Prova a copiare/incollare la chiave."/>
+  <s key="Wrong license key" value="Chiave Licenza Errata"/>
+  <s key="You will have to restart the application for this to take effect" value="Si dovrà riavviare l'applicazione per rendere effettive le modifiche"/>
+  <s key="Language change" value="Cambia Lingua"/>
+  <s key="No limits!" value="Senza Limiti!"/>
+  <s key="Buy now!" value="Acquista adesso!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Acquista la licenza illimitata per rimuovere eventuali limiti."/>
+  <s key="Not now" value="Non adesso"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Per completare la registrazione, inserisci il codice di licenza che ti abbiamo inviato. Suggerimento: Utilizza la funzione copia/incolla [ctrl+c/v]."/>
+  <s key="License registration" value="Licenza Registrazione"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Grazie per esserti registrato. Tutti i limiti sono stati rimossi oggi. Buon divertimento!"/>
+  <s key="Distance" value="Distanza"/>
+  <s key="Down" value="Muovi giù"/>
+  <s key="Download" value="Scaricamento"/>
+  <s key="Enter weather source URL please" value="Inserisci fonte Meteo URL per favore"/>
+  <s key="Error" value="Errore"/>
+  <s key="The location is already added" value="Il percorso è già stato aggiunto"/>
+  <s key="Exit" value="Esci"/>
+  <s key="To get started, pick your home location" value="Per iniziare, scegli la località"/>
+  <s key="Forecast Panel" value="Pannello Previsioni"/>
+  <s key="Full Screen" value="Schermo Intero"/>
+  <s key="Help" value="Aiuto"/>
+  <s key="Highlight weather station parameters" value="Evidenzia parametri stazione meteo (PWS)"/>
+  <s key="Home" value="Home"/>
+  <s key="h" value="h"/>
+  <s key="Inspector" value="Pannello Info Meteo"/>
+  <s key="Landscape" value="Paesaggio"/>
+  <s key="Foreground" value="Primo Piano"/>
+  <s key="Landscape Options" value="Effetti Paesaggio"/>
+  <s key="Landscape pictures" value="Immagine Paesaggio"/>
+  <s key="Landscapes" value="Organizza"/>
+  <s key="Language:" value="Lingua:"/>
+  <s key="English" value="Italiano"/>
+  <s key="System Default" value="Sistema Predefinito"/>
+  <s key="Latitude" value="Latitudine"/>
+  <s key="{0} locations" value="{0} Località"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Adesso è possibile aggiungere {0} qualsiasi località. Nella Edizione Illimitata è possibile aggiungere tutte le località che vuoi."/>
+  <s key="Weather auto-update is off" value="L'aggiornamento meteo automatico è spento"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Premi F5 per aggiornare il Meteo.  Il meteo viene aggiornato automaticamente nella Edizione Illimitata."/>
+  <s key="{0} weather forecast days only" value="{0} Solo previsioni del tempo"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Si dispone di un accesso a {0} giorni di previsioni del tempo.  L'edizione illimitata offre {1} previsioni meteo."/>
+  <s key="Licence key" value="Chiave Licenza"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Aggiornamento meteo automatico nella Edizione Illimitata"/>
+  <s key="LIVE" value="LIVE"/>
+  <s key="Load weather from personal weather station" value="Carica Stazione Meteo Personale (PWS)"/>
+  <s key="Loading" value="Caricamento..."/>
+  <s key="Loading landscape..." value="Caricamento Paesaggio..."/>
+  <s key="Location" value="Località"/>
+  <s key="Location ID" value="ID"/>
+  <s key="Location Properties" value="Proprietà Località"/>
+  <s key="id_internet_link" value="Collegamento internet"/>
+  <s key="Locations" value="Località"/>
+  <s key="All locations" value="Tutte le città"/>
+  <s key="All regions" value="Tutte le regioni"/>
+  <s key="All states" value="Tutti gli stati"/>
+  <s key="Change landscape" value="Cambia Paesaggio"/>
+  <s key="Select a location" value="Scegli la località"/>
+  <s key="The location is already added" value="Il percorso è già stato aggiunto"/>
+  <s key="Location is not selected yet" value="La località non è stata ancora selezionata"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Grandi città (oltre 100,000 abitanti)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Errore di rete, le informazioni sulla località non sono accessibili.\\A causa di questo, la posizione non può essere selezionata adesso."/>
+  <s key="No locations in scope" value="Nessuna località trovata"/>
+  <s key="Scope" value="Scegli località"/>
+  <s key="Region" value="Regione"/>
+  <s key="Cannot find a location?" value="Non riesci a trovare una località ?"/>
+  <s key="Set as Home" value="Imposta Preferito"/>
+  <s key="Current Location" value="Località Corrente"/>
+  <s key="Unknown" value="Sconosciuto"/>
+  <s key="Longitude" value="Longitudine"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Guardando al Nord (Soffia il vento da Ovest a Est)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Guardando al Sud (Soffia il vento da Est a Ovest)"/>
+  <s key="April" value="Aprile"/>
+  <s key="August" value="Agosto"/>
+  <s key="December" value="Dicembre"/>
+  <s key="February" value="Febbraio"/>
+  <s key="January" value="Gennaio"/>
+  <s key="July" value="Luglio"/>
+  <s key="June" value="Giugno"/>
+  <s key="March" value="Marzo"/>
+  <s key="May" value="Maggio"/>
+  <s key="November" value="Novembre"/>
+  <s key="October" value="Ottobre"/>
+  <s key="September" value="Settembre"/>
+  <s key="About" value="Informazioni su YoWindow"/>
+  <s key="Facebook Edition" value="Edizione per Facebook"/>
+  <s key="License Agreement" value="Accordo di Licenza"/>
+  <s key="Program" value="Programma"/>
+  <s key="Visit our Forum" value="Visita il nostro Forum"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow per il tuo Sito o Blog"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} Minuti Indietro"/>
+  <s key="{0} minutes forward" value="{0} Minuti Avanti"/>
+  <s key="Name" value="Nome"/>
+  <s key="Network error" value="Errore di Rete"/>
+  <s key="Network not available" value="Rete non disponibile"/>
+  <s key="It is available on {0}" value="E' disponibile su {0}"/>
+  <s key="New version released" value="Nuova versione rilasciata"/>
+  <s key="Next Day" value="Giorno Successivo"/>
+  <s key="No" value="N."/>
+  <s key="No weather" value="Nessun Meteo"/>
+  <s key="N/A" value="N/D"/>
+  <s key="Notify me when a new version is available" value="Avvisami quando una nuova versione è disponibile"/>
+  <s key="Online" value="Online"/>
+  <s key="Open {0}" value="Apri {1}"/>
+  <s key="Options" value="Opzioni"/>
+  <s key="Advanced" value="Avanzate"/>
+  <s key="Application choice" value="Opzione Scelta"/>
+  <s key="Date" value="Data"/>
+  <s key="Display" value="Schermo"/>
+  <s key="Animate clouds" value="Animazione Nuvole:"/>
+  <s key="Default" value="Predefinito"/>
+  <s key="Full screen mode" value="Modalità schermo intero:"/>
+  <s key="Quality" value="Qualità:"/>
+  <s key="Custom" value="Personalizza"/>
+  <s key="Excellent" value="Eccellente"/>
+  <s key="Moderate" value="Moderato"/>
+  <s key="Number of days to display:" value="Numero di giorni sullo schermo:"/>
+  <s key="Tile contents:" value="Contenuti:"/>
+  <s key="General" value="Generale"/>
+  <s key="Contents" value="Contenuti:"/>
+  <s key="Show N/A parameters" value="Mostra i parametri non disponibili (N/D)"/>
+  <s key="Live indicator" value="Indicatore Live"/>
+  <s key="Locations" value="Località"/>
+  <s key="Operation successful!" value="Operazione Riuscita!"/>
+  <s key="Refresh locations DB" value="Aggiorna Località DB"/>
+  <s key="Reset to defaults" value="Ripristina le impostazioni Predefinite"/>
+  <s key="Add" value="Aggiungi"/>
+  <s key="User interface" value="Interfaccia Utente"/>
+  <s key="Screen saver" value="Screensaver"/>
+  <s key="Time Bar" value="Barra del Tempo"/>
+  <s key="Unit system:" value="Unità Sistema:"/>
+  <s key="Units" value="Unità"/>
+  <s key="Auto-detected" value="Rilevazione Automatica"/>
+  <s key="Custom" value="Personalizza"/>
+  <s key="Distance:" value="Distanza:"/>
+  <s key="Metric" value="Metrica"/>
+  <s key="Russia" value="Russia"/>
+  <s key="Finland" value="Finlandia"/>
+  <s key="Pressure:" value="Pressione:"/>
+  <s key="Temperature:" value="Temperatura:"/>
+  <s key="US" value="USA"/>
+  <s key="Wind speed:" value="Velocità del vento:"/>
+  <s key="Landscape Options" value="Effetti Paesaggio"/>
+  <s key="Show Daylight Diagram" value="Mostra Diagramma del Giorno"/>
+  <s key="Show Forecast Panel" value="Mostra Pannello Previsioni"/>
+  <s key="Show Full Screen button" value="Mostra Pulsante Schermo Intero"/>
+  <s key="Show Inspector" value="Mostra Pannello Meteo"/>
+  <s key="Show Time Bar" value="Mostra Barra del Tempo"/>
+  <s key="Show User interface" value="Mostra Interfaccia Utente"/>
+  <s key="Show forecast when current weather is expired" value="Visualizza la previsione del tempo corrente se scaduto."/>
+  <s key="Organize" value="Organizza"/>
+  <s key="Organize locations" value="Organizza"/>
+  <s key="Organize pictures" value="Organizza Immagine"/>
+  <s key="Pictures" value="Immagini"/>
+  <s key="press" value="Premi Pulsante"/>
+  <s key="Falling" value="In diminuzione"/>
+  <s key="Falling Rapidly" value="In rapida diminuzione"/>
+  <s key="Rising" value="In aumento"/>
+  <s key="Rising Rapidly" value="In rapido aumento"/>
+  <s key="Steady" value="Stabile"/>
+  <s key="Previous Day" value="Giorno Precedente"/>
+  <s key="Properties" value="Proprietà"/>
+  <s key="Refresh Locations data base" value="Aggiorna Dati Località"/>
+  <s key="Register" value="Registrati"/>
+  <s key="Remove" value="Rimuovi"/>
+  <s key="Rename" value="Rinomina"/>
+  <s key="Rename location" value="Rinomina Località"/>
+  <s key="Rename picture" value="Rinomina Immagini"/>
+  <s key="Retry" value="Riprova"/>
+  <s key="Run with Windows (minimized to tray)" value="Avvia con Windows (minimizzato nella tray)"/>
+  <s key="Season map" value="Mappa Stagioni"/>
+  <s key="Select" value="Seleziona"/>
+  <s key="Select country" value="Seleziona il paese"/>
+  <s key="Select a landscape" value="Seleziona Paesaggio"/>
+  <s key="Select location" value="Seleziona la città"/>
+  <s key="Select region" value="Seleziona la regione"/>
+  <s key="Select state" value="Seleziona lo stato"/>
+  <s key="Set as default" value="Imposta come Predefinito"/>
+  <s key="Set YoWindow as ScreenSaver" value="Imposta YoWindow come Screensaver"/>
+  <s key="Setup" value="Configura"/>
+  <s key="Show" value="Mostra"/>
+  <s key="Show again" value="Mostra ancora"/>
+  <s key="Speed" value="Velocità"/>
+  <s key="Time" value="Tempo"/>
+  <s key="{0} ago" value="{0} fa"/>
+  <s key="Time zone" value="Fuso Orario"/>
+  <s key="Today" value="Oggi"/>
+  <s key="Tomorrow" value="Domani"/>
+  <s key="Tom." value="Domani"/>
+  <s key="Tonight" value="Stanotte"/>
+  <s key="Add New Location" value="Aggiungi una nuova località"/>
+  <s key="Open Calendar..." value="Apri il Calendario..."/>
+  <s key="Show Less Days" value="Mostra meno giorni"/>
+  <s key="Show More Days" value="Mostra più giorni"/>
+  <s key="Update Weather" value="Aggiornamento Meteo"/>
+  <s key="Unknown" value="Sconosciuto"/>
+  <s key="Up" value="Muovi su"/>
+  <s key="Update interval" value="Intervallo Agg."/>
+  <s key="Update weather" value="Aggiorna Meteo"/>
+  <s key="Updating weather" value="Aggiornamento Meteo"/>
+  <s key="View" value="Visualizza"/>
+  <s key="Please wait..." value="Attendere prego..."/>
+  <s key="Weather" value="Meteo"/>
+  <s key="Daily rain total" value="Pioggia odierna"/>
+  <s key="Weather expired" value="Le previsioni del tempo sono scadute"/>
+  <s key="Feels like" value="Temp. percepita"/>
+  <s key="Day maximum temperature" value="Temperatura massima"/>
+  <s key="Day minimum temperature" value="Temperatura minima"/>
+  <s key="Weather forecast" value="Previsioni Meteo"/>
+  <s key="Forecast issued" value="Previsioni emesse"/>
+  <s key="Hail" value="Grandine"/>
+  <s key="Humidity" value="Umidità"/>
+  <s key="Observed" value="Osservato"/>
+  <s key="Pressure" value="Pressione"/>
+  <s key="PWS only" value="solo PWS"/>
+  <s key="Rain" value="Pioggia"/>
+  <s key="Rain/Snow rate" value="Tasso Pioggia/Neve"/>
+  <s key="Description" value="Descrizione"/>
+  <s key="Sky image" value="Cielo"/>
+  <s key="Snow" value="Neve"/>
+  <s key="Snow level" value="Livello neve"/>
+  <s key="Weather station properties" value="Proprietà Stazione Meteo"/>
+  <s key="Temperature" value="Temperatura"/>
+  <s key="Temperature range" value="Temperatura Min/Max"/>
+  <s key="Update error" value="Errore di aggiornamento"/>
+  <s key="Update time" value="Tempo di aggiornamento"/>
+  <s key="UV index" value="Raggi UV"/>
+  <s key="Visibility" value="Visibilità"/>
+  <s key="Unlimited" value="Illimitata"/>
+  <s key="Wind" value="Vento"/>
+  <s key="Calm" value="Calmo"/>
+  <s key="Variable" value="Variabile"/>
+  <s key="Welcome to YoWindow!" value="Benvenuto su YoWindow!"/>
+  <s key="Wind direction:" value="Direzione del Vento:"/>
+  <s key="East" value="Est"/>
+  <s key="North" value="Nord"/>
+  <s key="South" value="Sud"/>
+  <s key="West" value="Ovest"/>
+  <s key="Yes" value="Si"/>
+  <s key="Close screensaver on mouse move" value="Chiudi Screensaver muovendo il mouse"/>
+  <s key="Color" value="Colore"/>
+  <s key="Background" value="Sfondo"/>
+  <s key="Choose color" value="Scegli i colori"/>
+  <s key="System tray" value="Area di notifica"/>
+  <s key="Transparent" value="Trasparente"/>
+  <s key="Precipitation chance" value="Possibilità di Precipitazioni"/>
+  <s key="Rain chance" value="Possibilità di Pioggia"/>
+  <s key="Snow chance" value="Possibilità di Neve"/>
+  <s key="{0} only" value="{0} solo"/>
+  <s key="US" value="USA"/>
+  <s key="Dew point" value="Punto di rugiada"/>
+  <s key="I want to have fun" value="Voglio divertirmi"/>
+  <s key="Enable surprises" value="Attiva le sorprese"/>
+  <s key="NWS forecasts for the USA" value="NWS Previsioni meteo per gli USA"/>
+  <s key="h" value="h"/>
+  <s key="min" value="minuti"/>
+  <s key="Open" value="Apri"/>
+  <s key="Browse" value="Sfoglia"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Immettere il percorso di una foto o di un paesaggio da Internet o dal Computer"/>
+  <s key="Landscape load error" value="Errore caricamento paesaggio"/>
+  <s key="Picture load error" value="Errore caricamento immagine"/>
+  <s key="The landscape is already added" value="Il paesaggio è già stato aggiunto"/>
+  <s key="Landscape collection" value="Collezione paesaggi"/>
+  <s key="Turn your photo into Landscape" value="Trasforma le tue foto in Paesaggi"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Impara{1} come trasformare una foto in un paesaggio"/>
+  <s key="Village" value="Villaggio"/>
+  <s key="Seaside" value="Costa marina"/>
+  <s key="Airport" value="Aeroporto"/>
+  <s key="Oriental" value="Paesaggio orientale"/>
+  <s key="Sky" value="Cielo"/>
+  <s key="Landscape made from picture" value="Paesaggio creato da una immagine"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Vi guideremo tramite procedura come trasformare una foto in un paesaggio dentro YoWindow."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Si prega di leggere il nostro manuale {0}Come trasformare una foto orizzontale?{1}"/>
+  <s key="Click Next to continue..." value="Fare clic su Avanti per continuare..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Specificare una immagine che si desidera trasformare in un paesaggio."/>
+  <s key="How to pick the best landscape picture?" value="Come scegliere l'immagine migliore per il paesaggio?"/>
+  <s key="Source picture" value="Fonte immagine"/>
+  <s key="The landscape will be created in the following folder" value="Il paesaggio sarà creato nella cartella seguente"/>
+  <s key="Landscape folder name" value="Nome cartella Paesaggio"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Fare clic su &quot;Crea&quot; per creare {0} Paesaggio"/>
+  <s key="{0} landscape has been created successfully!" value="{0} il Paesaggio è stato creato con successo!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Adesso apri {0} dentro il tuo editor di immagini preferito. È necessario rimuovere il cielo dall'immagine.Troverete l'immagine dentro {1}Cartella Paesaggio{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="E' facile togliere il cielo. Leggi il nostro breve {0}manuale didattico{1}."/>
+  <s key="Auto" value="Auto"/>
+  <s key="Horizon Level Setup" value="Configurazione livello dell'orizzonte"/>
+  <s key="Keys: Up/Down" value="Chiavi: Su/Giù"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Si sta per eliminare Immagine Paesaggio {0}. L'operazione non è recuperabile. Sei sicuro?"/>
+  <s key="Edit Landscape" value="Modifica Paesaggio"/>
+  <s key="Edit Horizon Level" value="Modifica il livello dell'orizzonte"/>
+  <s key="File not found." value="Impossibile trovare il file."/>
+  <s key="The name is empty" value="Il nome è vuoto"/>
+  <s key="The folder already exists" value="La cartella è già esistente"/>
+  <s key="Illegal folder name" value="Nome della cartella Illegale"/>
+  <s key="The file format is not supported." value="Il formato del file non è supportato."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="L'immagine è troppo grande per YoWindow. La dimensione dell'immagine non deve superare i 2880 pixel di larghezza o altezza."/>
+  <s key="Landscape Image" value="Immagine Paesaggio"/>
+  <s key="Landscape Folder" value="Immagine Paesaggio"/>
+  <s key="About Landscape" value="Informazioni Paesaggio"/>
+  <s key="Picture {0} imported successfully" value="Immagine {0} importata con successo"/>
+  <s key="Remind Me Later" value="Ricordamelo dopo"/>
+  <s key="Skip This Version" value="Salta questa versione"/>
+  <s key="Loading" value="Caricamento..."/>
+  <s key="Next" value="Avanti"/>
+  <s key="Back" value="Indietro"/>
+  <s key="Finish" value="Fine"/>
+  <s key="Create" value="Crea"/>
+  <s key="Import" value="Importa"/>
+  <s key="Delete" value="Elimina"/>
+  <s key="Path" value="Percorso"/>
+  <s key="Options" value="Opzioni"/>
+  <s key="Select the options you like" value="Selezionare l'opzione che ti piace"/>
+  <s key="Set YoWindow as default screen saver" value="Imposta YoWindow screen saver come predefinito"/>
+  <s key="Start with Windows (minimized to system tray)" value="Avvia con Windows (minimizza sulla barra applicazioni)"/>
+  <s key="Add a shortcut to quick launch bar" value="Aggiungi un collegamento alla barra di avvio veloce"/>
+  <s key="You are about to upgrade YoWindow." value="Si sta per aggiornare YoWindow."/>
+  <s key="Click OK to install the new version." value="Fare clic su OK per installare la nuova versione."/>
+  <s key="You must close YoWindow before you can continue." value="È necessario chiudere YoWindow prima di poter continuare."/>
+  <s key="After you have closed YoWindow, select Retry." value="Dopo aver chiuso YoWindow, selezionare Riprova."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Se si desidera annullare il processo di disinstallazione, selezionare Annulla."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Se si desidera provare a installare comunque, selezionare Ignora."/>
+  <s key="If you wish to abort the installation, select Abort." value="Se si desidera interrompere l'installazione, selezionare Interrompi."/>
+  <s key="Final step" value="Passo finale"/>
+  <s key="Start YoWindow on system startup" value="Fai partire YoWindow all'avvio del sistema"/>
+  <s key="Check for new version..." value="Controlla nuova versione."/>
+  <s key="YoWindow is up to date!" value="YoWindow è aggiornato!"/>
+  <s key="You have the latest version" value="Hai l'ultima versione"/>
+  <s key="Download new version!" value="Scarica la nuova versione!"/>
+  <s key="Preview" value="Anteprima"/>
+  <s key="Show small YoWindow logo" value="Mostra il logo di YoWindow piccolo"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Il paesaggio è disponibile solo nella versione Illimitata."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="minuti"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="piedi"/>
+  <s key="id_unit_short_miles" value="miglia"/>
+  <s key="id_unit_short_miles_per_hour" value="miglia/h"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="nodi"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Visualizzatore &quot;?&quot;"/>
+  <s key="Hide parameter" value="Nascondi parametro"/>
+  <s key="When weather parameter is not available" value="Quando il parametro meteo non è disponibile"/>
+  <s key="Information" value="Informazioni"/>
+  <s key="id_information_all" value="Tutte le informazioni"/>
+  <s key="Temperature and Time" value="Temperatura e tempo"/>
+  <s key="This is Unlimited Edition." value="Questa è la versione illimitata."/>
+  <s key="It is already registered." value="Sei già registrato."/>
+  <s key="Free edition" value="Versione gratuita"/>
+  <s key="Unlimited edition" value="Versione illimitata"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="Per utilizzare YoWindow è necessario installare Flash Player (per Internet Explorer) {0} o successiva."/>
+  <s key="Get Adobe Flash Player" value="Procura Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Sblocca paesaggio"/>
+  <s key="YoWindow for Chrome" value="YoWindow per Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow per Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow per Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow per iPhone e iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Segui YoWindow in Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Segui YoWindow in Twitter"/>
+  <s key="Landscape trial, days left:" value="Paesaggio in prova, giorni restanti:"/>
+  <s key="Landscape trial period is over" value="Il tempo per il paesaggio in prova è scaduto"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="Il paesaggio &quot;{0}&quot; fa parte della versione illimitata di YoWindow."/>
+  <s key="Details" value="Dettagli"/>
+  <s key="View direction" value="Visualizza la direzione"/>
+  <s key="Fixed sky" value="Cielo fisso"/>
+  <s key="Edit" value="Modifica"/>
+  <s key="Reload" value="Ricaricare"/>
+  <s key="Minimized" value="Ridotto a icona"/>
+  <s key="affects wind only" value="interessa solo vento"/>
+  <s key="Broadcast" value="TV in streaming"/>
+  <s key="Share" value="Condividi"/>
+  <s key="Publishing" value="Pubblicazione"/>
+  <s key="Authorizing" value="Autorizzazione"/>
+  <s key="Published!" value="Pubblicato !"/>
+  <s key="Space" value="Spazio"/>
+  <s key="Weather now in {0}" value="Il tempo adesso a "/>
+  <s key="Weather forecast for {0} in {1}" value="Tempo previsto per {0} a {1}"/>
+  <s key="Today in {0} (forecast)" value="Oggi in {0} (previsioni)"/>
+  <s key="Tomorrow in {0} (forecast)" value="Domani in {0} (previsioni)"/>
+  <s key="Forecast" value="Previsioni"/>
+  <s key="Sound" value="Segnale acustico"/>
+  <s key="Enable sound" value="Attiva segnale acustico"/>
+  <s key="Volume" value="Volume"/>
+  <s key="Skip" value="Salta"/>
+  <s key="Presented in Stereo" value="presentato in stereo"/>
+  <s key="Override current season" value="Ignora stagione attuale"/>
+  <s key="Winter" value="Inverno"/>
+  <s key="Spring" value="Primavera"/>
+  <s key="Summer" value="Estate"/>
+  <s key="Autumn" value="Autunno"/>
+  <s key="Naked" value="non definita"/>
+  <s key="Countries" value="località"/>
+  <s key="Vote!" value="Vota !"/>
+  <s key="Vote for YoWindow, thank you" value="Vota per YoWindow, grazie"/>
+  <s key="More YoWindow" value="Altre versioni di YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="Trascina lo schermo per vedere il cambiamento del tempo"/>
+  <s key="And one more time" value="giorno per giorno"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Premi il pulsante LIVE per vedere il tempo attuale"/>
+  <s key="Watch weather with pleasure" value="Segui il meteo con piacere !"/>
+  <s key="Disable Auto-Lock" value="Disabilita Auto-Lock"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Visualizza display se il dispositivo è collegato alla rete o la batteria è carica più del 25 %"/>
+  <s key="More" value="Altro"/>
+  <s key="Parallax effect" value="Effetto parallasse"/>
+  <s key="An illusion of 3D space when you tilt the device" value="L'effetto 3D quando si inclina l'apparecchio"/>
+  <s key="Temperature in Status Bar" value="Temperatura nella barra di stato"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Mostra la temperatura della posizione attuale"/>
+  <s key="Not enough free space." value="Non c'è abbastanza spazio libero"/>
+  <s key="YoWindow may run unstable." value="YoWindow può essere eseguito in modo instabile."/>
+  <s key="{0} MB minimum required." value="{0} MB requisiti minimi richiesti."/>
+  <s key="YoWindow Weather" value="Meteo YoWindow"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="Scarica Versione Completa"/>
+  <s key="No ads, no limitations, all landscapes available" value="Senza pubblicità, senza limitazioni, tutti i paesaggi disponibili"/>
+  <s key="No advertising" value="Senza pubblicità"/>
+  <s key="Remove ads" value="Rimuovere la pubblicità"/>
+  <s key="Weather forecast is limited" value="Le previsioni del tempo sono limitate"/>
+  <s key="Demo" value="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; L'accesso al paesaggio è limitato."/>
+  <s key="Connecting to {0}" value="Collegamento a {0}"/>
+  <s key="Camera" value="Fotocamera"/>
+  <s key="Photos" value="Fotografie"/>
+  <s key="Wallpaper" value="Sfondo"/>
+  <s key="Enable animations" value="Abilita le animazioni"/>
+  <s key="Show weather" value="Mostra le condizioni Meteo"/>
+  <s key="No animation - almost no battery power consumed." value="Nessuna animazione - bassissimo consumo delle batteria."/>
+  <s key="Widget Settings" value="Impostazioni del Widget"/>
+  <s key="Create Widget" value="Crea Widget"/>
+  <s key="Tap to search for a location" value="Seleziona per cercare una località"/>
+  <s key="Show background" value="Mostra sfondo"/>
+  <s key="Move On Top" value="Sposta in alto"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Disinstalla &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Sono installate le edizioni Full e Free di YoWindow."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Per evitare confusione per favore disinstalla YoWindow Free."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Aggiungi il widget YoWindow per guardare con comodità le previsioni meteo"/>
+  <s key="Tap to continue" value="Clicca per continuare"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow installato su una memoria esterna."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="ATTENZIONE: YoWindow Wallpaper e Widget potrebbero non essere disponibili quando YoWindow è installato su una memoria esterna (scheda SD)."/>
+  <s key="Location Search" value="Ricerca posizione"/>
+  <s key="Redeem code" value="Sblocca codice"/>
+  <s key="Full Version privilege granted." value="Privilegi versione completa concessi."/>
+  <s key="Advertising removed, no limitations." value="Pubblicità rimossa, nessuna limitazione."/>
+  <s key="Unexpected code" value="Codice non riconosciuto"/>
+  <s key="Restore privileges" value="Ripristina privilegi precedenti"/>
+  <s key="Set As Wallpaper" value="Imposta come sfondo"/>
+  <s key="Post" value="Messaggio"/>
+  <s key="Enter the message" value="Inserisci messaggio"/>
+  <s key="Fill in the weather" value="Condividi il meteo di questo momento"/>
+  <s key="You just have posted to Facebook!" value="Pubblicato su Facebook !"/>
+</body>

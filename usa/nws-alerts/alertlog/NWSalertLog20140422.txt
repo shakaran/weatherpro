@@ -1,0 +1,16 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'River Flood Warning',
+    1 => 'Jackson, IA',
+    2 => 1398130620,
+    3 => 1398492000,
+    4 => 'FFW.gif',
+    5 => 'Dubuque; Jackson',
+    6 => 'FLOOD WARNING NOW IN EFFECT UNTIL THURSDAY',
+  ),
+);
+
+?>

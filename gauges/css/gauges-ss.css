@@ -1,0 +1,55 @@
+/*
+.content {
+	margin-top: 1%;
+	margin-right: 20%;
+	margin-bottom: 1%;
+	margin-left: 20%;
+}
+*/
+.gaugeTable {
+	width: 100%;
+
+  font-family: sans-serif;
+  font-size: 0.75em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gaugeTable td {
+  text-align: center;
+  vertical-align: top;
+}
+
+@font-face {
+    font-family: 'LCDMono2Ultra';
+    src: url('../font/lcdmono2ultra-webfont.eot'),
+         url('../font/lcdmono2ultra-webfont.ttf') format('truetype'),
+         url('../font/lcdmono2ultra-webfont.svg#LCDMono2Ultra') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ddimgtooltip{
+  z-index: 2000;
+  box-shadow: 3px 3px 5px #818181; /*shadow for CSS3 capable browsers.*/
+  -webkit-box-shadow: 3px 3px 5px #818181;
+  -moz-box-shadow: 3px 3px 5px #818181;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  display: none;
+  position: absolute;
+  border: 1px solid black;
+  background: white;
+  color: black;
+  padding: 0 7px 3px 7px;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.tipinfo{
+  text-align: left;
+  padding: 3px 0 3px 2px;
+}
+.tipimg{
+max-width: 402px;
+/*    height: 175px;  */
+}

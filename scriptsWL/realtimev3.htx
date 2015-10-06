@@ -1,0 +1,20 @@
+|rtVersion|3.00|!               # 3.00 2015-03-31 12:00 beta release version 2.7
+|tempunit|<!--tempUnit-->|!     # units
+|windunit|<!--windUnit-->|!
+|pressunit|<!--barUnit-->|!
+|rainunit|<!--rainUnit-->|!
+|date|<!--time-->|!             # time
+|temp|<!--outsideTemp-->|!      # temp 
+|intemp|<!--insideTemp-->|!
+|dew|<!--outsideDewPt-->|!
+|wchill|<!--windChill-->|!
+|wlatest|<!--windSpeed-->|!     # windspeed
+|wgust|<!--hiWindSpeed-->|!
+|bearing|<!--windDir-->|!
+|avgbearing|<!--windDir-->|!
+|press|<!--barometer-->|!       # baro
+|rfall|<!--dailyRain-->|!       # rain
+|rrate|<!--rainRate-->|!
+|hum|<!--outsideHumidity-->|!   # hum 
+|UV|<!--uv-->|!                 # sun
+|SolarRad|<!--solarRad-->|!

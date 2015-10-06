@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Peruuta"/>
+  <s key="Change" value="Vaihda"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Sääennusteen tarjoaa {0}, toimittaa Norjan ilmatieteen laitos ja NRK"/>
+  <s key="Forecast from {0}" value="Sääennuste: {0}"/>
+  <s key="Friday" value="Perjantai"/>
+  <s key="Monday" value="Maanantai"/>
+  <s key="Saturday" value="Lauantai"/>
+  <s key="Sunday" value="Sunnuntai"/>
+  <s key="Thursday" value="Torstai"/>
+  <s key="Tuesday" value="Tiistai"/>
+  <s key="Wednesday" value="Keskiviikko"/>
+  <s key="Fr" value="Pe"/>
+  <s key="Mo" value="Ma"/>
+  <s key="Sa" value="La"/>
+  <s key="Su" value="Su"/>
+  <s key="Th" value="To"/>
+  <s key="Tu" value="Ti"/>
+  <s key="We" value="Ke"/>
+  <s key="LIVE" value="NYT"/>
+  <s key="Loading" value="Lataa"/>
+  <s key="April" value="Huhtikuu"/>
+  <s key="August" value="Elokuu"/>
+  <s key="December" value="Joulukuu"/>
+  <s key="February" value="Helmikuu"/>
+  <s key="January" value="Tammikuu"/>
+  <s key="July" value="Heinäkuu"/>
+  <s key="June" value="Kesäkuu"/>
+  <s key="March" value="Maaliskuu"/>
+  <s key="May" value="Toukokuu"/>
+  <s key="November" value="Marraskuu"/>
+  <s key="October" value="Lokakuu"/>
+  <s key="September" value="Syyskuu"/>
+  <s key="Network error" value="Yhteysvirhe"/>
+  <s key="No weather" value="Ei säätilaa"/>
+  <s key="Retry" value="Yritä uudelleen"/>
+  <s key="Tomorrow" value="Huomenna"/>
+  <s key="Updating weather" value="Päivitetään säätilaa"/>
+  <s key="Please wait..." value="Odota..."/>
+  <s key="Weather expired" value="Säätila vanhentunut"/>
+  <s key="Loading" value="Lataa"/>
+</body>

@@ -1,0 +1,23 @@
+1	Helder dag
+2	Merendeels helder
+3	Zwaarbewolkt Hagelbui dag
+11	Zwaar bewolkt
+12	Hagel
+13	Regen
+14	Regen licht
+21	Buien
+23 	Helder nacht
+24	Licht bewolkt nacht
+26	(zware) Buien nacht
+42	Gedeeltelijk bewolkt
+46	Sneeuwbui nat dag
+51	Buien nacht
+52	Hagelbui licht dag
+53	Hagel Nacht
+54	Winterse bui dag
+55	Winterse bui nacht
+56	Sneeuwbui dag
+57	Sneeuwbui nacht
+58	Glad
+59	Storm
+60	IJzel

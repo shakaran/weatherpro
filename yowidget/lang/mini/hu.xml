@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Mégse"/>
+  <s key="Change" value="Változtat"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Az időjárás-előrejelzést az {0} biztosítja a Norvég Meteorológiai Intézet és az NRK jóvoltából"/>
+  <s key="Forecast from {0}" value="Előrejelzés: {0}"/>
+  <s key="Friday" value="Péntek"/>
+  <s key="Monday" value="Hétfő"/>
+  <s key="Saturday" value="Szombat"/>
+  <s key="Sunday" value="Vasárnap"/>
+  <s key="Thursday" value="Csütörtök"/>
+  <s key="Tuesday" value="Kedd"/>
+  <s key="Wednesday" value="Szerda"/>
+  <s key="Fr" value="P"/>
+  <s key="Mo" value="H"/>
+  <s key="Sa" value="Szo"/>
+  <s key="Su" value="V"/>
+  <s key="Th" value="Cs"/>
+  <s key="Tu" value="K"/>
+  <s key="We" value="Sze"/>
+  <s key="LIVE" value="ÉLŐ"/>
+  <s key="Loading" value="Töltés"/>
+  <s key="April" value="Április"/>
+  <s key="August" value="Augusztus"/>
+  <s key="December" value="December"/>
+  <s key="February" value="Február"/>
+  <s key="January" value="Január"/>
+  <s key="July" value="Július"/>
+  <s key="June" value="Június"/>
+  <s key="March" value="Március"/>
+  <s key="May" value="Május"/>
+  <s key="November" value="November"/>
+  <s key="October" value="Október"/>
+  <s key="September" value="Szeptember"/>
+  <s key="Network error" value="Hálózati hiba"/>
+  <s key="No weather" value="Nincs időjárás"/>
+  <s key="Retry" value="Újra"/>
+  <s key="Tomorrow" value="Holnap"/>
+  <s key="Updating weather" value="Időjárás frissítése"/>
+  <s key="Please wait..." value="Kérem várjon..."/>
+  <s key="Weather expired" value="Időjárás lejárt"/>
+  <s key="Loading" value="Töltés"/>
+</body>

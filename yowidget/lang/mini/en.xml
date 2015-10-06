@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel"/>
+  <s key="Change"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK"/>
+  <s key="Forecast from {0}"/>
+  <s key="Friday"/>
+  <s key="Monday"/>
+  <s key="Saturday"/>
+  <s key="Sunday"/>
+  <s key="Thursday"/>
+  <s key="Tuesday"/>
+  <s key="Wednesday"/>
+  <s key="Fr"/>
+  <s key="Mo"/>
+  <s key="Sa"/>
+  <s key="Su"/>
+  <s key="Th"/>
+  <s key="Tu"/>
+  <s key="We"/>
+  <s key="LIVE"/>
+  <s key="Loading"/>
+  <s key="April"/>
+  <s key="August"/>
+  <s key="December"/>
+  <s key="February"/>
+  <s key="January"/>
+  <s key="July"/>
+  <s key="June"/>
+  <s key="March"/>
+  <s key="May"/>
+  <s key="November"/>
+  <s key="October"/>
+  <s key="September"/>
+  <s key="Network error"/>
+  <s key="No weather"/>
+  <s key="Retry"/>
+  <s key="Tomorrow"/>
+  <s key="Updating weather"/>
+  <s key="Please wait..."/>
+  <s key="Weather expired"/>
+  <s key="Loading"/>
+</body>

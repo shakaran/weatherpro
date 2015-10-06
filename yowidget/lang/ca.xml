@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Abandonar la llicència il·limitada"/>
+  <s key="Absent"/>
+  <s key="Add" value="Afegir"/>
+  <s key="Animate" value="Animar"/>
+  <s key="Apply" value="Aplicar"/>
+  <s key="Astronomy" value="Astronomia"/>
+  <s key="Day Length" value="Duració del dia"/>
+  <s key="Moon Phase" value="Fase lunar"/>
+  <s key="Sunrise" value="Sortida del sol"/>
+  <s key="Sunset" value="Posta del sol"/>
+  <s key="Auto update weather" value="Actualització automàtica de les dades meteorològiques"/>
+  <s key="Bad ICAO code" value="Codi ICAO incorrecte"/>
+  <s key="Buy YoWindow Unlimited!" value="Comprar YoWindow il·limitat!"/>
+  <s key="Calendar" value="Calendari"/>
+  <s key="Cancel" value="Cancel·lar"/>
+  <s key="Change" value="Canviar"/>
+  <s key="Code" value="Codi"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Pronòstic del temps de {0}, emés per l'Institut Meteorològic Noruec i la NRK"/>
+  <s key="Forecast from {0}" value="Pronòstic de {0}"/>
+  <s key="Current weather" value="Dades actuals"/>
+  <s key="Friday" value="Divendres"/>
+  <s key="Monday" value="Dilluns"/>
+  <s key="Saturday" value="Dissabte"/>
+  <s key="Sunday" value="Diumenge"/>
+  <s key="Thursday" value="Dijous"/>
+  <s key="Tuesday" value="Dimarts"/>
+  <s key="Wednesday" value="Dimecres"/>
+  <s key="Fr" value="Dv"/>
+  <s key="Mo" value="Dl"/>
+  <s key="Sa" value="Ds"/>
+  <s key="Su" value="Dg"/>
+  <s key="Th" value="Dj"/>
+  <s key="Tu" value="Dm"/>
+  <s key="We" value="Dc"/>
+  <s key="day ago" value="dia"/>
+  <s key="days ago" value="dies"/>
+  <s key="Default" value="Predeterminada"/>
+  <s key="Blowing" value="Ventisca"/>
+  <s key="Clear" value="Clar"/>
+  <s key="Cloudy" value="Cobert"/>
+  <s key="Overcast"/>
+  <s key="Drizzle" value="Plugim"/>
+  <s key="Fair" value="Poc núvol"/>
+  <s key="Fog" value="Boira"/>
+  <s key="Freezing" value="Engelant"/>
+  <s key="Hail" value="Pedra"/>
+  <s key="Haze" value="Boirina"/>
+  <s key="Heavy" value="Fort"/>
+  <s key="Ice Crystals" value="Gel menut (Prismes)"/>
+  <s key="Ice Pellets" value="Gel (Perdigons)"/>
+  <s key="In Vicinity" value="En les proximitats"/>
+  <s key="Light" value="Feble"/>
+  <s key="Low Drifting" value="Ventisca"/>
+  <s key="Mist" value="Boira"/>
+  <s key="Mostly Cloudy" value="Molt ennuvolat"/>
+  <s key="Partial" value="Parcialment"/>
+  <s key="Partly Cloudy" value="Parcialment ennuvolat"/>
+  <s key="Patches" value="Bancs de"/>
+  <s key="Rain" value="Pluja"/>
+  <s key="Rain And Thunder" value="Tronada"/>
+  <s key="Sand" value="Arena en suspensió"/>
+  <s key="Shallow" value="Superficial"/>
+  <s key="Shower" value="Xàfec"/>
+  <s key="Shower With Thunder" value="Xàfec tempestuòs"/>
+  <s key="Sleet" value="Aiguaneu"/>
+  <s key="Small Hail" value="Granís"/>
+  <s key="Smoke" value="Fum en suspensió"/>
+  <s key="Snow" value="Neu"/>
+  <s key="Snow And Thunder" value="Tempesta de neu"/>
+  <s key="Snow Grains" value="Neu granulada"/>
+  <s key="Snow Showers" value="Xàfec de neu"/>
+  <s key="Thunderstorm" value="Tempesta elèctrica"/>
+  <s key="Unknown Precipitation" value="Precipitació desconeguda"/>
+  <s key="Widespread Dust Haze" value="Pols en suspensió"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Clau de llicència no vàlida. Intente-ho de nou. Assegureu-vos de que heu escrit correctament la clau. Tracte de copiar i pegar la clau."/>
+  <s key="Wrong license key" value="Clau de llicència incorrecta"/>
+  <s key="You will have to restart the application for this to take effect" value="Haurà de reiniciar l'aplicació per notar els canvis."/>
+  <s key="Language change" value="Canvi d'idioma"/>
+  <s key="No limits!" value="¡Sense límits!"/>
+  <s key="Buy now!" value="¡Comprar ara!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Compre una llicència per a eliminar las restriccions."/>
+  <s key="Not now" value="Ara no"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Per completar el registre ingresse la clau de la llicència que li hem enviat. Una suggerència: use copiar i pegar."/>
+  <s key="License registration" value="Registre de la llicència"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="¡Gràcies per registrar YoWindow! Totes las restriccions s'han eliminat. ¡Disfrute'l!"/>
+  <s key="Distance" value="Distància"/>
+  <s key="Down" value="Avall"/>
+  <s key="Download" value="Descargar"/>
+  <s key="Enter weather source URL please" value="Per favor, introduïsca la URL origen del pronòstic meteorològic"/>
+  <s key="Error" value="Error"/>
+  <s key="The location is already added" value="El lloc ja s'ha afegit"/>
+  <s key="Exit" value="Sortir"/>
+  <s key="To get started, pick your home location" value="Per començar, triï el lloc de residència"/>
+  <s key="Forecast Panel" value="Tauler de pronòstics"/>
+  <s key="Full Screen" value="Pantalla completa"/>
+  <s key="Help" value="Ajuda"/>
+  <s key="Highlight weather station parameters" value="Ressaltar els paràmetres de la estació meteorològica personal"/>
+  <s key="Home" value="Residència"/>
+  <s key="h"/>
+  <s key="Inspector" value="Tauler de dades"/>
+  <s key="Landscape" value="Paisatge"/>
+  <s key="Foreground" value="Primer pla"/>
+  <s key="Landscape Options" value="Opcions de paisatge"/>
+  <s key="Landscape pictures" value="Fotografies de paisatges"/>
+  <s key="Landscapes" value="paisatges"/>
+  <s key="Language:" value="Idioma:"/>
+  <s key="English" value="Català/Valencià"/>
+  <s key="System Default" value="Predeterminat del sistema"/>
+  <s key="Latitude" value="Latitut"/>
+  <s key="{0} locations" value="{0} llocs"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Ara pot afegir {0} llocs com a màximo. En la edició il·limitada pot afegir-ne tants com vulga."/>
+  <s key="Weather auto-update is off" value="L'actualizació automàtica de les dades està desactivada"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Premeu F5 per a actualitzar les dades.  El temps s'actualitza automàticament en l'edició il·limitada."/>
+  <s key="{0} weather forecast days only" value="Només {0} dies de pronòstic meteorològic"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Ara té accés a {0} dies de pronòstic meteorològic.  La edició il·limitada ofereix {1} dies de pronòstic."/>
+  <s key="Licence key" value="Clau de llicència"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Actualització automàtica del temps en l'edició il·limitada."/>
+  <s key="LIVE" value="EN VIU"/>
+  <s key="Load weather from personal weather station" value="Cargar dades de l'estació meteorològica personal"/>
+  <s key="Loading" value="Cargant"/>
+  <s key="Loading landscape..." value="Cargant paisatge..."/>
+  <s key="Location" value="Lloc"/>
+  <s key="Location ID" value="ID de lloc"/>
+  <s key="Location Properties" value="Propietats del lloc"/>
+  <s key="id_internet_link" value="Enllaç"/>
+  <s key="Locations" value="Llocs"/>
+  <s key="All locations" value="Qualsevol lloc"/>
+  <s key="All regions" value="Totes les regions"/>
+  <s key="All states" value="Tots els estats"/>
+  <s key="Change landscape" value="Canviar el paisatge"/>
+  <s key="Select a location" value="Seleccione un lloc"/>
+  <s key="The location is already added" value="El lloc ja s'ha afegit"/>
+  <s key="Location is not selected yet" value="Encara no s'ha seleccionat un lloc"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Grans ciutats (més de 100.000 habitants)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Error de xarxa, la informació del lloc no és accessible. Degut a això, el lloc no pot ser seleccionat ara."/>
+  <s key="No locations in scope" value="No hi ha llocs en el seu entorn"/>
+  <s key="Scope"/>
+  <s key="Region" value="Regió"/>
+  <s key="Cannot find a location?" value="No es pot trobar un lloc?"/>
+  <s key="Set as Home" value="Fixar residència"/>
+  <s key="Current Location"/>
+  <s key="Unknown" value="Desconegut"/>
+  <s key="Longitude" value="Longitut"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Mirant al Nord (el vent de Ponent bufa des de l'esquerra)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Mirant al Sud (el vent de Ponent bufa des de la dreta)"/>
+  <s key="April" value="Abril"/>
+  <s key="August" value="Agost"/>
+  <s key="December" value="Desembre"/>
+  <s key="February" value="Febrer"/>
+  <s key="January" value="Gener"/>
+  <s key="July" value="Juliol"/>
+  <s key="June" value="Juny"/>
+  <s key="March" value="Març"/>
+  <s key="May" value="Maig"/>
+  <s key="November" value="Novembre"/>
+  <s key="October" value="Octubre"/>
+  <s key="September" value="Setembre"/>
+  <s key="About" value="Sobre de..."/>
+  <s key="Facebook Edition" value="Edició "/>
+  <s key="License Agreement" value="Acord de llicència"/>
+  <s key="Program" value="Programa"/>
+  <s key="Visit our Forum" value="Visite el nostre fòrum"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow per a la seva pàgina Web o Blog"/>
+  <s key="m"/>
+  <s key="{0} minutes back" value="{0} minuts abans"/>
+  <s key="{0} minutes forward" value="{0} minuts després"/>
+  <s key="Name" value="Nom"/>
+  <s key="Network error" value="Error en la xarxa"/>
+  <s key="Network not available"/>
+  <s key="It is available on {0}" value="Està disponible en {0}"/>
+  <s key="New version released" value="Llançament d'una nova versió"/>
+  <s key="Next Day" value="Dia següent"/>
+  <s key="No" value="No"/>
+  <s key="No weather" value="Previsions meteorològiques no disponibles"/>
+  <s key="N/A" value="N/D"/>
+  <s key="Notify me when a new version is available" value="Notificar-me en quant una nova versió estiga disponible"/>
+  <s key="Online" value="En linia"/>
+  <s key="Open {0}" value="Obrir {0}"/>
+  <s key="Options" value="Opcions"/>
+  <s key="Advanced" value="Avançades"/>
+  <s key="Application choice" value="Elecció de l'aplicació"/>
+  <s key="Date" value="Data"/>
+  <s key="Display" value="Visualització"/>
+  <s key="Animate clouds" value="Núvols animats"/>
+  <s key="Default" value="Predeterminada"/>
+  <s key="Full screen mode" value="Resolució de pantalla"/>
+  <s key="Quality" value="Qualitat"/>
+  <s key="Custom" value="Personalitzat"/>
+  <s key="Excellent" value="Excel·lent"/>
+  <s key="Moderate" value="Bona"/>
+  <s key="Number of days to display:" value="Nombre de dies per mostrar:"/>
+  <s key="Tile contents:" value="Continguts:"/>
+  <s key="General" value="General"/>
+  <s key="Contents" value="Continguts"/>
+  <s key="Show N/A parameters" value="Mostrar paràmetres N/A"/>
+  <s key="Live indicator" value="Indicador EN VIU"/>
+  <s key="Locations" value="Llocs"/>
+  <s key="Operation successful!" value="¡Operació realitzada amb èxit!"/>
+  <s key="Refresh locations DB" value="Actuatlizar BD dels llocs"/>
+  <s key="Reset to defaults" value="Restablir els valors predeterminats"/>
+  <s key="Add" value="Afegir"/>
+  <s key="User interface" value="Interfície d'usuari"/>
+  <s key="Screen saver" value="Protector de pantalla"/>
+  <s key="Time Bar" value="Barra de linia del temps"/>
+  <s key="Unit system:" value="Sistema d'unitats:"/>
+  <s key="Units" value="Unitats"/>
+  <s key="Auto-detected" value="Detectades automàticament"/>
+  <s key="Custom" value="Personalitzat"/>
+  <s key="Distance:" value="Distància:"/>
+  <s key="Metric" value="Mètric decimal"/>
+  <s key="Russia" value="Rússia"/>
+  <s key="Finland"/>
+  <s key="Pressure:" value="Pressió:"/>
+  <s key="Temperature:" value="Temperatura:"/>
+  <s key="US" value="EUA"/>
+  <s key="Wind speed:" value="Velocitat:"/>
+  <s key="Landscape Options" value="Opcions de paisatge"/>
+  <s key="Show Daylight Diagram" value="Mostrar el diagrama de llum diürna"/>
+  <s key="Show Forecast Panel" value="Mostrar el tauler de pronòstics"/>
+  <s key="Show Full Screen button" value="Mostrar el botó de pantalla completa"/>
+  <s key="Show Inspector" value="Mostrar el tauler de dades"/>
+  <s key="Show Time Bar" value="Mostrar la barra de linia del temps"/>
+  <s key="Show User interface" value="Interfície d'usuari"/>
+  <s key="Show forecast when current weather is expired" value="Veure les dades de pronòstics si les dades presentes estan antiquades"/>
+  <s key="Organize" value="Organitzar"/>
+  <s key="Organize locations" value="Organitzar llocs"/>
+  <s key="Organize pictures" value="Organitzar fotografies"/>
+  <s key="Pictures" value="Fotografies"/>
+  <s key="press" value="Polsar"/>
+  <s key="Falling" value="En descens"/>
+  <s key="Falling Rapidly" value="En descens ràpid"/>
+  <s key="Rising" value="Ascendent"/>
+  <s key="Rising Rapidly" value="Ascendent ràpidament"/>
+  <s key="Steady" value="Estacionària"/>
+  <s key="Previous Day" value="Dia anterior"/>
+  <s key="Properties" value="Propietats"/>
+  <s key="Refresh Locations data base" value="Actualitzar base de dades dels llocs"/>
+  <s key="Register" value="Registrar"/>
+  <s key="Remove" value="Eliminar"/>
+  <s key="Rename" value="Canviar el nom"/>
+  <s key="Rename location" value="Canviar el nom d'un lloc"/>
+  <s key="Rename picture" value="Canviar el nom de la fotografia"/>
+  <s key="Retry" value="Reintentar"/>
+  <s key="Run with Windows (minimized to tray)" value="Executar a l'iniciar Windows (minimitzat a l'àrea de notificació)"/>
+  <s key="Season map" value="Mapa de les estacions"/>
+  <s key="Select" value="Seleccionar"/>
+  <s key="Select country" value="Seleccionar país"/>
+  <s key="Select a landscape" value="Seleccionar un paisatge"/>
+  <s key="Select location" value="Seleccionar un lloc"/>
+  <s key="Select region" value="Seleccionar una regió"/>
+  <s key="Select state" value="Seleccionar un estat"/>
+  <s key="Set as default" value="Fixar com a predeterminat"/>
+  <s key="Set YoWindow as ScreenSaver" value="Escollir YoWindow com a protector de pantalla"/>
+  <s key="Setup" value="Instal·lació"/>
+  <s key="Show" value="Mostrar"/>
+  <s key="Show again" value="Mostrar altre cop"/>
+  <s key="Speed" value="Velocitat"/>
+  <s key="Time" value="Linia del temps"/>
+  <s key="{0} ago" value="fa {0}"/>
+  <s key="Time zone" value="Fus horari"/>
+  <s key="Today" value="Avui"/>
+  <s key="Tomorrow" value="Demà"/>
+  <s key="Tom." value="Demà."/>
+  <s key="Tonight" value="Avui per la nit"/>
+  <s key="Add New Location" value="Afegir altre lloc"/>
+  <s key="Open Calendar..." value="Obrir el calendari..."/>
+  <s key="Show Less Days" value="Mostrar menys dies"/>
+  <s key="Show More Days" value="Mostrar més dies"/>
+  <s key="Update Weather" value="Actualitzar les dades"/>
+  <s key="Unknown" value="Desconegut"/>
+  <s key="Up" value="Amunt"/>
+  <s key="Update interval" value="Interval d'actualizació"/>
+  <s key="Update weather" value="Actualizar les dades"/>
+  <s key="Updating weather" value="Actualizant les dades..."/>
+  <s key="View" value="Veure"/>
+  <s key="Please wait..." value="Espere per favor..."/>
+  <s key="Weather" value="Dades climàtiques"/>
+  <s key="Daily rain total" value="Pluja diaria total"/>
+  <s key="Weather expired" value="Dades antiquades"/>
+  <s key="Feels like" value="Sensació"/>
+  <s key="Day maximum temperature"/>
+  <s key="Day minimum temperature"/>
+  <s key="Weather forecast" value="Dades pronòstics"/>
+  <s key="Forecast issued" value="Actualitzat"/>
+  <s key="Hail" value="Pedra"/>
+  <s key="Humidity" value="Humitat"/>
+  <s key="Observed" value="Actualitzat"/>
+  <s key="Pressure" value="Pressió"/>
+  <s key="PWS only" value="Només PWS"/>
+  <s key="Rain" value="Pluja"/>
+  <s key="Rain/Snow rate" value="Taxa de Pluja/Neu"/>
+  <s key="Description" value="Descripció"/>
+  <s key="Sky image" value="Símbols meteorològics"/>
+  <s key="Snow" value="Neu"/>
+  <s key="Snow level" value="Nivell de neu"/>
+  <s key="Weather station properties" value="Propietats de l'estació meteorològica"/>
+  <s key="Temperature" value="Temperatura"/>
+  <s key="Temperature range" value="Rang de temperatures"/>
+  <s key="Update error" value="Error d'actualització"/>
+  <s key="Update time" value="Període de validesa"/>
+  <s key="UV index" value="Índex UV"/>
+  <s key="Visibility" value="Visibilitat"/>
+  <s key="Unlimited" value="Il·limitada"/>
+  <s key="Wind" value="Vent"/>
+  <s key="Calm" value="Calma"/>
+  <s key="Variable"/>
+  <s key="Welcome to YoWindow!" value="¡Benvengut a YoWindow!"/>
+  <s key="Wind direction:" value="Direcció del vent:"/>
+  <s key="East" value="Est"/>
+  <s key="North" value="Nord"/>
+  <s key="South" value="Sud"/>
+  <s key="West" value="Oest"/>
+  <s key="Yes" value="Si"/>
+  <s key="Close screensaver on mouse move" value="Tancar el protector de pantalla al moure el ratolí."/>
+  <s key="Color"/>
+  <s key="Background" value="Fons"/>
+  <s key="Choose color" value="Escollir el color"/>
+  <s key="System tray" value="Àrea de notificació"/>
+  <s key="Transparent"/>
+  <s key="Precipitation chance" value="Risc de precipitació"/>
+  <s key="Rain chance" value="Risc de pluja"/>
+  <s key="Snow chance" value="Risc de neu"/>
+  <s key="{0} only" value="Només {0}"/>
+  <s key="US" value="EUA"/>
+  <s key="Dew point" value="Punt de rosada"/>
+  <s key="I want to have fun" value="Vull divertir-me (Mostrar objectes pintorescs y simpàtics)"/>
+  <s key="Enable surprises"/>
+  <s key="NWS forecasts for the USA" value="Pronòstic meteorològic del NWS per als EUA"/>
+  <s key="h"/>
+  <s key="min"/>
+  <s key="Open" value="Obrir"/>
+  <s key="Browse" value="Buscar en"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Escriga la ruta de accés a un paisatge en Internet o busque l'arxiu en el seu ordinador"/>
+  <s key="Landscape load error" value="Error al cargar un paisatge"/>
+  <s key="Picture load error" value="Error al carregar una imatge"/>
+  <s key="The landscape is already added" value="El paisatge ja s'ha afegit"/>
+  <s key="Landscape collection" value="Col·lecció de paisatges"/>
+  <s key="Turn your photo into Landscape" value="Cree un paisatge a partir d'una fotografia"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Aprenga{1} a convertir una fotografia en un paisatge"/>
+  <s key="Village" value="Aldea"/>
+  <s key="Seaside"/>
+  <s key="Airport"/>
+  <s key="Oriental"/>
+  <s key="Sky"/>
+  <s key="Landscape made from picture" value="Paisatge fer a partir d'una fotografía"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Et guiarem per tal de convertir una fotografia en un paisatge YoWindow."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Per favor llisca el tutorial {0} Com convertir una fotografia en un paisatge? {1} "/>
+  <s key="Click Next to continue..." value="Polsar  per a continuar:"/>
+  <s key="Specify a picture you want to turn into landscape." value="Especificar la fotografia que vols convertir."/>
+  <s key="How to pick the best landscape picture?" value="Com elegir una bona fotografía?"/>
+  <s key="Source picture" value="Carregar una fotografia"/>
+  <s key="The landscape will be created in the following folder" value="El paisatge es crearà en la carpeta següent"/>
+  <s key="Landscape folder name" value="Nom de la carpeta"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Polsar en &quot;Crear&quot; per a crear el paisatge {0}"/>
+  <s key="{0} landscape has been created successfully!" value="{0} el paisatge s'ha creat exitosament"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Ara obriga {0} amb el seu editor d'imatges favorit per tal de borrar el cel. Trobaràs la imatge en {1}la carpeta del paisatge{2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="És molt fàcil llevar el cel. Llig el nostre breu {0}tutorial{1}."/>
+  <s key="Auto"/>
+  <s key="Horizon Level Setup" value="Edició de l'horitzó"/>
+  <s key="Keys: Up/Down" value="Tecles: Amunt/Avall"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Tu estàs a punt de borrar la imatge d'un paisatge {0}. Esta operació no és aconsejable. Està segur?"/>
+  <s key="Edit Landscape" value="Editar un paisatge"/>
+  <s key="Edit Horizon Level" value="Editar l'horitzó"/>
+  <s key="File not found." value="Arxiu no trobat."/>
+  <s key="The name is empty" value="El nom està buit"/>
+  <s key="The folder already exists" value="La carpeta ja existeix"/>
+  <s key="Illegal folder name" value="El nom de carpeta no és correcte"/>
+  <s key="The file format is not supported." value="El format de l'arxiu no és adequat."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="La fotografia és massa gran per a YoWindow. El tamany no pot superar els 2880 pixels d'altura o amplada."/>
+  <s key="Landscape Image" value="Imatge del paisatge"/>
+  <s key="Landscape Folder" value="Carpeta del paisatge"/>
+  <s key="About Landscape" value="Sobre el paisatge"/>
+  <s key="Picture {0} imported successfully" value="Fotografia {0} importada amb èxit"/>
+  <s key="Remind Me Later" value="Recordar-me-ho més tard"/>
+  <s key="Skip This Version" value="Saltar aquesta Versió"/>
+  <s key="Loading" value="Cargant"/>
+  <s key="Next" value="Següent"/>
+  <s key="Back" value="Atras"/>
+  <s key="Finish" value="Acabar"/>
+  <s key="Create" value="Crear"/>
+  <s key="Import" value="Importar"/>
+  <s key="Delete" value="Borrar"/>
+  <s key="Path" value="Camí"/>
+  <s key="Options" value="Opcions"/>
+  <s key="Select the options you like" value="Seleccione les opcions que preferisca"/>
+  <s key="Set YoWindow as default screen saver" value="Fixar YoWindow com a protector de pantalla"/>
+  <s key="Start with Windows (minimized to system tray)" value="Iniciar amb Windows (Minimitzat a la safata del sistema)"/>
+  <s key="Add a shortcut to quick launch bar" value="Afegeix un accés directe a la barra d'inici ràpid"/>
+  <s key="You are about to upgrade YoWindow." value="Estàs a punt d'actualitzar Yowindow."/>
+  <s key="Click OK to install the new version." value="Polsa OK per instal·lar la nova versió."/>
+  <s key="You must close YoWindow before you can continue." value="Has de tancar Yowindow per poder continuar."/>
+  <s key="After you have closed YoWindow, select Retry." value="Després elegeix Reintentar."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Si vols cancelar el procés de d'intal·lació pulsa en Cancel·lar."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Si vols intentar instal·lar-lo de totes maneres, selecciona Ignorar."/>
+  <s key="If you wish to abort the installation, select Abort." value="Si vols abortar la instal·lació selecciona Abortar."/>
+  <s key="Final step" value="Darrer pas"/>
+  <s key="Start YoWindow on system startup"/>
+  <s key="Check for new version..."/>
+  <s key="YoWindow is up to date!"/>
+  <s key="You have the latest version"/>
+  <s key="Download new version!"/>
+  <s key="Preview"/>
+  <s key="Show small YoWindow logo"/>
+  <s key="The landscape is available in Unlimited Edition only."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="peus"/>
+  <s key="id_unit_short_miles" value="milles"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="nusos"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;"/>
+  <s key="Hide parameter"/>
+  <s key="When weather parameter is not available"/>
+  <s key="Information"/>
+  <s key="id_information_all"/>
+  <s key="Temperature and Time"/>
+  <s key="This is Unlimited Edition."/>
+  <s key="It is already registered."/>
+  <s key="Free edition"/>
+  <s key="Unlimited edition"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later."/>
+  <s key="Get Adobe Flash Player"/>
+  <s key="Unlock landscape"/>
+  <s key="YoWindow for Chrome"/>
+  <s key="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad"/>
+  <s key="Follow YoWindow on Facebook"/>
+  <s key="Follow YoWindow on Twitter"/>
+  <s key="Landscape trial, days left:"/>
+  <s key="Landscape trial period is over"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited."/>
+  <s key="Details"/>
+  <s key="View direction"/>
+  <s key="Fixed sky"/>
+  <s key="Edit" value="Sortir"/>
+  <s key="Reload"/>
+  <s key="Minimized"/>
+  <s key="affects wind only"/>
+  <s key="Broadcast"/>
+  <s key="Share"/>
+  <s key="Publishing"/>
+  <s key="Authorizing"/>
+  <s key="Published!"/>
+  <s key="Space"/>
+  <s key="Weather now in {0}"/>
+  <s key="Weather forecast for {0} in {1}"/>
+  <s key="Today in {0} (forecast)"/>
+  <s key="Tomorrow in {0} (forecast)"/>
+  <s key="Forecast"/>
+  <s key="Sound"/>
+  <s key="Enable sound"/>
+  <s key="Volume"/>
+  <s key="Skip"/>
+  <s key="Presented in Stereo"/>
+  <s key="Override current season"/>
+  <s key="Winter"/>
+  <s key="Spring"/>
+  <s key="Summer"/>
+  <s key="Autumn"/>
+  <s key="Naked"/>
+  <s key="Countries"/>
+  <s key="Vote!"/>
+  <s key="Vote for YoWindow, thank you"/>
+  <s key="More YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time"/>
+  <s key="And one more time"/>
+  <s key="Press the 'LIVE' button to return to current time"/>
+  <s key="Watch weather with pleasure"/>
+  <s key="Disable Auto-Lock"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%."/>
+  <s key="More"/>
+  <s key="Parallax effect"/>
+  <s key="An illusion of 3D space when you tilt the device"/>
+  <s key="Temperature in Status Bar"/>
+  <s key="Show temperature for &quot;Home&quot; location"/>
+  <s key="Not enough free space."/>
+  <s key="YoWindow may run unstable."/>
+  <s key="{0} MB minimum required."/>
+  <s key="YoWindow Weather"/>
+  <s key="YoWindow Zero"/>
+  <s key="Get Full Version"/>
+  <s key="No ads, no limitations, all landscapes available"/>
+  <s key="No advertising"/>
+  <s key="Remove ads"/>
+  <s key="Weather forecast is limited"/>
+  <s key="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited."/>
+  <s key="Connecting to {0}"/>
+  <s key="Camera"/>
+  <s key="Photos"/>
+  <s key="Wallpaper"/>
+  <s key="Enable animations"/>
+  <s key="Show weather"/>
+  <s key="No animation - almost no battery power consumed."/>
+  <s key="Widget Settings"/>
+  <s key="Create Widget"/>
+  <s key="Tap to search for a location"/>
+  <s key="Show background"/>
+  <s key="Move On Top"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort"/>
+  <s key="Tap to continue"/>
+  <s key="YoWindow installed on an external storage."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)."/>
+  <s key="Location Search"/>
+  <s key="Redeem code"/>
+  <s key="Full Version privilege granted."/>
+  <s key="Advertising removed, no limitations."/>
+  <s key="Unexpected code"/>
+  <s key="Restore privileges"/>
+  <s key="Set As Wallpaper"/>
+  <s key="Post"/>
+  <s key="Enter the message"/>
+  <s key="Fill in the weather"/>
+  <s key="You just have posted to Facebook!"/>
+</body>

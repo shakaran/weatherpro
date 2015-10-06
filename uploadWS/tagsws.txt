@@ -1,0 +1,394 @@
+|pagename|tagsWS|!
+|version|3.00 2015-04-20 10:30:00|!
+        
+|date|                  20150603|!
+|time|                  21:35:00|!
+
+|fromtemp|              °C|!
+
+|tempAct|               16.2|!
+|tempDelta|             -1.7|!
+|tempArray|             18.9 18.9 18.8 18.8 18.8 18.8 18.8 18.7 18.6 18.4 18.2 18.1 17.9 17.8 17.7 17.6 17.4 17.3 17.2 17.1 16.9 16.8 16.7 16.5 16.2|! 
+
+|tempMinToday|          13.3|!
+|tempMinTodayTime|      20150603T05:30|!
+|tempMinMonth|          9.7|!
+|tempMinMonthTime|      20150601T06:05|!
+|tempMinYear|           -3.8|!
+|tempMinYearTime|       20150207T08:00|!
+
+|tempMaxToday|          23.0|!
+|tempMaxTodayTime|      20150603T03:05|!
+|tempMaxMonth|          23.0|!
+|tempMaxMonthTime|      20150603T03:05|!
+|tempMaxYear|           27.4|!
+|tempMaxYearTime|       20150511T16:10|!
+
+|dewpAct|               10.3|!
+|dewpDelta|             +0.0|!
+|dewpArray|             9.7 9.1 10.1 10.6 10.6 10.9 10.9 10.8 10.4 10.5 10.3 10.5 10.3 10.4 10.3 10.5 10.3 10.4 10.3 10.2 10.0 10.0 10.1 10.1 10.3|!
+
+|dewpMinToday|          8.1|!
+|dewpMinTodayTime|      20150603T00:00|!
+|dewpMinMonth|          0.0|!
+|dewpMinMonthTime|      20150601T00:00|!
+|dewpMinYear|           0.0|!
+|dewpMinYearTime|       20150101T00:00|!
+
+
+|dewpMaxToday|          14.7|!
+|dewpMaxTodayTime|      20150603T03:10|!
+|dewpMaxMonth|          0.0|!
+|dewpMaxMonthTime|      20150601T00:00|!
+|dewpMaxYear|           0.0|!
+|dewpMaxYearTime|       20150101T00:00|!
+
+|apptemp|               16.3|!
+
+|heatAct|               16.2|!
+
+
+|chilAct|               16.2|!
+|chilDelta|             -1.7|!
+
+|chilMinToday|          13.0|!
+|chilMinTodayTime|      20150603T08:05|!
+|chilMinMonth|          20.0|!
+|chilMinMonthTime|      20150603T20150603|!
+|chilMinYear|           27.4|!
+|chilMinYearTime|       20150511T20150511|!
+
+|chilMaxToday|          20.0|!
+|chilMaxTodayTime|      20150603T16:50|!
+
+|tempActInside|         21.8|!
+|tempActExtra1|         25.6|!
+|tempActExtra2|         0.0|!
+
+------------------------------------------extremetemp------------------------------
+|daysXHighMonth|        0|!
+|daysHighMonth|         0|!
+|daysLowMonth|          0|!
+|daysXLowMonth|         0|!
+|daysXHighYear|         0|!
+|daysHighYear|          2|!
+|daysLowYear|           23|!
+|daysXLowYear|          1|!
+------------------------------------------pressure/baro-----------------------------
+|frombaro|              hPa|!
+
+|baroAct|               1024.7|!
+|baroDelta|             +0.5|!
+|baroArray|             1023.6 1023.6 1023.8 1023.8 1023.8 1023.9 1023.8 1023.9 1024.0 1024.0 1024.0 1024.1 1024.2 1024.1 1024.2 1024.3 1024.3 1024.4 1024.4 1024.4 1024.4 1024.6 1024.6 1024.6 1024.7|! 
+
+|baroMinToday|          1012.5|!
+|baroMinTodayTime|      20150603T00:00|!
+|baroMinMonth|          1008.4|!
+|baroMinMonthTime|      20150602T05:20|!
+|baroMinYear|           971.9|!
+|baroMinYearTime|       20150129T22:15|!
+
+|baroMaxToday|          1024.7|!
+|baroMaxTodayTime|      20150603T21:35|!
+|baroMaxMonth|          1023.4|!
+|baroMaxMonthTime|      20150603T20150603|!
+|baroMaxYear|           1040.5|!
+|baroMaxYearTime|       2015021809:00|!
+------------------------------------------humidity-----------------------------------
+|humiAct|               68|!
+|humiDelta|             +7|!
+|humArray|              55 53 57 59 59 60 60 60 59 60 60 61 61 62 62 63 63 64 64 64 64 64 65 66 68|! 
+
+|humiMinToday|          51|!
+|humiMinTodayTime|      20150603T15:35 
+|humiMinMonth|          46|!
+|humiMinMonthTime|      20150601T14:45|!
+|humiMinYear|           28|!
+|humiMinYearTime|       20150410T17:40|!
+
+|humiMaxToday|          90|!
+|humiMaxTodayTime|      20150603T03:30|!
+|humiMaxMonth|          94|!
+|humiMaxMonthTime|      20150601T20150601|!
+|humiMaxYear|           98|!
+|humiMaxYearTime|       2015012608:25|!
+
+|humiInAct|             49|!
+|humiExtra1|            0|!
+|humiExtra2|            0|!
+------------------------------------------rain---------------------------------------
+|fromrain|              mm|!
+
+|rainArray|             0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0|! 
+
+|rainRateAct|           0.0|!
+|rainRateToday|         0.0|!
+|lastRained|            08:35  03-06-2015|!
+
+|rainToday|             0.8|!
+|rainHour|              0.0|!
+|rainWeek|              1.6|!
+|rainMonth|             0.0|!
+|rainYear|              206.2|!
+
+|rainDayMnth|           2|!
+|rainDayYear|           84|!
+|rainDaysWithNo|        0|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|               0.000|!
+|etMonth|               0.000|!
+|etYear|                0.000|!
+------------------------------------------wind---------------------------------------
+|fromwind|              km/h|!
+
+|windAct|               0.0|!
+|windActDsc|            286|!
+
+|windArray|             0.5 0.5 0.7 0.5 0.3 0.4 0.2 0.3 0.2 0.0 0.1 0.3 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0|!
+|gustArray|             2.6 3.5 3.5 2.6 2.6 1.7 1.7 1.7 1.7 0.9 1.7 2.6 1.7 0.9 0.9 0.9 0.0 0.0 0.0 0.9 0.0 0.0 0.0 0.0 0.0|!
+|windDircArray|         318 219 274 103 355 326 56 56 299 333 311 58 286 286 286 286 286 286 286 286 286 286 286 286 286|!
+
+|windAvgDir|            225|!
+
+|gustAct|               0.0|!
+
+|gustMaxToday|          27.4|!
+|gustMaxTodayTime|      20150603T01:35|!
+|gustMaxMonth|          33.8|!
+|gustMaxMonthTime|      20150602T18:15|!
+|gustMaxYear|           48.3|!
+|gustMaxYearTime|       20150331T04:25|!
+
+|------------------------------------------UV---------------------------------------
+|uvAct|                 0.0|!
+|uvArray|               0.5 0.4 0.0 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0|!
+
+|uvMaxToday|            5.6|!
+|uvMaxTodayTime|        20150603T13:10|!
+|uvMaxMonth|            5.6|!
+|uvMaxMonthTime|        20150603T13:10|!
+|uvMaxYear|             6.0|!
+|uvMaxYearTime|         20150518T13:40|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|              10|!
+|solarActPerc|          ?|!
+|solarArray|            242 224 121 236 222 182 129 140 102 96 58 87 71 54 46 39 36 32 27 23 19 17 14 12 10|!
+
+|solarMaxToday|         1101|!
+|solarMaxTodayTime|     20150603T13:10|!
+|solarMaxMonth|         1101|!
+|solarMaxMonthTime|     20150603T13:10|!
+|solarMaxYear|          1136|!
+|solarMaxYearTime|      20150520T13:25|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|m|!
+|cloudHeight|910|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt2|              unstable|!
+|fcstTxt1|              Gedeeltelijk bewolkt met weinig temp. verandering. |!
+|fcstTxt|               Partly cloudy with little temp. change. |!
+|------------------------------------------moon---------------------------------------
+|moonrise|              22:23|!
+|moonset|               06:25|!
+|lunarPhasePerc|        98|!
+|lunarAge|              15 dagen, 22 uren, 8 minuten|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|             2.97.13|!
+
+|---------soil: temp 13-16  moist 29-32 leaf temp 9-12 wetness 25-28 ------------------
+|fromsoiltemp|                  °C|!
+
+
+|soilTempAct[1]|                13.3|!
+|soilTempMax24h[1]|             13.3|!
+|soilTempMax24hTime[1]|         20150603T22:00|!
+
+|soilTempMaxToday[1]|           13.3|!
+|soilTempMaxTodayTime[1]|       20150603T00:00|!
+|soilTempMaxMonth[1]|           13.3|!
+|soilTempMaxMonthTime[1]|       20150601T19:20|!
+|soilTempMaxYear[1]|            14.4|!
+|soilTempMaxYearTime[1]|        20150511T20:30|!
+
+|soilTempMin24h[1]|             13.3|!
+|soilTempMin24hTime[1]|         20150603T22:00|!
+|soilTempMinToday[1]|           13.3|!
+|soilTempMinTodayTime[1]|       20150603T00:00|!
+|soilTempMinMonth[1]|           12.2|!
+|soilTempMinMonthTime[1]|       20150602T11:25|!
+|soilTempMinYear[1]|            1.7|!
+|soilTempMinYearTime[1]|        20150206T09:25|!
+
+|fromsoilmoist|         cb|!
+|moistAct[1]|           39|!
+|moistMax24h[1]|        39|!
+|moistMax24hTime[1]|    20150603T18:35|!
+|moistMaxToday[1]|      39|!
+|moistMaxTodayTime[1]|  20150603T18:35|!
+|moistMaxMonth[1]|      39|!
+|moistMaxMonthTime[1]|  20150603T18:35|!
+|moistMaxYear[1]|       40|!
+|moistMaxYearTime[1]|   20150529T00:10|!
+|moistMin24h[1]|        38|!
+|moistMin24hTime[1]|    20150603T22:00|!
+|moistMinToday[1]|      38|!
+|moistMinTodayTime[1]|  20150603T00:00|!
+|moistMinMonth[1]|      37|!
+|moistMinMonthTime[1]|  20150601T00:00|!
+|moistMinYear[1]|       12|!
+|moistMinYearTime[1]|   20150101T00:00|!
+|--------------------------- soil temp 2 = 14  soilmoist 2 = 30
+|soilTempAct[2]|                12.8|!
+|soilTempMax24h[2]|             12.8|!
+|soilTempMax24hTime[2]|         20150603T22:00|!
+
+|soilTempMaxToday[2]|           12.8|!
+|soilTempMaxTodayTime[2]|       20150603T00:00|!
+|soilTempMaxMonth[2]|           12.8|!
+|soilTempMaxMonthTime[2]|       20150601T00:00|!
+|soilTempMaxYear[2]|            13.3|!
+|soilTempMaxYearTime[2]|        20150512T17:15|!
+
+|soilTempMin24h[2]|             12.8|!
+|soilTempMin24hTime[2]|         20150603T22:00|!
+|soilTempMinToday[2]|           12.8|!
+|soilTempMinTodayTime[2]|       20150603T00:00|!
+|soilTempMinMonth[2]|           12.8|!
+|soilTempMinMonthTime[2]|       20150601T00:00|!
+|soilTempMinYear[2]|            2.8|!
+|soilTempMinYearTime[2]|        20150206T15:10|!
+
+|fromsoilmoist|         cb|!
+|moistAct[2]|           29|!
+|moistMax24h[2]|        29|!
+|moistMax24hTime[2]|    20150603T22:00|!
+|moistMaxToday[2]|      29|!
+|moistMaxTodayTime[2]|  20150603T00:00|!
+|moistMaxMonth[2]|      29|!
+|moistMaxMonthTime[2]|  20150601T18:55|!
+|moistMaxYear[2]|       29|!
+|moistMaxYearTime[2]|   20150528T17:05|!
+|moistMin24h[2]|        29|!
+|moistMin24hTime[2]|    20150603T22:00|!
+|moistMinToday[2]|      29|!
+|moistMinTodayTime[2]|  20150603T00:00|!
+|moistMinMonth[2]|      28|!
+|moistMinMonthTime[2]|  20150601T00:00|!
+|moistMinYear[2]|       14|!
+|moistMinYearTime[2]|   20150326T21:00|!
+|--------------------------- soil temp 3 = 15  soilmoist 3 = 31
+|soilTempAct[3]|                0.0|!
+|soilTempMax24h[3]|             0.0|!
+|soilTempMax24hTime[3]|         20150603T22:00|!
+
+|soilTempMaxToday[3]|           0.0|!
+|soilTempMaxTodayTime[3]|       20150603T00:00|!
+|soilTempMaxMonth[3]|           0.0|!
+|soilTempMaxMonthTime[3]|       20150601T00:00|!
+|soilTempMaxYear[3]|            0.0|!
+|soilTempMaxYearTime[3]|        20150101T00:00|!
+
+|soilTempMin24h[3]|             0.0|!
+|soilTempMin24hTime[3]|         20150603T22:00|!
+|soilTempMinToday[3]|           0.0|!
+|soilTempMinTodayTime[3]|       20150603T00:00|!
+|soilTempMinMonth[3]|           0.0|!
+|soilTempMinMonthTime[3]|       20150601T00:00|!
+|soilTempMinYear[3]|            0.0|!
+|soilTempMinYearTime[3]|        20150101T00:00|!
+
+|fromsoilmoist|         cb|!
+|moistAct[3]|           0|!
+|moistMax24h[3]|        0|!
+|moistMax24hTime[3]|    20150603T22:00|!
+|moistMaxToday[3]|      0|!
+|moistMaxTodayTime[3]|  20150603T00:00|!
+|moistMaxMonth[3]|      0|!
+|moistMaxMonthTime[3]|  20150601T00:00|!
+|moistMaxYear[3]|       0|!
+|moistMaxYearTime[3]|   20150101T00:00|!
+|moistMin24h[3]|        0|!
+|moistMin24hTime[3]|    20150603T22:00|!
+|moistMinToday[3]|      0|!
+|moistMinTodayTime[3]|  20150603T00:00|!
+|moistMinMonth[3]|      0|!
+|moistMinMonthTime[3]|  20150601T00:00|!
+|moistMinYear[3]|       0|!
+|moistMinYearTime[3]|   20150101T00:00|!
+|--------------------------- soil temp 4 = 16  soilmoist 4 = 32
+|soilTempAct[4]|                13.3|!
+|soilTempMax24h[4]|             28.9|!
+|soilTempMax24hTime[4]|         20150603T16:45|!
+
+|soilTempMaxToday[4]|           28.9|!
+|soilTempMaxTodayTime[4]|       20150603T16:45|!
+|soilTempMaxMonth[4]|           28.9|!
+|soilTempMaxMonthTime[4]|       20150603T16:45|!
+|soilTempMaxYear[4]|            35.6|!
+|soilTempMaxYearTime[4]|        20150511T17:15|!
+
+|soilTempMin24h[4]|             12.8|!
+|soilTempMin24hTime[4]|         20150603T03:55|!
+|soilTempMinToday[4]|           12.8|!
+|soilTempMinTodayTime[4]|       20150603T03:55|!
+|soilTempMinMonth[4]|           8.9|!
+|soilTempMinMonthTime[4]|       20150601T03:15|!
+|soilTempMinYear[4]|            -5.6|!
+|soilTempMinYearTime[4]|        20150207T07:55|!
+
+|fromsoilmoist|         cb|!
+|moistAct[4]|           0|!
+|moistMax24h[4]|        0|!
+|moistMax24hTime[4]|    20150603T22:00|!
+|moistMaxToday[4]|      0|!
+|moistMaxTodayTime[4]|  20150603T00:00|!
+|moistMaxMonth[4]|      0|!
+|moistMaxMonthTime[4]|  20150601T00:00|!
+|moistMaxYear[4]|       0|!
+|moistMaxYearTime[4]|   20150101T00:00|!
+|moistMin24h[4]|        0|!
+|moistMin24hTime[4]|    20150603T22:00|!
+|moistMinToday[4]|      0|!
+|moistMinTodayTime[4]|  20150603T00:00|!
+|moistMinMonth[4]|      0|!
+|moistMinMonthTime[4]|  20150601T00:00|!
+|moistMinYear[4]|       0|!
+|moistMinYearTime[4]|   20150101T00:00|!
+
+|--------------------------- 
+|fromleafwetness|       lf|!
+
+|leafTempAct[1]|13.3|!
+|leafTempAct[2]|12.8|!
+|leafTempAct[3]|--|!
+|leafTempAct[4]|--|!
+
+|leafWetAct[1]|0|!
+|leafWetAct[2]|0|!
+|leafWetAct[3]|--|!
+|leafWetAct[4]|--|!
+
+
+|leafWetMaxToday[1]|14|!
+|leafWetMaxToday[2]|0|!
+|leafWetMaxToday[3]|--|!
+|leafWetMaxToday[4]|--|!
+
+|leafWetMinToday[1]|0|!
+|leafWetMinToday[2]|0|!
+|leafWetMinToday[3]|--|!
+|leafWetMinToday[4]|--|!
+
+|leafWetMaxTodayTime[1]|   20150603T03:40|!
+|leafWetMaxTodayTime[2]|   20150603T00:00|!
+|leafWetMaxTodayTime[3]|   20150603T--|!
+|leafWetMaxTodayTime[4]|   20150603T--|!
+
+|leafWetMinTodayTime[1]|   20150603T00:00|!
+|leafWetMinTodayTime[2]|   20150603T00:00|!
+|leafWetMinTodayTime[3]|   20150603T--|!
+|leafWetMinTodayTime[4]|   20150603T--|!
+
+<!-- %openfile=tags.wswin.txt% -->

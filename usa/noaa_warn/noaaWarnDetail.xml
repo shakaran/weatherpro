@@ -1,0 +1,205 @@
+<?xml version = '1.0' encoding = 'UTF-8' standalone = 'yes'?>
+<?xml-stylesheet href='http://alerts.weather.gov/cap/capatomproduct.xsl' type='text/xsl'?>
+
+<!--
+This atom/xml feed is an index to active advisories, watches and warnings 
+issued by the National Weather Service.  This index file is not the complete 
+Common Alerting Protocol (CAP) alert message.  To obtain the complete CAP 
+alert, please follow the links for each entry in this index.  Also note the 
+CAP message uses a style sheet to convey the information in a human readable 
+format.  Please view the source of the CAP message to see the complete data 
+set.  Not all information in the CAP message is contained in this index of 
+active alerts.
+-->
+
+<alert xmlns = 'urn:oasis:names:tc:emergency:cap:1.1'>
+<!-- http-date = Sat, 18 Jul 2015 03:31:00 GMT -->
+<identifier>NOAA-NWS-ALERTS-OR1253B463ECCC.HeatAdvisory.1253B4828C40OR.PQRNPWPQR.da8e2f96733bfc2193bd065fed3dbaf8</identifier>
+<sender>w-nws.webmaster@noaa.gov</sender>
+<sent>2015-07-17T20:31:00-07:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<note>Alert for Cascade Foothills in Lane County; Central Coast Range of Western Oregon; Central Columbia River Gorge; Central Willamette Valley; Coast Range of Northwest Oregon; Greater Portland Metro Area; Lower Columbia; Northern Oregon Cascade Foothills; South Willamette Valley; Upper Hood River Valley; Western Columbia River Gorge (Oregon) Issued by the National Weather Service</note>
+<info>
+<category>Met</category>
+<event>Heat Advisory</event>
+<urgency>Expected</urgency>
+<severity>Minor</severity>
+<certainty>Likely</certainty>
+<eventCode>
+<valueName>SAME</valueName>
+<value></value>
+</eventCode>
+<effective>2015-07-17T20:31:00-07:00</effective>
+<expires>2015-07-19T21:00:00-07:00</expires>
+<senderName>NWS Portland (Northwest Oregon and Southwest Washington)</senderName>
+<headline>Heat Advisory issued July 17 at 8:31PM PDT until July 19 at 9:00PM PDT by NWS Portland</headline>
+<description>...HEAT ADVISORY IN EFFECT FROM NOON SATURDAY TO 9 PM PDT
+SUNDAY FOR MUCH OF THE INTERIOR LOWLANDS IN NORTHWEST OREGON AND
+SOUTHWEST WASHINGTON INCLUDING THE COAST RANGE AND CASCADE
+FOOTHILLS...
+THE NATIONAL WEATHER SERVICE IN PORTLAND HAS ISSUED A HEAT
+ADVISORY...WHICH IS IN EFFECT FROM NOON SATURDAY TO 9 PM PDT
+SUNDAY.
+* HIGH TEMPERATURES: AFTER A PERIOD OF NEAR NORMAL HIGH
+TEMPERATURES...EXPECT TEMPERATURES IN THE MID TO UPPER 90S FOR
+SATURDAY...AND LOW TO MID 90S SUNDAY ACROSS THE INLAND VALLEYS
+AND CASCADE FOOTHILLS. HOTTEST TIME OF THE DAY WILL BE 1 PM TO
+6 PM BOTH AFTERNOONS.
+* LOW TEMPERATURES: GENERALLY IN THE UPPER 50S AND MID 60S.
+* TIMING: TEMPERATURES WILL STAY IN THE 90S BOTH SATURDAY AND
+SUNDAY...WITH SATURDAY BEING THE HOTTEST DAY OF THE WEEKEND.
+THIS WILL BE A SHORT DURATION EVENT...WITH TEMPERATURES
+RETURNING NEAR NORMAL OR JUST ABOVE NORMAL BY MONDAY.
+* LOCATIONS INCLUDE: VANCOUVER...BATTLE GROUND...WASHOUGAL...
+EUGENE...SPRINGFIELD...CORVALLIS...ALBANY...VERNONIA...
+SALEM...MCMINNVILLE...SANDY...ESTACADA...SWEET HOME...
+HILLSBORO...PORTLAND...OREGON CITY...GRESHAM...ST. HELENS...
+VENETA...TOUTLE...ARIEL...LAKE MERWIN...COUGAR...ODELL...
+COTTAGE GROVE...LONGVIEW...KELSO
+* IMPACTS: TAKE CARE NOT TO OVER EXERT DURING THE HEAT OF THE
+DAY...AND TO STAY HYDRATED WITH CLEAR LIQUIDS. AUTOMOBILES
+CAN HEAT UP RAPIDLY TO TEMPERATURES HARMFUL OR EVEN DEADLY
+TO PETS AND CHILDREN. USE CAUTION NEAR AREA RIVERS...BE
+WATER SMART... WEAR A LIFE JACKET AND USE GOOD JUDGMENT.</description>
+<instruction>TAKE EXTRA PRECAUTIONS IF YOU WORK OR SPEND TIME OUTSIDE. WHEN
+POSSIBLE...RESCHEDULE STRENUOUS ACTIVITIES TO EARLY MORNING OR
+EVENING. KNOW THE SIGNS AND SYMPTOMS OF HEAT EXHAUSTION AND HEAT
+STROKE. WEAR LIGHT WEIGHT AND LOOSE FITTING CLOTHING WHEN
+POSSIBLE AND DRINK PLENTY OF WATER.
+TO REDUCE RISK DURING OUTDOOR WORK THE OCCUPATIONAL SAFETY AND
+HEALTH ADMINISTRATION RECOMMENDS SCHEDULING FREQUENT REST BREAKS
+IN SHADED OR AIR CONDITIONED ENVIRONMENTS. ANYONE OVERCOME BY
+HEAT SHOULD BE MOVED TO A COOL AND SHADED LOCATION. HEAT STROKE
+IS AN EMERGENCY...CALL 9 1 1.</instruction>
+<parameter>
+<valueName>WMOHEADER</valueName>
+<value></value>
+</parameter>
+<parameter>
+<valueName>UGC</valueName>
+<value>ORZ003>008-010-012-014>016-WAZ020-022-039-040-045-046</value>
+</parameter>
+<parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KPQR.HT.Y.0005.150718T1900Z-150720T0400Z/</value>
+</parameter>
+<parameter>
+<valueName>TIME...MOT...LOC</valueName>
+<value></value>
+</parameter>
+<area>
+<areaDesc>Cascade Foothills in Lane County; Central Coast Range of Western Oregon; Central Columbia River Gorge; Central Willamette Valley; Coast Range of Northwest Oregon; Greater Portland Metro Area; Lower Columbia; Northern Oregon Cascade Foothills; South Willamette Valley; Upper Hood River Valley; Western Columbia River Gorge</areaDesc>
+<polygon></polygon>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041003</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041005</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041007</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041009</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041011</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041027</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041039</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041041</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041043</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041047</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041051</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041053</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041057</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041059</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041067</value>
+</geocode>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041071</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ003</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ004</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ005</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ006</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ007</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ008</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ010</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ012</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ014</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ015</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ016</value>
+</geocode>
+</area>
+</info>
+</alert>

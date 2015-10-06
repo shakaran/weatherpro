@@ -1,0 +1,30 @@
+Solar Radiation/UV Index since yesterday
+format 
+language 0
+tf_mode 1
+last_num 2
+last_ind 2
+tr_ind 0
+crop 0
+xsize 610
+ysize 300
+fontsize 7
+dspmode 0
+left_unit 8
+right_unit 6
+left_measure 0
+left_measuremin 
+left_measuremax 
+right_measure 0
+right_measuremin 
+right_measuremax 
+left_gmode 0
+right_gmode 0
+left_sensors 1
+left_sensor-0 SENSORSOLAR (solar)
+left_sensorcolor-0 16711680
+left_sensorname-0 Solar
+right_sensors 1
+right_sensor-0 SENSORUV (Uv)
+right_sensorcolor-0 39168
+right_sensorname-0 UV

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Atcelt"/>
+  <s key="Change" value="Apmainīt"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Laikapstākļi no {0}, pēc Norvēģijas Meteoroloģijas Institūta datiem.(MET.no)"/>
+  <s key="Forecast from {0}" value="Prognoze no {0}"/>
+  <s key="Friday" value="Piektdiena"/>
+  <s key="Monday" value="Pirmdiena"/>
+  <s key="Saturday" value="Sestdiena"/>
+  <s key="Sunday" value="Svētdiena"/>
+  <s key="Thursday" value="Ceturdiena"/>
+  <s key="Tuesday" value="Otrdiena"/>
+  <s key="Wednesday" value="Trešdiena"/>
+  <s key="Fr" value="Pk"/>
+  <s key="Mo" value="Pr"/>
+  <s key="Sa" value="Se"/>
+  <s key="Su" value="Sv"/>
+  <s key="Th" value="Ce"/>
+  <s key="Tu" value="Ot"/>
+  <s key="We" value="Tr"/>
+  <s key="LIVE" value="Šobrīd"/>
+  <s key="Loading" value="Lejupielāde"/>
+  <s key="April" value="Aprīlis"/>
+  <s key="August" value="Augusts"/>
+  <s key="December" value="Decembris"/>
+  <s key="February" value="Februāris"/>
+  <s key="January" value="Janvāris"/>
+  <s key="July" value="Jūlijs"/>
+  <s key="June" value="Jūnijs"/>
+  <s key="March" value="Marts"/>
+  <s key="May" value="Maijs"/>
+  <s key="November" value="Novembris"/>
+  <s key="October" value="Oktobris"/>
+  <s key="September" value="Septembris"/>
+  <s key="Network error" value="Tīkla kļūda"/>
+  <s key="No weather" value="Laika ziņu nav"/>
+  <s key="Retry" value="Atkārtot"/>
+  <s key="Tomorrow" value="Rītdien"/>
+  <s key="Updating weather" value="Laika ziņas atjaunojas"/>
+  <s key="Please wait..." value="Lūdzu gaidiet..."/>
+  <s key="Weather expired" value="Laika ziņas novecojušas"/>
+  <s key="Loading" value="Lejupielāde"/>
+</body>

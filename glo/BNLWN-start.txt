@@ -1,0 +1,18 @@
+# bootstrap file for regional mesonet script
+# "BNLWN":{"name":"Benelux Weather Network","url":"http://www.beneluxweather.net/","short":"Benelux","region":"Europe","units":"C,kmh,hPa,mm,m"},
+#
+MESO			|BNLWN|
+MESO_LONG		|Benelux Weather Network|
+MESO_SHORT		|Benelux|
+MESO_AREA		|Belgium, Netherlands, Luxembourg|
+MESO_REGION		|Europe|
+MESO_URL		|http://www.beneluxweather.net/| # the website for visitors|
+#
+MESO_FILES_LOCATION	|http://www.beneluxweather.net/| # for the control files !
+MESO_CHARSET		|UTF-8|				 # char set used in the control files
+#
+MESO_CONTROL_FILE	|BNLWN-stations-cc.txt|
+MESO_CONTROL_TYPE	|txt|
+MESO_CONDITIONS		|BNLWN-conditions.txt|
+MESO_CONDITIONS_TYPE	|txt|
+MESO_UNITS		|C,kmh,hPa,mm,m|

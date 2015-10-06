@@ -1,0 +1,103 @@
+<?php
+if (!isset($SITE)){
+	header ("Location: ../index.php");	// back to index/startpage if someone tries an
+	exit;  								//  page to load without menu system//
+}
+$pageName		= 'partners_fr.txt';
+$pageVersion	= '1.01 2012-06-10';
+$SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {
+	$SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName;
+}
+echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_EOL;
+#-------------------------------------------------------------------------------------------------
+
+$partnersTxt = <<<EOT
+<p>In the world of weather stations there is a lot of cooperation and exchange of information. 
+Below follows a (not exhaustive) list of commercial organizations and associations where this Weather Station cooperates with. </p>
+<p>The following list is strictly random. 
+The first word of each paragraph connects (if possible) to the page on their website with our data. 
+The main website can be reached by clicking on the logo.</p>
+EOT;
+$name = 'wow';	
+$arrPartners[$name]['text']		= <<<EOT
+- The 'Weather Observations Website' reflects recent advances in technology and how weather observations can be made. 
+At the same time, the growing world of social networking online makes it relatively easy for anyone to get involved and share their weather observations. 
+The Met Office is helping to co-ordinate the growth of the weather observing community in the UK, by asking anyone to submit the observations they are taking. 
+This can be done using all levels of equipment, so there are no cost restrictions.
+EOT;
+$name = 'meso';
+$arrPartners[$name]['text']		= <<<EOT
+ The Benelux Weather Network is an affiliation of personal weather Websites located in Benelux countries (Belgium, Netherlands, Luxembourg). <br />
+This station is proud to be a member of the BNLWN network.
+EOT;
+$name = 'hwa';	
+$arrPartners[$name]['text']		= <<<EOT
+What is the current weather at the moment? 
+How much rainfall is there today in my hometown? Was there frost the night? 
+What was the maximum temperature today in my hometown? Just a few questions about the weather that are asked every day in nearly every household. 
+Chances are that you also have those questions. Hetweeractueel.nl answers all these questions. 
+Besides the <a href="http://www.hetweeractueel.nl/" target="_blank">weatherconditions</a> of all cooperating weather stations, you will also find a comprehensive weather forecast. 
+The data also lends itself to a <a href="http://www.hetweeractueel.nl/actueel-temperatuur-kaartje" target="_blank">current temperature</a> map.
+EOT;
+$name = 'awekas';
+$arrPartners[$name]['text']		= <<<EOT
+is an acronym for <span style="color: #0000FF;">A</span>utomatisches <span style="color: #0000FF;">WE</span>tter<span style="color: #0000FF;">KA</span>rten <span style="color: #0000FF;">S</span>ystem
+(= automatic weather map system) and is, as the name suggests, a system which produces overview maps from the weather data provided by participating private weather stations.
+<br /> 
+The data is made available to AWEKAS by the weather station operators who upload a small text or CSV file to their own website. 
+AWEKAS then collects this data automatically, and processes it to provide up to date maps.
+<br /> 
+AWEKAS works automatically and provides every second current maps about temperature, wind, precipitation, barometric pressure, 
+and maps with current weather conditions and weather warnings.
+<br />
+If you want to participate to the AWEKAS project, it is obviously entirely free.
+EOT;
+$name = 'weatherlink';
+$arrPartners[$name]['text']		= <<<EOT
+is the new, FREE and simple way to post data from your Davis weather station directly to the Internet without a PC.
+Simply plug the data logger into the back of your Vantage Pro console, Vantage Pro2 console or Weather Envoy and your cable/DSL router.
+Within minutes, you'll be able to see your weather data live on the Internet!
+<br />
+WeatherLinkIP lets you:<br />
+<ul><li>
+Automatically upload data to third-party weather sites including CWOP (Citizen Weather Observer Program), the GLOBE Program, and more.
+</li><li>
+Get e-mail alerts of current weather conditions or simple alarm conditions.
+</li><li>
+Download the data to your PC for all the powerful charting, graphing, and analysis as our standard WeatherLink.
+</li></ul>
+EOT;
+$name = 'wu';
+$arrPartners[$name]['text']		= <<<EOT
+ is probably the &quot;most well known&quot; cooperation between personal weather stations. 
+Originally from the USA but they is now providing free, real-time online weather information to millions of Web users around the world
+They are  committed to delivering the most reliable, accurate weather information possible. Their state-of-the-art technology monitors conditions and forecasts for locations across the world.<br />
+A big advantage is that your own weather data can be easily compared with other similar weather stations.
+EOT;
+$name = 'cwop';	
+$arrPartners[$name]['text']		= <<<EOT
+ s a group of ham radio operators and other private citizens mostly around the USA that have volunteered the use of their weather data
+for education, research and use by interested parties.<br />
+It is a public-private partnership with three main goals:<br />
+<ul><li>to collect weather data contributed by citizens; 
+</li><li>to make these data available for weather services and homeland security; and 
+</li><li>to provide feedback to the data contributors so that they have the tools to check and improve their data quality.
+</li></ul><br />
+In fact, the web address, wxqa.com, stands for weather quality assurance.
+EOT;
+$name = 'pws';	
+$arrPartners[$name]['text']		= <<<EOT
+is a group of companies providing millions of forecasts through the main site every month, 
+images (or Weather Snapshots) for tens of thousands of web sites around the world and full custom-branded weather pages for other web sites designed to match their look.  
+Over ten thousand stations are now registered to participate in the personal weather station program, now known as PWSweather.com.
+EOT;
+$name = 'wp24';
+$arrPartners[$name]['text']		= <<<EOT
+
+EOT;
+$name = 'anWe';
+$arrPartners[$name]['text']		= <<<EOT
+EOT;
+?>

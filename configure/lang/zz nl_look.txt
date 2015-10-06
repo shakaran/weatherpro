@@ -1,0 +1,223 @@
+|conf-default_text|De standaardwaarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet.
+|conf-WXsoftware|Wat weer-programma gebruikt u:
+|conf-region|Selecteer het deel van de wereld voor de locatie van uw weerstation:
+|conf-organ|De naam van uw weerstation zonder speciale tekens:
+|conf-wlink_key|Als gebruiker van Davis Weatherlink.com heb je een sleutel toegang tot uw gegevens
+|conf-wlink_pw|En een wachtwoord dat u gebruikt om instellingen in het weeatherlink.com plaats & lt ingesteld; br />. Dat wachtwoord wordt daarom gebruikt om uw gegevens te laden in de weer-template om de 5 minuten
+|conf-yourArea|Een relatieve korte naam voor het gebied / regio uw weerstation is in de <br /> Het zal worden weergegeven op elke pagina header en op de prognose pagina's ..
+|conf-latitude|Latitude (en NextField lengtegraad) worden waarschijnlijk dus opgegeven in uw Weatherprogram en worden hier gebruikt voor Earthquake rapporten, Sterrenkunde en prognoses <br />. Voorbeeld: 50,8500 is voor Leuven in België en 41,30068 is voor Brand Ford CT, USA. <br /> Ten noorden van de evenaar is positief (= geen teken). Ten zuiden van de evenaar heeft een - teken.
+|conf-longitude|Voor breedtegraden links van Greenwich een - teken nodig is. <br /> Voorbeeld: 4,3400 is voor Leuven in België en-72,793671 is voor Brand Ford CT, USA.
+|conf-tz|Selecteer uw tijdzone uit de keuzelijst
+|conf-WUregion|Selecteer uw regio voor de Wunderground regionale kaarten
+|conf-radarStation|Gebruik de onderstaande knop. Standaard is de kaart VS wordt getoond. Voor Canadese stations, zie hieronder. Selecteer uw regio door te klikken op de kaart, niet de bezielde knop niet gebruiken op dit moment. Voorbeeld je aankomt op pagina <br /> <a href = "http://www.wunderground.com/weather-radar/united-states-regional/nc/charlotte" target = "_ blank"> &lt;b>&lt;small>http://www.wunderground.com/weather-radar/united-states-regional/nc/charlotte&lt;/small>&lt;/b>&lt;/a>&lt;br /> Ga naar een van de radars (blauwe ronde gebied) bijvoorbeeld bij Jacksonville en een ronde met de naam van het station (Morehead) en de drie lettercode (MHX voor dit voorbeeld) Verschijnt <br /> <br /> Voor Canada moet je eerst naar Canada in de onderstaande "Weer radarkaarten" links te selecteren. Klik vervolgens op het witte <b> + </ b> -tekens te komen op uw WU radarstation. De 3-lettercode in de browser adresregel.
+|conf-caProvince|Selecteer uw provincie hier.
+|conf-caCityCode|Selecteer dichtstbijzijnde stad. De selectie Hier is Engels namen alleen maar Franse schepen wordt gebruikt in de scripts uitvoeren wanneer nodig.
+|conf-caAQHI|Wilt u een air-quility Health Index Weergegeven. Controleer in de lijst hieronder als er te indexeren eerst zoeken naar uw omgeving.
+|conf-aqhiArea|Selecteer dichtstbijzijnde stad. De selectie Hier is Engels namen alleen maar Franse schepen wordt gebruikt in de scripts uitvoeren wanneer nodig.
+|conf-lang|De standaardtaal (dat is voor het eerst getoond) voor uw website.
+|conf-METAR|De "METAR" code kan worden gebruikt om de huidige verkrijgen weersomstandigheden en als anders niet beschikbaar te almanak gegevens te verkrijgen voor uw gebied. <br /> Gebruik Google naar de dichtstbijzijnde METAR om uw stad te vinden.
+|conf-yaPlaceID|De beste oplossing voor die de huidige omstandigheden te verkrijgen is om Yahoo te gebruiken. . Voor dat je nodig hebt een Yahoo ID City <br /> <b> HOE </ b>: Ga naar de Yahoo website en doe een zoektocht naar Leuven, instemmen met de voorgestelde <b lt> "Leuven, Vlaams Brabant, BE" &; / b> en zie je de volgende regel in uw browser adresveld: <br /> https://weather.yahoo.com/belgium/vlaams-brabant/leuven-973505/ <br /> Het nummer 973505 is het yahoo id plek voor Leuven. U kunt een soortgelijke aanpak wordt gebruikt om uw eigen ID en je moet het plaatst in de instelling.
+|conf-curCondFrom|Selecteer de bron van de huidige omstandigheden te krijgen van.
+|conf-pageWidth|Pagina-width: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|conf-menuWidth|Menu-width: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|conf-menuPlace|Het menu kan worden gebracht hetzij verticale links (standaard) of net onder de header.
+|conf-maintenanceShow|De gele box kan worden getoond of verborgen met behulp van deze instelling.
+|conf-maintenanceTxt|<span style = "float: left;"> uit de programmer: </ span> <br /> Ik gebruik deze gele doos, zodat voor informatie over de nieuwe pagina's toegevoegd of voor een waarschuwing dat bepaalde pagina's worden tijdelijk uitgeschakeld vanwege problemen met een prognose-organisatie. <br /> Ofwel passen de standaardtekst evry tijd of het gebruik van meerdere tekstbestanden.
+|conf-header|De standaard selectie is het weer waarden weergegeven met behulp van de meters van de <br />. De volgende keuze toont de belangrijkste waarden in het weer altijd zichtbaar tekstblok. <br> De laatste keuze heeft de minste hoeveelheid ruimte als het gebruik maakt van een roterende lijn om alle waarden weer te geven.
+|conf-colorNumber|Default de kleur-stijl is ingesteld op "-weather Aangepast" zo ook het actuele weer-omstandigheden worden gebruikt om de back-gemalen beeld en de kleur-regeling in te stellen.
+|conf-sideDisplay|Als u de standaard geselecteerde verticale menu van de side display is altijd Ongeacht de instelling hier getoond.
+|conf-bottomDysplay|The-gebied kant en bottom-gebied kan worden gebruikt om interessante links weer te geven
+|conf-bannerTop|Als u wilt zetten wat toevoegt of aanvullende informatie over de bovenkant van de pagina
+|conf-bannerTopTxt|Gebruik dit bestand of typ de locatie van uw eigen bestand
+|conf-bannerBottom|Als u wilt zetten wat toevoegt of aanvullende informatie aan de onderkant van de pagina
+|conf-bannerBottomTxt|Gebruik dit bestand of typ de locatie van uw eigen bestand
+|conf-stripAll|De verschillende pagina's van het sjabloon kan worden ingeroepen van binnen de Joomla menu dat is een standaard installatie van Joomla. Met "stripAll" ingesteld op true zal er geen koptekst, voettekst en nee en geen Side Area getoond. De horizontale menu wordt gebruikt.
+|conf-stripMenu|Met "stripMenu" ingesteld op true, het menu is niet zo getoond.
+|conf-langFlags|Standaard zijn er kleine land vlaggen getoond naast de taalkeuze <br />. Schakel de weergave van de scriptie kleine vlaggen hier.
+|conf-partners|Partners Organisaties zijn u weer informatie te uploaden, bijvoorbeeld "Weather Underground". Hier kiest u of en waar u informatie wilt over proefschrift bedrijven weer te geven.
+|conf-equipment|Wilt u en waar u informatie over de computer, Weatherprogram, webhost u gebruikt om uw website weer draaien weer te geven.
+|conf-otherWS|De websites van vrienden a.s.o. kan alleen worden getoond in de zijkant gebied.
+|conf-socialSiteSupport|U kunt hypothese "sociale site" knoppen weer in de zijkant gebied, (3 grote pictogrammen) of in de header (on all-in-1 icon). De pictogrammen en alle benodigde javascript code worden gegenereerd met behulp van de gratis "addthis.com" service.
+|conf-socialSiteKey|Wilt u een beter inzicht in uw bezoekers moet u vragen om uw eigen gratis sleutel
+|conf-sociale site code|scripts: De standaard waarde is OK in de meeste gevallen <br /> Alleen dit veranderen als u zeker weet ..
+|conf-wrnRain|beeld Kleine regen radar: Het beeld kan worden aangetoond of altijd op basis van het weer-voorwaarden of waarschuwingen. <br /> Wanneer de website bezoeker klikt op het beeld een grotere afbeelding bovenaan de pagina wordt weergegeven.
+|conf-wrnLightning|beeld Kleine donder radar
+|conf-donateButton|Default Er is geen doneren knop getoond <br />. BELANGRIJK: U moet de Paypal code eerste genereren.
+|conf-donateCode|Zet de link naar <b> Uw </ b> PayPal doneren code hier.
+|conf-waarschuwingen|Toon (optioneel) meteo waarschuwingen op elke pagina.
+|conf-useCurly|Voor Regio VS de standaard waarschuwingen scripts NOAA gebruikt als bron voor "een gebied" -warnings. De gebruikers in de VS kan hier kiezen, zodat de meer uitgebreide Curly scripts. Deze scripts maken het mogelijk om meerdere waarschuwingen meerdere gebieden weergegeven. Als men kiest Hanes Curly scripts de aanpassing worden gedaan door het wijzigen van de instelling in de scripts map in de nieuwste NWS weer ?? / USA /
+|conf-waarschuwing gebied|U vindt uw netnummer door te bladeren naar uw gebied op het alarm ter plaatse. <br /> Voorbeeld: http://www.meteoalarm.eu/en_UK/0/0/&lt;b>UK012&lt;/b>-East_of_England.html <br /> Hier <b> UK012 </ b> is de code voor Oost-Engeland. Een andere code is <b> BE004 </ b> voor Vlaams Brabant.
+|conf-warnAreaNoaa|De voorbeeld = CT009 is een gebied in Connecticut. U kunt uw eigen netnummer op de link hieronder te vinden. Scroll naar beneden op de pagina en je hebt een "State (Zone Lijst|County List)" te vinden. Klikken op Ofwel zone of County lijst voor uw staat een lijst van alle codes die u hier kunt gebruiken.
+|conf-waarschuwing in|de standaard waarschuwingen wordt getoond voor alles op de pagina. Als u de waarschuwing Inside uw pagina Selecteer hier deed.
+|conf-waarschuwing Green|Wilt u een DisplayMessage Dus Als er geen waarschuwing, selecteer hier deed.
+|conf-warningsXtnd|Als u de hele tekst van de waarschuwing weergegeven op uw pagina wilt, selecteert u hier deed. Wees voorzichtig, met zorg gebruiken. De hele tekst kan zeer groot, bijvoorbeeld niet gebruiken in België of de helft van uw raam zal gebruikt worden door de waarschuwing.
+|conf-waarschuwing detail|Het aantal individuele waarschuwingen voordat waarschuwingen worden gecombineerd. Want soms zijn er zo veel weer-waarschuwingen deed om veel ruimte op het scherm wordt verspild.
+|conf-warn1Box|om alle afzonderlijke waarschuwingen in één doos te zetten, opnieuw om minder ruimte te gebruiken in het browservenster.
+|conf-waarschuwingspagina|Wilt u uw eigen pagina gebruiken Als gedetailleerde informatie wordt gevraagd of moet de bezoeker direct naar de weerswaarschuwing website.
+|conf-noChoice|Selecteer de eerste pagina uw bezoekers zal gaan wanneer ze uw site bezoeken voor de eerste keer
+|conf-statsCode|Gebruik een externe statistieken teller op uw website te meten
+|conf-statsCodeTxt|Vervang de standaard teller code met uw eigen code Verkregen uit histats.com.
+|conf-floatTop|Gebruik een "zwevende" go-to-top marker te snel naar de top van de pagina, handig voor lange pagina's.
+|conf-floatTopTxt|Gebruik de template code voor deze voorziening of punt om uw eigen code.
+|conf-skipTop|Behalve op de startpagina, ga direct naar de gegevens deel van een pagina om meer informatie weer te geven
+|conf-ajax gizmo tonen|Met deze facilty een roterende lijn weer te geven met een andere waarde op elke lijn weer
+|conf-show bezoekers|Gebruik een bezoekers teller in de voettekst en dus een pagina met bezoekers van de laatste 4 dagen.
+|conf-geoKey|Als u een vlag en extra info over de bezoeker u "geolookup" moeten omvatten. Deze versie van de sjabloon suppports een betaald abonnement http://www.ipgp.net als verlenging.
+|conf-bestand bezoeker|Het IP info over uw bezoekers wordt bewaard in dit bestand (in de cache directory), indien niet aanwezig het is gemaakt
+|conf-België|Sommige Europese pagina's zijn enkel geldig voor dit land
+|conf-Nederland|Sommige Europese pagina's zijn enkel geldig voor dit land
+|conf-useMobile|Er zijn een paar pagina's met ondersteuning voor telefoons en andere kleine apparaten met op internet browser. U kunt deze pagina controleren zelf uit het menu om te zien wat possibillities hier worden aangeboden. Wanneer bezoekers met een tablet blader naar uw site, worden ze doorverwezen naar de normale site. Alleen kleine screen smartphones zijn gericht op de mobiele pagina's.
+|conf-contact pagina|Als u deze instelling laten zoals is, zal er een kleine schakel in de voettekst op de contactpagina en de contact pagina zal worden in het menu als een aparte keuze.
+|conf-contactformulier|Als u een contact pagina moet je de juiste e-mailadressen hier opgeven inbegrepen. Gebruik een noreply @ adres voor de webmaster e-mail van (die de bezoeker ziet als hij vraagt ​​om een ​​kopie van de e-mail).
+|conf-contactEmailTo|Gebruik een geldig e-mailadres in om de vragen van de bezoeker te ontvangen. Dit adres wordt niet gezien door de bezoeker dus robots / hackers niet kan hen ook te zien.
+|conf-noaaPage|Deze pagina wordt gebruikt om de NOAA prognoses geven
+|conf-noaaIconsOwn|Wilt u de standaard template pictogrammen of de NOAA pictogrammen gebruiken
+|conf-cwopPage|Geeft uw CWOP statisatics
+|conf-ecPage|Gebruik Hanes Environment Canada prognoses
+|conf-pages_visited|Optional "debug" type pagina telt alle bezochte pagina's en kan een sorteerbare lijst weer te geven van het.
+|conf-Cam|Alleen in staat deze als je een webcam en webcam foto's te laten zien.
+|conf-Cam Side|Een smal webcam foto wordt in de side-areaswhich getoond wordt vergroot op de bovenkant van de pagina Wanneer de gebruikers op het.
+|conf-webcam pagina|Gebruiken we een aparte pagina of is het voldoende om een ​​pop-up van de kleine kant-gebied afbeelding te gebruiken.
+|conf-webcam nacht|Hebben we behoefte aan een "het is 's nachts" message-beeld of doen we weer de normale webcam-afbeelding
+|conf-webcamImgNight|ingesteld op de locatie van de nacht-time vervanger beeld.
+|conf-webcamName_1|De shortname afbeelding van de webcam boven.
+|conf-webcamImg_1|De exacte link naar imago van de webcam.
+|conf-webcam_2|Alleen in staat deze als je een tweede webcam met webcam foto's te laten zien.
+|conf-webcamName_2|De shortname afbeelding van de webcam boven.
+|conf-webcamImg_2|De exacte link naar imago van de webcam.
+|conf-wxsimPage|Als u gekocht en gebruikt WXSIM dit kan hier worden ingesteld
+|conf-wxsimData|De locatie van de geüploade bestanden is WXSIM Vaak is de wortel, die is ingesteld als de standaard waarde <br />. Als de bestanden in een andere map, geeft u het pad ten opzichte van het weer ?? / map.
+|conf-wxsim_file|Er zijn drie beschikbare bestanden WXSIM waarvan er twee worden gebruikt. Gebreke blijven van de meest uitgebreide bestand wordt gebruikt. Als er fouten in het script of in een bestand, kan men hier tussen de bestanden te schakelen.
+|conf-wxsimIconsOwn|Het sjabloon maakt gebruik van dezelfde iconen voor alle prognoses. Maar als je liever de iconen gebruiken uit de voorspellers Zelf U kunt deed voor elke afzonderlijke Forecaster. <br /> Er zijn geen "eigen iconen", maar voor WXSIM Vaak YrNo pictogrammen worden gebruikt als vervanging.
+|conf-Meteoplug|Heeft u een abonnement op de betaalde diensten voor grafische of Metohub Meteo Bridge <br />. Of doet u als uw Meteoplug "Weatherprogram" te gebruiken.
+|conf-wd_live|Heeft u lopen Weather Display Live op uw webserver <br /> Dit FLASH programma moet clientraw * bestanden en het is een betaalde programma ..
+|conf-MeteoWare|MeteoWare is een gratis programma FLASH Welke toont een real-time dashboard.
+|conf-fctOrg|Hier selecteert u de standaard prognose daarmee bereikt avilable op de </ b> Start pagina </ b>.
+|conf-multi_forecast|Wilt u een dropdown met de namen van de "nabije" Cities op de top van elke prognose & lt ;? Br /> Bezoekers kunnen dan niet alleen kiezen voor je eigen stad, maar zo someother degenen.
+|conf-select_lat_lon|Om deze drop-down selectie een bestand met de andere stad-namen en programma-toetsen aanwezig is te gebruiken in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.
+|conf-select_ec|Om dit drop down selectie met EC-scripts een bestand met de andere stad-namen en programma-toetsen aanwezig is te gebruiken in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.? 
+|conf-wuPage|Wilt u een weer-voorspelling van Weather-Underground <br /> Wees u ervan bewust thatthere zijn oft vertaling probleem met andere langauges dan Engels.
+|conf-wuKey|Als u wilt dat de One Page WU vooruitzicht (en de almanak data op het dashboard) te gebruiken moet je een gratis sleutel te vragen en deze instelling te wijzigen.
+|conf-wuIconsOwn|Het sjabloon maakt gebruik van dezelfde iconen voor alle prognoses <br /> Maar als u liever de WU pictogrammen worden gebruikt in de WU voorspellen U kunt hier deed ..
+|conf-wuIconsCache|U kunt kiezen dan de cache WU pictogrammen gebruikt of halen ze uit de WU website.
+|conf-metnoPage|Deze uitgebreide prognose vormen de Norwegion Weather Service is de meest gebruikte één. <br /> Zij leveren een prognose voor elke plaats in de wereld en deed zonder sleutel of een bijzondere plek ID. <br /> Alleen uw lengte / breedte worden gebruikt om deze uitgebreide prognose te verkrijgen.
+|conf-metnoicons|Wilt u de standaard sjabloon iconen of de Yr.No gebruiken (als er geen Met.no) pictogrammen.
+|conf-yrnoPage|Een andere Noorse voorspeller Welke Genereert zo uitgebreid een prognose maar zo levert een meteogram in png-formaat. Wanneer u gebruik maakt van de "smart-phone / mobile" pagina's moet je de yrNo Instellingen correct opgeven als deze prognose wordt gebruikt op die pagina's.
+|conf-yrnoID|op zoek naar de juiste Land / Regio [/ sub-regio] / Stad code Gebruik de link en zoek de dichtstbijzijnde stad naar uw plaats. In de browser adres gebied vind je de juiste code. Voorbeeld http://www.yr.no/place/&lt;b> België / Vlaanderen / Leuven / </ b>
+|conf-select_yrno|Om de drop-down selectie u een klein bestand met de verschillende namen en de toetsen moeten gebruiken. Het is aanwezig in uw "_my_texts /" map. Als u dit bestand opgeslagen op een andere locatie die u kunt instellen locatie hier deed.
+|conf-hwaPage|De "Het Weer Actueel" weerstations hebben hun eigen prognose data. Je moet lid te zijn en correct geregistreerd te hebben om ID en een sleutel.
+|conf-hwaXmlId|U ophalen uw </ b> hwaXmlId </ b> bij het beheer pagina voor je Weer-station aan de HWA website.
+|conf-hwaXmlKey|Hetzelfde geldt voor de <b> hwaXmlKey </ b>
+|conf-hwaIconsOwn|Wilt u de standaard template pictogrammen of de HWA pictogrammen gebruiken?
+|conf-yahoo pagina|Zoals Yahoo ook kunnen leveren de huidige weersomstandigheden en Lijkt een betrouwbare 24/7 website hebben, is dit 5-daagse weersverwachting wordt vaak gebruikt op de startpagina.
+|conf-yahooIconsOwn|Wilt u de standaard template pictogrammen of de Yahoo pictogrammen gebruiken?
+|conf-wereld pagina|Dit kleine wereldwijd prognose heeft een gratis sleutel.
+|conf-worldAPI|Pas Volgens de aard van de sleutel die u / hebt reqquested.
+|conf-worldKey|Je moet een gratis sleutel van hun plaats te krijgen. De voorspelling is reterieved van lengte / breedte-instellingen, zodat bij ID niet nodig
+|conf-worldKey2|Als u op dit moment vragen om API-key krijg je een sleutel type 2. je hebt hier ingesteld. Als u al een ouder type-1 Key gebruik maken van de andere instelling.
+|conf-worldIconsOwn|Wilt u de standaard sjabloon iconen of de Weather pictogrammen gebruiken?
+|conf-autorefresh|De pagina wordt automatisch vernieuwd na ther aantal seconden dat u hier & lt ingesteld; br /> Laat een nul om deze functie vooral vervelend te schakelen ..
+|conf-wsAjaxDataTime|Tijd tussen verzoek om nieuwe gegevens over Ajax gebaseerde pagina (dashboard) in seconden. <br /> minimale wachttijd is 10 seconden. <br /> Gebruik deze tijd veel korter dan is het uploaden van uw real-time data bestanden niet ingesteld.
+|conf-wsSteelTime|Zelfde type instelling, maar nu voor de SteelSeries pagina's. <br /> Normaal ingesteld hetzelfde als voor de Ajax-updates.
+|conf-charset|<b> De template is volledig HTML 5 / UTF-8 </ b>. <br /> Afzonderlijke pagina's die behoefte hebben aan een ander karakter-set kan een pagina-instelling gebruiken in het menu bestand. <br /> Als voor een zeer zeldzame reden waarom je wilt naar een andere tekenset gebruiken, kunt u dat hier doen.
+|conf-topfolder|Dit Stel om de exacte map de sjabloon is in Als u in de root geïnstalleerd, is het "./" .. Als u in de standaard weer geïnstalleerd ?? map is het bijvoorbeeld "weather28 /"
+|conf-wachtwoord|Nadat u volledig klaar zijn testen, kunt u een wachtwoord instellen om het moeilijker maken om uw instellingen bestanden. Maar wacht tot je zeker weet dat de steun niet meer nodig. Het is onmogelijk om te helpen de problemen veroorzaakt door fouten in de instellingen wanneer ze wachtwoord.
+|conf-wuMember|Bent u lid van de Weather Underground, aka het uploaden van uw gegevens aan hen.
+|conf-wuId|De ID van uw persoonlijke weerstation op de Wunderground site, bijvoorbeeld IVLAAMSG47.
+|conf-wuStart|Stations eerste dag van de operatie op Weather Underground <br> formaat dd-mm-jjjj nodig voor alle wu template pagina's, bijvoorbeeld 15-03-2013..
+|conf-mesonetMember|Bent u lid van een "Regional Weer Network". Voorbeelden: de BNLWN = Benelux Weer Netwerk, of de AKWN = Alaska Weer Netwerk. Alle Hun namen eindigen op WN.
+|conf-mesoID|De ID / afkorting van dat netwerk, bijvoorbeeld AKWN.
+|conf-mesoName|De naam te gebruiken op uw site voor dat netwerk, bijvoorbeeld: Alaska Weer Netwerk
+|conf-mesoLink|De link / URL naar Hun belangrijkste website: http://alaskanweather.net/
+|conf-hwaMember|Bent u lid van HetWeerActueel, aka zijn ze met behulp van uw weergegevens.
+|conf-hwaID|De ID aan uw statuspagina acces op de HWA site, bijvoorbeeld: Herent
+|conf-ewnMember|Bent u lid van het Europees netwerk van weerstations, aka zijn ze met behulp van uw weergegevens.
+|conf-awekasMember|Bent u lid van AWEKAS, aka het uploaden van uw gegevens aan hen.
+|conf-awekasID|De ID aan uw statuspagina acces op AWEKAS site, bijvoorbeeld: 8506
+|conf-wcloudMember|Bent u lid van WeatherCloud.net, aka zijn ze met behulp van uw weergegevens.D1686817653:|
+|conf-wcloud De ID uw eigen informatie over WeatherCloud.net, bijvoorbeeld acces.
+|conf-cwopMember|cwopMember
+|conf-cwopId|De ID om uw informatie-pagina acces op de CWOP site, bijvoorbeeld: C6440 <br />. Belangrijk: toegang tot uw gegevens voor de sjabloon pagina's de W Mocht uit de ID & lt worden verwijderd; br />. Hoewel dit station ID is CW6440 in Branford CT, worden de pagina's toegankelijk zonder de W, zodat de ID zou C6440 zijn.
+|conf-wl_comMember|Als u een Davis IP-logger of gebruik het Weatherlink programma, kunt u uw gegevens uploaden naar WeatherLink.com.
+|conf-weatherlinkID|De ID wordt gebruikt om toegang te krijgen tot je 2 pagina's in het WL.com website. Voorbeeld: wvdkuil.
+|conf-anWeMember|<b> Anything-Weer </ b> Site
+|conf-anWeID|De ID voor toegang tot uw informatie op hun website.
+|conf-pwsMember|<b> pwsweather </ b> Site
+|conf-pwsID|De ID voor toegang tot uw informatie op hun website.
+|conf-wp24ID|<b> Wetterpage24 </ b> website.
+|conf-USWG|<b> US Weer Group </ b> website.
+|conf-cookie-support|Er is een aparte pagina "Customize" in het menu waar de bezoeker het kleurenschema, de standaard voorspeller en alle eenheden gebruikt kan veranderen. <br /> Tenminste als je kunnen uw bezoekers om dat te doen hier.
+|conf-gebruiker verandering debug|Laat een bezoeker (en ondersteuning, en u zelf) te debuggen gebruiken = Y op de URL
+|conf-gebruiker verander kleuren|Laat de gebruiker naar de website van kleuren / back-ground foto .Volgens "kleurstijlen" instelling te kiezen.
+|conf-userChangeMenu|Sta gebruiker toe om verticale of horizontale menu's kiezen
+|conf-gebruiker verandering header|Laat de gebruiker om te kiezen tussen de beschikbare headers
+|conf-gebruiker veranderen Keuze|Sta gebruiker kiezen WhichPage wil weergegeven op de volgende bezoek
+|conf-gebruiker verandering op lange|Disable / enable taalondersteuning. Laat het Als u meerdere talen op uw site.
+|conf-userChangeUOM|Sta gebruiker toe om hun eigen eenheden van de meting te selecteren
+|conf-gebruiker verandering prognose|Laat de gebruiker om te kiezen tussen verschillende prognose voor de startpagina
+|conf-soilUsed|Sommige weer-stations en een aantal weer-programma's ter ondersteuning bevestigd bodem sensor.
+|conf-soilPage|Er is een aparte pagina met bodemvocht en bodemtemperatuur informatie.
+|conf-soilCount|Het aantal (1-4) van de bodem sensor aangesloten op uw station.
+|conf-soilDepth_1|De diepte van de eerste bijgevoegde soilsensor <br />. Alle depts in dezelfde eenheid als u hebt opgegeven voor de sneeuw (cm of inch).
+|conf-soilDepth_2|Diepte tweede sensor.
+|conf-soilDepth_3|Diepte derde sensor.
+|conf-soilDepth_4|Diepte vierde sensor.
+|conf-uomMoist|maateenheid voor vocht in de bodem: CB (standaard) of kPa.
+|conf-leafUsed|Bent Er blad sensor bevestigd?
+|conf-leafCount|Aantal bijgevoegde blad sensor.
+|conf-UV|Is een UV-sensor (ondersteund door de weer-programma) aangesloten op uw station?
+|conf-SOLAR|Zelfde setting voor een zonne-sensor.
+|conf-tempi zijde|In principe is het Andere instellingen vaak gebruikt voor de binnentemperatuur of een glas-house / zwembad-temp.
+|conf-extraTemp1|Maar ze kunnen worden gebruikt voor een temperatuursensor die u wilt gebruiken. Bij gebruik op de standaard locaties (startpagina naast het thermometer) je kunt ze elke naam die u wilt geven.
+|conf-extraTemp2|Als u een temp sensor in uw schuur en je wilt om het te controleren op de startpagina, een van de twee sensoren en gebruik de vertaling bestanden naar de correcte naam weergeeft zijn ingesteld.
+|conf-DavisVP|Als u gebruik maakt van een Davis weerstation waarvoor de extra tekst U kunt opgeven prognose hier deed. Alle maar DW (Davis Weatherlink.com) weer-programma's zullen leveren Die teksten.
+|conf-station tonen|In de zij- of bottom-gebied dat u kunt weergeven op basis van icoon van uw weerstation en een link &; br />. Je moet wat informatie te verstrekken over uw weerstation. <br /> De standaardinstellingen zijn voor een Davis station.
+|conf-stationTxt|Merk / Type van uw station.
+|conf-stationJpg|De locatie (of de URL) van een afbeelding.
+|conf-station link|De URL van de website manuafacturers.
+|conf-provider tonen|Net als de informatie over het merk van ons weerstation kunt u beslissen of u wilt informatie over de provider voor uw website weer te geven.
+|conf-providerTxt|De naam van uw provider.
+|conf-providerJpg|De link naar een afbeelding van de provider.
+|conf-provider link|De URL naar hun belangrijkste site.
+|conf-PCShow|Net als de informatie over het merk van uw weerstation kunt u beslissen of u wilt informatie over de computer weer te geven je je Weer-programma op te draaien.
+|conf-pCtxt|Het merk van de computer of het apparaat dat u ASRE gebruikt.
+|conf-pcJpg|De link naar een afbeelding.
+|conf-PCLINK|De URL naar een relavant website.
+|conf-WXsoftwareShow|De informatie en links voor je weer-programma zijn al in de scripts
+|conf-commaDecimal|De meeste Europeanen gebruik maken van een komma voor een decimaalteken. De meeste Amerikanen een punt.
+|conf-tempSimple|Of u kunt een 2-tone kleur gebruiken voor de temperatuur waarbij blauw = onder het vriespunt, rood = boven <br /> Of een lange reeks van kleuren van licht blauw naar diepste donkerrood..
+|conf-text kleine letters|Optioneel al tekst kan gede Weergegeven als kleine letters.
+|conf-nightDayBefore|weg zoals is, alleen veranderen als de tijd frames van een voorspelling niet overeenkomen met uw regionale formulering van dit.
+|conf-uomTemp|De UOM worden ingesteld op basis van uw regio. Je kunt ze hier veranderen aan te passen aan de lokale gebruik.
+|conf-uomBaro|Pressure
+|conf-uomWind|Wind Snelheid
+|conf-uomRain|Rain / melt
+|conf-uomSnow|Sneeuwhoogte
+|conf-uomDistance|Afstand
+|conf-uomPerHour|/ uur
+|conf-uomHeight|Hoogte
+|conf-uurs weergave|Gebruik ofwel 24 uur of 12 uur display.
+|conf-timeformat|Hoe de datum weer te geven - de tijd.| Alleen Conf-time formaat|Hoe tijd alleen weer te geven.| Alleen Conf-uurs formaat|Hoe het uur alleen weergegeven.
+|conf-date enige formaat|Hoe tot op heden slechts weer te geven.
+|conf-dateMDFormat|Hoe mot plus dag weer te geven.
+|conf-date lange formaat|Hoe de beschrijvende mot Day tijd weer
+|conf-my_date_format|Selecteer hoe je Weer-programma uploadt de actuele informatie door het selecteren van een "standaard" formaat hier.<br /> Als uw programma maakt gebruik van een niet beursgenoteerde indeling u moet kiezen "andere" en definieert het formaat stukken in de komende 4 regels.
+|conf-my_char_sep|Wat separator wordt gebruikt tussen de verschillende onderdelen?
+|conf-my_day|De dag deel is dan ook het eerste, tweede of derde deel van de datum string.
+|conf-my_month|Hetzelfde geldt voor de maand deel.
+|conf-my_year|Hetzelfde geldt voor het jaar deel.
+|link-breedtegraad|Dit is een inzoombare kaart om uw lat / lang vinden
+|link-lengtegraad|U kunt hier converteren van HH / MM / SS notatie naar decimale notatie
+|link-radarstation|Vind uw station hier
+|link-METAR|Een tekstbestand met "alle" metar codes kan hier gevonden worden
+|link-yaPlaceID|Vind uw Yahoo ID stad hier
+|link-colornumber|Bekijk alle verschillende kleur-regelingen beschikbaar
+|link-socialSiteKey|Ga naar de website om je gratis AddThis sleutel te verkrijgen
+|link-donateButton|Paypal stepts te voegen een donatie knop
+|Link Waarschuwing omgeving|Ga naar de Meteoalarm site om uw netnummer vinden
+|link-warnAreaNoaa|NOAA - NWS county / zonelijst
+|link-wuKey|Ga naar de WU website uw eigen gratis API key aanvragen
+|link-yrnoID|Ga naar de site om de juiste YrNo ID vinden voor uw gebied (s)
+|link-worldAPI|Ga naar de Weather site om uw eigen gratis API key aanvragen
+|link-geoKey|Hier kunt u uw "geo" look-up API Key kopen
+|link-cwopId|Een voorbeeld van hoe de pagina op zoek naar <b> Noord-Amerikaanse </ b> gebruikers.

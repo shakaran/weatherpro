@@ -1,0 +1,222 @@
+|pagename|tagsVWS|!
+|version|3.00 2015-04-18 15:30|!
+
+|date|                  ^vst142^ |!
+|time|                  ^vst143^|!
+
+|fromtemp|              ^uni007^|!
+
+|tempAct|               ^vxv007^|!
+|tempDelta|             ^vvr007^|!
+
+|tempMinToday|          ^vlo007^|!
+|tempMinTodayTime|      ^vlt007^|!
+|tempMinYday|           ^vzl007^|!
+|tempMinYdayTime|       ^vzs007^|!
+|tempMinMonth|          ^vml007^|!
+|tempMinMonthTime|      ^vme007^|!
+|tempMinYear|           ^vyl007^|!
+|tempMinYearTime|       ^vye007^|!
+
+|tempMaxToday|          ^vhi007^|!
+|tempMaxTodayTime|      ^vht007^|!
+|tempMaxYday|           ^vzh007^|!
+|tempMaxYdayTime|       ^vzt007^|!
+|tempMaxMonth|          ^vmh007^|!
+|tempMaxMonthTime|      ^vmd007^|!
+|tempMaxYear|           ^vyh007^|!
+|tempMaxYearTime|       ^vyd007^|!
+
+|dewpAct|               ^vxv022^|!
+|dewpDelta|             ^vvr022^|!
+
+|dewpMinToday|          ^vlo022^|!
+|dewpMinTodayTime|      ^vlt022^|!
+|dewpMinYday|           ^vzl022^|!
+|dewpMinYdayTime|       ^vzs022^|!
+|dewpMinMonth|          ^vml022^|!
+|dewpMinMonthTime|      ^vme022^|!
+|dewpMinYear|           ^vyl022^|!
+|dewpMinYearTime|       ^vye022^|!
+
+|dewpMaxToday|          ^vhi022^|!
+|dewpMaxTodayTime|      ^vht022^|!
+|dewpMaxYday|           ^vzh022^|!
+|dewpMaxYdayTime|       ^vzt022^|!
+|dewpMaxMonth|          ^vmh022^|!
+|dewpMaxMonthTime|      ^vmd022^|!
+|dewpMaxYear|           ^vyh022^|!
+|dewpMaxYearTime|       ^vyd022^|!
+
+|appTemp|               ^vxv027^|!
+
+|heatAct|               ^vxv021^|!
+|heatDelta|		^vvr021^|!
+
+|heatMaxToday|		^vhi021^|!
+|heatMaxTodayTime|	^vht021^|!
+|heatMaxYday|		^vzh021^|!
+|heatMaxYdayTime|	^vzt021^|!
+|heatMaxMonth|		^vmh021^|!
+|heatMaxMonthTime|	^vmd021^|!
+|heatMaxYear|		^vyh021^|!
+|heatMaxYearTime|	^vyd021^|!
+
+|chilAct|               ^vxv019^|!
+|chilDelta|             ^vvr019^|!
+
+|chilMinToday|          ^vlo019^|!
+|chilMinTodayTime|      ^vlt019^|!
+|chilMinYday|           ^vzl019^|!
+|chilMinYdayTime|       ^vzs019^|!
+|chilMinMonth|          ^vml019^|!
+|chilMinMonthTime|      ^vme019^|!
+|chilMinYear|           ^vyl019^|!
+|chilMinYearTime|       ^vye019^|!
+
+|chilMaxToday|          ^vhi019^|!
+|chilMaxTodayTime|      ^vht019^|!
+
+|tempActInside|         ^vxv006^|!
+|tempActExtra1|         ^vxv010^|!
+|tempActExtra2|         ^vxv012^|!
+
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro|              ^uni023^|!
+
+|baroAct|               ^vxv023^|!
+|baroDelta|             ^vvr023^|!
+|baroTrend|             ^vst139^|!
+
+|baroMinToday|          ^vlo023^|!
+|baroMinTodayTime|      ^vlt023^|!
+|baroMinYday|           ^vzl008^|!
+|baroMinYdayTime|       ^vzs008^|!
+|baroMinMonth|          ^vml023^|!
+|baroMinMonthTime|      ^vme023^|!
+|baroMinYear|           ^vyl023^|!
+|baroMinYearTime|       ^vye023^|!
+
+|baroMaxToday|          ^vhi023^|!
+|baroMaxTodayTime|      ^vht023^|!
+|baroMaxYday|           ^vzh008^|!
+|baroMaxYdayTime|       ^vzt008^|!
+|baroMaxMonth|          ^vmh023^|!
+|baroMaxMonthTime|      ^vmd023^|!
+|baroMaxYear|           ^vyh023^|!
+|baroMaxYearTime|       ^vyd023^|!
+------------------------------------------humidity-----------------------------------
+|humiAct|               ^vxv005^|!
+
+|humiDelta|             ^vvr005^|!
+
+|humiMinToday|          ^vlo005^|!
+|humiMinTodayTime|      ^vlt005^|! 
+|humiMinYday|           ^vzl005^|!
+|humiMinYdayTime|       ^vzs005^|!
+|humiMinMonth|          ^vml005^|!
+|humiMinMonthTime|      ^vme005^|!
+|humiMinYear|           ^vyl005^|!
+|humiMinYearTime|       ^vye005^|!
+
+|humiMaxToday|          ^vhi005^|!
+|humiMaxTodayTime|      ^vht005^|!
+|humiMaxYday|           ^vzh005^|!
+|humiMaxYdayTime|       ^vzt005^|!
+|humiMaxMonth|          ^vmh005^|!
+|humiMaxMonthTime|      ^vmd005^|!
+|humiMaxYear|           ^vyh005^|!
+|humiMaxYearTime|       ^vyd005^|!
+
+|humiInAct|             ^vxv004^|!
+|humiActExtra1|         ^vxv011^|!
+|humiActExtra2|         ^vxv013^|!
+------------------------------------------rain---------------------------------------
+|fromrain|              ^uni121^|!
+
+|rainRateAct|           ^vvr009^|!
+|rainRateToday|         ^vxv124^|!
+|rainRateYday|          ?|!
+
+|lastRained|            ^vyd009^|!
+
+|rainToday|             ^vxv121^|!
+|rainYdayHigh|          ^vzh009^|!
+|rainYdayLow|           ^vzl009^|!
+
+|rainHour|              ^vxv122^|!
+|rainWeek|              ?|!
+|rainMonth|             ^vxv129^|!
+|rainYear|              ^vxv009^|!
+
+|rainDayMnth|           ?|!
+|rainDayYear|           ?|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday|               ^vxv016^|!
+|etYday|                ^vzh016^|!
+|etMonth|               ^vmh016^|!
+|etYear|                ^vyh016^|!
+------------------------------------------wind---------------------------------------
+|fromwind|              ^uni002^|!
+
+|windAct|               ^vxv002^|!
+|gustAct|               ^vxv003^|!
+|windActDsc|            ^vxv001^|!
+|windBeafort|?|!
+
+|windAvgDir|            ^vva001^|!
+
+|gustMaxToday|          ^vhi003^|!
+|gustMaxTodayTime|      ^vht003^|!
+|gustMaxYday|           ^vzh003^|!
+|gustMaxYTime|          ^vzt003^|!
+|gustMaxMonth|          ^vmh003^|!
+|gustMaxMonthTime|      ^vmd003^|!
+|gustMaxYear|           ^vyh003^|!
+|gustMaxYearTime|       ^vyd003^|!
+
+|------------------------------------------UV---------------------------------------
+|uvAct|                 ^vxv017^|!
+|uvArray|               ?|!
+
+|uvMaxToday|            ^vhi017^|!
+|uvMaxTodayTime|        ^vht017^|!
+|uvMaxYday|             ^vzh017^|!
+|uvMaxYdayTime|         ^vzt017^|!
+|uvMaxMonth|            ^vmh017^|!
+|uvMaxMonthTime|        ^vmd017^|!
+|uvMaxYear|             ^vyh017^|!
+|uvMaxYearTime|         ^vyd017^|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct|              ^vxv018^|!
+|solarActPerc|          ^vvr018^|!               // Solar Radiation Rate
+|solarArray|            ?|!
+
+|solarMaxToday|         ^vhi018^|!
+|solarMaxTodayTime|     ^vht018^|!
+|solarMaxYday|          ^vzh018^|!
+|solarMaxYdayTime|      ^vzt018^|!
+|solarMaxMonth|         ^vmh018^|!
+|solarMaxMonthTime|     ^vmd018^|!
+|solarMaxYear|          ^vyh018^|!
+|solarMaxYearTime|      ^vyd018^|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|		^uni025^|!
+|cloudHeight|		^vxv025^|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt|               ^vst138^|!
+|------------------------------------------moon---------------------------------------
+|moonrise|              ^vst146^|!
+|moonset|               ^vst147^|!
+|lunarPhasePerc|        ^moon_percent^|!
+|lunarAge|              ^moon_day^|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion|             ^vervws^|!
+|wsVersionBuild|        ?|!
+|wsHardware|            ^wstation^#^wsdescription^|!
+|wsUptime|              ?|!

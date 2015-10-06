@@ -1,0 +1,48 @@
+%customfile=C:\WsWin\html\clientrawextra.txt%%curminmaxhour_on%
+%unit_off%%alwaysseppoint_on%%setmonthyear[%ws_month2%~0000]%%ws_userdate=DD MM YYYY%           %ws_delline%
+%ws_setmem[50]=%ws_comparestr=- -~%maxval_mpast[45~00~9999]%~%maxval_mpast[35~00~9999]%%%       %ws_delline%
+%ws_setmem[51]=%ws_comparestr=--~%maxtime_mpast[45~00~9999]%~%maxtime_mpast[35~00~9999]%%%      %ws_delline%
+%ws_setmem[52]=%ws_comparestr=--~%maxdate_mpast[45~00~9999]%~%maxdate_mpast[35~00~9999]%%%      %ws_delline%
+%ws_setmem[53]=%ws_replacestr=:~ ~%ws_getmem[51]%%%                                             %ws_delline%
+%ws_setmem[55]=%ws_calc[/]=%ws_getmem[50]%~1.852~1%%                                            %ws_delline%
+%ws_setmem[56]=%ws_calc[/]=%maxval_mpast[35~00~9999]%~1.852~1%%                                 %ws_delline%
+%maxval_mpast[0~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[0~00~9999]%% %maxdate_mpast[0~00~9999]% %minval_mpast[0~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[0~00~9999]%% %mindate_mpast[0~00~9999]% %ws_getmem[55]% %ws_getmem[53]% %ws_getmem[52]% -- 00 00 00 00 00 %minval_mpast[33~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[33~00~9999]%% %mindate_mpast[33~00~9999]% %maxval_mpast[33~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[33~00~9999]%% %maxdate_mpast[33~00~9999]% %maxval_mpast[34~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[34~00~9999]%% %maxdate_mpast[34~00~9999]% -- 00 00 00 00 00 %ws_getmem[56]% %ws_replacestr=:~ ~%maxtime_mpast[35~00~9999]%% %maxdate_mpast[35~00~9999]% 0.0 00 00 00 00 00 %maxval_mpast[%ws_growsensor_id%~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[%ws_growsensor_id%~00~9999]%% %maxdate_mpast[%ws_growsensor_id%~00~9999]% %minval_mpast[%ws_growsensor_id%~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[%ws_growsensor_id%~00~9999]%% %mindate_mpast[%ws_growsensor_id%~00~9999]% %minval_mpast[44~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[44~00~9999]%% %mindate_mpast[44~00~9999]% %maxval_mpast[36~00~9999]% 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00^=ws_setmemline1^
+                                                                                                %ws_delline%
+%unit_off%%alwaysseppoint_on%%setmonthyear[00~0000]%%ws_userdate=DD MM YYYY%                    %ws_delline%
+%ws_setmem[50]=%ws_comparestr=- -~%maxval_mpast[45~00~9999]%~%maxval_mpast[35~00~9999]%%%       %ws_delline%
+%ws_setmem[51]=%ws_comparestr=--~%maxtime_mpast[45~00~9999]%~%maxtime_mpast[35~00~9999]%%%      %ws_delline%
+%ws_setmem[52]=%ws_comparestr=--~%maxdate_mpast[45~00~9999]%~%maxdate_mpast[35~00~9999]%%%      %ws_delline%
+%ws_setmem[53]=%ws_replacestr=:~ ~%ws_getmem[51]%%%                                             %ws_delline%
+%ws_setmem[55]=%ws_calc[/]=%ws_getmem[50]%~1.852~1%%                                            %ws_delline%
+%ws_setmem[56]=%ws_calc[/]=%maxval_mpast[35~00~9999]%~1.852~1%%                                 %ws_delline%
+^ws_getmemline1^ %maxval_mpast[0~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[0~00~9999]%% %maxdate_mpast[0~00~9999]% %minval_mpast[0~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[0~00~9999]%% %mindate_mpast[0~00~9999]% %ws_getmem[55]% %ws_getmem[53]% %ws_getmem[52]% -- 00 00 00 00 00 %minval_mpast[33~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[33~00~9999]%% %mindate_mpast[33~00~9999]% %maxval_mpast[33~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[33~00~9999]%% %maxdate_mpast[33~00~9999]% %maxval_mpast[34~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[34~00~9999]%% %maxdate_mpast[34~00~9999]% -- 00 00 00 00 00 %ws_getmem[56]% %ws_replacestr=:~ ~%maxtime_mpast[35~00~9999]%% %maxdate_mpast[35~00~9999]% 0.0 00 00 00 00 00 %maxval_mpast[%ws_growsensor_id%~00~9999]% %ws_replacestr=:~ ~%maxtime_mpast[%ws_growsensor_id%~00~9999]%% %maxdate_mpast[%ws_growsensor_id%~00~9999]% %minval_mpast[%ws_growsensor_id%~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[%ws_growsensor_id%~00~9999]%% %mindate_mpast[%ws_growsensor_id%~00~9999]% %minval_mpast[44~00~9999]% %ws_replacestr=:~ ~%mintime_mpast[44~00~9999]%% %mindate_mpast[44~00~9999]% %maxval_mpast[36~00~9999]% 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00^=ws_setmemline2^
+                                                                                                %ws_delline%
+%unit_off%%alwaysseppoint_on%%ws_userdate=DD MM YYYY%                                           %ws_delline%
+%ws_setmem[50]=%ws_comparestr=- -~%LT_GustMax%~%LT_WindMax%%%                                   %ws_delline%
+%ws_setmem[51]=%ws_comparestr=--~%LT_GustMaxTime%~%LT_WindMaxTime%%%                            %ws_delline%
+%ws_setmem[52]=%ws_comparestr=--~%LT_GustMaxDate%~%LT_WindMaxDate%%%                            %ws_delline%
+%ws_setmem[53]=%ws_replacestr=:~ ~%ws_getmem[51]%%%                                             %ws_delline%
+%ws_setmem[55]=%ws_calc[/]=%ws_getmem[50]%~1.852~1%%                                            %ws_delline%
+%ws_setmem[56]=%ws_calc[/]=%LT_WindMax%~1.852~1%%                                               %ws_delline%
+%ws_setmem[44]=%ws_comparestr=- -~%LT_Temp2Max%~0.0%%                                           %ws_delline%
+%ws_setmem[45]=%ws_comparestr=--~%LT_Temp2MaxTime%~00 00%%                                      %ws_delline%
+%ws_setmem[46]=%ws_comparestr=--~%LT_Temp2MaxDate%~00 00 00%%                                   %ws_delline%
+%ws_setmem[45]=%ws_replacestr=:~ ~%ws_getmem[45]%%%                                             %ws_delline%
+%ws_setmem[47]=%ws_comparestr=- -~%LT_Temp2Min%~0.0%%                                           %ws_delline%
+%ws_setmem[48]=%ws_comparestr=--~%LT_Temp2MinTime%~00 00%%                                      %ws_delline%
+%ws_setmem[49]=%ws_comparestr=--~%LT_Temp2MinDate%~00 00 00%%                                   %ws_delline%
+%ws_setmem[48]=%ws_replacestr=:~ ~%ws_getmem[48]%%%                                             %ws_delline%
+%LT_TempMax% %ws_replacestr=:~ ~%LT_TempMaxTime%% %LT_TempMaxDate% %LT_TempMin% %ws_replacestr=:~ ~%LT_TempMinTime%% %LT_TempMinDate% %ws_getmem[55]% %ws_getmem[53]% %ws_getmem[52]% -- 00 00 00 00 00 %LT_BaroMin% %ws_replacestr=:~ ~%LT_BaroMinTime%% %LT_BaroMinDate% %LT_BaroMax% %ws_replacestr=:~ ~%LT_BaroMaxTime%% %LT_BaroMaxDate% %LT_RainDayMax% 00 00 %LT_RainDayMaxDate% %LT_RainHourMax% 00 00 %LT_RainHourMaxDate% %ws_getmem[56]% %ws_replacestr=:~ ~%LT_WindMaxTime%% %LT_WindMaxDate% -- 00 00 00 00 00 %ws_getmem[44]% %ws_getmem[45]% %ws_getmem[46]% %ws_getmem[47]% %ws_getmem[48]% %ws_getmem[49]% -- 00 00 00 00 00 -- 00 00 00 00 00 -- 00 00 00 00 00 - 00 00 00 00 00 - 00 00 00 00 00 - 00 00 00 00 00 - 00 00 00 00 00 - 00 00 00 00 00 -- 00 00 00 00 00^=ws_setmemline3^
+                                                                                                %ws_delline%
+%ws_setmem[50]=%maxval_mpast[42~%ws_month2%~0000]% %ws_replacestr=:~ ~%maxtime_mpast[42~%ws_month2%~0000]%% %maxdate_mpast[42~%ws_month2%~0000]%%                                   %ws_delline%
+%ws_setmem[51]=%maxval_mpast[41~%ws_month2%~0000]% %ws_replacestr=:~ ~%maxtime_mpast[41~%ws_month2%~0000]%% %maxdate_mpast[41~%ws_month2%~0000]%%                            %ws_delline%
+%ws_setmem[52]=%maxval_mpast[42~00~0000]% %ws_replacestr=:~ ~%maxtime_mpast[42~00~0000]%% %maxdate_mpast[42~00~0000]%%                            %ws_delline%
+%ws_setmem[53]=%maxval_mpast[41~00~0000]% %ws_replacestr=:~ ~%maxtime_mpast[41~00~0000]%% %maxdate_mpast[41~00~0000]%%                                             %ws_delline%
+%avgvalpast[34~-1~00~0000]% %ws_vers0% %ws_arraywind24h% %ws_sunrise% %ws_sunset% %ws_moonrise% %ws_moonset% %ws_moonphased% %ws_moonaged% %ws_arraywind4h% %ws_arraytemp4h% %ws_arrayrain4h% %ws_arraybaro4h% %ws_arraytime4h% %ws_arraysolar4h% %ws_arrayuv4h% %ws_arraywindd4h% %curminmaxhour[2,0,1]% %curminmaxhour[1,0,1]% %curminmaxhour[2,0,2]% %curminmaxhour[1,0,2]% %curminmaxhour[2,0,3]% %curminmaxhour[1,0,3]% %curminmaxhour[2,0,4]% %curminmaxhour[1,0,4]% %curminmaxhour[2,0,5]% %curminmaxhour[1,0,5]% %curminmaxhour[2,0,6]% %curminmaxhour[1,0,6]% %curminmaxhour[2,0,7]% %curminmaxhour[1,0,7]% %curminmaxhour[2,0,8]% %curminmaxhour[1,0,8]% %ws_isdaynight=D~D~N~N% %ws_arrayhum[24]% -- %ws_arraytempin[24]% %ws_getmem[50]% %ws_getmem[51]% %ws_getmem[52]% %ws_getmem[53]% %LT_SolarMax% %ws_replacestr=:~ ~%LT_SolarMaxTime%% %LT_SolarMaxDate% %LT_UVMax% %ws_replacestr=:~ ~%LT_UVMaxTime%% %LT_UVMaxDate% -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- %sunday_d% %snowline%00 %ws_hour% %ws_minute% %ws_day% -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- !!E%ws_vers0%!!^=ws_setmemline1^
+%ws_userdate=%                                                                                  %ws_delline%
+12345 %ws_arraywind24h% %ws_arraytemp24h% %ws_arrayrain24h% ^ws_getmemline2^ ^ws_getmemline3^ %ws_arraybaro24h% %ws_arraytime24h% 0 0 %snowheight% %ws_desert_days% %rain0month% %ws_arrayrainweek%%ws_arraysolar24h% %ws_arrayuv24h% %ws_modtext[%forecast_vant%]% %ws_evapotrans_day% %ws_evapotransvt_day% ^ws_getmemline1^
+^=ws_setmemline1^ 
+^=ws_setmemline2^
+^=ws_setmemline3^
+%alwaysseppoint_off%%ws_delline%
+

@@ -1,0 +1,227 @@
+<?php
+// Graphs Package V2.1 16th March 2008
+//
+// Change the data for each variable to your own language and try to keep
+// the text length to the same as the English so it will fit OK on each graph
+// When updates are needed for new graphs additions will be placed at the end
+// and can then be copied over to your existing installed file so you should not
+// need to re-tailor the whole file.
+// If you do not want the text to be shown simply set the variable data to ""
+//
+
+if (isset($_GET['lang'])){				//  than check session settings
+	$lang = trim(strtolower($_GET['lang']));
+}   else   {$lang = 'nl';}
+if ($lang == 'nl') {
+	$txt_mth1 = "jan";                            // January
+	$txt_mth2 = "feb";                            // February
+	$txt_mth3 = "mrt";                            // March
+	$txt_mth4 = "apr";                            // April
+	$txt_mth5 = "mei";                            // May
+	$txt_mth6 = "jun";                            // June
+	$txt_mth7 = "jul";                            // July
+	$txt_mth8 = "aug";                            // August
+	$txt_mth9 = "sep";                            // September
+	$txt_mth10 = "okt";                           // October
+	$txt_mth11 = "nov";                           // November
+	$txt_mth12 = "dec";                           // December
+	$txt_day1 = "maa";                            // Monday
+	$txt_day2 = "din";                            // Tuesday
+	$txt_day3 = "woe";                            // Wednesday
+	$txt_day4 = "don";                            // Thursday
+	$txt_day5 = "vry";                            // Friday
+	$txt_day6 = "zat";                            // Saturday
+	$txt_day7 = "zon";                            // Sunday
+	$txt_rain = "regen";                           // Rain
+	$txt_baro = "barometer";                      // Barometer (pressure)
+	$txt_temp = "temperatuur";                    // Temperature
+	$txt_temp_in = "temperatuur binnen";          // Indoor Temperature
+	$txt_wind_sp = "windsnelheid";                   // Windspeed
+	$txt_wind_sp_av = "windsnelheid gem.";            // Average Windspeed
+	$txt_wind_gs = "windvlaag";             // Gust Windspeed
+	$txt_wind_dr = "windrichting";              // Wind Direction
+	$txt_wind_dr_av = "windrichting gem";       // Average Wind Direction
+	$txt_solar = "solar";                         // Solar radiation
+	$txt_uv = "UV";                               // Ultra Violet Radiation
+	$txt_hum = "luchtvochtigheid";                        // Humidity
+	$txt_lightning = "bliksem inslagen";         // Lightning Strikes
+	$txt_temp1 = "temp";                          // Temp (short form for Temperature/Dew Point/Humidity graph)
+	$txt_dew1 = "dauw";                            // Dew (short form for Temperature/Dew Point/Humidity graph)
+	$txt_hum1 = "vocht";                            // Hum (short form for Temperature/Dew Point/Humidity graph)
+	$txt_1h = "- laatste uur";                // Last whole hour
+	$txt_7d = "- laatste 7 dagen";                    // Last 7 days
+	$txt_60m = "- laatste 60 minuten";               // Last 60 minutes
+	$txt_24h = "- laatste 24 uur";                 // Last 24 hours
+	$txt_31d = "- laatste 31 dagen";                  // Last 31 days
+	$txt_12m = "- laatste 12 maanden";                // Last 12 months
+	$txt_yester = "gisteren";                    // Yesterday
+	$txt_today = "vandaag";                         // Today
+	$txt_7day = "laatste 7 dagen";                    // Last 7 days (used in tank graphs)
+	$txt_date = "datum";                           // Date (used on 31 day graphs
+	$txt_N = "N";                                 // N (compass point North)
+	$txt_E = "O";                                 // E (compass point East)
+	$txt_S = "Z";                                 // S (compass point South)
+	$txt_W = "W";                                 // W (compass point West)
+	$txt_max = "max";                             // max (used in legend for maximum)
+	$txt_min = "min";                             // min (used in legend for minimum)
+} elseif ($lang == 'fr') {
+	$txt_mth1 = "jan";                            // January
+	$txt_mth2 = "fév";                            // February
+	$txt_mth3 = "mar";                            // March
+	$txt_mth4 = "avr";                            // April
+	$txt_mth5 = "mai";                            // May
+	$txt_mth6 = "juin";                            // June
+	$txt_mth7 = "jul";                            // July
+	$txt_mth8 = "août";                            // August
+	$txt_mth9 = "sep";                            // September
+	$txt_mth10 = "oct";                           // October
+	$txt_mth11 = "nov";                           // November
+	$txt_mth12 = "déc";                           // December
+	$txt_day1 = "lun";                            // Monday
+	$txt_day2 = "mar";                            // Tuesday
+	$txt_day3 = "mer";                            // Wednesday
+	$txt_day4 = "jeu";                            // Thursday
+	$txt_day5 = "ven";                            // Friday
+	$txt_day6 = "sam";                            // Saturday
+	$txt_day7 = "dim";                            // Sunday
+	$txt_rain = "pluies";                           // Rain
+	$txt_baro = "baromètre";                      // Barometer (pressure)
+	$txt_temp = "température";                    // Temperature
+	$txt_temp_in = "température intérieur";          // Indoor Temperature
+	$txt_wind_sp = "vitesse du vent";                   // Windspeed
+	$txt_wind_sp_av = "vitesse moyenne";            // Average Windspeed
+	$txt_wind_gs = "vitesse rafale";             // Gust Windspeed
+	$txt_wind_dr = "direction du vent";              // Wind Direction
+	$txt_wind_dr_av = "direction du vent moyenne";       // Average Wind Direction
+	$txt_solar = "solaire";                         // Solar radiation
+	$txt_uv = "UV";                               // Ultra Violet Radiation
+	$txt_hum = "humidité";                        // Humidity
+	$txt_lightning = "Foudre ";         // Lightning Strikes
+	$txt_temp1 = "temp";                          // Temp (short form for Temperature/Dew Point/Humidity graph)
+	$txt_dew1 = "rosée";                            // Dew (short form for Temperature/Dew Point/Humidity graph)
+	$txt_hum1 = "hum";                            // Hum (short form for Temperature/Dew Point/Humidity graph)
+	$txt_1h = "- dernière heure";                // Last whole hour
+	$txt_7d = "- 7 derniers jours";                    // Last 7 days
+	$txt_60m = "- 60 dernières minutes";               // Last 60 minutes
+	$txt_24h = "- 24 derniers jours";                 // Last 24 hours
+	$txt_31d = "- 31 derniers jours";                  // Last 31 days
+	$txt_12m = "- 12 derniers Mois";                // Last 12 months
+	$txt_yester = "hier";                    // Yesterday
+	$txt_today = "aujourd'hui";                         // Today
+	$txt_7day = "7 derniers jours";                    // Last 7 days (used in tank graphs)
+	$txt_date = "date";                           // Date (used on 31 day graphs
+	$txt_N = "N";                                 // N (compass point North)
+	$txt_E = "E";                                 // E (compass point East)
+	$txt_S = "S";                                 // S (compass point South)
+	$txt_W = "O";                                 // W (compass point West)
+	$txt_max = "max";                             // max (used in legend for maximum)
+	$txt_min = "min";                             // min (used in legend for minimum)
+} elseif ($lang == 'de'){
+	$txt_mth1 = "Jan";                            // January
+	$txt_mth2 = "Feb";                            // February
+	$txt_mth3 = "Mrz";                            // March
+	$txt_mth4 = "Apr";                            // April
+	$txt_mth5 = "Mai";                            // May
+	$txt_mth6 = "Juni";                            // June
+	$txt_mth7 = "Jul";                            // July
+	$txt_mth8 = "Aug";                            // August
+	$txt_mth9 = "Sep";                            // September
+	$txt_mth10 = "Okt";                           // October
+	$txt_mth11 = "Nov";                           // November
+	$txt_mth12 = "Dec";                           // December
+	$txt_day1 = "Mon";                            // Monday
+	$txt_day2 = "Die";                            // Tuesday
+	$txt_day3 = "Mit";                            // Wednesday
+	$txt_day4 = "Don";                            // Thursday
+	$txt_day5 = "Frei";                            // Friday
+	$txt_day6 = "Sam";                            // Saturday
+	$txt_day7 = "Son";                            // Sunday
+	$txt_rain = "Regen";                           // Rain
+	$txt_baro = "Luftdruck";                      // Barometer (pressure)
+	$txt_temp = "Temperatur";                    // Temperature
+	$txt_temp_in = "Temperature Innen";          // Indoor Temperature
+	$txt_wind_sp = "Windgeschwindigkeit";                   // Windspeed
+	$txt_wind_sp_av = "Durchschnitt Windgeschwindigkeit";            // Average Windspeed
+	$txt_wind_gs = "Bö Geschwindigkeit";             // Gust Windspeed
+	$txt_wind_dr = "Windrichtung";              // Wind Direction
+	$txt_wind_dr_av = "Durchschnitt Windrichtung";       // Average Wind Direction
+	$txt_solar = "Solar";                         // Solar radiation
+	$txt_uv = "UV";                               // Ultra Violet Radiation
+	$txt_hum = "Feuchtigkeit";                        // Humidity
+	$txt_lightning = "Blitz Schläge";         // Lightning Strikes
+	$txt_temp1 = "Temp";                          // Temp (short form for Temperature/Dew Point/Humidity graph)
+	$txt_dew1 = "Tau";                            // Dew (short form for Temperature/Dew Point/Humidity graph)
+	$txt_hum1 = "Feuchtigkeit";                            // Hum (short form for Temperature/Dew Point/Humidity graph)
+	$txt_1h = "- Letzte ganze Stunde";                // Last whole hour
+	$txt_7d = "- Letzte 7 Tage";                    // Last 7 days
+	$txt_60m = "- Letzten 60 Minuten";               // Last 60 minutes
+	$txt_24h = "- Letzte 24 Stunden";                 // Last 24 hours
+	$txt_31d = "- Letzte 31 Tage";                  // Last 31 days
+	$txt_12m = "- Letzte 12 Monate";                // Last 12 months
+	$txt_yester = "Gestern";                    // Yesterday
+	$txt_today = "Heute";                         // Today
+	$txt_7day = "Letzte 7 Tage";                    // Last 7 days (used in tank graphs)
+	$txt_date = "Datum";                           // Date (used on 31 day graphs
+	$txt_N = "N";                                 // N (compass point North)
+	$txt_E = "E";                                 // E (compass point East)
+	$txt_S = "S";                                 // S (compass point South)
+	$txt_W = "W";                                 // W (compass point West)
+	$txt_max = "max";                             // max (used in legend for maximum)
+	$txt_min = "min";                             // min (used in legend for minimum)
+}
+else {   // else english
+$txt_mth1 = "Jan";                            // January
+$txt_mth2 = "Feb";                            // February
+$txt_mth3 = "Mar";                            // March
+$txt_mth4 = "Apr";                            // April
+$txt_mth5 = "May";                            // May
+$txt_mth6 = "Jun";                            // June
+$txt_mth7 = "Jul";                            // July
+$txt_mth8 = "Aug";                            // August
+$txt_mth9 = "Sep";                            // September
+$txt_mth10 = "Oct";                           // October
+$txt_mth11 = "Nov";                           // November
+$txt_mth12 = "Dec";                           // December
+$txt_day1 = "Mon";                            // Monday
+$txt_day2 = "Tue";                            // Tuesday
+$txt_day3 = "Wed";                            // Wednesday
+$txt_day4 = "Thu";                            // Thursday
+$txt_day5 = "Fri";                            // Friday
+$txt_day6 = "Sat";                            // Saturday
+$txt_day7 = "Sun";                            // Sunday
+$txt_rain = "Rain";                           // Rain
+$txt_baro = "Barometer";                      // Barometer (pressure)
+$txt_temp = "Temperature";                    // Temperature
+$txt_temp_in = "Indoor Temperature";          // Indoor Temperature
+$txt_wind_sp = "Windspeed";                   // Windspeed
+$txt_wind_sp_av = "Avg Windspeed";            // Average Windspeed
+$txt_wind_gs = "Gust Windspeed";             // Gust Windspeed
+$txt_wind_dr = "Wind Direction";              // Wind Direction
+$txt_wind_dr_av = "Avg Wind Direction";       // Average Wind Direction
+$txt_solar = "Solar";                         // Solar radiation
+$txt_uv = "UV";                               // Ultra Violet Radiation
+$txt_hum = "Humidity";                        // Humidity
+$txt_lightning = "Lightning Strikes";         // Lightning Strikes
+$txt_temp1 = "Temp";                          // Temp (short form for Temperature/Dew Point/Humidity graph)
+$txt_dew1 = "Dew";                            // Dew (short form for Temperature/Dew Point/Humidity graph)
+$txt_hum1 = "Hum";                            // Hum (short form for Temperature/Dew Point/Humidity graph)
+$txt_1h = "- Last whole hour";                // Last whole hour
+$txt_7d = "- Last 7 days";                    // Last 7 days
+$txt_60m = "- Last 60 minutes";               // Last 60 minutes
+$txt_24h = "- Last 24 hours";                 // Last 24 hours
+$txt_31d = "- Last 31 days";                  // Last 31 days
+$txt_12m = "- Last 12 Months";                // Last 12 months
+$txt_yester = "Yesterday";                    // Yesterday
+$txt_today = "Today";                         // Today
+$txt_7day = "Last 7 days";                    // Last 7 days (used in tank graphs)
+$txt_date = "Date";                           // Date (used on 31 day graphs
+$txt_N = "N";                                 // N (compass point North)
+$txt_E = "E";                                 // E (compass point East)
+$txt_S = "S";                                 // S (compass point South)
+$txt_W = "W";                                 // W (compass point West)
+$txt_max = "max";                             // max (used in legend for maximum)
+$txt_min = "min";                             // min (used in legend for minimum)
+}
+
+// End of tailoring
+?>

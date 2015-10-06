@@ -1,0 +1,29 @@
+<?php
+# In this file you specify the "draw" links used by METEOPLUG to create a graph or return data
+# ------------------------------------------------------------------------------
+#  FIRST for users which use METEOPLUG as their weather-program:
+# ------------------------------------------------------------------------------
+# 		key for the load data url as described in the wiki 
+#
+$mp_load	= "test";	// as long as you not put your key here the test-data is used
+#
+# ------------------------------------------------------------------------------
+# 		Now for all other paying users of Meteoplug 
+#		Below are the keys to display the Meteoplug graphs BUT it are my demo ones
+#		Your  keys will be different as your own data should be used
+# ------------------------------------------------------------------------------
+#               This is the key/draw part of the URL for the all-in-one page. 
+#
+$mp_allinone	="7c747a767d76343c3c3a3c6c393579743d393a25293a3c&engine=javascript";
+#
+#               This one is for the  dashboard. This one is free for Meteobridge users and will be replaced
+#
+$mp_dashboard	= "9595949d9c8cc0cfccc2cd9ddedfd6d79fd4c6c6c2f28ac7c3dcc3c3d0d2";
+#
+#               This is for the demo WD-live.
+#
+$mp_wdlive	= "6263696d6a790c05154d03100a160a0117070c462b30382e3e32";
+#
+# -----------------------------------  END OF SETTINGS -------------------------
+#
+

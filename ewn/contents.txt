@@ -1,0 +1,5 @@
+ewn folder contains the scripts to display ewn member maps.
+
+ewn.php script  is started by weather2/wsEwn/ewnMembersHead2.php
+
+

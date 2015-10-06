@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: weather/index.php?p=62/
+Disallow: /weather/index.php?p=62/
+Disallow: weather/index.php?p=62
+Disallow: /weather/index.php?p=62
+Disallow: /index.php?p=62/
+Disallow: index.php?p=62/
+Disallow: /index.php?p=62
+Disallow: index.php?p=62

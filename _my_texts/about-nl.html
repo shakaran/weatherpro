@@ -1,0 +1,51 @@
+<h3 class="blockHead">Over dit Station</h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+Dit station maakt gebruik van een <?php echo $SITE['stationTxt']; ?> weerstation. 
+De gegevens op deze site worden verwerkt door 
+<a href="<?php echo $SITE['WXsoftwareURL']; ?>"><?php echo $SITE['WXsoftwareLongName']; ?></a>.
+<br />	
+Daartoe worden de weergegevens voortdurend gemeten (per onderdeel van een seconde) en continu samengevoegd 
+tot historische data met verschillende (van 5 min tot 1 maand) intervallen.
+<br />	
+<br />	
+Iedere minuut wordt een nieuwe versie van de gegevens naar de server opgeladen.
+<br />	
+<br />	
+Het station bevat een anemometer, neerslagmeter, thermo-hygro sensor
+<?php 
+if ($SITE['UV']) {echo ', UV sensor'; }
+if ($SITE['SOLAR']) { echo ', lichtintensiteit meter';}
+?>. 
+<br />	
+<br />	
+Alles geplaatst ##### in een vrijwel optimale positie voor het meten van correcte gegevens.</p>
+</div>
+
+<h3 class="blockHead"><?php echo $SITE['yourArea']; ?></h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+&nbsp;&nbsp;
+</p>
+</div>
+<h3 class="blockHead">Over deze Website</h3> 
+<div style ="width: 600px; margin: 0 auto;">
+<p style="margin: 10px;">
+&nbsp;&nbsp;
+</p>
+</div>
+<h3 class="blockHead">Credits</h3>
+<div style ="width: 600px; margin: 0 auto;">
+<div style="margin: 10px;">
+<ul>
+<li><a href="http://leuven-template.eu/">Wim van der Kuil - Leuven Template</a></li>
+<li><a href="http://www.carterlake.org">CarterLake.org</a></li>
+<li><a href="http://saratoga-weather.org/">Ken True - Saratoga Weather</a></li>
+<li><a href="http://www.tnetweather.com">Kevin Reed - TNET Weather</a></li>
+<li><a href="http://www.642weather.com/weather/scripts.php">Mike Challis - Long Beach WA</a></li>
+<li><a href="http://www.doornenburgweer.nl/">Gerard - Doornenburg Weather </a></li>
+<li><a href="http://www.joske-online.be/">Jozef Smolders - Kampenhout Weather </a></li>
+</ul>
+</div>
+<br />	
+</div>

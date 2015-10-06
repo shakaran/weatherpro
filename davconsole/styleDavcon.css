@@ -1,0 +1,240 @@
+@charset "UTF-8";
+/* Ver CW2.3.0 */
+#table_container {
+   width: 900px;
+   margin: 0 auto;
+   font-family: Verdana, Helvetica, sans-serif;
+   font-size: 10pt;
+   color: #585858;
+}
+
+#table_container table {
+   border-width: 0px;
+   border-spacing: 0px 0px;
+}
+
+table {
+   empty-cells: show;
+}
+
+#vueconsole{
+background:url('img/vue_console_lit.png') no-repeat center center;
+height: 554px;
+width: 600px;
+position: relative;
+}
+
+#vp2console{
+background:url('img/vp2_console_lit.png') no-repeat center center;
+height: 440px;
+width: 700px;
+position: relative;
+}
+
+@font-face {
+ font-family: digi;
+ src: url('fonts/digi.eot') /* EOT file for IE */
+}
+
+@font-face {
+ font-family: digi;
+ src: url('fonts/digi.ttf') /* ttf file for CSS3 */
+}
+
+.vajax {
+font-family: digi,Arial;
+position: absolute;
+font-size: 32px;
+line-height: 18px;
+font-weight:400;
+color: #053D6C;
+}
+
+.smallb {
+font-family: arial;
+position: absolute;
+font-size: 11px;
+font-weight: bold;
+color: #053D6C;
+}
+
+.small {
+font-family: arial;
+position: absolute;
+font-size: 11px;
+font-weight: normal;
+color: #053D6C;
+}
+
+.normal {
+font-family: verdana,arial;
+position: absolute;
+font-size: 12px;
+font-weight: normal;
+}
+
+.btnwhi {
+border:1px solid grey;
+padding:1px 2px;
+background-color:white;
+height:22px;
+width:55px;
+border-radius:6px;
+-webkit-border-radius: 6px;
+text-align:center;
+}
+
+.btnyel {
+border:1px solid grey;
+padding:1px 2px;
+background-color:yellow;
+height:22px;
+width:55px;
+border-radius:6px;
+-webkit-border-radius: 6px;
+text-align:center;
+}
+
+.btnbrn {
+border:1px solid grey;
+padding:1px 2px;
+background-color:#3F3831;
+height:22px;
+width:55px;
+border-radius:6px;
+-webkit-border-radius: 6px;
+text-align:center;
+color:white;
+}
+
+.btngrey {
+border:1px solid grey;
+padding:1px 2px;
+background-color:#505058;
+height:22px;
+width:55px;
+border-radius:6px;
+-webkit-border-radius: 6px;
+text-align:center;
+color:white;
+}
+
+/*====================================================
+CSS Tooltips by Adam Whitcroft
+https://github.com/AdamWhitcroft/CSS.Tooltips
+====================================================*/
+
+/*==================================================*/
+/*  $Tooltips - VP2 & Vue Table                     */
+/*==================================================*/
+[data-tip] {
+        position:relative;
+        cursor:none;
+}
+[data-tip]:before {
+        content:'';
+        /* hides the tooltip when not hovered */
+        display:none;
+}
+[data-tip]:after {
+        display:none;
+        content:attr(data-tip);
+        position:absolute;
+        top:3px;
+        left:-55px;
+        padding:2px 3px;
+        background:#C8C8C8;
+        color:#383838;
+        z-index:9;
+        font-size: 12px;
+        height:14px;
+        line-height:14px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        white-space:nowrap;
+        word-wrap:normal;
+}
+[data-tip]:hover:before,
+[data-tip]:hover:after {
+        display:block;
+}
+
+/*====================================================
+CSS Tooltips by Adam Whitcroft
+https://github.com/AdamWhitcroft/CSS.Tooltips
+====================================================*/
+/*==================================================*/
+/*  $Tooltips - Vue Console                         */
+/*==================================================*/
+[vdata-tip] {
+        position:relative;
+        cursor:none;
+}
+[vdata-tip]:before {
+        content:'';
+        /* hides the tooltip when not hovered */
+        display:none;
+}
+[vdata-tip]:after {
+        display:none;
+        content:attr(vdata-tip);
+        position:absolute;
+        top:-12px;
+        left:-5px;
+        padding:2px 3px;
+        background:#C8C8C8;
+        color:#383838;
+        z-index:9;
+        font-size: 12px;
+        height:14px;
+        line-height:14px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        white-space:nowrap;
+        word-wrap:normal;
+}
+[vdata-tip]:hover:before,
+[vdata-tip]:hover:after {
+        display:block;
+}
+
+/* Scroller Box */
+#vue_scroller_container {
+font-family: digi,Arial;
+font-size: 24px;
+color: #053D6C;
+position:absolute;
+top:279px;
+left:232px;
+width: 150px;
+height: 24px;
+overflow: hidden;
+overflow: auto;
+}
+
+#vp2_scroller_container {
+font-family: digi,Arial;
+font-size: 24px;
+color: #053D6C; 
+position:absolute;
+top:268px;
+left:56px;
+width: 405px;
+height: 24px;
+overflow: hidden;
+overflow: auto;
+}
+
+.jscroller2_left, .jscroller2_left_endless {
+ margin: 0;
+ padding: 0;
+ white-space: nowrap;
+}
+
+ #lampsbtn:hover, #tempbtn:hover, #humbtn:hover, #windbtn:hover, #rainbtn:hover, #barbtn:hover,
+ #secndbtn:hover, #WxCenbtn:hover, #fcastbtn:hover, #graphbtn:hover, #hilowbtn:hover, #timebtn:hover, #alarmbtn:hover, #donebtn:hover,
+ #lampsbtnt:hover, #tempbtnt:hover, #humbtnt:hover, #windbtnt:hover, #rainbtnt:hover, #barbtnt:hover,
+ #secndbtnt:hover, #WxCenbtnt:hover, #fcastbtnt:hover, #graphbtnt:hover, #hilowbtnt:hover, #timebtnt:hover, #alarmbtnt:hover, #donebtnt:hover
+ { cursor:pointer; }

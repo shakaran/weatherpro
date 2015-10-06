@@ -1,0 +1,40 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Red Flag Warning',
+    1 => 'Montgomery County',
+    2 => 1430725320,
+    3 => 1430784000,
+    4 => 'FWW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Hamilton; Montgomery; Northern Fulton; Northern Herkimer; Northern Saratoga; Northern Warren; Northern Washington; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'RED FLAG WARNING IN EFFECT FROM NOON TODAY TO 8 PM EDT THIS
+EVENING FOR ALL OF EAST CENTRAL NEW YORK AND WESTERN MASSACHUSETTS',
+  ),
+  1 => 
+  array (
+    0 => 'Red Flag Warning',
+    1 => 'Southern Fulton County',
+    2 => 1430725320,
+    3 => 1430784000,
+    4 => 'FWW.gif',
+    5 => 'Eastern Albany; Eastern Columbia; Eastern Dutchess; Eastern Greene; Eastern Rensselaer; Eastern Schenectady; Eastern Ulster; Hamilton; Montgomery; Northern Fulton; Northern Herkimer; Northern Saratoga; Northern Warren; Northern Washington; Schoharie; Southeast Warren; Southern Fulton; Southern Herkimer; Southern Saratoga; Southern Washington; Western Albany; Western Columbia; Western Dutchess; Western Greene; Western Rensselaer; Western Schenectady; Western Ulster',
+    6 => 'RED FLAG WARNING IN EFFECT FROM NOON TODAY TO 8 PM EDT THIS
+EVENING FOR ALL OF EAST CENTRAL NEW YORK AND WESTERN MASSACHUSETTS',
+  ),
+  2 => 
+  array (
+    0 => 'Red Flag Warning',
+    1 => 'Otsego County',
+    2 => 1430724120,
+    3 => 1430780400,
+    4 => 'FWW.gif',
+    5 => 'Broome; Chemung; Chenango; Cortland; Delaware; Madison; Northern Oneida; Onondaga; Otsego; Schuyler; Seneca; Southern Cayuga; Southern Oneida; Steuben; Sullivan; Tioga; Tompkins; Yates',
+    6 => 'RED FLAG WARNING IN EFFECT FROM 1 PM THIS AFTERNOON TO 7 PM
+EDT THIS EVENING FOR HIGH FIRE DANGER FOR ALL OF CENTRAL NEW YORK
+AND NORTHEAST PENNSYLVANIA',
+  ),
+);
+
+?>

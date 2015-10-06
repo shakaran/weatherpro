@@ -1,0 +1,46 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Dense Fog Advisory',
+    1 => 'New Haven',
+    2 => 1398949980,
+    3 => 1398960000,
+    4 => 'FGY.gif',
+    5 => 'Southern Fairfield; Southern Middlesex; Southern New Haven; Southern New London',
+    6 => 'DENSE FOG THIS MORNING ACROSS COASTAL AREAS',
+  ),
+  1 => 
+  array (
+    0 => 'Areal Flood Watch',
+    1 => 'New Haven',
+    2 => 1398945540,
+    3 => 1398960000,
+    4 => 'FFA.gif',
+    5 => 'Northern Fairfield; Northern Middlesex; Northern New Haven; Northern New London; Southern Fairfield; Southern Middlesex; Southern New Haven; Southern New London',
+    6 => 'AREAS OF FLOODING THROUGH THIS MORNING',
+  ),
+  2 => 
+  array (
+    0 => 'Areal Flood Advisory',
+    1 => 'New Haven',
+    2 => 1398938280,
+    3 => 1398952800,
+    4 => 'FLS.gif',
+    5 => 'Fairfield; Middlesex; New Haven; New London',
+    6 => 'THE NATIONAL WEATHER SERVICE IN UPTON NY HAS EXTENDED THE',
+  ),
+  3 => 
+  array (
+    0 => 'River Flood Warning',
+    1 => 'New Haven',
+    2 => 1398925440,
+    3 => 1399100400,
+    4 => 'FFW.gif',
+    5 => 'Fairfield; New Haven',
+    6 => 'THE FLOOD WARNING CONTINUES FOR',
+  ),
+);
+
+?>

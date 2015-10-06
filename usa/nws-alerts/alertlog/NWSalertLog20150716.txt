@@ -1,0 +1,26 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'Flash Flood Watch',
+    1 => 'Cedar, IA',
+    2 => 1437036840,
+    3 => 1437112800,
+    4 => 'FFA.gif',
+    5 => 'Cedar; Clinton; Des Moines; Henry; Iowa; Jefferson; Johnson; Keokuk; Lee; Louisa; Muscatine; Scott; Van Buren; Washington',
+    6 => 'ROUNDS OF SHOWERS AND THUNDERSTORMS WITH HEAVY RAIN',
+  ),
+  1 => 
+  array (
+    0 => 'Flash Flood Watch',
+    1 => 'Clinton, IA',
+    2 => 1437036840,
+    3 => 1437112800,
+    4 => 'FFA.gif',
+    5 => 'Cedar; Clinton; Des Moines; Henry; Iowa; Jefferson; Johnson; Keokuk; Lee; Louisa; Muscatine; Scott; Van Buren; Washington',
+    6 => 'ROUNDS OF SHOWERS AND THUNDERSTORMS WITH HEAVY RAIN',
+  ),
+);
+
+?>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Tühista"/>
+  <s key="Change" value="Vaheta"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Ilma prognoos alates 0, esitatud Norra Ilmastiku Instituut ja NRK"/>
+  <s key="Forecast from {0}" value="Ilmaennustus alates {0}"/>
+  <s key="Friday" value="Reede"/>
+  <s key="Monday" value="Esmaspäev"/>
+  <s key="Saturday" value="Laupäev"/>
+  <s key="Sunday" value="Pühapäev"/>
+  <s key="Thursday" value="Neljapäev"/>
+  <s key="Tuesday" value="Teisipäev"/>
+  <s key="Wednesday" value="Kolmapäev"/>
+  <s key="Fr" value="Reede"/>
+  <s key="Mo" value="Esm"/>
+  <s key="Sa" value="Lau"/>
+  <s key="Su" value="Püh"/>
+  <s key="Th" value="Nel"/>
+  <s key="Tu" value="Tei"/>
+  <s key="We" value="Kol"/>
+  <s key="LIVE" value="HETKEL"/>
+  <s key="Loading" value="Laeb"/>
+  <s key="April" value="Aprill"/>
+  <s key="August" value="August"/>
+  <s key="December" value="Detsember"/>
+  <s key="February" value="Veebruar"/>
+  <s key="January" value="Jaanuar"/>
+  <s key="July" value="Juuli"/>
+  <s key="June" value="Juuni"/>
+  <s key="March" value="Märts"/>
+  <s key="May" value="Mai"/>
+  <s key="November" value="November"/>
+  <s key="October" value="Oktoober"/>
+  <s key="September" value="September"/>
+  <s key="Network error" value=" Interneti viga"/>
+  <s key="No weather" value="No Ilm"/>
+  <s key="Retry" value="Uuesti"/>
+  <s key="Tomorrow" value="Homme"/>
+  <s key="Updating weather" value="Uuenda ilma"/>
+  <s key="Please wait..." value="Palun oota..."/>
+  <s key="Weather expired" value="Aegunud ilm"/>
+  <s key="Loading" value="Laeb"/>
+</body>

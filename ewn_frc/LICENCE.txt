@@ -1,0 +1,27 @@
+LICENSE EUROPEAN WEATHER NETWORK (EWN) MAPS AND FORECASTMAPS
+
+Updated: 11/01/2013
+
+1. You are not allowed to change the scripts without permission(s); except as stated in 1.1. 
+   Abuse about this will result in exclusion of the network without notice.
+   
+   1.1 ALLOWED CHANGES
+       - CSS-file so the script fit your website
+       - Settings-file
+       
+2. You are not allowed to re-use any datafiles on EWN (ex. datafiles EWN download for the usermaps), 
+   images, scripts or maps from EWN without permission. 
+   If you are allowed you have to state this on your webpage.
+
+   2.1 All datas are copyright each provider. You need to ask the provider for permission to re-use the data.
+       
+3. Except where otherwise noted, are content on EWN-pages (on both europeanweathernetwork.eu and usermaps) 
+   licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. 
+   To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/3.0/.
+       
+4. EWN are not responsible for the freshness or validity of data.
+
+5. This program is distributed in the hope that it will be usefull, but without any warranty; 
+   without even the implied warranty of merchantability or fitness for a particular purpose.
+   
+6. This license applies to EWN v 5.00 and later as of 12/01/2013.

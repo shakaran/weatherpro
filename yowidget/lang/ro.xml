@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Renunţaţi la licenţa Unlimited"/>
+  <s key="Absent" value="Lipsă"/>
+  <s key="Add" value="Adaugă"/>
+  <s key="Animate" value="Animează"/>
+  <s key="Apply" value="Aplică"/>
+  <s key="Astronomy" value="Astronomie"/>
+  <s key="Day Length" value="Durată zi"/>
+  <s key="Moon Phase" value="Faza lunii"/>
+  <s key="Sunrise" value="Răsărit"/>
+  <s key="Sunset" value="Apus"/>
+  <s key="Auto update weather" value="Actualizare automată a vremii"/>
+  <s key="Bad ICAO code" value="Cod ICAO eronat"/>
+  <s key="Buy YoWindow Unlimited!" value="Cumpără YoWindow Unlimited!"/>
+  <s key="Calendar" value="Calendar"/>
+  <s key="Cancel" value="Renunţă"/>
+  <s key="Change" value="Modifică"/>
+  <s key="Code" value="Cod"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Prognoză meteo de la {0}, asigurată de Institutul Meteorologic Norwegian şi de NRK"/>
+  <s key="Forecast from {0}" value="Prognoză de la {0}"/>
+  <s key="Current weather" value="Starea vremii"/>
+  <s key="Friday" value="Vineri"/>
+  <s key="Monday" value="Luni"/>
+  <s key="Saturday" value="Sâmbătă"/>
+  <s key="Sunday" value="Duminică"/>
+  <s key="Thursday" value="Joi"/>
+  <s key="Tuesday" value="Marţi"/>
+  <s key="Wednesday" value="Miercuri"/>
+  <s key="Fr" value="Vi"/>
+  <s key="Mo" value="Lu"/>
+  <s key="Sa" value="Sâ"/>
+  <s key="Su" value="Du"/>
+  <s key="Th" value="Jo"/>
+  <s key="Tu" value="Ma"/>
+  <s key="We" value="Mi"/>
+  <s key="day ago" value="zi în urmă"/>
+  <s key="days ago" value="zile în urmă"/>
+  <s key="Default" value="Implicit"/>
+  <s key="Blowing" value="Suflă"/>
+  <s key="Clear" value="Senin"/>
+  <s key="Cloudy" value="Înnorat"/>
+  <s key="Overcast" value="Acoperit de nori"/>
+  <s key="Drizzle" value="Burniţă"/>
+  <s key="Fair" value="Frumos"/>
+  <s key="Fog" value="Ceaţă"/>
+  <s key="Freezing" value="Îngheţ"/>
+  <s key="Hail" value="Grindină"/>
+  <s key="Haze" value="Negură"/>
+  <s key="Heavy" value="Încărcat"/>
+  <s key="Ice Crystals" value="Cristale de gheaţă"/>
+  <s key="Ice Pellets" value="Pelete de gheaţă"/>
+  <s key="In Vicinity" value="În vecinătatea"/>
+  <s key="Light" value="Uşor"/>
+  <s key="Low Drifting" value="Mişcător"/>
+  <s key="Mist" value="Ceaţă"/>
+  <s key="Mostly Cloudy" value="Mai mult noros"/>
+  <s key="Partial" value="În parte"/>
+  <s key="Partly Cloudy" value="Parţial noros"/>
+  <s key="Patches" value="Grupări"/>
+  <s key="Rain" value="Ploaie"/>
+  <s key="Rain And Thunder" value="Ploaie şi tunete"/>
+  <s key="Sand" value="Nisip"/>
+  <s key="Shallow" value="Puţin"/>
+  <s key="Shower" value="Ploaie torenţială"/>
+  <s key="Shower With Thunder" value="Ploaie torenţială cu tunete"/>
+  <s key="Sleet" value="Lapoviţă"/>
+  <s key="Small Hail" value="Grindină măruntă"/>
+  <s key="Smoke" value="Fum"/>
+  <s key="Snow" value="Ninge"/>
+  <s key="Snow And Thunder" value="Ninge cu tunete"/>
+  <s key="Snow Grains" value="Fulgi de zăpadă"/>
+  <s key="Snow Showers" value="Ninge"/>
+  <s key="Thunderstorm" value="Furtună cu trăznete"/>
+  <s key="Unknown Precipitation" value="Precipitaţii necunoscute"/>
+  <s key="Widespread Dust Haze" value="Negură pe arii extinse"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Cheie de licenţă invalidă. Reîncearcă. Asigură-te că ai tastat corect cheia. Încearcă cu copiază/lipeşte."/>
+  <s key="Wrong license key" value="Cheie de licenţă greşită"/>
+  <s key="You will have to restart the application for this to take effect" value="Restartează aplicaţia pentru ca modificările să aibe efect"/>
+  <s key="Language change" value="Schimbă limba"/>
+  <s key="No limits!" value="Fără limitări!"/>
+  <s key="Buy now!" value="Cumpără acum!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Cumpără Licenţa Unlimited  pentru a scoate limitările."/>
+  <s key="Not now" value="Nu acum"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Pentru finalizarea înregistrării tastează cheia de licenţă pe care am trimis-o. Sfat: foloseşte copiază/lipeşte."/>
+  <s key="License registration" value="Înregistrare licenţă"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Mulţumim că aţi înregistrat YoWindow! Toate limitările au fost scoase. Enjoy!"/>
+  <s key="Distance" value="Distanţa"/>
+  <s key="Down" value="Jos"/>
+  <s key="Download" value="Descarcă"/>
+  <s key="Enter weather source URL please" value="Rog tastează adresa URL a sursei prognozei"/>
+  <s key="Error" value="Eroare"/>
+  <s key="The location is already added" value="Locaţia este deja adăugată"/>
+  <s key="Exit" value="Ieşire"/>
+  <s key="To get started, pick your home location" value="Pentru a începe, alege locaţia dorită"/>
+  <s key="Forecast Panel" value="Panoul prognozei"/>
+  <s key="Full Screen" value="Ecran complet"/>
+  <s key="Help" value="Ajutor"/>
+  <s key="Highlight weather station parameters" value="Evidenţiază parametrii staţiei meteo"/>
+  <s key="Home" value="Acasă"/>
+  <s key="h" value="h"/>
+  <s key="Inspector" value="Inspector"/>
+  <s key="Landscape" value="Decor"/>
+  <s key="Foreground" value="Prim plan"/>
+  <s key="Landscape Options" value="Opţiuni decor"/>
+  <s key="Landscape pictures" value="Poze decor"/>
+  <s key="Landscapes" value="Decoruri"/>
+  <s key="Language:" value="Limba:"/>
+  <s key="English" value="Română"/>
+  <s key="System Default" value="Opţiunile implicite ale sistemului"/>
+  <s key="Latitude" value="Latitudine"/>
+  <s key="{0} locations" value="{0} locaţii"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Acum poţi să adaugi maxim {0} locaţii. În versiunea Unlimited poţi să adaugi câte locaţii doreşti."/>
+  <s key="Weather auto-update is off" value="Actualizarea automată a vremii este oprită"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Apasă F5 pentru actualizarea vremii.  Vremea se actualizează automat în versiunea Unlimited."/>
+  <s key="{0} weather forecast days only" value="doar {0} zile de prognoze meteo"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Acum ai acces la {0} zile de prognoze meteo.  În versiunea Unlimited ai prognoze pe {1} zile."/>
+  <s key="Licence key" value="Cheie de licenţă"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Vremea se actualizează automat în versiunea Unlimited"/>
+  <s key="LIVE" value="ACUM"/>
+  <s key="Load weather from personal weather station" value="Încarcă vremea din staţia meteo personalizată"/>
+  <s key="Loading" value="Se încarcă"/>
+  <s key="Loading landscape..." value="Se încarcă decorul ..."/>
+  <s key="Location" value="Locaţia"/>
+  <s key="Location ID" value="ID-ul locaţiei"/>
+  <s key="Location Properties" value="Proprietăţile locaţiei"/>
+  <s key="id_internet_link" value="Vezi locaţia ta pe site"/>
+  <s key="Locations" value="Locaţii"/>
+  <s key="All locations" value="Toate locaţiile"/>
+  <s key="All regions" value="Toate regiunile"/>
+  <s key="All states" value="Toate statele"/>
+  <s key="Change landscape" value="Schimbă decorul"/>
+  <s key="Select a location" value="Selectează o locaţie"/>
+  <s key="The location is already added" value="Locaţia este deja adăugată"/>
+  <s key="Location is not selected yet" value="Locaţia nu este încă selectată"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Marile oraşe (peste 100.000 locuitori)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Eroare de reţea, locaţiile nu sunt accesibile. Momentan nu se pot selecta locaţii."/>
+  <s key="No locations in scope" value="Nici o locaţie în gamă"/>
+  <s key="Scope" value="Domeniu"/>
+  <s key="Region" value="Regiune"/>
+  <s key="Cannot find a location?" value="Nu găsiţi o locaţie?"/>
+  <s key="Set as Home" value="Stabileşte ca Acasă"/>
+  <s key="Current Location" value="Locaţia curentă"/>
+  <s key="Unknown" value="Necunoscut"/>
+  <s key="Longitude" value="Longitudine"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Privind spre Nord (Vântul vestic suflă dinspre stânga)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Privind spre Sud (Vântul vestic suflă dinspre dreapta)"/>
+  <s key="April" value="Aprilie"/>
+  <s key="August" value="August"/>
+  <s key="December" value="Decembrie"/>
+  <s key="February" value="Februarie"/>
+  <s key="January" value="Ianuarie"/>
+  <s key="July" value="Iulie"/>
+  <s key="June" value="Iunie"/>
+  <s key="March" value="Martie"/>
+  <s key="May" value="Mai"/>
+  <s key="November" value="Noiembrie"/>
+  <s key="October" value="Octombrie"/>
+  <s key="September" value="Septembrie"/>
+  <s key="About" value="Despre"/>
+  <s key="Facebook Edition" value="Ediţia Facebook"/>
+  <s key="License Agreement" value="Acord de licenţă"/>
+  <s key="Program" value="Meniu YoWindow"/>
+  <s key="Visit our Forum" value="Vizitează forumul"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow pentru site-ul sau blog-ul tău"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="{0} minute în urmă"/>
+  <s key="{0} minutes forward" value="{0} minute după"/>
+  <s key="Name" value="Nume"/>
+  <s key="Network error" value="Eroare reţea"/>
+  <s key="Network not available" value="Reţeaua nu este disponibilă"/>
+  <s key="It is available on {0}" value="Este disponibil în {0}"/>
+  <s key="New version released" value="Versiune nouă lansată"/>
+  <s key="Next Day" value="Ziua următoare"/>
+  <s key="No" value="Nu"/>
+  <s key="No weather" value="Fără prognoză"/>
+  <s key="N/A" value="N/A"/>
+  <s key="Notify me when a new version is available" value="Anunţă-mă când se lansează o versiune nouă"/>
+  <s key="Online" value="Online"/>
+  <s key="Open {0}" value="Porneşte {0}"/>
+  <s key="Options" value="Opţiuni"/>
+  <s key="Advanced" value="Avansat"/>
+  <s key="Application choice" value="Cerere alegere"/>
+  <s key="Date" value="Data"/>
+  <s key="Display" value="Afişează"/>
+  <s key="Animate clouds" value="Animează norii"/>
+  <s key="Default" value="Implicit"/>
+  <s key="Full screen mode" value="Mod tot ecranul"/>
+  <s key="Quality" value="Calitate"/>
+  <s key="Custom" value="Personalizat"/>
+  <s key="Excellent" value="Excelent"/>
+  <s key="Moderate" value="Moderat"/>
+  <s key="Number of days to display:" value="Număr zile de afişat:"/>
+  <s key="Tile contents:" value="Conţinut mozaic:"/>
+  <s key="General" value="General"/>
+  <s key="Contents" value="Conţinut"/>
+  <s key="Show N/A parameters" value="Arată parametrii N/A (nedisponibili)"/>
+  <s key="Live indicator" value="Indicator ACUM"/>
+  <s key="Locations" value="Locaţii"/>
+  <s key="Operation successful!" value="Operaţiune efectuată cu succes!"/>
+  <s key="Refresh locations DB" value="Reîmprospătează baza de date a locaţiilor"/>
+  <s key="Reset to defaults" value="Resetează ca implicit"/>
+  <s key="Add" value="Adaugă"/>
+  <s key="User interface" value="Interfaţă utilizator"/>
+  <s key="Screen saver" value="Screen saver"/>
+  <s key="Time Bar" value="Bara de timp"/>
+  <s key="Unit system:" value="Sistemul de unităţi:"/>
+  <s key="Units" value="Unităţi"/>
+  <s key="Auto-detected" value="Auto-detectare"/>
+  <s key="Custom" value="Personalizat"/>
+  <s key="Distance:" value="Distanţa:"/>
+  <s key="Metric" value="Metric"/>
+  <s key="Russia" value="Rusia"/>
+  <s key="Finland" value="Finlanda"/>
+  <s key="Pressure:" value="Presiune:"/>
+  <s key="Temperature:" value="Temperatura:"/>
+  <s key="US" value="US"/>
+  <s key="Wind speed:" value="Viteza vântului:"/>
+  <s key="Landscape Options" value="Opţiuni decor"/>
+  <s key="Show Daylight Diagram" value="Arată graficul zilei"/>
+  <s key="Show Forecast Panel" value="Arată panoul prognozei meteo"/>
+  <s key="Show Full Screen button" value="Arată butonul pentru tot ecranul"/>
+  <s key="Show Inspector" value="Arată inspectorul"/>
+  <s key="Show Time Bar" value="Arată bara de timp"/>
+  <s key="Show User interface" value="Arată interfaţa utilizator"/>
+  <s key="Show forecast when current weather is expired" value="Arată prognoza când starea vremii actuală a expirat"/>
+  <s key="Organize" value="Organizează"/>
+  <s key="Organize locations" value="Organizează locaţiile"/>
+  <s key="Organize pictures" value="Organizează pozele"/>
+  <s key="Pictures" value="Poze"/>
+  <s key="press" value="apasă"/>
+  <s key="Falling" value="Scădere"/>
+  <s key="Falling Rapidly" value="Scădere rapidă"/>
+  <s key="Rising" value="Creştere"/>
+  <s key="Rising Rapidly" value="Creştere rapidă"/>
+  <s key="Steady" value="Constantă"/>
+  <s key="Previous Day" value="Ziua anterioară"/>
+  <s key="Properties" value="Proprietăţi"/>
+  <s key="Refresh Locations data base" value="Reîmprospătează locaţii DB"/>
+  <s key="Register" value="Înregistrare"/>
+  <s key="Remove" value="Elimină"/>
+  <s key="Rename" value="Redenumeşte"/>
+  <s key="Rename location" value="Redenumeşte locaţia"/>
+  <s key="Rename picture" value="Redenumeşte poza"/>
+  <s key="Retry" value="Reîncearcă"/>
+  <s key="Run with Windows (minimized to tray)" value="Porneşte cu Windows (minimizat în zona de notificare)"/>
+  <s key="Season map" value="Hartă anotimp"/>
+  <s key="Select" value="Selectează"/>
+  <s key="Select country" value="Selectează ţara"/>
+  <s key="Select a landscape" value="Selectează un decor"/>
+  <s key="Select location" value="Selectează locaţie"/>
+  <s key="Select region" value="Selectează regiune"/>
+  <s key="Select state" value="Selectează stat"/>
+  <s key="Set as default" value="Stabileşte ca implicit"/>
+  <s key="Set YoWindow as ScreenSaver" value="Stabileşte YoWindow ca ScreenSaver"/>
+  <s key="Setup" value="Instalare"/>
+  <s key="Show" value="Arată"/>
+  <s key="Show again" value="Arată din nou"/>
+  <s key="Speed" value="Viteza"/>
+  <s key="Time" value="Timp"/>
+  <s key="{0} ago" value="acum {0}"/>
+  <s key="Time zone" value="Fus orar"/>
+  <s key="Today" value="Azi"/>
+  <s key="Tomorrow" value="Mâine"/>
+  <s key="Tom." value="Mâine"/>
+  <s key="Tonight" value="La noapte"/>
+  <s key="Add New Location" value="Adaugă locaţie nouă"/>
+  <s key="Open Calendar..." value="Deschide Calendar..."/>
+  <s key="Show Less Days" value="Arată mai puţine zile"/>
+  <s key="Show More Days" value="Arată mai multe zile"/>
+  <s key="Update Weather" value="Actualizează vremea"/>
+  <s key="Unknown" value="Necunoscut"/>
+  <s key="Up" value="Sus"/>
+  <s key="Update interval" value="Interval actualizare"/>
+  <s key="Update weather" value="Actualizare vreme"/>
+  <s key="Updating weather" value="Actualizează vremea"/>
+  <s key="View" value="Vizualizare"/>
+  <s key="Please wait..." value="Vă rugăm aşteptaţi..."/>
+  <s key="Weather" value="Vremea"/>
+  <s key="Daily rain total" value="Total ploi zilnice"/>
+  <s key="Weather expired" value="Expirare prognoză"/>
+  <s key="Feels like" value="Se simt cam"/>
+  <s key="Day maximum temperature" value="Temperatura maximă a zilei"/>
+  <s key="Day minimum temperature" value="Temperatura minimă a zilei"/>
+  <s key="Weather forecast" value="Prognoza meteo"/>
+  <s key="Forecast issued" value="Prognoza emisă"/>
+  <s key="Hail" value="Grindină"/>
+  <s key="Humidity" value="Umiditate"/>
+  <s key="Observed" value="Observat"/>
+  <s key="Pressure" value="Presiune"/>
+  <s key="PWS only" value="Doar PWS (Serviciul Meteorologic Public)"/>
+  <s key="Rain" value="Ploaie"/>
+  <s key="Rain/Snow rate" value="Ritm de ploaie/zăpadă"/>
+  <s key="Description" value="Descriere"/>
+  <s key="Sky image" value="Orizont"/>
+  <s key="Snow" value="Ninge"/>
+  <s key="Snow level" value="Nivel zăpadă"/>
+  <s key="Weather station properties" value="Proprietăţi staţie meteo"/>
+  <s key="Temperature" value="Temperatură"/>
+  <s key="Temperature range" value="Interval de temperatură"/>
+  <s key="Update error" value="Eroare actualizare"/>
+  <s key="Update time" value="Actualizare oră"/>
+  <s key="UV index" value="Indicele UV"/>
+  <s key="Visibility" value="Vizibilitate"/>
+  <s key="Unlimited" value="Nelimitat"/>
+  <s key="Wind" value="Vânt"/>
+  <s key="Calm" value="Liniştit"/>
+  <s key="Variable" value="Variabil"/>
+  <s key="Welcome to YoWindow!" value="Bun venit la YoWindow!"/>
+  <s key="Wind direction:" value="Direcţia vântului:"/>
+  <s key="East" value="Est"/>
+  <s key="North" value="Nord"/>
+  <s key="South" value="Sud"/>
+  <s key="West" value="Vest"/>
+  <s key="Yes" value="Da"/>
+  <s key="Close screensaver on mouse move" value="Închide screensaver la mişcarea mausului"/>
+  <s key="Color" value="Culoare"/>
+  <s key="Background" value="Fundal"/>
+  <s key="Choose color" value="Alege culoarea"/>
+  <s key="System tray" value="Zona de notificare (tray)"/>
+  <s key="Transparent" value="Transparent"/>
+  <s key="Precipitation chance" value="Şanse de precipitaţii"/>
+  <s key="Rain chance" value="Şanse de ploaie"/>
+  <s key="Snow chance" value="Şanse de ninsoare"/>
+  <s key="{0} only" value="doar {0}"/>
+  <s key="US" value="US"/>
+  <s key="Dew point" value="Punct de rouă"/>
+  <s key="I want to have fun" value="Vreau să mă distrez"/>
+  <s key="Enable surprises" value="Activează surprizele"/>
+  <s key="NWS forecasts for the USA" value="Prognoza NWS pentru USA"/>
+  <s key="h" value="h"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Deschide"/>
+  <s key="Browse" value="Răsfoieşte"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Tastează calea către o poză sau un decor de pe Internet sau PC-ul tău"/>
+  <s key="Landscape load error" value="Eroare încărcare decor"/>
+  <s key="Picture load error" value="Eroare încărcare poză"/>
+  <s key="The landscape is already added" value="Decorul este deja adăugat"/>
+  <s key="Landscape collection" value="Colecţie decoruri"/>
+  <s key="Turn your photo into Landscape" value="Transformă poza în decor"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Află{1} cum să transformi o poză într-un decor"/>
+  <s key="Village" value="La sat"/>
+  <s key="Seaside" value="Litoral"/>
+  <s key="Airport" value="Aeroport"/>
+  <s key="Oriental" value="Oriental"/>
+  <s key="Sky" value="Cer"/>
+  <s key="Landscape made from picture" value="Decor facut dintr-o poză"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Vă vom îndruma pe întregul proces de transformare a unei poze în decor YoWindow."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Vă rugăm citiţi înainte tutorialul {0}Cum să transformi o poză într-un decor?{1}"/>
+  <s key="Click Next to continue..." value="Click Următorul pentru continuare..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Specifică o poză pe care vrei să o transformi în decor."/>
+  <s key="How to pick the best landscape picture?" value="Cum să alegi cea mai bună poză pentru decor?"/>
+  <s key="Source picture" value="Sursă poză"/>
+  <s key="The landscape will be created in the following folder" value="Decorul va fi creat în următorul dosar"/>
+  <s key="Landscape folder name" value="Nume dosar decor"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Click pe butonul &quot;Crează&quot; pentru crearea decorului {0}"/>
+  <s key="{0} landscape has been created successfully!" value="Decorul {0} a fost creat cu succes!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Acum deschide {0} cu editorul de imagini preferat. Trebuie eliminat cerul din imagine. Imaginea o găseşti în {1}dosarul{2} decor."/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Este uşor să elimini cerul. Citeşte {0}tutorialul nostru{1}."/>
+  <s key="Auto" value="Auto"/>
+  <s key="Horizon Level Setup" value="Amplasare linia orizontului"/>
+  <s key="Keys: Up/Down" value="Taste: Sus/Jos"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Eşti pe cale de a şterge imaginea decor {0}. Operaţia va fi definitivă. Eşti sigur?"/>
+  <s key="Edit Landscape" value="Editare decor"/>
+  <s key="Edit Horizon Level" value="Editare linia orizontului"/>
+  <s key="File not found." value="Fişierul nu a fost găsit."/>
+  <s key="The name is empty" value="Câmpul de nume este gol"/>
+  <s key="The folder already exists" value="Dosarul există deja"/>
+  <s key="Illegal folder name" value="Nume dosar nepermis"/>
+  <s key="The file format is not supported." value="Formatul fişierului nu este suportat."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Poza este prea mare pentru YoWindow. Dimensiunea pozei nu trebuie să depăşească 2880 pixels în funcţie de lăţime sau înălţime."/>
+  <s key="Landscape Image" value="Imagine decor"/>
+  <s key="Landscape Folder" value="Dosar decor"/>
+  <s key="About Landscape" value="Despre decor"/>
+  <s key="Picture {0} imported successfully" value="Poza {0} importată cu succes"/>
+  <s key="Remind Me Later" value="Aminteşte-mi mai târziu"/>
+  <s key="Skip This Version" value="Omite această versiune"/>
+  <s key="Loading" value="Se încarcă"/>
+  <s key="Next" value="Următorul"/>
+  <s key="Back" value="Înapoi"/>
+  <s key="Finish" value="Terminare"/>
+  <s key="Create" value="Crează"/>
+  <s key="Import" value="Importă"/>
+  <s key="Delete" value="Şterge"/>
+  <s key="Path" value="Cale"/>
+  <s key="Options" value="Opţiuni"/>
+  <s key="Select the options you like" value="Selectează opţiunile dorite"/>
+  <s key="Set YoWindow as default screen saver" value="Stabileşte YoWindow ca screensaver implicit"/>
+  <s key="Start with Windows (minimized to system tray)" value="Se lansează cu Windows (minimizat în tray)"/>
+  <s key="Add a shortcut to quick launch bar" value="Adaugă o scurtătură pe bara de lansare rapidă"/>
+  <s key="You are about to upgrade YoWindow." value="Eşti pe cale de a actualiza YoWindow."/>
+  <s key="Click OK to install the new version." value="Apasă OK pentru instalarea noii versiuni."/>
+  <s key="You must close YoWindow before you can continue." value="Pentru continuare YoWindow trebuie închis."/>
+  <s key="After you have closed YoWindow, select Retry." value="După închiderea aplicaţiei YoWindow, selectează Reîncercare."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Dacă doreşti să abandonezi dezinstalarea, apasă Renunţă."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Dacă doreşti să încerci instalarea oricum, selectează Ignoră."/>
+  <s key="If you wish to abort the installation, select Abort." value="Dacă doreşti să renunţi la instalare, selectează Renunţă."/>
+  <s key="Final step" value="Finalizare"/>
+  <s key="Start YoWindow on system startup" value="Porneşte YoWindow la încărcare sistem"/>
+  <s key="Check for new version..." value="Verifică versiune nouă..."/>
+  <s key="YoWindow is up to date!" value="YoWindow este actualizat!"/>
+  <s key="You have the latest version" value="Ai ultima versiune instalată"/>
+  <s key="Download new version!" value="Descarcă noua versiune!"/>
+  <s key="Preview" value="Previzualizează"/>
+  <s key="Show small YoWindow logo" value="Arată logo YoWindow"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Decorul este disponibil numai pentru versiunea Unlimited."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="feet"/>
+  <s key="id_unit_short_miles" value="mile"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="noduri"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="in"/>
+  <s key="Display &quot;?&quot;" value="Afişează &quot;?&quot;"/>
+  <s key="Hide parameter" value="Ascunde parametrii"/>
+  <s key="When weather parameter is not available" value="Când parametrii meteo nu sunt disponibili"/>
+  <s key="Information" value="Informaţii"/>
+  <s key="id_information_all" value="Toate informaţiile"/>
+  <s key="Temperature and Time" value="Temperatura si Ora"/>
+  <s key="This is Unlimited Edition." value="Aceasta este Ediţia Unlimited"/>
+  <s key="It is already registered." value="Este deja înregistrată."/>
+  <s key="Free edition" value="Ediţia gratuită"/>
+  <s key="Unlimited edition" value="Ediţia Unlimited"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="Pentru a vă putea bucura de YoWindow trebuie să instalaţi Flash Player (pentru Internet Explorer) {0} sau mai nou."/>
+  <s key="Get Adobe Flash Player" value="Descărcaţi Adobe Flash Player"/>
+  <s key="Unlock landscape" value="Delimitaţi decorul"/>
+  <s key="YoWindow for Chrome" value="YoWindow pentru Chrome"/>
+  <s key="YoWindow for Windows" value="YoWindow pentru Windows"/>
+  <s key="YoWindow for Mac OS" value="YoWindow pentru Mac OS"/>
+  <s key="YoWindow for iPhone and iPad" value="YoWindow pentru iPhone şi iPad"/>
+  <s key="Follow YoWindow on Facebook" value="Urmăriţi YoWindow pe Facebook"/>
+  <s key="Follow YoWindow on Twitter" value="Urmăriţi YoWindow pe Twitter"/>
+  <s key="Landscape trial, days left:" value="Decor de probă, zile rămase:"/>
+  <s key="Landscape trial period is over" value="Perioada de probă pentru decor s-a terminat"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="Decorul &quot;{0}&quot; face parte din YoWindow Unlimited."/>
+  <s key="Details" value="Detalii"/>
+  <s key="View direction" value="Vezi direcţie"/>
+  <s key="Fixed sky" value="Cer stabil"/>
+  <s key="Edit" value="Editează"/>
+  <s key="Reload" value="Reîncarcă"/>
+  <s key="Minimized" value="Minimizat"/>
+  <s key="affects wind only" value="modifică doar vântul"/>
+  <s key="Broadcast" value="Transmisie"/>
+  <s key="Share" value="Partajează"/>
+  <s key="Publishing" value="Publică"/>
+  <s key="Authorizing" value="Autorizează"/>
+  <s key="Published!" value="Publicat!"/>
+  <s key="Space" value="Spatiu"/>
+  <s key="Weather now in {0}" value="Vremea acum în {0}"/>
+  <s key="Weather forecast for {0} in {1}" value="Prognoza meteo pentru {0} în {1}"/>
+  <s key="Today in {0} (forecast)" value="Astăzi în {0} (progoză)"/>
+  <s key="Tomorrow in {0} (forecast)" value="Mâine în {0} (progoză)"/>
+  <s key="Forecast" value="Prognoza"/>
+  <s key="Sound" value="Sunet"/>
+  <s key="Enable sound" value="Activează sunetul"/>
+  <s key="Volume" value="Volum"/>
+  <s key="Skip" value="Sari peste"/>
+  <s key="Presented in Stereo" value="Prezentat în stereo"/>
+  <s key="Override current season" value="Treci peste anotimpul curent"/>
+  <s key="Winter" value="Iarna"/>
+  <s key="Spring" value="Primăvara"/>
+  <s key="Summer" value="Vara"/>
+  <s key="Autumn" value="Toamna"/>
+  <s key="Naked" value="Neacoperit"/>
+  <s key="Countries" value="Ţări"/>
+  <s key="Vote!" value="Votează!"/>
+  <s key="Vote for YoWindow, thank you" value="Votează YoWindow, mulţumesc"/>
+  <s key="More YoWindow" value="Mai multe despre YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="Glisaţi pe ecran pentru a vedea cum se schimbă vremea de-a lungul timpului"/>
+  <s key="And one more time" value="Şi încă o dată"/>
+  <s key="Press the 'LIVE' button to return to current time" value="Apasă butonul 'ACUM' pentru revenire la ora curentă "/>
+  <s key="Watch weather with pleasure" value="O plăcere să vizionezi vremea"/>
+  <s key="Disable Auto-Lock" value="Dezactivează autoblocarea"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="Păstrează afișajul pornit dacă dispozitivul este conectat la priză sau bateria este încărcată peste 25%."/>
+  <s key="More" value="Mai multe"/>
+  <s key="Parallax effect" value="Efectul de paralaxă"/>
+  <s key="An illusion of 3D space when you tilt the device" value="O iluzie 3D în spațiu atunci când înclinați dispozitivul"/>
+  <s key="Temperature in Status Bar" value="Temperatura în bara de status"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="Arată temperatura pentru locaţia &quot;Acasă&quot;"/>
+  <s key="Not enough free space." value="Nu este suficient spațiu disponibil."/>
+  <s key="YoWindow may run unstable." value="YoWindow poate deveni instabil."/>
+  <s key="{0} MB minimum required." value="Este nevoie de minim {0} MB."/>
+  <s key="YoWindow Weather" value="Vremea pe YoWindow"/>
+  <s key="YoWindow Zero" value="YoWindow Zero"/>
+  <s key="Get Full Version" value="Obţine versiunea completă"/>
+  <s key="No ads, no limitations, all landscapes available" value="Fără reclame, fără limitări, toate fundalurile disponibile"/>
+  <s key="No advertising" value="Fără reclame"/>
+  <s key="Remove ads" value="Elimină reclamele"/>
+  <s key="Weather forecast is limited" value="Prognoza meteo este limitată"/>
+  <s key="Demo" value="Demonstraţie"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="Accesul la fundalul &quot;{0}&quot; este limitat."/>
+  <s key="Connecting to {0}" value="Se conectează la {0}"/>
+  <s key="Camera" value="Camera"/>
+  <s key="Photos" value="Fotografii"/>
+  <s key="Wallpaper" value="Fundal"/>
+  <s key="Enable animations" value="Activează animaţii"/>
+  <s key="Show weather" value="Afişează vremea"/>
+  <s key="No animation - almost no battery power consumed." value="Fără animaţie - aproape că nu consumă deloc bateria."/>
+  <s key="Widget Settings" value="Setări widget"/>
+  <s key="Create Widget" value="Crează widget"/>
+  <s key="Tap to search for a location" value="Atingeţi pentru a căuta o locaţie"/>
+  <s key="Show background" value="Arată fundalul"/>
+  <s key="Move On Top" value="Mută în sus"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="Dezinstalaţi &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="Aveţi ambele versiuni de YoWindow, Full şi Free instalate."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="Vă rugăm dezinstalaţi YoWindow Free, pentru a evita confuziile."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="Adăugaţi widget-uri - urmăriţi confortabil prognoza meteo"/>
+  <s key="Tap to continue" value="Atingeţi pentru a continua"/>
+  <s key="YoWindow installed on an external storage." value="YoWindow instalat pe o memorie externă."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="ATENŢIE: YoWindow Wallpaper și Widgets pot să nu fie disponibile atunci când YoWindow este instalat pe o memorie externă (card SD)."/>
+  <s key="Location Search" value="Căutare locație"/>
+  <s key="Redeem code" value="Răscumpără codul"/>
+  <s key="Full Version privilege granted." value="Privilegii acordate pentru versiunea Full."/>
+  <s key="Advertising removed, no limitations." value="Publicitate îndepărtată, fără limitări."/>
+  <s key="Unexpected code" value="Cod neprevăzut"/>
+  <s key="Restore privileges" value="Restaurare privilegii"/>
+  <s key="Set As Wallpaper" value="Setează ca imagine de fundal"/>
+  <s key="Post" value="Mesaje publicate"/>
+  <s key="Enter the message" value="Introduceți mesajul"/>
+  <s key="Fill in the weather" value="Completează în prognoză"/>
+  <s key="You just have posted to Facebook!" value="Tocmai aţi publicat pe Facebook!"/>
+</body>

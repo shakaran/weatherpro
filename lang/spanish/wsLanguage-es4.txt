@@ -1,0 +1,242 @@
+# langfile  from: 26-03-2012 15:47
+charset|UTF-8|
+langlookup|Wind Speed|Velocidad del viento|
+langlookup|Wind Force|Fuerza del viento|
+langlookup|Beaufort Scale|Escala de Beaufort|
+langlookup|Weather Photos|Clima Fotos|
+langlookup|Heating Degree Days|Grados día de calor|
+langlookup|WSWIN Reports|WSWIN Informes|
+langlookup|Long-term Extreme Values|Valores extremos de larga duración|
+langlookup|T. at 5 cm|T. a 5 cm|
+langlookup|Solar Today|Sol hoy|
+langlookup|Hot|Caliente|
+langlookup|Thunderstorms Early|Tormentas temprana|
+langlookup|Uncomfortably Hot|Incómodamente caliente|
+langlookup|Isolated Thunderstorms|Tormentas locales|
+langlookup|Scattered Thunderstorms|Tormentas dispersas|
+langlookup|Rain Early|Lluvia temprana|
+langlookup|Few showers|Pocas lluvias|
+langlookup|Few Showers|Pocas lluvias|
+langlookup|Weather Trend Graphs Temperature;|Meteo Trend Grafcos: Temperatura;|
+langlookup|Weather Trend Graphs Rain;|Meteo Trend Grafcos: Lluvia;|
+langlookup|Weather Trend Graphs Wind;|Meteo Trend Graficos: Viento;|
+langlookup|Weather Trend Graphs Solar;|Meteo Trend Graficos: Sol;|
+# local
+langlookup|Thunder in the Vicinity|Tormentas en la vecindad|
+langlookup|Live Weather Data from|Datos del tiempo actual de|
+langlookup|Warm|Caliente|
+langlookup|warm|caliente|
+langlookup|Translation: Rain/Temp.|Rain ==> Precipitaciones  y Temp. ==> Temperatura|
+#Tabbertap Titel
+langlookup|Hot Days|Días de calor|
+langlookup|Hot days|Días de calor|
+langlookup|Summer days|Días de verano|
+langlookup|Summer Days|Días de verano|
+langlookup|Cold days|Días fríos|
+langlookup|Cold Days|Días fríos|
+langlookup|Ice days|Días de hielo|
+langlookup|Ice Days|Días de hielo|
+langlookup|Weather Trends; |Tendencias clima|
+langlookup|Weather trends; |Tendencias clima|
+# Ende Tabbertab Titel
+#Wettertrends
+langlookup|Hot days: T-Max > 30 °C|Días de calor: T-Máx > 30 °C|
+langlookup|Summer days: T-Max > 25 °C|Días de verano: T-Máx > 25 °C|
+langlookup|Cold days: T-Min < 0 °C|Días frios: T-Mín < 0 °C|
+langlookup|Ice days: T-Max < 0 °C|Días de hielo: T-Máx < 0 °C|
+#Ende Wettertrends
+#Untertitel
+langlookup|Data from 1980-2010|Datos 1980-2010|
+langlookup|Weather Graphs last 2 Days|Gráficos clima últimos 2 días|
+langlookup|Weather Graphs last Year|Gráficas Clima pasado año|
+langlookup|Sunshine Hours monthly|Horas de sol mensuales|
+langlookup|You can sort the table on the values in the columns by clicking in the corresponding heading|Usted puede ordenar la tabla de los valores de las columnas haciendo clic en el título correspondiente|
+langlookup|Who is Online|Quien está online|
+langlookup|WhoIsOnline|Quien está online|
+langlookup|Diff. Reports|Informes diferenciales|
+langlookup|Weather Forecast by Wunderground|Pronóstico del tiempo a través de  Wunderground| 
+langlookup|Weather Forecast by YR.NO|Pronóstico del tiempo a través de YR.NO|
+langlookup|Forecast by Meteomedia for Eschweiler|Pronóstico del tiempo de Eschweiler a través de  Meteomedia| 
+langlookup|Weather Conditions nearby Airports|Condiciones climáticas en aeropuertos próximos|
+langlookup|Weather Alerts by European MeteoAlarm|Alerta meteorológica a través de  European MeteoAlarm |
+langlookup|UV Forecast and Warnings by KNMI|Pronósticos y alertas de UV a través de KNM|
+langlookup|Air Quality and Warnings by Belgian IRCEL/CELINE|Calidad del viento a través de la belga IRCEL/CELINE|
+langlookup|Air Quality and warnings Cantabria|Calidad del aire en Cantabria CIMA|
+langlookup|Air Quality and Warnings by Dutch RIVM|Calidad del viento a través de RIVM de los Países Bajos|
+#Ende Untertitel
+langlookup|Late: Showers|Más adelante: Chubascos|
+langlookup|Late|Más adelante|
+langlookup|Late: Rain Showers|Más adelante: Chubascos débiles|
+langlookup|Light Rain Shower|Chubascos débiles|
+langlookup|Light Rain Showers|Chubascos débiles|
+langlookup|Website Map|Mapa del sitio|
+langlookup|Sunshine Hours|Horas de sol|
+langlookup|today|hoy|
+langlookup|Pressure|Presión|
+langlookup|Links|Enlaces|
+langlookup|Partnerships|Asociaciones|
+langlookup|Contact|Contacto|
+langlookup|Hist. Climate Data| Desarrollo Datos meteo.|
+langlookup|Weather Data Current|Datos meteo. actuales|
+langlookup|Current|Corriente|
+langlookup|Weather Station|Estación meteorológica|
+langlookup|Weather Program|Software meteorológico|
+langlookup|Weather Server|Servidor meteorológico|
+langlookup|Rain Shower|Aguacero|
+langlookup|Partly cloudy|Parcialmente nublado|
+# Auswahlmenü zweite Ebene
+langlookup|Airport Weather|Tiempo en el aeropuerto|
+langlookup|Advisories|Advertencias|
+langlookup|Air Quality BE|La calidad del aire BE|
+langlookup|Air Quality NL|La calidad del aire NL|
+langlookup|Air Quality CA|La calidad del aire en Cantabria|
+langlookup|Rain Radar Benelux|Radar de lluvias Benelux|
+langlookup|Rain Radar NRW|Radar de lluvias NRW|
+langlookup|WU History Txt|WU Datos meteo. históricos|
+langlookup|Sun Activity|Actividad solar|
+langlookup|Sun/Moon Almanac|Sol/Luna Almanaque|
+langlookup|Earthquake Activity|Actividad sísmica|
+langlookup|WU Forecast|WU pronóstico|
+langlookup|YRno Forecast Details|YRno detalles del pronóstico|
+langlookup|Weather Maps|Mapas del tiempo|
+langlookup|Weather Central Europe|Tiempo en Europa central|
+langlookup|Cloud Radar|Radar de nubes|
+langlookup|Temperature Worldwide|Temperatura en todo el mundo|
+langlookup|This month|Este mes|
+langlookup|This Year|Este año|
+langlookup|About us|Pie de imprenta|
+langlookup|Sensors|Sensores|
+langlookup|Station Description|Descripción de la estación|
+langlookup|Status|Estado|
+langlookup|Station Graphs Short Term|Gráfica de estación a corto plazo|
+langlookup|Station Graphs Long Term|Gráfica de estación a largo plazo|
+langlookup|Climat. Ref. Data|Datos de ref. climát.|
+langlookup|Weather Trends|Tendencias climáticas|
+langlookup|Snow Amount|Cantidad de nieve|
+langlookup|Temperature Days|Días de temperatura|
+langlookup|Extreme Weather|El clima extremo|
+langlookup|Extremal Values|Valores extremos|
+langlookup|Weather Diary 2013|Diario climático 2013|
+langlookup|Diff. Reports|Dif. informes|
+langlookup|NOAA Options|NOAA opciones|
+# Ende Auswahlmenü 2. Ebene
+langlookup|Hail|Granizo|
+langlookup|cold|frio|
+langlookup|Mostly clear|Despejado|
+langlookup|Sun|Sol|
+langlookup|Light Rain Early|Llovizna temprana|
+langlookup|Clouds|Nubes|
+langlookup|Temperature|Temperatura|
+langlookup|illuminated|iluminado|
+langlookup|Solar Radiation|Radiación Solar|
+langlookup|Humidity & Barometer|Humedad & Barómetro|
+langlookup|Yesterday|Ayer|
+langlookup|Humidity|Humedad  |
+langlookup|Dew Point|Punto rocío|
+langlookup|Barometer|Presión|
+langlookup|Trend|Tendencia|
+langlookup|Steady|Estable|
+langlookup|Inside|Int.|
+langlookup|Rain Today|Lluvia hoy|
+langlookup|Rain Rate|Lluvia intensidad|
+langlookup|This Month|Este mes|
+langlookup|Last 24 Hours|Últimas 24 horas|
+langlookup|Season Total|Total de la temporada|  
+langlookup|Forecast|Pronóstico|
+langlookup|low|mín.|
+langlookup|high|máx.|
+langlookup|Feels like|Sensacion Termica|
+langlookup|Wind from|Viento del|
+langlookup|Gust|Ráfaga|
+langlookup|Gust today|Ráfaga hoy|
+langlookup|days with rain this month|días con lluvia este mes|
+langlookup|Sun&nbsp;|Sol&nbsp;|
+# Bewölkung
+langlookup|Mostly cloudy|Parcialmente nublado|
+langlookup|Cloudy|Nublado|
+# Ende Bewölkung
+langlookup|Moon|Luna|
+#Himmelsrichtungen
+langlookup|WSW|OSO|
+langlookup|SW|SO|
+langlookup|W|O|
+langlookup|E|E|
+langlookup|N|N|
+langlookup|NE|NE|
+langlookup|NW|NO|
+langlookup|WNW|ENE|
+#Ende Himmelsrichtung
+#Niederschlag
+langlookup|Showers|Chubascos débiles|
+langlookup|Light Rain|Nublado|
+langlookup|Showers Early|Lluvia temprana|
+#Ende Niederschlag
+langlookup|Cool|Fresco|
+langlookup|Almanac|Almanaque|
+langlookup|Last updated:|Ultima actualización|
+langlookup|seconds ago|hace segundos|
+langlookup|UV Index Forecast|Pronóstico UV Index|
+langlookup|Current Weather|Tiempo de hoy|
+langlookup|Rain Radar|Radar de lluvias|
+langlookup|Live Data|Datos en vivo|
+langlookup|Maps|Mapas|
+langlookup|Reports|Informes|
+langlookup|Weather station|Estación meteorológica|
+langlookup|Weather History|Historial del Tiempo|
+langlookup|Latest news|Ultimas noticias|
+langlookup|Latest News|Ultimas noticias|
+langlookup|Other Stuff|Otras cosas|
+langlookup|Equipment we use|Equipo que usamos|
+langlookup|You find our weatherinfo also at|Mas información del tiempo también en|
+langlookup|warning for|advirtiendo de|
+langlookup|Thunderstorms|Tormentas|
+langlookup|Thunderstorms Spain|Tormentas España|
+langlookup|Advisory Spain|Avisos España|
+langlookup|Advisory World|Avisos Mundiales|
+#---------------------------------
+# moon words
+langlookup|First Quarter|Primer cuarto|
+langlookup|First Quarter Moon|Luna Primer cuarto|
+langlookup|Last Quarter|Ultimo cuarto|
+langlookup|Last Quarter Moon|Luna Ultimo cuarto|
+#--------------
+langlookup|Moon phases|Mondphasen|
+langlookup|New Moon|Luna nueva|
+langlookup|Waxing Crescent Moon|Cuarto creciente|
+langlookup|Waxing Crescent|Cuarto creciente|
+langlookup|Waxing Gibbous Moon|Luna creciente|
+langlookup|Waxing Gibbous|Luna creciente|
+langlookup|Full Moon|Luna llena|
+langlookup|Waning Gibbous Moon|Luna menguante|
+langlookup|Waning Gibbous|Luna menguante|
+langlookup|Waning Crescent Moon|Cuarta menguante|
+langlookup|Waning Crescent|Cuarta menguante|
+# Ende Mondphasen
+# month names short
+langlookup|Apr|Abr|
+langlookup|Aug|Ago|
+langlookup|Dec|Dic|
+langlookup|Feb|Feb|
+langlookup|Jan|Ene|
+langlookup|Jul|Jul|
+langlookup|Jun|Jun|
+langlookup|Mar|Mar|
+langlookup|May|May|
+langlookup|Nov|Nov|
+langlookup|Oct|Oct|
+langlookup|Sep|Sep|
+# month names long
+langlookup|April|Abril|
+langlookup|August|Agosto|
+langlookup|December|Diciembre|
+langlookup|February|Febrero|
+langlookup|January|Enero|
+langlookup|July|Julio|
+langlookup|June|Junio|
+langlookup|March|Marzo|
+langlookup|November|Noviembre|
+langlookup|October|Octubre|
+langlookup|September|Septiembre|
+langlookup|May|Mayo|
+#Wochentage
+langlookup|night|noche|

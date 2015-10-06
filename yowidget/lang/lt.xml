@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="Nelimituota licenzija"/>
+  <s key="Absent" value="Nėra"/>
+  <s key="Add" value="Pridėti"/>
+  <s key="Animate" value="Animacija"/>
+  <s key="Apply" value="Pritaikyti"/>
+  <s key="Astronomy" value="Astronomija"/>
+  <s key="Day Length" value="Dienos ilgumas"/>
+  <s key="Moon Phase" value="Mėnulio pilnumas"/>
+  <s key="Sunrise" value="Saulė kyla"/>
+  <s key="Sunset" value="Saulė leidžiasi"/>
+  <s key="Auto update weather" value="Automatiškai atnaujinti orus"/>
+  <s key="Bad ICAO code" value="Blogas Icao kodas"/>
+  <s key="Buy YoWindow Unlimited!" value="Pirkite pilną versiją"/>
+  <s key="Calendar" value="Kalendorius"/>
+  <s key="Cancel" value="Atšaukti"/>
+  <s key="Change" value="Pakeisti"/>
+  <s key="Code" value="Kodas"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Norvegijos Meterologijos Institutas ir NRK"/>
+  <s key="Forecast from {0}" value="Orai"/>
+  <s key="Current weather" value="Orai"/>
+  <s key="Friday" value="Penktadienis"/>
+  <s key="Monday" value="Pirmadienis"/>
+  <s key="Saturday" value="Šeštadienis"/>
+  <s key="Sunday" value="Sekmadienis"/>
+  <s key="Thursday" value="Ketvirtadienis"/>
+  <s key="Tuesday" value="Antradienis"/>
+  <s key="Wednesday" value="Trečiadienis"/>
+  <s key="Fr" value="Pen"/>
+  <s key="Mo" value="Pir"/>
+  <s key="Sa" value="Šeš"/>
+  <s key="Su" value="Sek"/>
+  <s key="Th" value="Ket"/>
+  <s key="Tu" value="Ant"/>
+  <s key="We" value="Tre"/>
+  <s key="day ago" value="Vakar"/>
+  <s key="days ago" value="Prieš dienų"/>
+  <s key="Default" value="Numatytasis"/>
+  <s key="Blowing" value="Pūčia vėjas"/>
+  <s key="Clear" value="Giedra"/>
+  <s key="Cloudy" value="Debesuota"/>
+  <s key="Overcast"/>
+  <s key="Drizzle" value="Dulksna"/>
+  <s key="Fair" value="Vietomis debesuota"/>
+  <s key="Fog" value="Rūkas"/>
+  <s key="Freezing" value="Šala"/>
+  <s key="Hail" value="Kruša"/>
+  <s key="Haze" value="Rūkas"/>
+  <s key="Heavy" value="Audringas"/>
+  <s key="Ice Crystals" value="Sninga"/>
+  <s key="Ice Pellets" value="Šlapdriba"/>
+  <s key="In Vicinity" value="Arti"/>
+  <s key="Light" value="Lengvas"/>
+  <s key="Low Drifting" value="Pūga"/>
+  <s key="Mist" value="Rūkas"/>
+  <s key="Mostly Cloudy" value="Debesuota su pragiedruliais"/>
+  <s key="Partial" value="Dalinis"/>
+  <s key="Partly Cloudy" value="Vietomis debesuota"/>
+  <s key="Patches" value="Vietomis"/>
+  <s key="Rain" value="Lietus"/>
+  <s key="Rain And Thunder" value="Lietus su griaustiniu"/>
+  <s key="Sand" value="Vėtra"/>
+  <s key="Shallow" value="Paviršutiniškas"/>
+  <s key="Shower" value="Liūtis"/>
+  <s key="Shower With Thunder" value="Liūtis su griaustiniu"/>
+  <s key="Sleet" value="Šlabdriba"/>
+  <s key="Small Hail" value="Smulki kruša"/>
+  <s key="Smoke" value="Smogas"/>
+  <s key="Snow" value="Sniegas"/>
+  <s key="Snow And Thunder" value="Sniegas su perkunija"/>
+  <s key="Snow Grains" value="Pasnigs"/>
+  <s key="Snow Showers" value="Šlapdriba"/>
+  <s key="Thunderstorm" value="Perkunija"/>
+  <s key="Unknown Precipitation" value="Nežinomi krituliai"/>
+  <s key="Widespread Dust Haze" value="Smėlio audra"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="Blogas licenzijos kodas, patikrinkite ar gerai užrašėte kodą"/>
+  <s key="Wrong license key" value="Blogas licenzijos kodas"/>
+  <s key="You will have to restart the application for this to take effect" value="Paleiskite programą, kad įsigalėtu nustatymai"/>
+  <s key="Language change" value="Kalbos keitimas"/>
+  <s key="No limits!" value="Be limito"/>
+  <s key="Buy now!" value="Pirkite dabar!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="Pirkite pilną licenziją, kad galėtumėte viskuo naudotis"/>
+  <s key="Not now" value="Vėliau"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="Norėdami baigti registraciją,  įveskite licenzijos raktą, kuri mes išsiųsiuntėme jums. Patarimas: naudokite kopijuoti / įklijuoti"/>
+  <s key="License registration" value="Licenzijos registracija"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="Ačiū už registraciją! Visi apribojimai panaikinti dabar. Mėgaukitės!"/>
+  <s key="Distance" value="Atstumas"/>
+  <s key="Down" value="Žemyn"/>
+  <s key="Download" value="Atsisiųsti"/>
+  <s key="Enter weather source URL please" value="Prašome įveskite orų šaltinio URL"/>
+  <s key="Error" value="Klaida: nėra susijungimo su stotimi, palaukite 5min"/>
+  <s key="The location is already added" value="Vietovė jau yra įtraukta"/>
+  <s key="Exit" value="Išeiti"/>
+  <s key="To get started, pick your home location" value="Norėdami pradėti, pasirinkite savo namų vietą"/>
+  <s key="Forecast Panel" value="Prognozių langas"/>
+  <s key="Full Screen" value="Visas ekranas"/>
+  <s key="Help" value="Pagalba"/>
+  <s key="Highlight weather station parameters" value="Paryškinti oro stotelių parametrus"/>
+  <s key="Home" value="Namai"/>
+  <s key="h" value="v"/>
+  <s key="Inspector" value="Realaus laiko langas"/>
+  <s key="Landscape" value="Peizažas"/>
+  <s key="Foreground" value="Peizažų pirmumas"/>
+  <s key="Landscape Options" value="Kraštovaizdžio funkcijos"/>
+  <s key="Landscape pictures" value="Naujų pranešimų nuotraukos"/>
+  <s key="Landscapes" value="Peizažai"/>
+  <s key="Language:" value="Kalba:"/>
+  <s key="English" value="Lietuviškai"/>
+  <s key="System Default" value="Sistemos nustatymų sugražinimas"/>
+  <s key="Latitude" value="Platuma"/>
+  <s key="{0} locations" value="{0} vietovių"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="Galite pridėti max (0) vietovių. Pilnoje versijoje galite pridėti tiek daug vietų, kiek tik norėsite"/>
+  <s key="Weather auto-update is off" value="Orų atnaujinimas išjungtas"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="Paspauskite klavišą F5, kad atnaujintumėte orus. Oras yra automatiškai atnaujinamas pilnoje versijoje."/>
+  <s key="{0} weather forecast days only" value="{0} orų prognozė tik kelių dienų"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="Jūs turite prieigą prie (4) dienų orų prognozės. Pilna versija suteikia (7) dienų prognozę."/>
+  <s key="Licence key" value="Licenzijos kodas"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="Orai automatiškai atnaujinami pilnoje versijoje"/>
+  <s key="LIVE" value="Dabar"/>
+  <s key="Load weather from personal weather station" value="Rodyk savo orus per savo asmeninį orų tinklapį"/>
+  <s key="Loading" value="Įkeliami"/>
+  <s key="Loading landscape..." value="Įkeliama platuma..."/>
+  <s key="Location" value="Vietovė"/>
+  <s key="Location ID" value="Vietovės ID"/>
+  <s key="Location Properties" value="Vietovės nustatymai"/>
+  <s key="id_internet_link" value="Nuoroda"/>
+  <s key="Locations" value="Vietovės"/>
+  <s key="All locations" value="Visos vietovės"/>
+  <s key="All regions" value="Visi regionai"/>
+  <s key="All states" value="Visos valstybės"/>
+  <s key="Change landscape" value="Keisti platumą"/>
+  <s key="Select a location" value="Pasirinkti vietovę"/>
+  <s key="The location is already added" value="Vietovė jau yra įtraukta"/>
+  <s key="Location is not selected yet" value="Vietovė dar nėra pasirinkta"/>
+  <s key="Major cities (more than 100,000 citizens)" value="Didieji miestai (daugiau nei 100.000 gyventojų)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="Tinklo klaida, vietovės nustatymo informacijos nėra."/>
+  <s key="No locations in scope" value="Nr apimtis vietose."/>
+  <s key="Scope"/>
+  <s key="Region" value="Regionas"/>
+  <s key="Cannot find a location?" value="Nerandate vietą?"/>
+  <s key="Set as Home" value="Nustatyti kaip namus"/>
+  <s key="Current Location"/>
+  <s key="Unknown" value="Nežinomas"/>
+  <s key="Longitude" value="Ilguma"/>
+  <s key="Looking at the North (West wind blows from the left)" value="Žvilgsnis į šiaurę (Vakarų vėjas pučia iš kairės)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="Žvilgsnis į pietus (Vakarų vėjas pučia iš dešinės)"/>
+  <s key="April" value="Balandis"/>
+  <s key="August" value="Rugpjūtis"/>
+  <s key="December" value="Gruodis"/>
+  <s key="February" value="Vasaris"/>
+  <s key="January" value="Sausis"/>
+  <s key="July" value="Liepa"/>
+  <s key="June" value="Birželis"/>
+  <s key="March" value="Kovas"/>
+  <s key="May" value="Gegužė"/>
+  <s key="November" value="Lapkritis"/>
+  <s key="October" value="Spalis"/>
+  <s key="September" value="Rugsėjis"/>
+  <s key="About" value="Apie"/>
+  <s key="Facebook Edition" value="Facebook versija"/>
+  <s key="License Agreement" value="Licenzinė sutartis"/>
+  <s key="Program" value="Nustatymai"/>
+  <s key="Visit our Forum" value="Apsilankyk mūsų forume"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow dienoraštis"/>
+  <s key="m" value="m"/>
+  <s key="{0} minutes back" value="Prieš {0} minučių"/>
+  <s key="{0} minutes forward" value="Už {0} minučių"/>
+  <s key="Name" value="Vardas"/>
+  <s key="Network error" value="Tinklo klaida"/>
+  <s key="Network not available"/>
+  <s key="It is available on {0}" value="Ją galima rasti {0}"/>
+  <s key="New version released" value="Yra nauja versija"/>
+  <s key="Next Day" value="Sekanti diena"/>
+  <s key="No" value="Ne"/>
+  <s key="No weather" value="Orų nėra"/>
+  <s key="N/A" value="Šiuo metu nieko nėra"/>
+  <s key="Notify me when a new version is available" value="Pranešti man, kai yra nauja versija"/>
+  <s key="Online" value="Prisijungę"/>
+  <s key="Open {0}" value="Atidaryti {0}"/>
+  <s key="Options" value="Nustatymai"/>
+  <s key="Advanced" value="Išplėstinė"/>
+  <s key="Application choice" value="Išplėstinis pasirinkimas"/>
+  <s key="Date" value="Data"/>
+  <s key="Display" value="Rodymo kokybė"/>
+  <s key="Animate clouds" value="Animuoti debesys"/>
+  <s key="Default" value="Numatytasis"/>
+  <s key="Full screen mode" value="Visas ekranas"/>
+  <s key="Quality" value="Kokybė"/>
+  <s key="Custom" value="Pasirinktinai"/>
+  <s key="Excellent" value="Puiki"/>
+  <s key="Moderate" value="Vidutinė"/>
+  <s key="Number of days to display:" value="Prognozuoti dienų:"/>
+  <s key="Tile contents:" value="Prognozių turinys"/>
+  <s key="General" value="Pagrindinis"/>
+  <s key="Contents" value="Turinys"/>
+  <s key="Show N/A parameters" value="Rodyti nežinomus parametrus"/>
+  <s key="Live indicator" value="Rodymas realiu laiku"/>
+  <s key="Locations" value="Vietovės"/>
+  <s key="Operation successful!" value="Operacija sėkminga!"/>
+  <s key="Refresh locations DB" value="Atnaujinti vietoves"/>
+  <s key="Reset to defaults" value="Nustatyti pradinius parametrus"/>
+  <s key="Add" value="Pridėti"/>
+  <s key="User interface" value="Vartotojo sąsaja"/>
+  <s key="Screen saver" value="Ekrano užsklanda"/>
+  <s key="Time Bar" value="Laiko juosta"/>
+  <s key="Unit system:" value="Vienetai:"/>
+  <s key="Units" value="Vienetai"/>
+  <s key="Auto-detected" value="Automatiškai randama"/>
+  <s key="Custom" value="Pasirinktinai"/>
+  <s key="Distance:" value="Atstumas:"/>
+  <s key="Metric" value="Metrinė sistema"/>
+  <s key="Russia" value="Rusija"/>
+  <s key="Finland"/>
+  <s key="Pressure:" value="Slėgis:"/>
+  <s key="Temperature:" value="Temperatūra:"/>
+  <s key="US" value="JAV"/>
+  <s key="Wind speed:" value="Vėjo greitis:"/>
+  <s key="Landscape Options" value="Kraštovaizdžio funkcijos"/>
+  <s key="Show Daylight Diagram" value="Rodyti dienos diagrama"/>
+  <s key="Show Forecast Panel" value="Rodyti prognozių langą"/>
+  <s key="Show Full Screen button" value="Rodyti viso ekrano mygtuką"/>
+  <s key="Show Inspector" value="Rodymas realiu laiku"/>
+  <s key="Show Time Bar" value="Rodyti laiko juosta"/>
+  <s key="Show User interface" value="Rodyti vartotojo sąsają"/>
+  <s key="Show forecast when current weather is expired" value="Rodyti prognozę, kai oras realiu laiku nerodomas"/>
+  <s key="Organize" value="Vietovių sąrašas"/>
+  <s key="Organize locations" value="Vietovių sąrašas"/>
+  <s key="Organize pictures" value="Vietovių nuotraukos"/>
+  <s key="Pictures" value="Nuotraukos"/>
+  <s key="press" value="Paspausti"/>
+  <s key="Falling" value="Slėgis...."/>
+  <s key="Falling Rapidly" value="Greitai krenta"/>
+  <s key="Rising" value="Didėja"/>
+  <s key="Rising Rapidly" value="Sparčiai didėja"/>
+  <s key="Steady" value="Pastovus"/>
+  <s key="Previous Day" value="Prieš dieną"/>
+  <s key="Properties" value="Nustatymai"/>
+  <s key="Refresh Locations data base" value="Atnaujinti vietovės duomenų bazę"/>
+  <s key="Register" value="Registracija"/>
+  <s key="Remove" value="Ištrinti"/>
+  <s key="Rename" value="Pervardinti"/>
+  <s key="Rename location" value="Pervardinti vietovę"/>
+  <s key="Rename picture" value="Pervardinti nuotrauką"/>
+  <s key="Retry" value="Pakartokite"/>
+  <s key="Run with Windows (minimized to tray)" value="Paleisti kartu su Windows (sumažinta iki dėklą)"/>
+  <s key="Season map" value="Sezonas žemėlapyje"/>
+  <s key="Select" value="Pasirinkti"/>
+  <s key="Select country" value="Pasirinkti šalį"/>
+  <s key="Select a landscape" value="Pasirinkite kraštovaizdį"/>
+  <s key="Select location" value="Pasirinkti vietovę"/>
+  <s key="Select region" value="Pasirinkti regioną"/>
+  <s key="Select state" value="Pasirinkite valstybę"/>
+  <s key="Set as default" value="Pasirinkti numatytuosius"/>
+  <s key="Set YoWindow as ScreenSaver" value="Nustatyti kaip užsklanda"/>
+  <s key="Setup" value="Instaliuoti"/>
+  <s key="Show" value="Rodyti"/>
+  <s key="Show again" value="Rodyti dar kartą"/>
+  <s key="Speed" value="Greitis"/>
+  <s key="Time" value="Laikas"/>
+  <s key="{0} ago" value="{0}"/>
+  <s key="Time zone" value="Laiko zona"/>
+  <s key="Today" value="Šiandien"/>
+  <s key="Tomorrow" value="Rytoj"/>
+  <s key="Tom." value="Rytoj"/>
+  <s key="Tonight" value="Šianakt"/>
+  <s key="Add New Location" value="Įdėti naują vietovę"/>
+  <s key="Open Calendar..." value="Atidaryti kalendorių..."/>
+  <s key="Show Less Days" value="Rodyti mažiau dienų"/>
+  <s key="Show More Days" value="Rodyti daugiau dienų"/>
+  <s key="Update Weather" value="Atnaujinti orą"/>
+  <s key="Unknown" value="Nežinomas"/>
+  <s key="Up" value="Aukštyn"/>
+  <s key="Update interval" value="Atnaujinimo intervalas"/>
+  <s key="Update weather" value="Atnaujinti orą"/>
+  <s key="Updating weather" value="Atnaujinama"/>
+  <s key="View" value="Rodyti"/>
+  <s key="Please wait..." value="Prašome palaukti..."/>
+  <s key="Weather" value="Orų langas"/>
+  <s key="Daily rain total" value="Iš viso prilyta"/>
+  <s key="Weather expired" value="Oras neatnaujintas"/>
+  <s key="Feels like" value="Toks jausmas lyg būtų"/>
+  <s key="Day maximum temperature" value="Diena aukščiausia temperatūra"/>
+  <s key="Day minimum temperature" value="Diena minimali temperatūra"/>
+  <s key="Weather forecast" value="Prognozės"/>
+  <s key="Forecast issued" value="Prognozė išduodama"/>
+  <s key="Hail" value="Kruša"/>
+  <s key="Humidity" value="Drėgmė"/>
+  <s key="Observed" value="Atnaujinta prieš"/>
+  <s key="Pressure" value="Slėgis"/>
+  <s key="PWS only" value="Rodoma tik realiu laiku"/>
+  <s key="Rain" value="Lietus"/>
+  <s key="Rain/Snow rate" value="Lietus su sniegu norma"/>
+  <s key="Description" value="Simbolių aprašymas"/>
+  <s key="Sky image" value="Simbolinis orų vaizdas"/>
+  <s key="Snow" value="Sniegas"/>
+  <s key="Snow level" value="Kiek prisnigo"/>
+  <s key="Weather station properties" value="Orų stoties nustatymai"/>
+  <s key="Temperature" value="Temperatūra"/>
+  <s key="Temperature range" value="Temperatūros diapazonas"/>
+  <s key="Update error" value="Atnaujinimo klaida"/>
+  <s key="Update time" value="Atnaujinta prieš"/>
+  <s key="UV index" value="Saulės kaitra"/>
+  <s key="Visibility" value="Matomumas"/>
+  <s key="Unlimited" value="Neribotas"/>
+  <s key="Wind" value="Vėjas"/>
+  <s key="Calm" value="Ramus"/>
+  <s key="Variable" value="Nepastovios krypties"/>
+  <s key="Welcome to YoWindow!" value="Sveiki atvykę!"/>
+  <s key="Wind direction:" value="Vėjo kryptis:"/>
+  <s key="East" value="rytų"/>
+  <s key="North" value="šiaurės"/>
+  <s key="South" value="pietų"/>
+  <s key="West" value="vakarų"/>
+  <s key="Yes" value="Taip"/>
+  <s key="Close screensaver on mouse move" value="Paslėpti pelę"/>
+  <s key="Color" value="Spalva"/>
+  <s key="Background" value="Fonas"/>
+  <s key="Choose color" value="Pasirinkti spalvą"/>
+  <s key="System tray" value="Sistemos dėklas"/>
+  <s key="Transparent" value="Skaidrumas"/>
+  <s key="Precipitation chance" value="Kritulių tikimybė"/>
+  <s key="Rain chance" value="Lietaus tikimybė"/>
+  <s key="Snow chance" value="Sniego tikimybė"/>
+  <s key="{0} only" value="{0} tik"/>
+  <s key="US" value="JAV"/>
+  <s key="Dew point" value="Rasos taškas"/>
+  <s key="I want to have fun" value="Noriu pasilinksminti"/>
+  <s key="Enable surprises"/>
+  <s key="NWS forecasts for the USA" value="Prognozės tik JAV"/>
+  <s key="h" value="v"/>
+  <s key="min" value="min"/>
+  <s key="Open" value="Atidaryti"/>
+  <s key="Browse" value="Daugiau"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="Įkelkite kraštovaizdį iš interneto ar kompiuterio"/>
+  <s key="Landscape load error" value="Kraštovaizdžio įkėlimo klaida"/>
+  <s key="Picture load error" value="Nuotraukos įkėlimo klaida"/>
+  <s key="The landscape is already added" value="Toks kraštovaizdis jau yra"/>
+  <s key="Landscape collection" value="Kraštovaizdžių kolekcija"/>
+  <s key="Turn your photo into Landscape" value="Paverskite savo nuotrauką į kraštovaizdį"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}Išmokite{1} kaip paversti savo nuotrauką į kraštovaizdžio"/>
+  <s key="Village" value="Kaimas"/>
+  <s key="Seaside" value="Pajūris"/>
+  <s key="Airport" value="Oro uostas"/>
+  <s key="Oriental" value="Rytų"/>
+  <s key="Sky" value="Dangus"/>
+  <s key="Landscape made from picture" value="Peizažas iš nuotraukos"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="Nuotraukos pavertimas į kraštovaizdį gidas."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="Pirmiausiai perskaitykite {0}Kaip paversti nuotrauką į kraštovaizdį?{1} "/>
+  <s key="Click Next to continue..." value="Paspauskite Toliau, kad galėtumėte tęsti..."/>
+  <s key="Specify a picture you want to turn into landscape." value="Nurodykite nuotrauką, kurį paversite į kraštovaizdį."/>
+  <s key="How to pick the best landscape picture?" value="Kaip išsirinkti geriausią nuotrauką kraštovaizdžiui?"/>
+  <s key="Source picture" value="Nuotraukos šaltinis"/>
+  <s key="The landscape will be created in the following folder" value="Kraštovaizdžiui bus sukurtas katalogas"/>
+  <s key="Landscape folder name" value="Peizažo katalogo pavadinimas"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="Paspauslite &quot;Sukurti&quot; kad sukurtumėte {0} peizažą"/>
+  <s key="{0} landscape has been created successfully!" value="{0} peizažas sukurtas sėkmingai!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="Dabar atidarykite {0} nuotraukų redaktorių. Jums reikia pašalinti debesys iš nuotraukos. Jūs rasite nuotrauką {1} peizažo kataloge {2}"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="Pašalinti debesys taip lengva. Perskaitykite {0}pamoką{1}."/>
+  <s key="Auto" value="Automatinė"/>
+  <s key="Horizon Level Setup" value="Horizonto lygio nustatymas"/>
+  <s key="Keys: Up/Down" value="Klavišai: Aukštyn/Žemyn"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="Jū ruošiatės ištrinti peizažą {0}. Ar tikrai to norite?"/>
+  <s key="Edit Landscape" value="Redaguoti peizažą"/>
+  <s key="Edit Horizon Level" value="Redaguoti horizonto lygį"/>
+  <s key="File not found." value="Failas nerastas."/>
+  <s key="The name is empty" value="Neparašytas  pavadinimas"/>
+  <s key="The folder already exists" value="Toks katalogas jau yra"/>
+  <s key="Illegal folder name" value="Neteisingas katalogo pavadinimas"/>
+  <s key="The file format is not supported." value="Nesuprantamas failo formatas."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="Per didelė nuotrauka. Nuotraukos dydis turi neviršyti 2880 taškų tiek į aukštį ir į plotį."/>
+  <s key="Landscape Image" value="Peizažo nuotraukos"/>
+  <s key="Landscape Folder" value="Peizažo katalogas"/>
+  <s key="About Landscape" value="Apie peizažą"/>
+  <s key="Picture {0} imported successfully" value="Nuotrauka {0} importuota sėkmingai"/>
+  <s key="Remind Me Later" value="Priminti vėliau"/>
+  <s key="Skip This Version" value="Praleisti šią versiją"/>
+  <s key="Loading" value="Įkeliami"/>
+  <s key="Next" value="Toliau"/>
+  <s key="Back" value="Atgal"/>
+  <s key="Finish" value="Baigti"/>
+  <s key="Create" value="Sukurti"/>
+  <s key="Import" value="Importuoti"/>
+  <s key="Delete" value="Ištrinti"/>
+  <s key="Path" value="Vieta"/>
+  <s key="Options" value="Nustatymai"/>
+  <s key="Select the options you like" value="Įsirinkite nustatymus tokius kokius norite"/>
+  <s key="Set YoWindow as default screen saver" value="Nustatyti kaip ekrano užsklandą"/>
+  <s key="Start with Windows (minimized to system tray)" value="Paleisti kartu su Windows (sumažintas į dėklą)"/>
+  <s key="Add a shortcut to quick launch bar" value="Pridėti nuorodą į greito paleidimo juostą"/>
+  <s key="You are about to upgrade YoWindow." value="Ketinate atnaujinti YoWindow."/>
+  <s key="Click OK to install the new version." value="Paspauskite Gerai, kad įdiegti naują versiją."/>
+  <s key="You must close YoWindow before you can continue." value="Jums reikia uždaryti YoWindow, kad galėtumėte tęsti."/>
+  <s key="After you have closed YoWindow, select Retry." value="Po to pasirinkite $\\. "/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="Jei norite atšaukti šalinimo procesą, pasirinkite Atšaukti."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="Jei norite pabandyti įdiegti dar karta, pasirinkite Nepaisyti. "/>
+  <s key="If you wish to abort the installation, select Abort." value="Jei norite nutraukti diegimą, pasirinkite Atšaukti."/>
+  <s key="Final step" value="Paskutinis žingsnis"/>
+  <s key="Start YoWindow on system startup" value="Paleisti YoWindow kai paleidžiama sistema"/>
+  <s key="Check for new version..." value="Patikrinti naują versiją..."/>
+  <s key="YoWindow is up to date!" value="YoWindow galiojimas baigėsi!"/>
+  <s key="You have the latest version" value="Jūs turite naujausią versiją"/>
+  <s key="Download new version!" value="Atsiusti naują versiją!"/>
+  <s key="Preview" value="Peržiūra"/>
+  <s key="Show small YoWindow logo" value="Rodyti mažą YoWindow logotipą"/>
+  <s key="The landscape is available in Unlimited Edition only." value="Kraštovaizdis yra prieinamas tik pilnoje versijoje."/>
+  <s key="id_short_hour" value="h"/>
+  <s key="id_short_minute" value="m"/>
+  <s key="id_unit_short_millimetres" value="mm"/>
+  <s key="id_unit_short_centimetres" value="cm"/>
+  <s key="id_unit_short_metres" value="m"/>
+  <s key="id_unit_short_kilometres" value="km"/>
+  <s key="id_unit_short_feet" value="Pėdų"/>
+  <s key="id_unit_short_miles" value="mylios"/>
+  <s key="id_unit_short_miles_per_hour" value="mph"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="m/s"/>
+  <s key="id_unit_short_knots" value="mazgai"/>
+  <s key="id_unit_short_beaufort" value="Bft"/>
+  <s key="id_unit_short_millibar" value="mb"/>
+  <s key="id_unit_short_kilopascal" value="kPa"/>
+  <s key="id_unit_short_hectopascal" value="hPa"/>
+  <s key="id_unit_short_inches" value="&quot;"/>
+  <s key="Display &quot;?&quot;" value="Ekranas &quot;?&quot;"/>
+  <s key="Hide parameter" value="Slėpti parametrą"/>
+  <s key="When weather parameter is not available" value="Kai oras parametras nėra"/>
+  <s key="Information" value="Informacija"/>
+  <s key="id_information_all" value="Visi"/>
+  <s key="Temperature and Time" value="Temperatūros ir Laiko"/>
+  <s key="This is Unlimited Edition." value="Tai Neribota Leidimas."/>
+  <s key="It is already registered." value="Jis jau yra užregistruotas."/>
+  <s key="Free edition" value="Nemokama leidimas"/>
+  <s key="Unlimited edition" value="Neribota leidimas"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later."/>
+  <s key="Get Adobe Flash Player"/>
+  <s key="Unlock landscape"/>
+  <s key="YoWindow for Chrome"/>
+  <s key="YoWindow for Windows"/>
+  <s key="YoWindow for Mac OS"/>
+  <s key="YoWindow for iPhone and iPad"/>
+  <s key="Follow YoWindow on Facebook"/>
+  <s key="Follow YoWindow on Twitter"/>
+  <s key="Landscape trial, days left:"/>
+  <s key="Landscape trial period is over"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited."/>
+  <s key="Details"/>
+  <s key="View direction"/>
+  <s key="Fixed sky"/>
+  <s key="Edit" value="Redaguoti"/>
+  <s key="Reload"/>
+  <s key="Minimized"/>
+  <s key="affects wind only"/>
+  <s key="Broadcast"/>
+  <s key="Share"/>
+  <s key="Publishing"/>
+  <s key="Authorizing"/>
+  <s key="Published!"/>
+  <s key="Space"/>
+  <s key="Weather now in {0}"/>
+  <s key="Weather forecast for {0} in {1}"/>
+  <s key="Today in {0} (forecast)"/>
+  <s key="Tomorrow in {0} (forecast)"/>
+  <s key="Forecast"/>
+  <s key="Sound"/>
+  <s key="Enable sound"/>
+  <s key="Volume"/>
+  <s key="Skip"/>
+  <s key="Presented in Stereo"/>
+  <s key="Override current season"/>
+  <s key="Winter"/>
+  <s key="Spring"/>
+  <s key="Summer"/>
+  <s key="Autumn"/>
+  <s key="Naked"/>
+  <s key="Countries"/>
+  <s key="Vote!"/>
+  <s key="Vote for YoWindow, thank you"/>
+  <s key="More YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time"/>
+  <s key="And one more time"/>
+  <s key="Press the 'LIVE' button to return to current time"/>
+  <s key="Watch weather with pleasure"/>
+  <s key="Disable Auto-Lock"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%."/>
+  <s key="More"/>
+  <s key="Parallax effect"/>
+  <s key="An illusion of 3D space when you tilt the device"/>
+  <s key="Temperature in Status Bar"/>
+  <s key="Show temperature for &quot;Home&quot; location"/>
+  <s key="Not enough free space."/>
+  <s key="YoWindow may run unstable."/>
+  <s key="{0} MB minimum required."/>
+  <s key="YoWindow Weather"/>
+  <s key="YoWindow Zero"/>
+  <s key="Get Full Version"/>
+  <s key="No ads, no limitations, all landscapes available"/>
+  <s key="No advertising"/>
+  <s key="Remove ads"/>
+  <s key="Weather forecast is limited"/>
+  <s key="Demo"/>
+  <s key="&quot;{0}&quot; Landscape access is limited."/>
+  <s key="Connecting to {0}"/>
+  <s key="Camera"/>
+  <s key="Photos"/>
+  <s key="Wallpaper"/>
+  <s key="Enable animations"/>
+  <s key="Show weather"/>
+  <s key="No animation - almost no battery power consumed."/>
+  <s key="Widget Settings"/>
+  <s key="Create Widget"/>
+  <s key="Tap to search for a location"/>
+  <s key="Show background"/>
+  <s key="Move On Top"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;"/>
+  <s key="You have both Full and Free editions of YoWindow installed."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort"/>
+  <s key="Tap to continue"/>
+  <s key="YoWindow installed on an external storage."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)."/>
+  <s key="Location Search"/>
+  <s key="Redeem code"/>
+  <s key="Full Version privilege granted."/>
+  <s key="Advertising removed, no limitations."/>
+  <s key="Unexpected code"/>
+  <s key="Restore privileges"/>
+  <s key="Set As Wallpaper"/>
+  <s key="Post"/>
+  <s key="Enter the message"/>
+  <s key="Fill in the weather"/>
+  <s key="You just have posted to Facebook!"/>
+</body>

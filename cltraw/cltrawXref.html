@@ -1,0 +1,1500 @@
+<div style="position: relative; margin: inherit;">
+<!-- module cltrawXref.php ==== version: 0.00 2012-03-04 --><!-- data generated 2012-08-10 -->
+<script type="text/javascript" src="javascripts/floating.js">
+</script>
+<div class="doNotPrint" id="floatdiv" style="position: absolute; padding: 2px; background: yellow; border: 2px solid #FFF; z-index: 100; -moz-border-radius: 5px; -webkit-border-radius: 5px;"
+>  
+<table style="border: 0; border-spacing: 0px; font-size: 8px;">
+<tbody>
+<tr><td><a href="#baro">baro</a></td><td><a href="#grass">grass</a></td><td><a href="#moisture">moisture</a></td><td><a href="#temp">temp</a></td></tr>
+<tr><td><a href="#coldest">coldest</a></td><td><a href="#gust">gust</a></td><td><a href="#moon">moon</a></td><td><a href="#uv">uv</a></td></tr>
+<tr><td><a href="#davis">davis</a></td><td><a href="#heatindex">heatindex</a></td><td><a href="#rain">rain</a></td><td><a href="#warmest">warmest</a></td></tr>
+<tr><td><a href="#days">days with</a></td><td><a href="#humidex">humidex</a></td><td><a href="#snow">snow</a></td><td><a href="#weather">weather</a></td></tr>
+<tr><td><a href="#dewpoint">dewpoint</a></td><td><a href="#humidity">humidity</a></td><td><a href="#soil">soil</a></td><td><a href="#wind">wind</a></td></tr>
+<tr><td><a href="#et">et</a></td><td><a href="#icon">icon</a></td><td><a href="#solar">solar</a></td><td><a href="#windchill">windchill</a></td><td></td></tr>
+<tr><td><a href="#forecast">forecast</a></td><td><a href="#leaf">leaf</a></td><td><a href="#sunrise">sun</a></td>
+<td><a href="#header" title="Goto Top of Page"><img src="ajaxImages/toparrow.gif" alt=" " style="border: 0px;" /></a></td></tr>
+</tbody></table>
+</div>
+<script type="text/javascript">
+	floatingMenu.add('floatdiv',  
+    	{	targetBottom: 10,
+    		prohibitXMovement: true,
+        	snap: false
+        });  
+</script>
+<div class="blockDiv">
+<h3 class="blockHead">Clientraw Xross Reference</h3>
+<div style="width: 98%; margin: 0 auto;">
+<p>
+The following table contains all fields of the four clienraw files sorted on field-description (Label). 
+Same fields are combined and the info is further compressed by removing all date and time info when they are not relevant.
+</p>
+<p><b>COLUMNS</b>
+The column labeld <b>Key</b> contains a letter which specifies the file used:<br />
+<b>a</b> (for clientraw), <b>b</b> (clientrawextra), <b>c</b> (clientrawdaily), <b>d</b> (clientrawhour)<br />
+and the sequencenumber of that field.</p>
+<p>
+The <b>Label</b> column contains the descriptive text for that field.<br />There is still work to be done on that part (f.i. Lightning and Boltek should be combined).
+<br />
+The labels are shortened by removing all info like day#, date and time fields.
+</p>
+<p><b>Type</b> contains the Type of data for which te following letters are used:
+<br />
+<b>B</b>ool, <b>C</b>elcius, <b>D</b>egrees, <b>F</b>eet, Baro in <b>H</b>pa, <b>I</b>con, <b>K</b>nots, 
+<b>L</b>abel, Rain in <b>M</b>M, <b>N</b>umber, <b>P</b>ercent, <b>T</b>ime, <b>U</b>nused
+</p>
+<p><b>Comment:</b> contains, if available, the comments to this field and all the other fields connected to this field. 
+</p>
+<p style="margin-bottom: 2px;"><b>EXAMPLE</b></p>
+<table border="1" class="genericTable">
+<thead>
+<tr>
+<th style="text-align: center; vertical-align: top;">Key</th>
+<th style="width: 35%; text-align: left;   vertical-align: top;">Label</th>
+<th style="text-align: center; vertical-align: top; cursor: n-resize;">Type</th>
+<th style="text-align: center; vertical-align: top; cursor: n-resize;">Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">b343</td>
+<td style="text-align: left;">baro high alltime rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b344);  min&nbsp;(b345);  day&nbsp;(b346);  mon&nbsp;(b347); year&nbsp;(b348); </small></td></tr>
+</tbody>
+</table>
+<p style="margin-top: 2px;">
+<b>Key:</b> b(for clientrawextra) and 343 which is the sequencenumber of this field.<br />
+<b>Label:</b> the most important part of the description of this field.<br />
+<b>Type:</b> H for hPa (hectopascal)<br />
+<b>Comment:</b> In this case the date and time fields for this measurement of: baro high alltime rcd.
+</p>
+
+<p class="doNotPrint"><b>MENU</b> The floating yellow menu brings you directly to the corresponding part of this rather long page.</p>
+</div>
+<div style="width: 98%; margin: 0 auto;">
+<table border="1" class="genericTable">
+<thead>
+<tr>
+<th style="text-align: center; vertical-align: top;">Key</th>
+<th style="width: 35%; text-align: left;   vertical-align: top;">Label</th>
+<th style="text-align: center; vertical-align: top; cursor: n-resize;">Type</th>
+<th style="text-align: center; vertical-align: top; cursor: n-resize;">Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr id="actual_date">
+<td style="text-align: left;">a029</td>
+<td style="text-align: left;">actual_date</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour format depends on wd setting<br />minute&nbsp;(a030); seconds&nbsp;(a031); day&nbsp;(a035); month&nbsp;(a036); dd/mm/yyyy&nbsp;(a074); year&nbsp;(a141); </small></td></tr>
+<tr id="apparent">
+<td style="text-align: left;">a130</td>
+<td style="text-align: left;">apparent temp</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a136</td>
+<td style="text-align: left;">apparent temp max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a137</td>
+<td style="text-align: left;">apparent temp min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="average">
+<td style="text-align: left;">c430</td>
+<td style="text-align: left;">average rain for month</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">Jan mm<br />Feb&nbsp;(c431); Mar&nbsp;(c432); Apr&nbsp;(c433); May&nbsp;(c434); Jun&nbsp;(c435); Jul&nbsp;(c436); Aug&nbsp;(c437); Sep&nbsp;(c438); Oct&nbsp;(c439); Nov&nbsp;(c440); Dec&nbsp;(c441); </small></td></tr>
+<tr id="baro">
+<td style="text-align: left;">a006</td>
+<td style="text-align: left;">baro</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">c261</td>
+<td style="text-align: left;">baro day</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c262); 1#3&nbsp;(c263); 1#4&nbsp;(c264); 2#1&nbsp;(c265); 2#2&nbsp;(c266); 2#3&nbsp;(c267); 2#4&nbsp;(c268); 3#1&nbsp;(c269); 3#2&nbsp;(c270); 3#3&nbsp;(c271); 3#4&nbsp;(c272); 4#1&nbsp;(c273); 4#2&nbsp;(c274); 4#3&nbsp;(c275); 4#4&nbsp;(c276); 5#1&nbsp;(c277); 5#2&nbsp;(c278); 5#3&nbsp;(c279); 5#4&nbsp;(c280); 6#1&nbsp;(c281); 6#2&nbsp;(c282); 6#3&nbsp;(c283); 6#4&nbsp;(c284); 7#1&nbsp;(c285); 7#2&nbsp;(c286); 7#3&nbsp;(c287); 7#4&nbsp;(c288); </small></td></tr>
+<tr>
+<td style="text-align: left;">a131</td>
+<td style="text-align: left;">baro high</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"> also: baro max<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">b343</td>
+<td style="text-align: left;">baro high alltime rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b344);  min&nbsp;(b345);  day&nbsp;(b346);  mon&nbsp;(b347); year&nbsp;(b348); </small></td></tr>
+<tr>
+<td style="text-align: left;">b091</td>
+<td style="text-align: left;">baro high month rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b092);  min&nbsp;(b093);  day&nbsp;(b094);  mon&nbsp;(b095); year&nbsp;(b096); </small></td></tr>
+<tr>
+<td style="text-align: left;">b217</td>
+<td style="text-align: left;">baro high ytd rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b218);  min&nbsp;(b219);  day&nbsp;(b220);  mon&nbsp;(b221); year&nbsp;(b222); </small></td></tr>
+<tr>
+<td style="text-align: left;">b439</td>
+<td style="text-align: left;">baro hour</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b440); 03&nbsp;(b441); 04&nbsp;(b442); 05&nbsp;(b443); 06&nbsp;(b444); 07&nbsp;(b445); 08&nbsp;(b446); 09&nbsp;(b447); 10&nbsp;(b448); 11&nbsp;(b449); 12&nbsp;(b450); 13&nbsp;(b451); 14&nbsp;(b452); 15&nbsp;(b453); 16&nbsp;(b454); 17&nbsp;(b455); 18&nbsp;(b456); 19&nbsp;(b457); 20&nbsp;(b458); 21&nbsp;(b574); 22&nbsp;(b575); 23&nbsp;(b576); 24&nbsp;(b577); </small></td></tr>
+<tr>
+<td style="text-align: left;">d301</td>
+<td style="text-align: left;">baro last_60_min_for_min</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d302); 03&nbsp;(d303); 04&nbsp;(d304); 05&nbsp;(d305); 06&nbsp;(d306); 07&nbsp;(d307); 08&nbsp;(d308); 09&nbsp;(d309); 10&nbsp;(d310); 11&nbsp;(d311); 12&nbsp;(d312); 13&nbsp;(d313); 14&nbsp;(d314); 15&nbsp;(d315); 16&nbsp;(d316); 17&nbsp;(d317); 18&nbsp;(d318); 19&nbsp;(d319); 20&nbsp;(d320); 21&nbsp;(d321); 22&nbsp;(d322); 23&nbsp;(d323); 24&nbsp;(d324); 25&nbsp;(d325); 26&nbsp;(d326); 27&nbsp;(d327); 28&nbsp;(d328); 29&nbsp;(d329); 30&nbsp;(d330); 31&nbsp;(d331); 32&nbsp;(d332); 33&nbsp;(d333); 34&nbsp;(d334); 35&nbsp;(d335); 36&nbsp;(d336); 37&nbsp;(d337); 38&nbsp;(d338); 39&nbsp;(d339); 40&nbsp;(d340); 41&nbsp;(d341); 42&nbsp;(d342); 43&nbsp;(d343); 44&nbsp;(d344); 45&nbsp;(d345); 46&nbsp;(d346); 47&nbsp;(d347); 48&nbsp;(d348); 49&nbsp;(d349); 50&nbsp;(d350); 51&nbsp;(d351); 52&nbsp;(d352); 53&nbsp;(d353); 54&nbsp;(d354); 55&nbsp;(d355); 56&nbsp;(d356); 57&nbsp;(d357); 58&nbsp;(d358); 59&nbsp;(d359); 60&nbsp;(d360); </small></td></tr>
+<tr>
+<td style="text-align: left;">a132</td>
+<td style="text-align: left;">baro low</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"> also: baro min<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">b337</td>
+<td style="text-align: left;">baro low alltime rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b338);  min&nbsp;(b339);  day&nbsp;(b340);  mon&nbsp;(b341); year&nbsp;(b342); </small></td></tr>
+<tr>
+<td style="text-align: left;">b085</td>
+<td style="text-align: left;">baro low month rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b086);  min&nbsp;(b087);  day&nbsp;(b088);  mon&nbsp;(b089); year&nbsp;(b090); </small></td></tr>
+<tr>
+<td style="text-align: left;">b211</td>
+<td style="text-align: left;">baro low ytd rcd</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b212);  min&nbsp;(b213);  day&nbsp;(b214);  mon&nbsp;(b215); year&nbsp;(b216); </small></td></tr>
+<tr>
+<td style="text-align: left;">b797</td>
+<td style="text-align: left;">baro max today</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b799</td>
+<td style="text-align: left;">baro max today time</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b771</td>
+<td style="text-align: left;">baro max yesterday</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b773</td>
+<td style="text-align: left;">baro max yesterday time</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b798</td>
+<td style="text-align: left;">baro min today</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b800</td>
+<td style="text-align: left;">baro min today time</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b772</td>
+<td style="text-align: left;">baro min yesterday</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b774</td>
+<td style="text-align: left;">baro min yesterday time</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">c094</td>
+<td style="text-align: left;">baro month</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c095); 03&nbsp;(c096); 04&nbsp;(c097); 05&nbsp;(c098); 06&nbsp;(c099); 07&nbsp;(c100); 08&nbsp;(c101); 09&nbsp;(c102); 10&nbsp;(c103); 11&nbsp;(c104); 12&nbsp;(c105); 13&nbsp;(c106); 14&nbsp;(c107); 15&nbsp;(c108); 16&nbsp;(c109); 17&nbsp;(c110); 18&nbsp;(c111); 19&nbsp;(c112); 20&nbsp;(c113); 21&nbsp;(c114); 22&nbsp;(c115); 23&nbsp;(c116); 24&nbsp;(c117); 25&nbsp;(c118); 26&nbsp;(c119); 27&nbsp;(c120); 28&nbsp;(c121); 29&nbsp;(c122); 30&nbsp;(c123); 31&nbsp;(c124); </small></td></tr>
+<tr>
+<td style="text-align: left;">a050</td>
+<td style="text-align: left;">baro trend</td>
+<td style="text-align: center;">H</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="beginning">
+<td style="text-align: left;">a000</td>
+<td style="text-align: left;">beginning of file</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;">&nbsp;(b000); &nbsp;(c000); &nbsp;(d000); </small></td></tr>
+<tr id="chandler">
+<td style="text-align: left;">b765</td>
+<td style="text-align: left;">chandler burning index</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="cloud">
+<td style="text-align: left;">a073</td>
+<td style="text-align: left;">cloud height</td>
+<td style="text-align: center;">F</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="coldest">
+<td style="text-align: left;">b415</td>
+<td style="text-align: left;">coldest day alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b416);  min&nbsp;(b417);  day&nbsp;(b418);  mon&nbsp;(b419); year&nbsp;(b420); </small></td></tr>
+<tr>
+<td style="text-align: left;">b163</td>
+<td style="text-align: left;">coldest day month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over daylight<br />hour&nbsp;(b164);  min&nbsp;(b165);  day&nbsp;(b166);  mon&nbsp;(b167); year&nbsp;(b168); </small></td></tr>
+<tr>
+<td style="text-align: left;">b289</td>
+<td style="text-align: left;">coldest day ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over daylight<br />hour&nbsp;(b290);  min&nbsp;(b291);  day&nbsp;(b292);  mon&nbsp;(b293); year&nbsp;(b294); </small></td></tr>
+<tr>
+<td style="text-align: left;">b409</td>
+<td style="text-align: left;">coldest night alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b410);  min&nbsp;(b411);  day&nbsp;(b412);  mon&nbsp;(b413); year&nbsp;(b414); </small></td></tr>
+<tr>
+<td style="text-align: left;">b157</td>
+<td style="text-align: left;">coldest night month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over night time<br />hour&nbsp;(b158);  min&nbsp;(b159);  day&nbsp;(b160);  mon&nbsp;(b161); year&nbsp;(b162); </small></td></tr>
+<tr>
+<td style="text-align: left;">b283</td>
+<td style="text-align: left;">coldest night ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over night<br />hour&nbsp;(b284);  min&nbsp;(b285);  day&nbsp;(b286);  mon&nbsp;(b287); year&nbsp;(b288); </small></td></tr>
+<tr id="current">
+<td style="text-align: left;">a167</td>
+<td style="text-align: left;">current cost channel</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">1 watts<br />2&nbsp;(a168); 3&nbsp;(a169); 4&nbsp;(a170); 5&nbsp;(a171); 6&nbsp;(a172); </small></td></tr>
+<tr id="daily">
+<td style="text-align: left;">a173</td>
+<td style="text-align: left;">daily wind run</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"> 9am or midnight reset<br /></small></td></tr>
+<tr id="dallas">
+<td style="text-align: left;">a033</td>
+<td style="text-align: left;">dallas lightning count</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="davis">
+<td style="text-align: left;">a079</td>
+<td style="text-align: left;">davis vp uv</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="day">
+<td style="text-align: left;">b700</td>
+<td style="text-align: left;">day</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">&nbsp;(c232); </small></td></tr>
+<tr>
+<td style="text-align: left;">b610</td>
+<td style="text-align: left;">day night flag</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> d = day n = night<br /></small></td></tr>
+<tr id="days">
+<td style="text-align: left;">b482</td>
+<td style="text-align: left;">days with no rain</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b483</td>
+<td style="text-align: left;">days with rain mtd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="dewpoint">
+<td style="text-align: left;">a072</td>
+<td style="text-align: left;">dewpoint</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b753</td>
+<td style="text-align: left;">dewpoint high alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b754);  min&nbsp;(b755);  day&nbsp;(b756);  mon&nbsp;(b757); year&nbsp;(b758); </small></td></tr>
+<tr>
+<td style="text-align: left;">b729</td>
+<td style="text-align: left;">dewpoint high month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b730);  min&nbsp;(b731);  day&nbsp;(b732);  mon&nbsp;(b733); year&nbsp;(b734); </small></td></tr>
+<tr>
+<td style="text-align: left;">b741</td>
+<td style="text-align: left;">dewpoint high year rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b742);  min&nbsp;(b743);  day&nbsp;(b744);  mon&nbsp;(b745); year&nbsp;(b746); </small></td></tr>
+<tr>
+<td style="text-align: left;">b759</td>
+<td style="text-align: left;">dewpoint low alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b760);  min&nbsp;(b761);  day&nbsp;(b762);  mon&nbsp;(b763); year&nbsp;(b764); </small></td></tr>
+<tr>
+<td style="text-align: left;">b735</td>
+<td style="text-align: left;">dewpoint low month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b736);  min&nbsp;(b737);  day&nbsp;(b738);  mon&nbsp;(b739); year&nbsp;(b740); </small></td></tr>
+<tr>
+<td style="text-align: left;">b747</td>
+<td style="text-align: left;">dewpoint low year rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b748);  min&nbsp;(b749);  day&nbsp;(b750);  mon&nbsp;(b751); year&nbsp;(b752); </small></td></tr>
+<tr>
+<td style="text-align: left;">a138</td>
+<td style="text-align: left;">dewpoint max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">b813</td>
+<td style="text-align: left;">dewpoint max today</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b815</td>
+<td style="text-align: left;">dewpoint max today time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b787</td>
+<td style="text-align: left;">dewpoint max yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b789</td>
+<td style="text-align: left;">dewpoint max yesterday time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+
+<tr>
+<td style="text-align: left;">a139</td>
+<td style="text-align: left;">dewpoint min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">b814</td>
+<td style="text-align: left;">dewpoint min today</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b816</td>
+<td style="text-align: left;">dewpoint min today time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b788</td>
+<td style="text-align: left;">dewpoint min yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b789</td>
+<td style="text-align: left;">dewpoint min yesterday time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr id="et">
+<td style="text-align: left;">b532</td>
+<td style="text-align: left;">et value</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="forecast">
+<td style="text-align: left;">a015</td>
+<td style="text-align: left;">forecast icon</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b531</td>
+<td style="text-align: left;">forecast weather display</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> (or davis) <br /></small></td></tr>
+<tr id="fwi">
+<td style="text-align: left;">b635</td>
+<td style="text-align: left;">fwi</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="grass">
+<td style="text-align: left;">b433</td>
+<td style="text-align: left;">grass alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b434);  min&nbsp;(b435);  day&nbsp;(b436);  mon&nbsp;(b437); year&nbsp;(b438); </small></td></tr>
+<tr>
+<td style="text-align: left;">b181</td>
+<td style="text-align: left;">grass max month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b182);  min&nbsp;(b183);  day&nbsp;(b184);  mon&nbsp;(b185); year&nbsp;(b186); </small></td></tr>
+<tr>
+<td style="text-align: left;">b307</td>
+<td style="text-align: left;">grass max ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b308);  min&nbsp;(b309);  day&nbsp;(b310);  mon&nbsp;(b311); year&nbsp;(b312); </small></td></tr>
+<tr id="gust">
+<td style="text-align: left;">a002</td>
+<td style="text-align: left;">gust</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b325</td>
+<td style="text-align: left;">gust alltime rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b326);  min&nbsp;(b327);  day&nbsp;(b328);  mon&nbsp;(b329); year&nbsp;(b330); </small></td></tr>
+<tr>
+<td style="text-align: left;">b391</td>
+<td style="text-align: left;">gust direction high alltime rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b392);  min&nbsp;(b393);  day&nbsp;(b394);  mon&nbsp;(b395); year&nbsp;(b396); </small></td></tr>
+<tr>
+<td style="text-align: left;">b139</td>
+<td style="text-align: left;">gust direction high month rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b140);  min&nbsp;(b141);  day&nbsp;(b142);  mon&nbsp;(b143); year&nbsp;(b144); </small></td></tr>
+<tr>
+<td style="text-align: left;">b265</td>
+<td style="text-align: left;">gust direction high ytd rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b266);  min&nbsp;(b267);  day&nbsp;(b268);  mon&nbsp;(b269); year&nbsp;(b270); </small></td></tr>
+<tr>
+<td style="text-align: left;">a140</td>
+<td style="text-align: left;">gust last min max</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">d061</td>
+<td style="text-align: left;">gust last_60_min_for_min</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d062); 03&nbsp;(d063); 04&nbsp;(d064); 05&nbsp;(d065); 06&nbsp;(d066); 07&nbsp;(d067); 08&nbsp;(d068); 09&nbsp;(d069); 10&nbsp;(d070); 11&nbsp;(d071); 12&nbsp;(d072); 13&nbsp;(d073); 14&nbsp;(d074); 15&nbsp;(d075); 16&nbsp;(d076); 17&nbsp;(d077); 18&nbsp;(d078); 19&nbsp;(d079); 20&nbsp;(d080); 21&nbsp;(d081); 22&nbsp;(d082); 23&nbsp;(d083); 24&nbsp;(d084); 25&nbsp;(d085); 26&nbsp;(d086); 27&nbsp;(d087); 28&nbsp;(d088); 29&nbsp;(d089); 30&nbsp;(d090); 31&nbsp;(d091); 32&nbsp;(d092); 33&nbsp;(d093); 34&nbsp;(d094); 35&nbsp;(d095); 36&nbsp;(d096); 37&nbsp;(d097); 38&nbsp;(d098); 39&nbsp;(d099); 40&nbsp;(d100); 41&nbsp;(d101); 42&nbsp;(d102); 43&nbsp;(d103); 44&nbsp;(d104); 45&nbsp;(d105); 46&nbsp;(d106); 47&nbsp;(d107); 48&nbsp;(d108); 49&nbsp;(d109); 50&nbsp;(d110); 51&nbsp;(d111); 52&nbsp;(d112); 53&nbsp;(d113); 54&nbsp;(d114); 55&nbsp;(d115); 56&nbsp;(d116); 57&nbsp;(d117); 58&nbsp;(d118); 59&nbsp;(d119); 60&nbsp;(d120); </small></td></tr>
+<tr>
+<td style="text-align: left;">a071</td>
+<td style="text-align: left;">gust max</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"> used for wind speed chart<br />&nbsp;(a133); </small></td></tr>
+<tr>
+<td style="text-align: left;">a134</td>
+<td style="text-align: left;">gust max last_hour time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b805</td>
+<td style="text-align: left;">gust max today</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b806</td>
+<td style="text-align: left;">gust max today time</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a135</td>
+<td style="text-align: left;">gust max today time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">b779</td>
+<td style="text-align: left;">gust max yesterday</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b780</td>
+<td style="text-align: left;">gust max yesterday time</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b073</td>
+<td style="text-align: left;">gust month rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b074);  min&nbsp;(b075);  day&nbsp;(b076);  mon&nbsp;(b077); year&nbsp;(b078); </small></td></tr>
+<tr>
+<td style="text-align: left;">b199</td>
+<td style="text-align: left;">gust ytd rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b200);  min&nbsp;(b201);  day&nbsp;(b202);  mon&nbsp;(b203); year&nbsp;(b204); </small></td></tr>
+<tr id="heatindex">
+<td style="text-align: left;">a112</td>
+<td style="text-align: left;">heatindex</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b427</td>
+<td style="text-align: left;">heatindex high alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b428);  min&nbsp;(b429);  day&nbsp;(b430);  mon&nbsp;(b431); year&nbsp;(b432); </small></td></tr>
+<tr>
+<td style="text-align: left;">b175</td>
+<td style="text-align: left;">heatindex high month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b176);  min&nbsp;(b177);  day&nbsp;(b178);  mon&nbsp;(b179); year&nbsp;(b180); </small></td></tr>
+<tr>
+<td style="text-align: left;">b301</td>
+<td style="text-align: left;">heatindex high ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b302);  min&nbsp;(b303);  day&nbsp;(b304);  mon&nbsp;(b305); year&nbsp;(b306); </small></td></tr>
+<tr>
+<td style="text-align: left;">a110</td>
+<td style="text-align: left;">heatindex max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b811</td>
+<td style="text-align: left;">heatindex max today</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b813</td>
+<td style="text-align: left;">heatindex max today time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b785</td>
+<td style="text-align: left;">heatindex max yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b786</td>
+<td style="text-align: left;">heatindex max yesterday time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a111</td>
+<td style="text-align: left;">heatindex min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="hour">
+<td style="text-align: left;">b698</td>
+<td style="text-align: left;">hour</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">&nbsp;(c230); </small></td></tr>
+<tr id="humidex">
+<td style="text-align: left;">a045</td>
+<td style="text-align: left;">humidex</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a075</td>
+<td style="text-align: left;">humidex max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a076</td>
+<td style="text-align: left;">humidex min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a145</td>
+<td style="text-align: left;">humidex trend</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: left;"><small style="color: black;"> logic<br /></small></td></tr>
+<tr id="humidity">
+<td style="text-align: left;">c289</td>
+<td style="text-align: left;">humidity day</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c290); 1#3&nbsp;(c291); 1#4&nbsp;(c292); 2#1&nbsp;(c293); 2#2&nbsp;(c294); 2#3&nbsp;(c295); 2#4&nbsp;(c296); 3#1&nbsp;(c297); 3#2&nbsp;(c298); 3#3&nbsp;(c299); 3#4&nbsp;(c300); 4#1&nbsp;(c301); 4#2&nbsp;(c302); 4#3&nbsp;(c303); 4#4&nbsp;(c304); 5#1&nbsp;(c305); 5#2&nbsp;(c306); 5#3&nbsp;(c307); 5#4&nbsp;(c308); 6#1&nbsp;(c309); 6#2&nbsp;(c310); 6#3&nbsp;(c311); 6#4&nbsp;(c312); 7#1&nbsp;(c313); 7#2&nbsp;(c314); 7#3&nbsp;(c315); 7#4&nbsp;(c316); </small></td></tr>
+<tr>
+<td style="text-align: left;">a026</td>
+<td style="text-align: left;">humidity extra_sensor</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(a027); 3&nbsp;(a028); 4&nbsp;(a122); 5&nbsp;(a123); 6&nbsp;(a124); 7&nbsp;(a125); 8&nbsp;(a126); </small></td></tr>
+<tr>
+<td style="text-align: left;">a163</td>
+<td style="text-align: left;">humidity high day</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b611</td>
+<td style="text-align: left;">humidity hour</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b612); 03&nbsp;(b613); 04&nbsp;(b614); 05&nbsp;(b615); 06&nbsp;(b616); 07&nbsp;(b617); 08&nbsp;(b618); 09&nbsp;(b619); 10&nbsp;(b620); 11&nbsp;(b621); 12&nbsp;(b622); 13&nbsp;(b623); 14&nbsp;(b624); 15&nbsp;(b625); 16&nbsp;(b626); 17&nbsp;(b627); 18&nbsp;(b628); 19&nbsp;(b629); 20&nbsp;(b630); 21&nbsp;(b631); 22&nbsp;(b632); 23&nbsp;(b633); 24&nbsp;(b634); </small></td></tr>
+<tr>
+<td style="text-align: left;">a013</td>
+<td style="text-align: left;">humidity indoor</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">d241</td>
+<td style="text-align: left;">humidity last_60_min_for_min</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d242); 03&nbsp;(d243); 04&nbsp;(d244); 05&nbsp;(d245); 06&nbsp;(d246); 07&nbsp;(d247); 08&nbsp;(d248); 09&nbsp;(d249); 10&nbsp;(d250); 11&nbsp;(d251); 12&nbsp;(d252); 13&nbsp;(d253); 14&nbsp;(d254); 15&nbsp;(d255); 16&nbsp;(d256); 17&nbsp;(d257); 18&nbsp;(d258); 19&nbsp;(d259); 20&nbsp;(d260); 21&nbsp;(d261); 22&nbsp;(d262); 23&nbsp;(d263); 24&nbsp;(d264); 25&nbsp;(d265); 26&nbsp;(d266); 27&nbsp;(d267); 28&nbsp;(d268); 29&nbsp;(d269); 30&nbsp;(d270); 31&nbsp;(d271); 32&nbsp;(d272); 33&nbsp;(d273); 34&nbsp;(d274); 35&nbsp;(d275); 36&nbsp;(d276); 37&nbsp;(d277); 38&nbsp;(d278); 39&nbsp;(d279); 40&nbsp;(d280); 41&nbsp;(d281); 42&nbsp;(d282); 43&nbsp;(d283); 44&nbsp;(d284); 45&nbsp;(d285); 46&nbsp;(d286); 47&nbsp;(d287); 48&nbsp;(d288); 49&nbsp;(d289); 50&nbsp;(d290); 51&nbsp;(d291); 52&nbsp;(d292); 53&nbsp;(d293); 54&nbsp;(d294); 55&nbsp;(d295); 56&nbsp;(d296); 57&nbsp;(d297); 58&nbsp;(d298); 59&nbsp;(d299); 60&nbsp;(d300); </small></td></tr>
+<tr>
+<td style="text-align: left;">a164</td>
+<td style="text-align: left;">humidity low day</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b801</td>
+<td style="text-align: left;">humidity max today</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b803</td>
+<td style="text-align: left;">humidity max today time</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b775</td>
+<td style="text-align: left;">humidity max yesterday</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b777</td>
+<td style="text-align: left;">humidity max yesterday time</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b802</td>
+<td style="text-align: left;">humidity min today</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b804</td>
+<td style="text-align: left;">humidity min today time</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b776</td>
+<td style="text-align: left;">humidity min yesterday</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b778</td>
+<td style="text-align: left;">humidity min yesterday time</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">c199</td>
+<td style="text-align: left;">humidity month</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c200); 03&nbsp;(c201); 04&nbsp;(c202); 05&nbsp;(c203); 06&nbsp;(c204); 07&nbsp;(c205); 08&nbsp;(c206); 09&nbsp;(c207); 10&nbsp;(c208); 11&nbsp;(c209); 12&nbsp;(c210); 13&nbsp;(c211); 14&nbsp;(c212); 15&nbsp;(c213); 16&nbsp;(c214); 17&nbsp;(c215); 18&nbsp;(c216); 19&nbsp;(c217); 20&nbsp;(c218); 21&nbsp;(c219); 22&nbsp;(c220); 23&nbsp;(c221); 24&nbsp;(c222); 25&nbsp;(c223); 26&nbsp;(c224); 27&nbsp;(c225); 28&nbsp;(c226); 29&nbsp;(c227); 30&nbsp;(c228); 31&nbsp;(c229); </small></td></tr>
+<tr>
+<td style="text-align: left;">a005</td>
+<td style="text-align: left;">humidity outside</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a144</td>
+<td style="text-align: left;">humidity trend</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: left;"><small style="color: black;"> logic<br /></small></td></tr>
+<tr id="icon">
+<td style="text-align: left;">a048</td>
+<td style="text-align: left;">icon type</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="last">
+<td style="text-align: left;">c429</td>
+<td style="text-align: left;">last years rain total to dec</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"> from rain season start<br /></small></td></tr>
+<tr id="latitude">
+<td style="text-align: left;">a160</td>
+<td style="text-align: left;">latitude</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"> - for southern hemisphere<br /></small></td></tr>
+<tr id="leaf">
+<td style="text-align: left;">a156</td>
+<td style="text-align: left;">leaf wetness</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="lightning">
+<td style="text-align: left;">a116</td>
+<td style="text-align: left;">lightning last date</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a115</td>
+<td style="text-align: left;">lightning last time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="longitude">
+<td style="text-align: left;">a161</td>
+<td style="text-align: left;">longitude</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"> - for east of gmt<br /></small></td></tr>
+<tr id="minute">
+<td style="text-align: left;">b699</td>
+<td style="text-align: left;">minute</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">&nbsp;(c231); </small></td></tr>
+<tr id="moisture">
+<td style="text-align: left;">a157</td>
+<td style="text-align: left;">moisture soil</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="moon">
+<td style="text-align: left;">b561</td>
+<td style="text-align: left;">moon age</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="moonphase">
+<td style="text-align: left;">b560</td>
+<td style="text-align: left;">moonphase</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="moonrise">
+<td style="text-align: left;">b558</td>
+<td style="text-align: left;">moonrise</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="moonset">
+<td style="text-align: left;">b559</td>
+<td style="text-align: left;">moonset</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="nexstorm">
+<td style="text-align: left;">a119</td>
+<td style="text-align: left;">nexstorm bearing</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a118</td>
+<td style="text-align: left;">nexstorm dist</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b704</td>
+<td style="text-align: left;">nexstorm strk/hour</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b705); 03&nbsp;(b706); 04&nbsp;(b707); 05&nbsp;(b708); 06&nbsp;(b709); 07&nbsp;(b710); 08&nbsp;(b711); 09&nbsp;(b712); 10&nbsp;(b713); 11&nbsp;(b714); 12&nbsp;(b715); 13&nbsp;(b716); 14&nbsp;(b717); 15&nbsp;(b718); 16&nbsp;(b719); 17&nbsp;(b720); 18&nbsp;(b721); 19&nbsp;(b722); 20&nbsp;(b723); 21&nbsp;(b724); 22&nbsp;(b725); 23&nbsp;(b726); 24&nbsp;(b727); </small></td></tr>
+<tr id="number">
+<td style="text-align: left;">a114</td>
+<td style="text-align: left;">number lightning strikes last min</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="rain">
+<td style="text-align: left;">a007</td>
+<td style="text-align: left;">rain daily</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b349</td>
+<td style="text-align: left;">rain daily alltime rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b350);  min&nbsp;(b351);  day&nbsp;(b352);  mon&nbsp;(b353); year&nbsp;(b354); </small></td></tr>
+<tr>
+<td style="text-align: left;">b355</td>
+<td style="text-align: left;">rain daily hr alltime rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b356);  min&nbsp;(b357);  day&nbsp;(b358);  mon&nbsp;(b359); year&nbsp;(b360); </small></td></tr>
+<tr>
+<td style="text-align: left;">b229</td>
+<td style="text-align: left;">rain daily hr ytd rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b230);  min&nbsp;(b231);  day&nbsp;(b232);  mon&nbsp;(b233); year&nbsp;(b234); </small></td></tr>
+<tr>
+<td style="text-align: left;">b103</td>
+<td style="text-align: left;">rain daily month hr rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b104);  min&nbsp;(b105);  day&nbsp;(b106);  mon&nbsp;(b107); year&nbsp;(b108); </small></td></tr>
+<tr>
+<td style="text-align: left;">b097</td>
+<td style="text-align: left;">rain daily month rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b098);  min&nbsp;(b099);  day&nbsp;(b100);  mon&nbsp;(b101); year&nbsp;(b102); </small></td></tr>
+<tr>
+<td style="text-align: left;">b223</td>
+<td style="text-align: left;">rain daily ytd rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b224);  min&nbsp;(b225);  day&nbsp;(b226);  mon&nbsp;(b227); year&nbsp;(b228); </small></td></tr>
+<tr>
+<td style="text-align: left;">b484</td>
+<td style="text-align: left;">rain for</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">mon value was / by 10 to get correct value<br />tues&nbsp;(b485); wed&nbsp;(b486); thur&nbsp;(b487); fri&nbsp;(b488); sat&nbsp;(b489); sun&nbsp;(b490); </small></td></tr>
+<tr>
+<td style="text-align: left;">a100</td>
+<td style="text-align: left;">rain hour</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(a101); 03&nbsp;(a102); 04&nbsp;(a103); 05&nbsp;(a104); 06&nbsp;(a105); 07&nbsp;(a106); 08&nbsp;(a107); 09&nbsp;(a108); 10&nbsp;(a109); 01&nbsp;(b041); 02&nbsp;(b042); 03&nbsp;(b043); 04&nbsp;(b044); 05&nbsp;(b045); 06&nbsp;(b046); 07&nbsp;(b047); 08&nbsp;(b048); 09&nbsp;(b049); 10&nbsp;(b050); 11&nbsp;(b051); 12&nbsp;(b052); 13&nbsp;(b053); 14&nbsp;(b054); 15&nbsp;(b055); 16&nbsp;(b056); 17&nbsp;(b057); 18&nbsp;(b058); 19&nbsp;(b059); 20&nbsp;(b060); 21&nbsp;(b570); 22&nbsp;(b571); 23&nbsp;(b572); 24&nbsp;(b573); </small></td></tr>
+<tr>
+<td style="text-align: left;">c063</td>
+<td style="text-align: left;">rain month</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c064); 03&nbsp;(c065); 04&nbsp;(c066); 05&nbsp;(c067); 06&nbsp;(c068); 07&nbsp;(c069); 08&nbsp;(c070); 09&nbsp;(c071); 10&nbsp;(c072); 11&nbsp;(c073); 12&nbsp;(c074); 13&nbsp;(c075); 14&nbsp;(c076); 15&nbsp;(c077); 16&nbsp;(c078); 17&nbsp;(c079); 18&nbsp;(c080); 19&nbsp;(c081); 20&nbsp;(c082); 21&nbsp;(c083); 22&nbsp;(c084); 23&nbsp;(c085); 24&nbsp;(c086); 25&nbsp;(c087); 26&nbsp;(c088); 27&nbsp;(c089); 28&nbsp;(c090); 29&nbsp;(c091); 30&nbsp;(c092); 31&nbsp;(c093); </small></td></tr>
+<tr>
+<td style="text-align: left;">a008</td>
+<td style="text-align: left;">rain monthly</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a010</td>
+<td style="text-align: left;">rain rate</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b331</td>
+<td style="text-align: left;">rain rate alltime rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b332);  min&nbsp;(b333);  day&nbsp;(b334);  mon&nbsp;(b335); year&nbsp;(b336); </small></td></tr>
+<tr>
+<td style="text-align: left;">a011</td>
+<td style="text-align: left;">rain rate max</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b079</td>
+<td style="text-align: left;">rain rate month rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b080);  min&nbsp;(b081);  day&nbsp;(b082);  mon&nbsp;(b083); year&nbsp;(b084); </small></td></tr>
+<tr>
+<td style="text-align: left;">b205</td>
+<td style="text-align: left;">rain rate ytd rcd</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b206);  min&nbsp;(b207);  day&nbsp;(b208);  mon&nbsp;(b209); year&nbsp;(b210); </small></td></tr>
+<tr>
+<td style="text-align: left;">a162</td>
+<td style="text-align: left;">rain total 9am reset</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"> mm<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">d361</td>
+<td style="text-align: left;">rain total last_60_min_for_min</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d362); 03&nbsp;(d363); 04&nbsp;(d364); 05&nbsp;(d365); 06&nbsp;(d366); 07&nbsp;(d367); 08&nbsp;(d368); 09&nbsp;(d369); 10&nbsp;(d370); 11&nbsp;(d371); 12&nbsp;(d372); 13&nbsp;(d373); 14&nbsp;(d374); 15&nbsp;(d375); 16&nbsp;(d376); 17&nbsp;(d377); 18&nbsp;(d378); 19&nbsp;(d379); 20&nbsp;(d380); 21&nbsp;(d381); 22&nbsp;(d382); 23&nbsp;(d383); 24&nbsp;(d384); 25&nbsp;(d385); 26&nbsp;(d386); 27&nbsp;(d387); 28&nbsp;(d388); 29&nbsp;(d389); 30&nbsp;(d390); 31&nbsp;(d391); 32&nbsp;(d392); 33&nbsp;(d393); 34&nbsp;(d394); 35&nbsp;(d395); 36&nbsp;(d396); 37&nbsp;(d397); 38&nbsp;(d398); 39&nbsp;(d399); 40&nbsp;(d400); 41&nbsp;(d401); 42&nbsp;(d402); 43&nbsp;(d403); 44&nbsp;(d404); 45&nbsp;(d405); 46&nbsp;(d406); 47&nbsp;(d407); 48&nbsp;(d408); 49&nbsp;(d409); 50&nbsp;(d410); 51&nbsp;(d411); 52&nbsp;(d412); 53&nbsp;(d413); 54&nbsp;(d414); 55&nbsp;(d415); 56&nbsp;(d416); 57&nbsp;(d417); 58&nbsp;(d418); 59&nbsp;(d419); 60&nbsp;(d420); </small></td></tr>
+<tr>
+<td style="text-align: left;">a165</td>
+<td style="text-align: left;">rain total midnight reset</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"> mm<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">c187</td>
+<td style="text-align: left;">rain total month</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c188); 03&nbsp;(c189); 04&nbsp;(c190); 05&nbsp;(c191); 06&nbsp;(c192); 07&nbsp;(c193); 08&nbsp;(c194); 09&nbsp;(c195); 10&nbsp;(c196); 11&nbsp;(c197); 12&nbsp;(c198); </small></td></tr>
+<tr>
+<td style="text-align: left;">a009</td>
+<td style="text-align: left;">rain yearly</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b534</td>
+<td style="text-align: left;">rain yesterday</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="snow">
+<td style="text-align: left;">b697</td>
+<td style="text-align: left;">snow depth</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b479</td>
+<td style="text-align: left;">snow inputed into wd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">today <br />month&nbsp;(b480); season&nbsp;(b481); </small></td></tr>
+<tr id="soil">
+<td style="text-align: left;">b373</td>
+<td style="text-align: left;">soil high alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b374);  min&nbsp;(b375);  day&nbsp;(b376);  mon&nbsp;(b377); year&nbsp;(b378); </small></td></tr>
+<tr>
+<td style="text-align: left;">b121</td>
+<td style="text-align: left;">soil high month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b122);  min&nbsp;(b123);  day&nbsp;(b124);  mon&nbsp;(b125); year&nbsp;(b126); </small></td></tr>
+<tr>
+<td style="text-align: left;">b247</td>
+<td style="text-align: left;">soil high ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b248);  min&nbsp;(b249);  day&nbsp;(b250);  mon&nbsp;(b251); year&nbsp;(b252); </small></td></tr>
+<tr>
+<td style="text-align: left;">b379</td>
+<td style="text-align: left;">soil low alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b380);  min&nbsp;(b381);  day&nbsp;(b382);  mon&nbsp;(b383); year&nbsp;(b384); </small></td></tr>
+<tr>
+<td style="text-align: left;">b127</td>
+<td style="text-align: left;">soil low month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b128);  min&nbsp;(b129);  day&nbsp;(b130);  mon&nbsp;(b131); year&nbsp;(b132); </small></td></tr>
+<tr>
+<td style="text-align: left;">b253</td>
+<td style="text-align: left;">soil low ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b254);  min&nbsp;(b255);  day&nbsp;(b256);  mon&nbsp;(b257); year&nbsp;(b258); </small></td></tr>
+<tr id="solar">
+<td style="text-align: left;">c373</td>
+<td style="text-align: left;">solar day</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c374); 1#3&nbsp;(c375); 1#4&nbsp;(c376); 2#1&nbsp;(c377); 2#2&nbsp;(c378); 2#3&nbsp;(c379); 2#4&nbsp;(c380); 3#1&nbsp;(c381); 3#2&nbsp;(c382); 3#3&nbsp;(c383); 3#4&nbsp;(c384); 4#1&nbsp;(c385); 4#2&nbsp;(c386); 4#3&nbsp;(c387); 4#4&nbsp;(c388); 5#1&nbsp;(c389); 5#2&nbsp;(c390); 5#3&nbsp;(c391); 5#4&nbsp;(c392); 6#1&nbsp;(c393); 6#2&nbsp;(c394); 6#3&nbsp;(c395); 6#4&nbsp;(c396); 7#1&nbsp;(c397); 7#2&nbsp;(c398); 7#3&nbsp;(c399); 7#4&nbsp;(c400); </small></td></tr>
+<tr>
+<td style="text-align: left;">b684</td>
+<td style="text-align: left;">solar high alltime rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b685);  min&nbsp;(b686);  day&nbsp;(b687);  mon&nbsp;(b688); year&nbsp;(b689); </small></td></tr>
+<tr>
+<td style="text-align: left;">b660</td>
+<td style="text-align: left;">solar high month rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b661);  min&nbsp;(b662);  day&nbsp;(b663);  mon&nbsp;(b664); year&nbsp;(b665); </small></td></tr>
+<tr>
+<td style="text-align: left;">b672</td>
+<td style="text-align: left;">solar high year rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b673);  min&nbsp;(b674);  day&nbsp;(b675);  mon&nbsp;(b676); year&nbsp;(b677); </small></td></tr>
+<tr>
+<td style="text-align: left;">b491</td>
+<td style="text-align: left;">solar hour</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b492); 03&nbsp;(b493); 04&nbsp;(b494); 05&nbsp;(b495); 06&nbsp;(b496); 07&nbsp;(b497); 08&nbsp;(b498); 09&nbsp;(b499); 10&nbsp;(b500); 11&nbsp;(b501); 12&nbsp;(b502); 13&nbsp;(b503); 14&nbsp;(b504); 15&nbsp;(b505); 16&nbsp;(b506); 17&nbsp;(b507); 18&nbsp;(b508); 19&nbsp;(b509); 20&nbsp;(b510); 21&nbsp;(b582); 22&nbsp;(b583); 23&nbsp;(b584); 24&nbsp;(b585); </small></td></tr>
+<tr>
+<td style="text-align: left;">d481</td>
+<td style="text-align: left;">solar hrs_min_ago</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">23:45 <br />23:30&nbsp;(d482); 23:15&nbsp;(d483); 23:00&nbsp;(d484); 22:45&nbsp;(d485); 22:30&nbsp;(d486); 22:15&nbsp;(d487); 22:00&nbsp;(d488); 21:45&nbsp;(d489); 21:30&nbsp;(d490); 21:15&nbsp;(d491); 21:00&nbsp;(d492); 20:45&nbsp;(d493); 20:30&nbsp;(d494); 20:15&nbsp;(d495); 20:00&nbsp;(d496); 19:45&nbsp;(d497); 19:30&nbsp;(d498); 19:15&nbsp;(d499); 19:00&nbsp;(d500); 18:45&nbsp;(d501); 18:30&nbsp;(d502); 18:15&nbsp;(d503); 18:00&nbsp;(d504); 17:45&nbsp;(d505); 17:30&nbsp;(d506); 17:15&nbsp;(d507); 17:00&nbsp;(d508); 16:45&nbsp;(d509); 16:30&nbsp;(d510); 16:15&nbsp;(d511); 16:00&nbsp;(d512); 15:45&nbsp;(d513); 15:30&nbsp;(d514); 15:15&nbsp;(d515); 15:00&nbsp;(d516); 14:45&nbsp;(d517); 14:30&nbsp;(d518); 14:15&nbsp;(d519); 14:00&nbsp;(d520); 13:45&nbsp;(d521); 13:30&nbsp;(d522); 13:15&nbsp;(d523); 13:00&nbsp;(d524); 12:45&nbsp;(d525); 12:30&nbsp;(d526); 12:15&nbsp;(d527); 12:00&nbsp;(d528); 11:45&nbsp;(d529); 11:30&nbsp;(d530); 11:15&nbsp;(d531); 11:00&nbsp;(d532); 10:45&nbsp;(d533); 10:30&nbsp;(d534); 10:15&nbsp;(d535); 10:00&nbsp;(d536); 09:45&nbsp;(d537); 09:30&nbsp;(d538); 09:15&nbsp;(d539); 09:00&nbsp;(d540); 08:45&nbsp;(d541); 08:30&nbsp;(d542); 08:15&nbsp;(d543); 08:00&nbsp;(d544); 07:45&nbsp;(d545); 07:30&nbsp;(d546); 07:15&nbsp;(d547); 07:00&nbsp;(d548); 06:45&nbsp;(d549); 06:30&nbsp;(d550); 06:15&nbsp;(d551); 06:00&nbsp;(d552); 05:45&nbsp;(d553); 05:30&nbsp;(d554); 05:15&nbsp;(d555); 05:00&nbsp;(d556); 05:45&nbsp;(d557); 05:30&nbsp;(d558); 05:15&nbsp;(d559); 05:00&nbsp;(d560); 04:45&nbsp;(d561); 04:30&nbsp;(d562); 04:15&nbsp;(d563); 04:00&nbsp;(d564); 03:45&nbsp;(d565); 03:30&nbsp;(d566); 03:15&nbsp;(d567); 03:00&nbsp;(d568); 02:45&nbsp;(d569); 02:30&nbsp;(d570); 02:15&nbsp;(d571); 02:00&nbsp;(d572); 01:45&nbsp;(d573); 01:30&nbsp;(d574); 01:15&nbsp;(d575); 01:00&nbsp;(d576); </small></td></tr>
+<tr>
+<td style="text-align: left;">b701</td>
+<td style="text-align: left;">solar install flag</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> s1 or s0<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">d421</td>
+<td style="text-align: left;">solar last_60_min_for mi</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">01 w/m2<br />02&nbsp;(d422); 03&nbsp;(d423); 04&nbsp;(d424); 05&nbsp;(d425); 06&nbsp;(d426); 07&nbsp;(d427); 08&nbsp;(d428); 09&nbsp;(d429); 10&nbsp;(d430); 11&nbsp;(d431); 12&nbsp;(d432); 13&nbsp;(d433); 14&nbsp;(d434); 15&nbsp;(d435); 16&nbsp;(d436); 17&nbsp;(d437); 18&nbsp;(d438); 19&nbsp;(d439); 20&nbsp;(d440); 21&nbsp;(d441); 22&nbsp;(d442); 23&nbsp;(d443); 24&nbsp;(d444); 25&nbsp;(d445); 26&nbsp;(d446); 27&nbsp;(d447); 28&nbsp;(d448); 29&nbsp;(d449); 30&nbsp;(d450); 31&nbsp;(d451); 32&nbsp;(d452); 33&nbsp;(d453); 34&nbsp;(d454); 35&nbsp;(d455); 36&nbsp;(d456); 37&nbsp;(d457); 38&nbsp;(d458); 39&nbsp;(d459); 40&nbsp;(d460); 41&nbsp;(d461); 42&nbsp;(d462); 43&nbsp;(d463); 44&nbsp;(d464); 45&nbsp;(d465); 46&nbsp;(d466); 47&nbsp;(d467); 48&nbsp;(d468); 49&nbsp;(d469); 50&nbsp;(d470); 51&nbsp;(d471); 52&nbsp;(d472); 53&nbsp;(d473); 54&nbsp;(d474); 55&nbsp;(d475); 56&nbsp;(d476); 57&nbsp;(d477); 58&nbsp;(d478); 59&nbsp;(d479); 60&nbsp;(d480); </small></td></tr>
+
+<tr>
+<td style="text-align: left;">a034</td>
+<td style="text-align: left;">solar reading</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">b817</td>
+<td style="text-align: left;">solar max today</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b818</td>
+<td style="text-align: left;">solar max today time</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b791</td>
+<td style="text-align: left;">solar max yesterday</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b792</td>
+<td style="text-align: left;">solar max yesterday time</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">a034</td>
+<td style="text-align: left;">solar reading</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="station">
+<td style="text-align: left;">a032</td>
+<td style="text-align: left;">station name</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="sunrise">
+<td style="text-align: left;">b556</td>
+<td style="text-align: left;">sunrise</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="sunset">
+<td style="text-align: left;">b557</td>
+<td style="text-align: left;">sunset</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="sunshine">
+<td style="text-align: left;">b696</td>
+<td style="text-align: left;">sunshine hours</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="temp">
+<td style="text-align: left;">c233</td>
+<td style="text-align: left;">temp day</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c234); 1#3&nbsp;(c235); 1#4&nbsp;(c236); 2#1&nbsp;(c237); 2#2&nbsp;(c238); 2#3&nbsp;(c239); 2#4&nbsp;(c240); 3#1&nbsp;(c241); 3#2&nbsp;(c242); 3#3&nbsp;(c243); 3#4&nbsp;(c244); 4#1&nbsp;(c245); 4#2&nbsp;(c246); 4#3&nbsp;(c247); 4#4&nbsp;(c248); 5#1&nbsp;(c249); 5#2&nbsp;(c250); 5#3&nbsp;(c251); 5#4&nbsp;(c252); 6#1&nbsp;(c253); 6#2&nbsp;(c254); 6#3&nbsp;(c255); 6#4&nbsp;(c256); 7#1&nbsp;(c257); 7#2&nbsp;(c258); 7#3&nbsp;(c259); 7#4&nbsp;(c260); </small></td></tr>
+<tr>
+<td style="text-align: left;">a046</td>
+<td style="text-align: left;">temp max day </td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a174</td>
+<td style="text-align: left;">temp max day time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b793</td>
+<td style="text-align: left;">temp max today </td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b795</td>
+<td style="text-align: left;">temp max today time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b767</td>
+<td style="text-align: left;">temp max yesterday </td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b769</td>
+<td style="text-align: left;">temp max yesterday time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a047</td>
+<td style="text-align: left;">temp min day</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a175</td>
+<td style="text-align: left;">temp min day time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b794</td>
+<td style="text-align: left;">temp min today</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b796</td>
+<td style="text-align: left;">temp min today time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b768</td>
+<td style="text-align: left;">temp min yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b769</td>
+<td style="text-align: left;">temp min yesterday time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+<tr>
+<td style="text-align: left;">b768</td>
+<td style="text-align: left;">temp min yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b769</td>
+<td style="text-align: left;">temp min yesterday time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a020</td>
+<td style="text-align: left;">temp extra_sensor</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(a021); 3&nbsp;(a022); 4&nbsp;(a023); 5&nbsp;(a024); 6&nbsp;(a025); 7&nbsp;(a120); 8&nbsp;(a121); </small></td></tr>
+<tr>
+<td style="text-align: left;">b594</td>
+<td style="text-align: left;">temp extra_sensor high</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(b596); 3&nbsp;(b598); 4&nbsp;(b600); 5&nbsp;(b602); 6&nbsp;(b604); 7&nbsp;(b606); 8&nbsp;(b608); </small></td></tr>
+<tr>
+<td style="text-align: left;">b595</td>
+<td style="text-align: left;">temp extra_sensor low</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(b597); 3&nbsp;(b599); 4&nbsp;(b601); 5&nbsp;(b603); 6&nbsp;(b605); 7&nbsp;(b607); 8&nbsp;(b609); </small></td></tr>
+<tr>
+<td style="text-align: left;">b313</td>
+<td style="text-align: left;">temp high alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b314);  min&nbsp;(b315);  day&nbsp;(b316);  mon&nbsp;(b317); year&nbsp;(b318); </small></td></tr>
+<tr>
+<td style="text-align: left;">c001</td>
+<td style="text-align: left;">temp high month</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c002); 03&nbsp;(c003); 04&nbsp;(c004); 05&nbsp;(c005); 06&nbsp;(c006); 07&nbsp;(c007); 08&nbsp;(c008); 09&nbsp;(c009); 10&nbsp;(c010); 11&nbsp;(c011); 12&nbsp;(c012); 13&nbsp;(c013); 14&nbsp;(c014); 15&nbsp;(c015); 16&nbsp;(c016); 17&nbsp;(c017); 18&nbsp;(c018); 19&nbsp;(c019); 20&nbsp;(c020); 21&nbsp;(c021); 22&nbsp;(c022); 23&nbsp;(c023); 24&nbsp;(c024); 25&nbsp;(c025); 26&nbsp;(c026); 27&nbsp;(c027); 28&nbsp;(c028); 29&nbsp;(c029); 30&nbsp;(c030); 31&nbsp;(c031); </small></td></tr>
+<tr>
+<td style="text-align: left;">b061</td>
+<td style="text-align: left;">temp high month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b062);  min&nbsp;(b063);  day&nbsp;(b064);  mon&nbsp;(b065); year&nbsp;(b066); </small></td></tr>
+<tr>
+<td style="text-align: left;">b187</td>
+<td style="text-align: left;">temp high ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b188);  min&nbsp;(b189);  day&nbsp;(b190);  mon&nbsp;(b191); year&nbsp;(b192); </small></td></tr>
+<tr>
+<td style="text-align: left;">a090</td>
+<td style="text-align: left;">temp hour</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(a091); 03&nbsp;(a092); 04&nbsp;(a093); 05&nbsp;(a094); 06&nbsp;(a095); 07&nbsp;(a096); 08&nbsp;(a097); 09&nbsp;(a098); 10&nbsp;(a099); 01&nbsp;(b021); 02&nbsp;(b022); 03&nbsp;(b023); 04&nbsp;(b024); 05&nbsp;(b025); 06&nbsp;(b026); 07&nbsp;(b027); 08&nbsp;(b028); 09&nbsp;(b029); 10&nbsp;(b030); 11&nbsp;(b031); 12&nbsp;(b032); 13&nbsp;(b033); 14&nbsp;(b034); 15&nbsp;(b035); 16&nbsp;(b036); 17&nbsp;(b037); 18&nbsp;(b038); 19&nbsp;(b039); 20&nbsp;(b040); 21&nbsp;(b566); 22&nbsp;(b567); 23&nbsp;(b568); 24&nbsp;(b569); </small></td></tr>
+<tr>
+<td style="text-align: left;">a012</td>
+<td style="text-align: left;">temp indoor</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b636</td>
+<td style="text-align: left;">temp indoor hour</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(b637); 3&nbsp;(b638); 4&nbsp;(b639); 5&nbsp;(b640); 6&nbsp;(b641); 7&nbsp;(b642); 8&nbsp;(b643); 9&nbsp;(b644); 10&nbsp;(b645); 11&nbsp;(b646); 12&nbsp;(b647); 13&nbsp;(b648); 14&nbsp;(b649); 15&nbsp;(b650); 16&nbsp;(b651); 17&nbsp;(b652); 18&nbsp;(b653); 19&nbsp;(b654); 20&nbsp;(b655); 21&nbsp;(b656); 22&nbsp;(b657); 23&nbsp;(b658); 24&nbsp;(b659); </small></td></tr>
+<tr>
+<td style="text-align: left;">a128</td>
+<td style="text-align: left;">temp indoor max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a129</td>
+<td style="text-align: left;">temp indoor min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">d181</td>
+<td style="text-align: left;">temp last_60_min_for_min</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d182); 03&nbsp;(d183); 04&nbsp;(d184); 05&nbsp;(d185); 06&nbsp;(d186); 07&nbsp;(d187); 08&nbsp;(d188); 09&nbsp;(d189); 10&nbsp;(d190); 11&nbsp;(d191); 12&nbsp;(d192); 13&nbsp;(d193); 14&nbsp;(d194); 15&nbsp;(d195); 16&nbsp;(d196); 17&nbsp;(d197); 18&nbsp;(d198); 19&nbsp;(d199); 20&nbsp;(d200); 21&nbsp;(d201); 22&nbsp;(d202); 23&nbsp;(d203); 24&nbsp;(d204); 25&nbsp;(d205); 26&nbsp;(d206); 27&nbsp;(d207); 28&nbsp;(d208); 29&nbsp;(d209); 30&nbsp;(d210); 31&nbsp;(d211); 32&nbsp;(d212); 33&nbsp;(d213); 34&nbsp;(d214); 35&nbsp;(d215); 36&nbsp;(d216); 37&nbsp;(d217); 38&nbsp;(d218); 39&nbsp;(d219); 40&nbsp;(d220); 41&nbsp;(d221); 42&nbsp;(d222); 43&nbsp;(d223); 44&nbsp;(d224); 45&nbsp;(d225); 46&nbsp;(d226); 47&nbsp;(d227); 48&nbsp;(d228); 49&nbsp;(d229); 50&nbsp;(d230); 51&nbsp;(d231); 52&nbsp;(d232); 53&nbsp;(d233); 54&nbsp;(d234); 55&nbsp;(d235); 56&nbsp;(d236); 57&nbsp;(d237); 58&nbsp;(d238); 59&nbsp;(d239); 60&nbsp;(d240); </small></td></tr>
+<tr>
+<td style="text-align: left;">b319</td>
+<td style="text-align: left;">temp low alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b320);  min&nbsp;(b321);  day&nbsp;(b322);  mon&nbsp;(b323); year&nbsp;(b324); </small></td></tr>
+<tr>
+<td style="text-align: left;">c032</td>
+<td style="text-align: left;">temp low month</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c033); 03&nbsp;(c034); 04&nbsp;(c035); 05&nbsp;(c036); 06&nbsp;(c037); 07&nbsp;(c038); 08&nbsp;(c039); 09&nbsp;(c040); 10&nbsp;(c041); 11&nbsp;(c042); 12&nbsp;(c043); 13&nbsp;(c044); 14&nbsp;(c045); 15&nbsp;(c046); 16&nbsp;(c047); 17&nbsp;(c048); 18&nbsp;(c049); 19&nbsp;(c050); 20&nbsp;(c051); 21&nbsp;(c052); 22&nbsp;(c053); 23&nbsp;(c054); 24&nbsp;(c055); 25&nbsp;(c056); 26&nbsp;(c057); 27&nbsp;(c058); 28&nbsp;(c059); 29&nbsp;(c060); 30&nbsp;(c061); 31&nbsp;(c062); </small></td></tr>
+<tr>
+<td style="text-align: left;">b067</td>
+<td style="text-align: left;">temp low month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b068);  min&nbsp;(b069);  day&nbsp;(b070);  mon&nbsp;(b071); year&nbsp;(b072); </small></td></tr>
+<tr>
+<td style="text-align: left;">b193</td>
+<td style="text-align: left;">temp low ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b194);  min&nbsp;(b195);  day&nbsp;(b196);  mon&nbsp;(b197); year&nbsp;(b198); </small></td></tr>
+<tr>
+<td style="text-align: left;">a004</td>
+<td style="text-align: left;">temp outside</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a014</td>
+<td style="text-align: left;">temp soil</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b703</td>
+<td style="text-align: left;">temp soil flag</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> o1 or o0<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">a143</td>
+<td style="text-align: left;">temp trend</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: left;"><small style="color: black;"> logic<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">a159</td>
+<td style="text-align: left;">temp wet bulb</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="thsws">
+<td style="text-align: left;">a142</td>
+<td style="text-align: left;">thsws</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> if enabled in wd<br /></small></td></tr>
+<tr id="timestamp">
+<td style="text-align: left;">b459</td>
+<td style="text-align: left;">timestamp hour</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b460); 03&nbsp;(b461); 04&nbsp;(b462); 05&nbsp;(b463); 06&nbsp;(b464); 07&nbsp;(b465); 08&nbsp;(b466); 09&nbsp;(b467); 10&nbsp;(b468); 11&nbsp;(b469); 12&nbsp;(b470); 13&nbsp;(b471); 14&nbsp;(b472); 15&nbsp;(b473); 16&nbsp;(b474); 17&nbsp;(b475); 18&nbsp;(b476); 19&nbsp;(b477); 20&nbsp;(b478); 21&nbsp;(b578); 22&nbsp;(b579); 23&nbsp;(b580); 24&nbsp;(b581); </small></td></tr>
+<tr id="uv">
+<td style="text-align: left;">c401</td>
+<td style="text-align: left;">uv day</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c402); 1#3&nbsp;(c403); 1#4&nbsp;(c404); 2#1&nbsp;(c405); 2#2&nbsp;(c406); 2#3&nbsp;(c407); 2#4&nbsp;(c408); 3#1&nbsp;(c409); 3#2&nbsp;(c410); 3#3&nbsp;(c411); 3#4&nbsp;(c412); 4#1&nbsp;(c413); 4#2&nbsp;(c414); 4#3&nbsp;(c415); 4#4&nbsp;(c416); 5#1&nbsp;(c417); 5#2&nbsp;(c418); 5#3&nbsp;(c419); 5#4&nbsp;(c420); 6#1&nbsp;(c421); 6#2&nbsp;(c422); 6#3&nbsp;(c423); 6#4&nbsp;(c424); 7#1&nbsp;(c425); 7#2&nbsp;(c426); 7#3&nbsp;(c427); 7#4&nbsp;(c428); </small></td></tr>
+<tr>
+<td style="text-align: left;">b690</td>
+<td style="text-align: left;">uv high alltime rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b691);  min&nbsp;(b692);  day&nbsp;(b693);  mon&nbsp;(b694); year&nbsp;(b695); </small></td></tr>
+<tr>
+<td style="text-align: left;">b666</td>
+<td style="text-align: left;">uv high month rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b667);  min&nbsp;(b668);  day&nbsp;(b669);  mon&nbsp;(b670); year&nbsp;(b671); </small></td></tr>
+<tr>
+<td style="text-align: left;">b678</td>
+<td style="text-align: left;">uv high year rcd</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b679);  min&nbsp;(b680);  day&nbsp;(b681);  mon&nbsp;(b682); year&nbsp;(b683); </small></td></tr>
+<tr>
+<td style="text-align: left;">b511</td>
+<td style="text-align: left;">uv hour</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(b512); 03&nbsp;(b513); 04&nbsp;(b514); 05&nbsp;(b515); 06&nbsp;(b516); 07&nbsp;(b517); 08&nbsp;(b518); 09&nbsp;(b519); 10&nbsp;(b520); 11&nbsp;(b521); 12&nbsp;(b522); 13&nbsp;(b523); 14&nbsp;(b524); 15&nbsp;(b525); 16&nbsp;(b526); 17&nbsp;(b527); 18&nbsp;(b528); 19&nbsp;(b529); 20&nbsp;(b530); 21&nbsp;(b586); 22&nbsp;(b587); 23&nbsp;(b588); 24&nbsp;(b589); </small></td></tr>
+<tr>
+<td style="text-align: left;">d577</td>
+<td style="text-align: left;">uv index hrs_min_ago</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;">23:45 <br />23:30&nbsp;(d578); 23:15&nbsp;(d579); 23:00&nbsp;(d580); 22:45&nbsp;(d581); 22:30&nbsp;(d582); 22:15&nbsp;(d583); 22:00&nbsp;(d584); 21:45&nbsp;(d585); 21:30&nbsp;(d586); 21:15&nbsp;(d587); 21:00&nbsp;(d588); 20:45&nbsp;(d589); 20:30&nbsp;(d590); 20:15&nbsp;(d591); 20:00&nbsp;(d592); 19:45&nbsp;(d593); 19:30&nbsp;(d594); 19:15&nbsp;(d595); 19:00&nbsp;(d596); 18:45&nbsp;(d597); 18:30&nbsp;(d598); 18:15&nbsp;(d599); 18:00&nbsp;(d600); 17:45&nbsp;(d601); 17:30&nbsp;(d602); 17:15&nbsp;(d603); 17:00&nbsp;(d604); 16:45&nbsp;(d605); 16:30&nbsp;(d606); 16:15&nbsp;(d607); 16:00&nbsp;(d608); 15:45&nbsp;(d609); 15:30&nbsp;(d610); 15:15&nbsp;(d611); 15:00&nbsp;(d612); 14:45&nbsp;(d613); 14:30&nbsp;(d614); 14:15&nbsp;(d615); 14:00&nbsp;(d616); 13:45&nbsp;(d617); 13:30&nbsp;(d618); 13:15&nbsp;(d619); 13:00&nbsp;(d620); 12:45&nbsp;(d621); 12:30&nbsp;(d622); 12:15&nbsp;(d623); 12:00&nbsp;(d624); 11:45&nbsp;(d625); 11:30&nbsp;(d626); 11:15&nbsp;(d627); 11:00&nbsp;(d628); 10:45&nbsp;(d629); 10:30&nbsp;(d630); 10:15&nbsp;(d631); 10:00&nbsp;(d632); 09:45&nbsp;(d633); 09:30&nbsp;(d634); 09:15&nbsp;(d635); 09:00&nbsp;(d636); 08:45&nbsp;(d637); 08:30&nbsp;(d638); 08:15&nbsp;(d639); 08:00&nbsp;(d640); 07:45&nbsp;(d641); 07:30&nbsp;(d642); 07:15&nbsp;(d643); 07:00&nbsp;(d644); 06:45&nbsp;(d645); 06:30&nbsp;(d646); 06:15&nbsp;(d647); 06:00&nbsp;(d648); 05:45&nbsp;(d649); 05:30&nbsp;(d650); 05:15&nbsp;(d651); 05:00&nbsp;(d652); 04:45&nbsp;(d653); 04:30&nbsp;(d654); 04:15&nbsp;(d655); 04:00&nbsp;(d656); 03:45&nbsp;(d657); 03:30&nbsp;(d658); 03:15&nbsp;(d659); 03:00&nbsp;(d660); 02:45&nbsp;(d661); 02:30&nbsp;(d662); 02:15&nbsp;(d663); 02:00&nbsp;(d664); 01:45&nbsp;(d665); 01:30&nbsp;(d666); 01:15&nbsp;(d667); 01:00&nbsp;(d668); 00:45&nbsp;(d669); 00:30&nbsp;(d670); 00:15&nbsp;(d671); 00:00&nbsp;(d672); </small></td></tr>
+<tr>
+<td style="text-align: left;">b702</td>
+<td style="text-align: left;">uv install flag</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> u1 or u0<br /></small></td></tr>
+<tr id="verified">
+<td style="text-align: left;">b115</td>
+<td style="text-align: left;">verified unused rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b116);  min&nbsp;(b117);  day&nbsp;(b118);  mon&nbsp;(b119); year&nbsp;(b120); &nbsp;(b241); hour&nbsp;(b242);  min&nbsp;(b243);  day&nbsp;(b244);  mon&nbsp;(b245); year&nbsp;(b246); &nbsp;(b367); hour&nbsp;(b368);  min&nbsp;(b369);  day&nbsp;(b370);  mon&nbsp;(b371); year&nbsp;(b372); </small></td></tr>
+<tr id="visibility">
+<td style="text-align: left;">b766</td>
+<td style="text-align: left;">visibility</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="vp">
+<td style="text-align: left;">a127</td>
+<td style="text-align: left;">vp solarwm</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="vpp">
+<td style="text-align: left;">b533</td>
+<td style="text-align: left;">vpp et value</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="warmest">
+<td style="text-align: left;">b403</td>
+<td style="text-align: left;">warmest day alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b404);  min&nbsp;(b405);  day&nbsp;(b406);  mon&nbsp;(b407); year&nbsp;(b408); </small></td></tr>
+<tr>
+<td style="text-align: left;">b151</td>
+<td style="text-align: left;">warmest day month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over daylight<br />hour&nbsp;(b152);  min&nbsp;(b153);  day&nbsp;(b154);  mon&nbsp;(b155); year&nbsp;(b156); </small></td></tr>
+<tr>
+<td style="text-align: left;">b277</td>
+<td style="text-align: left;">warmest day ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over daylight<br />hour&nbsp;(b278);  min&nbsp;(b279);  day&nbsp;(b280);  mon&nbsp;(b281); year&nbsp;(b282); </small></td></tr>
+<tr>
+<td style="text-align: left;">b421</td>
+<td style="text-align: left;">warmest night alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over night<br />hour&nbsp;(b422);  min&nbsp;(b423);  day&nbsp;(b424);  mon&nbsp;(b425); year&nbsp;(b426); </small></td></tr>
+<tr>
+<td style="text-align: left;">b169</td>
+<td style="text-align: left;">warmest night month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over night time<br />hour&nbsp;(b170);  min&nbsp;(b171);  day&nbsp;(b172);  mon&nbsp;(b173); year&nbsp;(b174); </small></td></tr>
+<tr>
+<td style="text-align: left;">b295</td>
+<td style="text-align: left;">warmest night ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"> avg over night<br />hour&nbsp;(b296);  min&nbsp;(b297);  day&nbsp;(b298);  mon&nbsp;(b299); year&nbsp;(b300); </small></td></tr>
+<tr id="wd">
+<td style="text-align: left;">b535</td>
+<td style="text-align: left;">wd version</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> does not include build #<br /></small></td></tr>
+<tr>
+<td style="text-align: left;">a176</td>
+<td style="text-align: left;">wd version - end of file</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"> example: !!c10.37f!!<br />&nbsp;(b767); &nbsp;(c442); &nbsp;(d673); </small></td></tr>
+<tr id="wdl">
+<td style="text-align: left;">b728</td>
+<td style="text-align: left;">wdl weather warn flag</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="weather">
+<td style="text-align: left;">a049</td>
+<td style="text-align: left;">weather desc</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr id="wind">
+<td style="text-align: left;">a117</td>
+<td style="text-align: left;">wind avg dir</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a003</td>
+<td style="text-align: left;">wind dir</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">c317</td>
+<td style="text-align: left;">wind dir day</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c318); 1#3&nbsp;(c319); 1#4&nbsp;(c320); 2#1&nbsp;(c321); 2#2&nbsp;(c322); 2#3&nbsp;(c323); 2#4&nbsp;(c324); 3#1&nbsp;(c325); 3#2&nbsp;(c326); 3#3&nbsp;(c327); 3#4&nbsp;(c328); 4#1&nbsp;(c329); 4#2&nbsp;(c330); 4#3&nbsp;(c331); 4#4&nbsp;(c332); 5#1&nbsp;(c333); 5#2&nbsp;(c334); 5#3&nbsp;(c335); 5#4&nbsp;(c336); 6#1&nbsp;(c337); 6#2&nbsp;(c338); 6#3&nbsp;(c339); 6#4&nbsp;(c340); 7#1&nbsp;(c341); 7#2&nbsp;(c342); 7#3&nbsp;(c343); 7#4&nbsp;(c344); </small></td></tr>
+<tr>
+<td style="text-align: left;">a146</td>
+<td style="text-align: left;">wind dir hour</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(a147); 03&nbsp;(a148); 04&nbsp;(a149); 05&nbsp;(a150); 06&nbsp;(a151); 07&nbsp;(a152); 08&nbsp;(a153); 09&nbsp;(a154); 10&nbsp;(a155); 01&nbsp;(b536); 02&nbsp;(b537); 03&nbsp;(b538); 04&nbsp;(b539); 05&nbsp;(b540); 06&nbsp;(b541); 07&nbsp;(b542); 08&nbsp;(b543); 09&nbsp;(b544); 10&nbsp;(b545); 11&nbsp;(b546); 12&nbsp;(b547); 13&nbsp;(b548); 14&nbsp;(b549); 15&nbsp;(b550); 16&nbsp;(b551); 17&nbsp;(b552); 18&nbsp;(b553); 19&nbsp;(b554); 20&nbsp;(b555); 21&nbsp;(b590); 22&nbsp;(b591); 23&nbsp;(b592); 24&nbsp;(b593); </small></td></tr>
+<tr>
+<td style="text-align: left;">d121</td>
+<td style="text-align: left;">wind dir last_60_min_for_min</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d122); 03&nbsp;(d123); 04&nbsp;(d124); 05&nbsp;(d125); 06&nbsp;(d126); 07&nbsp;(d127); 08&nbsp;(d128); 09&nbsp;(d129); 10&nbsp;(d130); 11&nbsp;(d131); 12&nbsp;(d132); 13&nbsp;(d133); 14&nbsp;(d134); 15&nbsp;(d135); 16&nbsp;(d136); 17&nbsp;(d137); 18&nbsp;(d138); 19&nbsp;(d139); 20&nbsp;(d140); 21&nbsp;(d141); 22&nbsp;(d142); 23&nbsp;(d143); 24&nbsp;(d144); 25&nbsp;(d145); 26&nbsp;(d146); 27&nbsp;(d147); 28&nbsp;(d148); 29&nbsp;(d149); 30&nbsp;(d150); 31&nbsp;(d151); 32&nbsp;(d152); 33&nbsp;(d153); 34&nbsp;(d154); 35&nbsp;(d155); 36&nbsp;(d156); 37&nbsp;(d157); 38&nbsp;(d158); 39&nbsp;(d159); 40&nbsp;(d160); 41&nbsp;(d161); 42&nbsp;(d162); 43&nbsp;(d163); 44&nbsp;(d164); 45&nbsp;(d165); 46&nbsp;(d166); 47&nbsp;(d167); 48&nbsp;(d168); 49&nbsp;(d169); 50&nbsp;(d170); 51&nbsp;(d171); 52&nbsp;(d172); 53&nbsp;(d173); 54&nbsp;(d174); 55&nbsp;(d175); 56&nbsp;(d176); 57&nbsp;(d177); 58&nbsp;(d178); 59&nbsp;(d179); 60&nbsp;(d180); </small></td></tr>
+<tr>
+<td style="text-align: left;">c156</td>
+<td style="text-align: left;">wind dir month</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c157); 03&nbsp;(c158); 04&nbsp;(c159); 05&nbsp;(c160); 06&nbsp;(c161); 07&nbsp;(c162); 08&nbsp;(c163); 09&nbsp;(c164); 10&nbsp;(c165); 11&nbsp;(c166); 12&nbsp;(c167); 13&nbsp;(c168); 14&nbsp;(c169); 15&nbsp;(c170); 16&nbsp;(c171); 17&nbsp;(c172); 18&nbsp;(c173); 19&nbsp;(c174); 20&nbsp;(c175); 21&nbsp;(c176); 22&nbsp;(c177); 23&nbsp;(c178); 24&nbsp;(c179); 25&nbsp;(c180); 26&nbsp;(c181); 27&nbsp;(c182); 28&nbsp;(c183); 29&nbsp;(c184); 30&nbsp;(c185); 31&nbsp;(c186); </small></td></tr>
+<tr>
+<td style="text-align: left;">a001</td>
+<td style="text-align: left;">wind speed avg</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a158</td>
+<td style="text-align: left;">wind speed avg 10 min</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b361</td>
+<td style="text-align: left;">wind speed avg alltime rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b362);  min&nbsp;(b363);  day&nbsp;(b364);  mon&nbsp;(b365); year&nbsp;(b366); </small></td></tr>
+<tr>
+<td style="text-align: left;">a113</td>
+<td style="text-align: left;">wind speed avg max</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b807</td>
+<td style="text-align: left;">wind speed avg max today</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b808</td>
+<td style="text-align: left;">wind speed avg max today time</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b781</td>
+<td style="text-align: left;">wind speed avg max yesterday</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b782</td>
+<td style="text-align: left;">wind speed avg max yesterday time</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b109</td>
+<td style="text-align: left;">wind speed avg month rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b110);  min&nbsp;(b111);  day&nbsp;(b112);  mon&nbsp;(b113); year&nbsp;(b114); </small></td></tr>
+<tr>
+<td style="text-align: left;">b235</td>
+<td style="text-align: left;">wind speed avg ytd rcd</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b236);  min&nbsp;(b237);  day&nbsp;(b238);  mon&nbsp;(b239); year&nbsp;(b240); </small></td></tr>
+<tr>
+<td style="text-align: left;">c345</td>
+<td style="text-align: left;">wind speed day</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">1#1 <br />1#2&nbsp;(c346); 1#3&nbsp;(c347); 1#4&nbsp;(c348); 2#1&nbsp;(c349); 2#2&nbsp;(c350); 2#3&nbsp;(c351); 2#4&nbsp;(c352); 3#1&nbsp;(c353); 3#2&nbsp;(c354); 3#3&nbsp;(c355); 3#4&nbsp;(c356); 4#1&nbsp;(c357); 4#2&nbsp;(c358); 4#3&nbsp;(c359); 4#4&nbsp;(c360); 5#1&nbsp;(c361); 5#2&nbsp;(c362); 5#3&nbsp;(c363); 5#4&nbsp;(c364); 6#1&nbsp;(c365); 6#2&nbsp;(c366); 6#3&nbsp;(c367); 6#4&nbsp;(c368); 7#1&nbsp;(c369); 7#2&nbsp;(c370); 7#3&nbsp;(c371); 7#4&nbsp;(c372); </small></td></tr>
+<tr>
+<td style="text-align: left;">b397</td>
+<td style="text-align: left;">wind speed direction avg alltime rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b398);  min&nbsp;(b399);  day&nbsp;(b400);  mon&nbsp;(b401); year&nbsp;(b402); </small></td></tr>
+<tr>
+<td style="text-align: left;">b145</td>
+<td style="text-align: left;">wind speed direction avg month rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b146);  min&nbsp;(b147);  day&nbsp;(b148);  mon&nbsp;(b149); year&nbsp;(b150); </small></td></tr>
+<tr>
+<td style="text-align: left;">b271</td>
+<td style="text-align: left;">wind speed direction avg ytd rcd</td>
+<td style="text-align: center;">D</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b272);  min&nbsp;(b273);  day&nbsp;(b274);  mon&nbsp;(b275); year&nbsp;(b276); </small></td></tr>
+<tr>
+<td style="text-align: left;">a051</td>
+<td style="text-align: left;">wind speed hour</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">01 used for wind speed chart<br />02&nbsp;(a052); 03&nbsp;(a053); 04&nbsp;(a054); 05&nbsp;(a055); 06&nbsp;(a056); 07&nbsp;(a057); 08&nbsp;(a058); 09&nbsp;(a059); 10&nbsp;(a060); 11&nbsp;(a061); 12&nbsp;(a062); 13&nbsp;(a063); 14&nbsp;(a064); 15&nbsp;(a065); 16&nbsp;(a066); 17&nbsp;(a067); 18&nbsp;(a068); 19&nbsp;(a069); 20&nbsp;(a070); 01&nbsp;(a080); 02&nbsp;(a081); 03&nbsp;(a082); 04&nbsp;(a083); 05&nbsp;(a084); 06&nbsp;(a085); 07&nbsp;(a086); 08&nbsp;(a087); 09&nbsp;(a088); 10&nbsp;(a089); 01&nbsp;(b001); 02&nbsp;(b002); 03&nbsp;(b003); 04&nbsp;(b004); 05&nbsp;(b005); 06&nbsp;(b006); 07&nbsp;(b007); 08&nbsp;(b008); 09&nbsp;(b009); 10&nbsp;(b010); 11&nbsp;(b011); 12&nbsp;(b012); 13&nbsp;(b013); 14&nbsp;(b014); 15&nbsp;(b015); 16&nbsp;(b016); 17&nbsp;(b017); 18&nbsp;(b018); 19&nbsp;(b019); 20&nbsp;(b020); 21&nbsp;(b562); 22&nbsp;(b563); 23&nbsp;(b564); 24&nbsp;(b565); </small></td></tr>
+<tr>
+<td style="text-align: left;">d001</td>
+<td style="text-align: left;">wind speed last_60_min_for_min</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(d002); 03&nbsp;(d003); 04&nbsp;(d004); 05&nbsp;(d005); 06&nbsp;(d006); 07&nbsp;(d007); 08&nbsp;(d008); 09&nbsp;(d009); 10&nbsp;(d010); 11&nbsp;(d011); 12&nbsp;(d012); 13&nbsp;(d013); 14&nbsp;(d014); 15&nbsp;(d015); 16&nbsp;(d016); 17&nbsp;(d017); 18&nbsp;(d018); 19&nbsp;(d019); 20&nbsp;(d020); 21&nbsp;(d021); 22&nbsp;(d022); 23&nbsp;(d023); 24&nbsp;(d024); 25&nbsp;(d025); 26&nbsp;(d026); 27&nbsp;(d027); 28&nbsp;(d028); 29&nbsp;(d029); 30&nbsp;(d030); 31&nbsp;(d031); 32&nbsp;(d032); 33&nbsp;(d033); 34&nbsp;(d034); 35&nbsp;(d035); 36&nbsp;(d036); 37&nbsp;(d037); 38&nbsp;(d038); 39&nbsp;(d039); 40&nbsp;(d040); 41&nbsp;(d041); 42&nbsp;(d042); 43&nbsp;(d043); 44&nbsp;(d044); 45&nbsp;(d045); 46&nbsp;(d046); 47&nbsp;(d047); 48&nbsp;(d048); 49&nbsp;(d049); 50&nbsp;(d050); 51&nbsp;(d051); 52&nbsp;(d052); 53&nbsp;(d053); 54&nbsp;(d054); 55&nbsp;(d055); 56&nbsp;(d056); 57&nbsp;(d057); 58&nbsp;(d058); 59&nbsp;(d059); 60&nbsp;(d060); </small></td></tr>
+<tr>
+<td style="text-align: left;">c125</td>
+<td style="text-align: left;">wind speed month</td>
+<td style="text-align: center;">K</td>
+<td style="text-align: left;"><small style="color: black;">01 <br />02&nbsp;(c126); 03&nbsp;(c127); 04&nbsp;(c128); 05&nbsp;(c129); 06&nbsp;(c130); 07&nbsp;(c131); 08&nbsp;(c132); 09&nbsp;(c133); 10&nbsp;(c134); 11&nbsp;(c135); 12&nbsp;(c136); 13&nbsp;(c137); 14&nbsp;(c138); 15&nbsp;(c139); 16&nbsp;(c140); 17&nbsp;(c141); 18&nbsp;(c142); 19&nbsp;(c143); 20&nbsp;(c144); 21&nbsp;(c145); 22&nbsp;(c146); 23&nbsp;(c147); 24&nbsp;(c148); 25&nbsp;(c149); 26&nbsp;(c150); 27&nbsp;(c151); 28&nbsp;(c152); 29&nbsp;(c153); 30&nbsp;(c154); 31&nbsp;(c155); </small></td></tr>
+<tr id="windchill">
+<td style="text-align: left;">a044</td>
+<td style="text-align: left;">windchill</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b385</td>
+<td style="text-align: left;">windchill low alltime rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b386);  min&nbsp;(b387);  day&nbsp;(b388);  mon&nbsp;(b389); year&nbsp;(b390); </small></td></tr>
+<tr>
+<td style="text-align: left;">a166</td>
+<td style="text-align: left;">windchill low day time</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b133</td>
+<td style="text-align: left;">windchill low month rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b134);  min&nbsp;(b135);  day&nbsp;(b136);  mon&nbsp;(b137); year&nbsp;(b138); </small></td></tr>
+<tr>
+<td style="text-align: left;">b259</td>
+<td style="text-align: left;">windchill low ytd rcd</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;">hour&nbsp;(b260);  min&nbsp;(b261);  day&nbsp;(b262);  mon&nbsp;(b263); year&nbsp;(b264); </small></td></tr>
+<tr>
+<td style="text-align: left;">a077</td>
+<td style="text-align: left;">windchill max</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b809</td>
+<td style="text-align: left;">windchill min today</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b810</td>
+<td style="text-align: left;">windchill min today time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b783</td>
+<td style="text-align: left;">windchill min yesterday</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">b784</td>
+<td style="text-align: left;">windchill min yesterday time</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+
+
+<tr id="wmr968">
+<td style="text-align: left;">a037</td>
+<td style="text-align: left;">wmr968 batt</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;">1 <br />2&nbsp;(a038); 3&nbsp;(a039); 4&nbsp;(a040); 5&nbsp;(a041); 6&nbsp;(a042); 7&nbsp;(a043); </small></td></tr>
+<tr>
+<td style="text-align: left;">a017</td>
+<td style="text-align: left;">wmr968 extra hum</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a018</td>
+<td style="text-align: left;">wmr968 extra sensor</td>
+<td style="text-align: center;">N</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+<tr>
+<td style="text-align: left;">a016</td>
+<td style="text-align: left;">wmr968 extra temp</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: left;"><small style="color: black;"></small></td></tr>
+</tbody>
+</table>
+<br />
+</div></div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div>

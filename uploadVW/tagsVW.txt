@@ -1,0 +1,222 @@
+|pagename|tagsVWS|!
+|version|3.00 2015-04-18 15:30|!
+
+|date| 2/6/15 |!
+|time| 18:17|!
+
+|fromtemp| &deg;C|!
+
+|tempAct| 19.4|!
+|tempDelta| 0.34|!
+
+|tempMinToday| 11.4|!
+|tempMinTodayTime| 6:10|!
+|tempMinYday| 9.7|!
+|tempMinYdayTime| 6:19|!
+|tempMinMonth| 9.7|!
+|tempMinMonthTime| 1/6/15|!
+|tempMinYear| -2.6|!
+|tempMinYearTime| 22/1/15|!
+
+|tempMaxToday| 19.5|!
+|tempMaxTodayTime| 17:38|!
+|tempMaxYday| 18.7|!
+|tempMaxYdayTime| 16:22|!
+|tempMaxMonth| 19.5|!
+|tempMaxMonthTime| 2/6/15|!
+|tempMaxYear| 27.4|!
+|tempMaxYearTime| 11/5/15|!
+
+|dewpAct| 14.2|!
+|dewpDelta| 0.06|!
+
+|dewpMinToday| 7.2|!
+|dewpMinTodayTime| 0:30|!
+|dewpMinYday| 5.4|!
+|dewpMinYdayTime| 11:59|!
+|dewpMinMonth| 5.4|!
+|dewpMinMonthTime| 1/6/15|!
+|dewpMinYear| -3.5|!
+|dewpMinYearTime| 22/1/15|!
+
+|dewpMaxToday| 14.5|!
+|dewpMaxTodayTime| 17:38|!
+|dewpMaxYday| 11.7|!
+|dewpMaxYdayTime| 0:00|!
+|dewpMaxMonth| 14.5|!
+|dewpMaxMonthTime| 2/6/15|!
+|dewpMaxYear| 17.1|!
+|dewpMaxYearTime| 5/5/15|!
+
+|appTemp| 21.2|!
+
+|heatAct| 21.2|!
+|heatDelta|0.25|!
+
+|heatMaxToday|21.3|!
+|heatMaxTodayTime|17:38|!
+|heatMaxYday|19.0|!
+|heatMaxYdayTime|16:22|!
+|heatMaxMonth|21.3|!
+|heatMaxMonthTime|2/6/15|!
+|heatMaxYear|27.2|!
+|heatMaxYearTime|11/5/15|!
+
+|chilAct| 19.4|!
+|chilDelta| 0.37|!
+
+|chilMinToday| 11.2|!
+|chilMinTodayTime| 6:00|!
+|chilMinYday| 8.7|!
+|chilMinYdayTime| 5:32|!
+|chilMinMonth| 8.7|!
+|chilMinMonthTime| 1/6/15|!
+|chilMinYear| -5.9|!
+|chilMinYearTime| 23/1/15|!
+
+|chilMaxToday| 19.5|!
+|chilMaxTodayTime| 17:38|!
+
+|tempActInside| 20.3|!
+|tempActExtra1| 24.4|!
+|tempActExtra2| 12.8|!
+
+------------------------------------------extremetemp------------------------------
+
+------------------------------------------pressure/baro-----------------------------
+|frombaro| hPa|!
+
+|baroAct| 1011.18|!
+|baroDelta| 0.316|!
+|baroTrend| Rising|!
+
+|baroMinToday| 1008.47|!
+|baroMinTodayTime| 5:30|!
+|baroMinYday| 1005.32|!
+|baroMinYdayTime| 0:06|!
+|baroMinMonth| 1008.47|!
+|baroMinMonthTime| 2/6/15|!
+|baroMinYear| 971.97|!
+|baroMinYearTime| 29/1/15|!
+
+|baroMaxToday| 1011.83|!
+|baroMaxTodayTime| 0:00|!
+|baroMaxYday| 1011.39|!
+|baroMaxYdayTime| 13:25|!
+|baroMaxMonth| 1016.20|!
+|baroMaxMonthTime| 1/6/15|!
+|baroMaxYear| 1040.61|!
+|baroMaxYearTime| 18/2/15|!
+------------------------------------------humidity-----------------------------------
+|humiAct| 72|!
+
+|humiDelta| -1.3|!
+
+|humiMinToday| 67|!
+|humiMinTodayTime| 0:00|!
+|humiMinYday| 46|!
+|humiMinYdayTime| 14:40|!
+|humiMinMonth| 46|!
+|humiMinMonthTime| 1/6/15|!
+|humiMinYear| 29|!
+|humiMinYearTime| 10/4/15|!
+
+|humiMaxToday| 87|!
+|humiMaxTodayTime| 6:30|!
+|humiMaxYday| 94|!
+|humiMaxYdayTime| 0:00|!
+|humiMaxMonth| 94|!
+|humiMaxMonthTime| 1/6/15|!
+|humiMaxYear| 98|!
+|humiMaxYearTime| 26/1/15|!
+
+|humiInAct| 54|!
+|humiActExtra1| 37|!
+|humiActExtra2| 29|!
+------------------------------------------rain---------------------------------------
+|fromrain| mm|!
+
+|rainRateAct| 0.000|!
+|rainRateToday| 0.000|!
+|rainRateYday|          ?|!
+
+|lastRained| 2/6/15|!
+
+|rainToday| 1.02|!
+|rainYdayHigh| 260.35|!
+|rainYdayLow| 260.35|!
+
+|rainHour| 0.00|!
+|rainWeek|              ?|!
+|rainMonth| 1.02|!
+|rainYear| 261.37|!
+
+|rainDayMnth|           ?|!
+|rainDayYear|           ?|!
+|rainDaysWithNo|        ?|!
+------------------------------------------EVAPOTRANSPIRATION--------------------------
+|etToday| 1.35|!
+|etYday| 3.53|!
+|etMonth| 3.53|!
+|etYear| 4.44|!
+------------------------------------------wind---------------------------------------
+|fromwind| km/hr|!
+
+|windAct| 11|!
+|gustAct| 27|!
+|windActDsc| SW|!
+|windBeafort|?|!
+
+|windAvgDir| 233|!
+
+|gustMaxToday| 32|!
+|gustMaxTodayTime| 17:29|!
+|gustMaxYday| 19|!
+|gustMaxYTime| 13:43|!
+|gustMaxMonth| 29|!
+|gustMaxMonthTime| 2/6/15|!
+|gustMaxYear| 45|!
+|gustMaxYearTime| 31/3/15|!
+
+|------------------------------------------UV---------------------------------------
+|uvAct| 0.6|!
+|uvArray|               ?|!
+
+|uvMaxToday| 6.3|!
+|uvMaxTodayTime| 13:14|!
+|uvMaxYday| 5.7|!
+|uvMaxYdayTime| 13:42|!
+|uvMaxMonth| 6.3|!
+|uvMaxMonthTime| 2/6/15|!
+|uvMaxYear| 6.3|!
+|uvMaxYearTime| 2/6/15|!
+
+|------------------------------------------Solar--------------------------------------
+|solarAct| 135|!
+|solarActPerc| 6.6|! // Solar Radiation Rate
+|solarArray|            ?|!
+
+|solarMaxToday| 798|!
+|solarMaxTodayTime| 13:15|!
+|solarMaxYday| 1148|!
+|solarMaxYdayTime| 13:49|!
+|solarMaxMonth| 1148|!
+|solarMaxMonthTime| 1/6/15|!
+|solarMaxYear| 1215|!
+|solarMaxYearTime| 20/5/15|!
+
+|------------------------------------------cloudheight--------------------------------
+|fromheight|m|!
+|cloudHeight|709|!
+|------------------------------------------forecasts-----------------------------------
+|fcstTxt| Increasing clouds with little temperature change|!
+|------------------------------------------moon---------------------------------------
+|moonrise| 21:23|!
+|moonset| 5:46|!
+|lunarPhasePerc| 100%|!
+|lunarAge| 15|!
+|------------------------------------------somemore-----------------------------------
+|wsVersion| V15.00|!
+|wsVersionBuild|        ?|!
+|wsHardware| Davis Instruments Vantage Pro2#Test VWS|!
+|wsUptime|              ?|!

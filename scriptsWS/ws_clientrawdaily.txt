@@ -1,0 +1,3 @@
+%customfile=C:\WsWin\html\clientrawdaily.txt%
+%openfile&remove=ws_clientrawextra.txt%%curminmaxhour_on%
+12345 %ws_arraytempmax31d%%ws_arraytempmin31d%%ws_arrayrain31d%%ws_arraybaro31d%%ws_arraywind31d%%ws_arraywinddir31d%%ws_arrayrain12m_wl%%ws_arrayhum31d%%ws_hour% %ws_minute% %ws_day% %ws_arraytemp7d% !!D%ws_vers0%!!

@@ -1,0 +1,356 @@
+langlookup|Adapt the settings to reflect your situation|Adapt the settings to reflect your situation|
+langlookup|Two important questions to select the correct questions from now on|Two important questions to select the correct questions from now on|
+langlookup|Cumulus|Cumulus|
+langlookup|consoleWD|consoleWD|
+langlookup|Davis_WL.com|Davis_WL.com|
+langlookup|Meteobridge|Meteobridge|
+langlookup|Meteohub|Meteohub|
+langlookup|Meteoplug|Meteoplug|
+langlookup|VWS|VWS|
+langlookup|WeatherCat|WeatherCat|
+langlookup|WeatherDisplay|WeatherDisplay|
+langlookup|WeatherLink|WeatherLink|
+langlookup|WSWIN|WSWIN|
+langlookup|Wview|Wview|
+langlookup|USA|USA|
+langlookup|Canada|Canada|
+langlookup|Other|Other|
+langlookup|Save|Save|
+langlookup|Reset|Reset|
+langlookup|Back to start|Back to start|
+langlookup|Back one page|Back one page|
+langlookup|General settings such as station location, identity|General settings such as station location, identity|
+langlookup|The name of your Weather-Station and the area it services|The name of your Weather-Station and the area it services|
+langlookup|The location of your weatherstation on the globe|The location of your weatherstation on the globe|
+langlookup|The timezone you are in and the language you use|The timezone you are in and the language you use|
+langlookup|English|English|
+langlookup|Dutch|Dutch|
+langlookup|French|French|
+langlookup|German|German|
+langlookup|Where to load the current conditions from|Where to load the current conditions from|
+langlookup|Yahoo - needs area code|Yahoo - needs area code|
+langlookup|metar - uses your nearby metar|metar - uses your nearby metar|
+langlookup|WeatherDisplay if it has a solar sensor and is configured correctly|WeatherDisplay if it has a solar sensor and is configured correctly|
+langlookup|The general parts for every page|The general parts for every page|
+langlookup|Page and menu size|Page and menu size|
+langlookup|Vertical left side|Vertical left side|
+langlookup|Horizontal|Horizontal|
+langlookup|The  yellow box at the top|The  yellow box at the top|
+langlookup|Display the yellow box on top of the page|Display the yellow box on top of the page|
+langlookup|Do not use|Do not use|
+langlookup|Type of header and what color scheme|Type of header and what color scheme|
+langlookup|Header with gauges|Header with gauges|
+langlookup|Normal header with blocks|Normal header with blocks|
+langlookup|Lower header with less information|Lower header with less information|
+langlookup|weather_adapted|weather_adapted|
+langlookup|green|green|
+langlookup|blue|blue|
+langlookup|pastel|pastel|
+langlookup|red|red|
+langlookup|orange|orange|
+langlookup|none|none|
+langlookup|ws_clouds|ws_clouds|
+langlookup|ws_cloudsn|ws_cloudsn|
+langlookup|ws_mist|ws_mist|
+langlookup|ws_moon|ws_moon|
+langlookup|ws_pclouds|ws_pclouds|
+langlookup|ws_rain|ws_rain|
+langlookup|ws_snow|ws_snow|
+langlookup|ws_storm|ws_storm|
+langlookup|ws_sun|ws_sun|
+langlookup|ws_thunder|ws_thunder|
+langlookup|Optional side and bottom area|Optional side and bottom area|
+langlookup|Side area will be used|Side area will be used|
+langlookup|Do not display|Do not display|
+langlookup|Bottom area will be used|Bottom area will be used|
+langlookup|Banners for adds , photo's and so on|Banners for adds , photo's and so on|
+langlookup|use my text file|use my text file|
+langlookup|Do we strip parts of the page for joomla type use|Do we strip parts of the page for joomla type use|
+langlookup|Remove all (optional) areas of a page|Remove all (optional) areas of a page|
+langlookup|No "Joomla" needed. - We use the normal page setup|No "Joomla" needed. - We use the normal page setup|
+langlookup|Menu will not be displayed|Menu will not be displayed|
+langlookup|Leave menu as is|Leave menu as is|
+langlookup|Will we display these optional information blocks (and where)|Will we display these optional information blocks (and where)|
+langlookup|Displayed next to the language selection|Displayed next to the language selection|
+langlookup|In bottom area|In bottom area|
+langlookup|In side area|In side area|
+langlookup|Facebook - Twitter and other social sites|Facebook - Twitter and other social sites|
+langlookup|In header small horizontal|In header small horizontal|
+langlookup|Rain and Thunder-warnings.|Rain and Thunder-warnings.|
+langlookup|Donate button.|Donate button.|
+langlookup|Weatherwarnings and how are we going to display them|Weatherwarnings and how are we going to display them|
+langlookup|Use the weatherwarnings for your area|Use the weatherwarnings for your area|
+langlookup|Display the warnings below the header|Display the warnings below the header|
+langlookup|Display the warnings above all other information|Display the warnings above all other information|
+langlookup|Display a message also when there is no warning|Display a message also when there is no warning|
+langlookup|Display only a message when there are warnings|Display only a message when there are warnings|
+langlookup|Display the whole text of the warning|Display the whole text of the warning|
+langlookup|Display the main warning text only|Display the main warning text only|
+langlookup|All warnings combined into one box|All warnings combined into one box|
+langlookup|Every warning in a separate box|Every warning in a separate box|
+langlookup|Use template page with detailed information|Use template page with detailed information|
+langlookup|Go to warning site for detailed information|Go to warning site for detailed information|
+langlookup|Widgets and other settings for all pages|Widgets and other settings for all pages|
+langlookup|Normal dashboard startpage (p=10)|Normal dashboard startpage (p=10)|
+langlookup|Steelseries page|Steelseries page|
+langlookup|Rain radar page|Rain radar page|
+langlookup|Standard forecast page|Standard forecast page|
+langlookup|Visitors counter|Visitors counter|
+langlookup|Use the external statistics code in the footer|Use the external statistics code in the footer|
+langlookup|Use your own visitors counter|Use your own visitors counter|
+langlookup|Back to top of page button|Back to top of page button|
+langlookup|Use the floating go to top marker|Use the floating go to top marker|
+langlookup|Go to data-part of page to display more information|Go to data-part of page to display more information|
+langlookup|Always display header|Always display header|
+langlookup|Rotating weather-values display|Rotating weather-values display|
+langlookup|Enable this facility|Enable this facility|
+langlookup|Menu items / extra pages to display|Menu items / extra pages to display|
+langlookup|Pages for some european countries only|Pages for some european countries only|
+langlookup|Weather-Station is located in Belgium|Weather-Station is located in Belgium|
+langlookup|Not located in Belgium|Not located in Belgium|
+langlookup|Weather-Station is located in the Netherlands|Weather-Station is located in the Netherlands|
+langlookup|Not located in the Netherlands|Not located in the Netherlands|
+langlookup|Special pages	for smartphone users|Special pages	for smartphone users|
+langlookup|Use the mobile pages for "smartphone" users|Use the mobile pages for "smartphone" users|
+langlookup|Only allow main-site use|Only allow main-site use|
+langlookup|Contact page|Contact page|
+langlookup|Enable this page|Enable this page|
+langlookup|Count all pages visited|Count all pages visited|
+langlookup|Do we have one or more webcam images to display.|Do we have one or more webcam images to display.|
+langlookup|Yes, we have a webcam we want to show|Yes, we have a webcam we want to show|
+langlookup|What will be displayed during night-time|What will be displayed during night-time|
+langlookup|Use a "It is night" image|Use a "It is night" image|
+langlookup|Use uploaded picture as normal|Use uploaded picture as normal|
+langlookup|Webcam 1|Webcam 1|
+langlookup|Another webcam|Another webcam|
+langlookup|Yes, we have a second webcam we want to show|Yes, we have a second webcam we want to show|
+langlookup|Extra weather-programs used for this station|Extra weather-programs used for this station|
+langlookup|WXSIM weather-forecasting|WXSIM weather-forecasting|
+langlookup|Yes, we use the WXSIM paid program to make our weather-forecasts|Yes, we use the WXSIM paid program to make our weather-forecasts|
+langlookup|lates.csv file will be used|lates.csv file will be used|
+langlookup|lastret.txt file will be used|lastret.txt file will be used|
+langlookup|Use template standard icons|Use template standard icons|
+langlookup|Use YrNo icons|Use YrNo icons|
+langlookup|Meteoplug: storage and graphs server|Meteoplug: storage and graphs server|
+langlookup|We do not use Meteoplug|We do not use Meteoplug|
+langlookup|We use Meteoplug and display the extra pages|We use Meteoplug and display the extra pages|
+langlookup|WD-Live: Paid-for website script/program, uses clientraw files to display extensive customizable flash dashboard|WD-Live: Paid-for website script/program, uses clientraw files to display extensive customizable flash dashboard|
+langlookup|No WD-live user|No WD-live user|
+langlookup|We use WD-Live and display the dashboard|We use WD-Live and display the dashboard|
+langlookup|Meteroware-Live: free website script/program, it display a basic flash dashboard|Meteroware-Live: free website script/program, it display a basic flash dashboard|
+langlookup|No interest in that dashboard|No interest in that dashboard|
+langlookup|Yes, display the Meteoware dashboard|Yes, display the Meteoware dashboard|
+langlookup|Menu items / forecast pages|Menu items / forecast pages|
+langlookup|IMPORTANT: Which forecast is the dafault one on the start-page|IMPORTANT: Which forecast is the dafault one on the start-page|
+langlookup|WeatherUnderground - needs key|WeatherUnderground - needs key|
+langlookup|WXSIM needs extra program|WXSIM needs extra program|
+langlookup|Yrno needs area code|Yrno needs area code|
+langlookup|MetNo|MetNo|
+langlookup|YoWindow gadget|YoWindow gadget|
+langlookup|Multiple selections on forecast pages|Multiple selections on forecast pages|
+langlookup|Weather Underground Forecast and Almanac|Weather Underground Forecast and Almanac|
+langlookup|Yes, we want this extra forecast|Yes, we want this extra forecast|
+langlookup|Use WU icons|Use WU icons|
+langlookup|Use WU icons from uor cache|Use WU icons from uor cache|
+langlookup|Use WU icons directly form their site|Use WU icons directly form their site|
+langlookup|Met.no|Met.no|
+langlookup|Yes, we want this extensive free forecast|Yes, we want this extensive free forecast|
+langlookup|YR.no  - This forecast is required for the "smart-phone / mobile" pages|YR.no  - This forecast is required for the "smart-phone / mobile" pages|
+langlookup|Yes, we want this forecast, also for our Mobile pages|Yes, we want this forecast, also for our Mobile pages|
+langlookup|Het Weer Actueel|Het Weer Actueel|
+langlookup|Yes, we are a registred HWA member|Yes, we are a registred HWA member|
+langlookup|Use HWA icons|Use HWA icons|
+langlookup|Yahoo|Yahoo|
+langlookup|Use Yahoo icons|Use Yahoo icons|
+langlookup|World Weather|World Weather|
+langlookup|API version 1, only for users who have an old API-1 key|API version 1, only for users who have an old API-1 key|
+langlookup|Use API version 2, current version|Use API version 2, current version|
+langlookup|Use Worldweather icons|Use Worldweather icons|
+langlookup|Refresh-times|Refresh-times|
+langlookup|Miscellaneous|Miscellaneous|
+langlookup|default UTF-8 character set|default UTF-8 character set|
+langlookup|windows-1252|windows-1252|
+langlookup|Partners|Partners|
+langlookup|Your visitors can find your weather data also	at: Weather Underground|Your visitors can find your weather data also	at: Weather Underground|
+langlookup|We are not uploading to Weather Underground|We are not uploading to Weather Underground|
+langlookup|We are a member of Weather Underground|We are a member of Weather Underground|
+langlookup|We are not member of a regional Mesonet of weather-Stations|We are not member of a regional Mesonet of weather-Stations|
+langlookup|We are a proud member of a regional Mesonet of weather-Stations|We are a proud member of a regional Mesonet of weather-Stations|
+langlookup|We are not uploading to Het Weer Actueel|We are not uploading to Het Weer Actueel|
+langlookup|We are a member of Het Weer Actueel|We are a member of Het Weer Actueel|
+langlookup|European Weather Network|European Weather Network|
+langlookup|We do not use this|We do not use this|
+langlookup|Our data is used by EWN|Our data is used by EWN|
+langlookup|conf-ewnID|conf-ewnID|
+langlookup|Other organizations one can upload to|Other organizations one can upload to|
+langlookup|Awekas|Awekas|
+langlookup|We are not uploading to Awekas|We are not uploading to Awekas|
+langlookup|We are a member of Awekas|We are a member of Awekas|
+langlookup|WeatherCloud|WeatherCloud|
+langlookup|We are not uploading to Weather Cloud|We are not uploading to Weather Cloud|
+langlookup|We are a member of Weather Cloud|We are a member of Weather Cloud|
+langlookup|CWOP|CWOP|
+langlookup|We are not uploading to CWOP|We are not uploading to CWOP|
+langlookup|We are a member of CWOP|We are a member of CWOP|
+langlookup|Weatherlink.com|Weatherlink.com|
+langlookup|We are not uploading to WeatherLink.com|We are not uploading to WeatherLink.com|
+langlookup|We are uploading ouw weather-data to WeatherLink.com|We are uploading ouw weather-data to WeatherLink.com|
+langlookup|And some more|And some more|
+langlookup|We are not uploading to Anything Weather|We are not uploading to Anything Weather|
+langlookup|We are a member of Anything Weather|We are a member of Anything Weather|
+langlookup|We are not uploading to PWS|We are not uploading to PWS|
+langlookup|We are a member of PWS|We are a member of PWS|
+langlookup|We are not uploading to wp24|We are not uploading to wp24|
+langlookup|We are uploading to wp24|We are uploading to wp24|
+langlookup|We are not uploading to uswg|We are not uploading to uswg|
+langlookup|We are uploading to uswg|We are uploading to uswg|
+langlookup|cookie support / visitors are allowed to do customization|cookie support / visitors are allowed to do customization|
+langlookup|Yes, we warn visitors if there adaptions need a cookie|Yes, we warn visitors if there adaptions need a cookie|
+langlookup|Do not use customization / cookies|Do not use customization / cookies|
+langlookup|Allow user to change this setting|Allow user to change this setting|
+langlookup|Do not use allow this one|Do not use allow this one|
+langlookup|Optional components attached to your weatherstation|Optional components attached to your weatherstation|
+langlookup|UV/ Solar sensors|UV/ Solar sensors|
+langlookup|No UV sensor attached|No UV sensor attached|
+langlookup|We have an UV sensor on our station|We have an UV sensor on our station|
+langlookup|No solar sensor attached|No solar sensor attached|
+langlookup|We have a Solar sensor on our station|We have a Solar sensor on our station|
+langlookup|Other often atttached sensors sensors|Other often atttached sensors sensors|
+langlookup|We will NOT use an inside temperature sensor|We will NOT use an inside temperature sensor|
+langlookup|We want to display the inside temperature|We want to display the inside temperature|
+langlookup|No need for an extra temperature sensor|No need for an extra temperature sensor|
+langlookup|We have an extra sensor on our station|We have an extra sensor on our station|
+langlookup|No need for another extra temperature sensor|No need for another extra temperature sensor|
+langlookup|We have a second extra sensor on our station|We have a second extra sensor on our station|
+langlookup|Soil / moisture sensors|Soil / moisture sensors|
+langlookup|There are no soil sensors attached|There are no soil sensors attached|
+langlookup|We have soil sensors on our station|We have soil sensors on our station|
+langlookup|Still we do not want a extra soil mositure page|Still we do not want a extra soil mositure page|
+langlookup|Display the soil/moisture page|Display the soil/moisture page|
+langlookup|There are no leaf sensors attached|There are no leaf sensors attached|
+langlookup|We have leaf sensors on our station|We have leaf sensors on our station|
+langlookup|Display some extra information about:|Display some extra information about:|
+langlookup|The type of weather-station|The type of weather-station|
+langlookup|Our station is not a Davis one|Our station is not a Davis one|
+langlookup|We use a Davis weather-station station|We use a Davis weather-station station|
+langlookup|We do not show the weatherstation name/picture on our pages|We do not show the weatherstation name/picture on our pages|
+langlookup|We want to display the information about the weatherstation|We want to display the information about the weatherstation|
+langlookup|The website / provider|The website / provider|
+langlookup|Do not show the name/picture of our privider|Do not show the name/picture of our privider|
+langlookup|We want to display the information about the provider|We want to display the information about the provider|
+langlookup|The computer (device) used|The computer (device) used|
+langlookup|Do not show the type and name of our weather-computer|Do not show the type and name of our weather-computer|
+langlookup|We want to display the information our weather-computer|We want to display the information about our weather-computer|
+langlookup|The Weather-Program|The Weather-Program|
+langlookup|No information about our weather-program is needed|No information about our weather-program is needed|
+langlookup|We want to display the information our weather-program|We want to display the information our weather-program|
+langlookup|units, time and date formats and some other settings|units, time and date formats and some other settings|
+langlookup|Some other settings first|Some other settings first|
+langlookup|Use a decimal point [22.50]|Use a decimal point [22.50]|
+langlookup|Use a comma [22,50] as decimal"point"|Use a comma [22,50] as decimal"point"|
+langlookup|Use multicolored temperatures|Use multicolored temperatures|
+langlookup|Use blue/red temperatures only|Use blue/red temperatures only|
+langlookup|Use all texts as they are|Use all texts as they are|
+langlookup|convert all texts to lowercase|convert all texts to lowercase|
+langlookup|Dayparts start with Night then morning, afternoon to evening)|Dayparts start with Night then morning, afternoon to evening)|
+langlookup|Dayparts start with Morning then Afternoon, Evening to Night|Dayparts start with Morning then Afternoon, Evening to Night|
+langlookup|The units to be used for all weather-values|The units to be used for all weather-values|
+langlookup|Celcius|Celcius|
+langlookup|Fahrenheit|Fahrenheit|
+langlookup|hPa|hPa|
+langlookup|milibar|milibar|
+langlookup|inHg|inHg|
+langlookup|km/h|km/h|
+langlookup|kts|kts|
+langlookup|mph|mph|
+langlookup|in|in|
+langlookup|cm|cm|
+langlookup|kilometer|kilometer|
+langlookup|mile|mile|
+langlookup|/ hour|/ hour|
+langlookup|feet|feet|
+langlookup|meter|meter|
+langlookup|How to display the date and time information|How to display the date and time information|
+langlookup|12 hours|12 hours|
+langlookup|24 hours|24 hours|
+langlookup|Dec 31 2013 2:03 pm|Dec 31 2013 2:03 pm|
+langlookup|31-03-2012 14:03|31-03-2012 14:03|
+langlookup|2:03 pm|2:03 pm|
+langlookup|14:03|14:03|
+langlookup|2pm|2pm|
+langlookup|14|14|
+langlookup|Dec 31 2013|Dec 31 2013|
+langlookup|31-03-2012|31-03-2012|
+langlookup|Dec 31|Dec 31|
+langlookup|31-03|31-03|
+langlookup|Friday Jan 22 2015|Friday Jan 22 2015|
+langlookup|Friday, 5 februari 2013|Friday, 5 februari 2013|
+# america
+langlookup|SouthWest|SouthWest|
+langlookup|NorthWest|NorthWest|
+langlookup|Midwest|Midwest|
+langlookup|South Central|South Central|
+langlookup|North East|North East|
+langlookup|South East|South East|
+langlookup|use NOAA warnings|use NOAA warnings|
+langlookup|Use NWS warnings with Curly scripts|Use NWS warnings with Curly scripts|
+langlookup|CWOP page|CWOP page|
+langlookup|NOAA|NOAA|
+langlookup|NOAA forecast page|NOAA forecast page|
+langlookup|Use NOAA icons|Use NOAA icons|
+# canada
+langlookup|We want to use the AirQualityHealtIndex|We want to use the AirQualityHealtIndex|
+langlookup|Environment Canada|Environment Canada|
+langlookup|Environment Canada forecast page|Environment Canada forecast page|
+#
+langlookup|Extra settings for your weather-program|Extra settings for your weather-program|
+langlookup|not in this list|not in this list|
+langlookup|mm-dd-yyyy = month-year with century and a - as separator|mm-dd-yyyy = month-year with century and a - as separator|
+langlookup|mm-dd-yy = month-day-year no century and a - as separator|mm-dd-yy = month-day-year no century and a - as separator|
+langlookup|mm/dd/yyyy = month/day/year with century and a / as separator|mm/dd/yyyy = month/day/year with century and a / as separator|
+langlookup|mm/dd/yy = month/day/year no century and a / as separator|mm/dd/yy = month/day/year no century and a / as separator|
+langlookup|mm-dd-yyyy = day-month-year with century and a - as separator|mm-dd-yyyy = day-month-year with century and a - as separator|
+langlookup|mm-dd-yy = day-month-year no century and a - as separator|mm-dd-yy = day-month-year no century and a - as separator|
+langlookup|mm/dd/yyyy = day/month/year with century and a / as separator|mm/dd/yyyy = day/month/year with century and a / as separator|
+langlookup|mm/dd/yy = day/month/year no century and a / as separator|mm/dd/yy = day/month/year no century and a / as separator|
+langlookup|a slash "/" is used to separate the different day parts|a slash "/" is used to separate the different day parts|
+langlookup|a minus sign "-" is used to separate the different day parts|a minus sign "-" is used to separate the different day parts|
+langlookup|a space  " " is used to separate the different day parts|a space  " " is used to separate the different day parts|
+langlookup|first part|first part|
+langlookup|middle part|middle part|
+langlookup|last part|last part|
+
+langlookup|Generate settings file|Generate settings file|
+langlookup|user online|user online|
+langlookup|Rain and Thunder-warnings|Rain and Thunder-warnings|
+langlookup|Always|Always|
+langlookup|Display with rain warning|Display with rain warning|
+langlookup|Display with thunder warning|Display with thunder warning|
+langlookup|Donate button|Donate button|
+langlookup|Website trafic|Website trafic|
+langlookup|Default forecast on the start-page|Default forecast on the start-page|
+langlookup|wow.metoffice.gov.uk/|wow.metoffice.gov.uk/|
+langlookup|We are not uploading to wow-metoffice|We are not uploading to wow-metoffice|
+langlookup|We are a member of wow-metoffice|We are a member of wow-metoffice|
+langlookup|The units to be used for all weather-values, first one is temperature|The units to be used for all weather-values, first one is temperature|
+langlookup|No decimals 14 C|No decimals 14 C|
+langlookup|One decimal 14.1 C|One decimal 14.1 C|
+langlookup|For pressure in inches you need one or two decimals|For pressure in inches you need one or two decimals|
+langlookup|No decimals 1017 hPa|No decimals 1017 hPa|
+langlookup|One decimal  1017.1 hPa|One decimal  1017.1 hPa|
+langlookup|Two decimals 30,23 inHg|Two decimals 30,23 inHg|
+langlookup|No decimals 14 km/h|No decimals 14 km/h|
+langlookup|One decimal 3.4 m/s|One decimal 3.4 m/s|
+langlookup|No decimals 4 mm|No decimals 4 mm|
+langlookup|One decimal 4.2 mm|One decimal 4.2 mm|
+langlookup|Two decimals 2.35 in|Two decimals 2.35 in|
+langlookup|No decimals 22 cm|No decimals 22 cm|
+langlookup|One decimal 22.4 cm|One decimal 22.4 cm|
+langlookup|No decimals 15 mi|No decimals 15 mi|
+langlookup|One decimal 14.8 mi|One decimal 14.8 mi|
+langlookup|No decimals|No decimals|
+langlookup|One decimal|One decimal|
+langlookup|All done|All done|
+
+langlookup|We are generating the settings-file|We are generating the settings-file|
+langlookup|Settings-file saved as|Settings-file is saved as|

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="キャンセル"/>
+  <s key="Change" value="変更"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="天気予報の提供元: {0} (ノルウェー気象研究局と NRK (ノルウェー放送協会) から配信)"/>
+  <s key="Forecast from {0}" value="予報の提供元: {0}"/>
+  <s key="Friday" value="金曜日"/>
+  <s key="Monday" value="月曜日"/>
+  <s key="Saturday" value="土曜日"/>
+  <s key="Sunday" value="日曜日"/>
+  <s key="Thursday" value="木曜日"/>
+  <s key="Tuesday" value="火曜日"/>
+  <s key="Wednesday" value="水曜日"/>
+  <s key="Fr" value="金"/>
+  <s key="Mo" value="月"/>
+  <s key="Sa" value="土"/>
+  <s key="Su" value="日"/>
+  <s key="Th" value="木"/>
+  <s key="Tu" value="火"/>
+  <s key="We" value="水"/>
+  <s key="LIVE" value="ライブ"/>
+  <s key="Loading" value="読み込み中"/>
+  <s key="April" value="4月"/>
+  <s key="August" value="8月"/>
+  <s key="December" value="12月"/>
+  <s key="February" value="2月"/>
+  <s key="January" value="1月"/>
+  <s key="July" value="7月"/>
+  <s key="June" value="6月"/>
+  <s key="March" value="3月"/>
+  <s key="May" value="5月"/>
+  <s key="November" value="11月"/>
+  <s key="October" value="10月"/>
+  <s key="September" value="9月"/>
+  <s key="Network error" value="ネットワーク エラー"/>
+  <s key="No weather" value="天気がありません"/>
+  <s key="Retry" value="再試行"/>
+  <s key="Tomorrow" value="明日"/>
+  <s key="Updating weather" value="天気を更新中"/>
+  <s key="Please wait..." value="お待ちください..."/>
+  <s key="Weather expired" value="天気のデータがありません"/>
+  <s key="Loading" value="読み込み中"/>
+</body>

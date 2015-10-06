@@ -1,0 +1,147 @@
+# langfile metno version 3.0 2014-07-24 16:23 
+charset|UTF-8|
+# days of the week long
+langlookup|Sunday|Sunday|  
+langlookup|Monday|Monday|  
+langlookup|Tuesday|Tuesday|  
+langlookup|Wednesday|Wednesday|  
+langlookup|Thursday|Thursday|  
+langlookup|Friday|Friday|  
+langlookup|Saturday|Saturday| 
+# day-parts
+langlookup|this|this|
+langlookup|evening|evening|
+langlookup|night|night|
+langlookup|morning|morning|
+langlookup|afternoon|afternoon| 
+# month names long
+langlookup|January|January|  
+langlookup|February|February|  
+langlookup|March|March|  
+langlookup|April|April|  
+langlookup|May|May|  
+langlookup|June|June|  
+langlookup|July|July|  
+langlookup|August|August|  
+langlookup|September|September|  
+langlookup|October|October|  
+langlookup|November|November|  
+langlookup|December|December|  
+# time created
+langlookup|Updated|Updated|  
+langlookup|Next update|Next update|
+langlookup|MetNoForecast.|Weather forecast for|
+langlookup|yourArea|yourArea|
+langlookup|by:|by: |
+#  tab names
+langlookup|Graphs|Graphs|
+langlookup|Forecast by 6 hour intervals|Forecast by 6 hour intervals|
+langlookup|48 hour details|Forecast details|
+langlookup|Forecast details|Forecast details|
+# column headers
+langlookup|Period|Period|
+langlookup|Forecast|Forecast|
+langlookup|Temperature|Temperature|  
+langlookup|Precipitation|Precipitation|
+langlookup|Wind|Wind|  
+langlookup|Humidity|Humidity|
+langlookup|Pressure|Pressure|
+langlookup|Cloud cover|Clouds|
+# beafort wind names
+langlookup|Calm|Calm|  
+langlookup|Fresh breeze|Fresh breeze|  
+langlookup|Gale|Gale|  
+langlookup|Gentle breeze|Gentle breeze|  
+langlookup|Hurricane|Hurricane|  
+langlookup|Light air|Light air|  
+langlookup|Light breeze|Light breeze|  
+langlookup|Moderate breeze|Moderate breeze|  
+langlookup|Near gale|Near gale|  
+langlookup|Storm|Storm|  
+langlookup|Strong breeze|Strong breeze|  
+langlookup|Strong gale|Strong gale|  
+langlookup|Violent storm|Violent storm|  
+# wind direction compass headings
+langlookup|from the|from the|
+langlookup|E|E|  
+langlookup|ENE|ENE|  
+langlookup|ESE|ESE|  
+langlookup|East|East|  
+langlookup|N|N|  
+langlookup|NE|NE|  
+langlookup|NNE|NNE|  
+langlookup|NNW|NNW|  
+langlookup|NW|NW|  
+langlookup|North|North|  
+langlookup|S|S|  
+langlookup|SE|SE|  
+langlookup|SSE|SSE|  
+langlookup|SSW|SSW|  
+langlookup|SW|SW|  
+langlookup|South|South|  
+langlookup|W|W|  
+langlookup|WNW|WNW|  
+langlookup|WSW|WSW|  
+langlookup|West|West|  
+# heat words
+langlookup|Cold|Cold|  
+langlookup|Comfortable|Comfortable|  
+langlookup|Cool|Cool|  
+langlookup|Extreme Cold|Extreme Cold|  
+langlookup|Extreme Heat Caution|Extreme Heat Caution|  
+langlookup|Extreme Heat Danger|Extreme Heat Danger|  
+langlookup|Extremely Hot|Extremely Hot|  
+langlookup|Heat Danger|Heat Danger|  
+langlookup|Hot|Hot|  
+langlookup|Uncomfortably Cold|Uncomfortably Cold|  
+langlookup|Uncomfortably Hot|Uncomfortably Hot|  
+langlookup|Unknown|Unknown|  
+langlookup|Very Cold|Very Cold|  
+langlookup|Warm|Warm|  
+# other
+langlookup|-|-|
+langlookup|Daylength|Daylength|
+# conditions  1.9
+langlookup|Cloud|Cloudy|
+langlookup|Clear|Clear|
+langlookup|Drizzle|Drizzle|
+langlookup|DrizzleSun|Drizzle, clear|
+langlookup|DrizzleThunder|Drizzle, thunder|
+langlookup|DrizzleThunderSun|Drizzle, clear, thunder|
+langlookup|Fog|Fog|
+langlookup|HeavySleet|Heavy sleet|
+langlookup|HeavySleetSun|Heavy sleet, clear|
+langlookup|HeavySleetThunder|Heavy sleet, thunder|
+langlookup|HeavySleetThunderSun|Heavy sleet, clear, thunder|
+langlookup|HeavySnow||Heavy snow|
+langlookup|HeavysnowSun|Heavy snow, clear|
+langlookup|HeavySnowThunder|Heavy snow, thunder|
+langlookup|HeavySnowThunderSun|Heavy snow, clear, thunder|
+langlookup|LightCloud|Lightly cloudy|
+langlookup|LightRain|Some rain|
+langlookup|LightRainSun|Some rain, clear|
+langlookup|LightRainThunder|Some rain, thunder|
+langlookup|LightRainThunderSun|Some rain, clear, thunder|
+langlookup|LightSleet|Light sleet|
+langlookup|LightSleetSun|Light sleet, clear|
+langlookup|LightSleetThunder|Light sleet, thunder|
+langlookup|LightSleetThunderSun|Light sleet, thunder, clear|
+langlookup|LightSnow|Light snow|
+langlookup|LightSnowSun|Light snow, clear|
+langlookup|LightSnowThunder|Light snow, thunder|
+langlookup|LightSnowThunderSun|Light snow, thunder, clear|
+langlookup|PartlyCloud|Partly cloudy|
+langlookup|Rain|Rain|
+langlookup|RainSun|Rain, clear|
+langlookup|RainThunder|Rain, thunder|
+langlookup|RainThunderSun|Rain, thunder, clear|
+langlookup|Sleet|Sleet|
+langlookup|SleetSun|Sleet, clear|
+langlookup|SleetSunThunder|Sleet, clear, thunder|
+langlookup|SleetThunder|Sleet, clear, thunder|
+langlookup|Snow|Snow|
+langlookup|SnowSun|Snow, clear|
+langlookup|SnowSunThunder|Snow, clear, thunder|
+langlookup|SnowThunder|Snow, thunder|
+langlookup|Thunder|Thunder|
+langlookup|Sun|Clear|

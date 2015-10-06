@@ -1,0 +1,94 @@
+<?php
+if (!isset($SITE)){
+	header ("Location: ../index.php");	// back to index/startpage if someone tries an
+	exit;  								//  page to load without menu system//
+}
+$pageName		= "partners_nl.txt";
+$pageVersion	= '1.01 2012-06-10';
+$SITE["wsModules"][$pageName] = "version: " . $pageVersion;
+$pageFile = basename(__FILE__);			// check to see this is the real script
+if ($pageFile <> $pageName) {
+	$SITE["wsModules"][$pageFile]	= "this file loaded instead of ".$pageName;
+}
+echo "<!-- module ".$pageFile." ==== ".$SITE["wsModules"][$pageFile]." -->".PHP_EOL;
+#-------------------------------------------------------------------------------------------------
+$partnersTxt = <<<EOT
+<p>In de wereld van weerstations is er veel samenwerking en uitwisseling van gegevens. Hieronder een (niet uitputtende) 
+lijst van commerci&euml;le organisaties en belangenverenigingen waarmee dit weerstation samenwerkt.</p>
+<p>Onderstaande lijst is op strikt willekeurige volgorde. Het eerste woord van elke alinea verbindt u als dat mogelijk is met de pagina op hun website met onze gegevens. 
+De algemene website bereikt u telkens door op het logo te klikken</p>
+EOT;
+$name = 'hwa';
+$arrPartners[$name]['text']       = <<<EOT
+Wat is het actueel weer op dit moment? Hoeveel neerslag is er gevallen vandaag in mijn woonplaats? 
+Heeft het vannacht gevroren? Wat was de maximale temperatuur vandaag in mijn woonplaats? 
+Zo maar een paar vragen over het weer die dagelijks gesteld worden. 
+De kans is groot dat ook jij weleens deze vragen hebt. 
+Hetweeractueel.nl geeft antwoord op al deze vragen. 
+Behalve <a href="http://www.hetweeractueel.nl/" target="_blank">het weer</a> van alle weerstations, vind je hier ook een uitgebreid weerbericht. 
+De data leent zich ook voor een <a href="http://www.hetweeractueel.nl/actueel-temperatuur-kaartje" target="_blank">actueel temperatuur kaartje</a>.
+EOT;
+$name = 'wcloud';	
+$arrPartners[$name]['text']		= <<<EOT
+is een sociaal weer netwerk wat wordt gevormd door meer dan 4500 weer waarnemers uit de hele wereld.
+Het is oorspronkelijk begonnen in Europa en nog steeds gevestigd in de Europese Unie,
+is beschikbaar in 10 talen, waaronder Nederlands, en heeft een zeer mooie graphics.
+EOT;
+$name = 'wow';
+$arrPartners[$name]['text']       = <<<EOT
+- de 'Weather Observations Website'  weerspiegelt de recente ontwikkelingen in de technologie en hoe weermetingen worden gemaakt. 
+Tegenwoordig in de groeiende wereld van online sociale netwerken is het relatief eenvoudig voor iedere eigenaar van een weerstation om mee te doen en hun weerobservaties te delen . 
+De UK Met Office helpt bij het co&ouml;rdineren van de groei van het aantal weerstation gebruikers in het Verenigd Koninkrijk, 
+door iedereen te vragen hun metingen in te dienen in de systemen van UK Met Office. 
+Dit kan worden gedaan met behulp van alle prijsniveaus van de apparatuur.
+EOT;
+$name = 'meso';
+$arrPartners[$name]['text']       = 'is een regionaal netwerk bestaande uit persoonlijke weerstations die zich bij dit netwerk hebben aangesloten. ';
+
+$name = 'awekas';
+$arrPartners[$name]['text']       = <<<EOT
+is een afkorting voor <span style="color: #0000FF;">A</span>utomatisches <span style="color: #0000FF;">WE</span>tter<span style="color: #0000FF;">KA</span>rten <span style="color: #0000FF;">S</span>ystem 
+en is zoals de naam al zegt een systeem dat uit metingen van private en ambtelijke weerstations automatisch overzichtskaarten vervaardigd.<br /> 
+De metingen worden op de Websites of homepages van de deelnemers als bestand ter beschikking gesteld en door de AWEKAS Server binnengehaald resp.verzonden.<br /> 
+AWEKAS werkt volautomatisch en levert per seconde actuele kaarten van Temperatuur, Wind, Neerslag, luchtdruk, als mede overzichtskaarten met actuele weersituaties- en weerwaarschuwingen.
+De deelname aan AWEKAS is volledig kosteloos en kan ieder moment zo mogelijk be&euml;indigd worden.
+EOT;
+$name = 'weatherlink';
+$arrPartners[$name]['text']       = <<<EOT
+is een gratis dienst voor eigenaren van Davis weerstations met een IP-datalogger.<br /> 
+Na het aansluiten van de logger worden de gegevens van het weerstation automatisch via internet opgeladen naar een server van Davis. <br /> 
+Na eenmalige registratie kunnen die gegevens in twee voorgevormde webpagina's worden opgeroepen.<br /> 
+Ook kunnen de gegevens die bij Davis worden opgeslagen doorgestuurd worden aan CWOP (The Citizen Weather Observer Program); GLOBE (Global Learning and Observations to Benefit the Environment) = voor scholen wellicht interessant
+en WU (Weather underground). Dit heeft als voordeel dat de eigen computer daarvoor niet gebruikt hoeft te worden.<br />
+EOT;
+$name = 'wu';
+$arrPartners[$name]['text']       = <<<EOT
+is wel de 'bekendste' samenwerking tussen weerstations. Oorspronkelijk uit de USA maar nu sluiten over de hele wereld de priv&eacute; weerstations zich er bij aan.<br />
+
+Groot voordeel is dat je je eigen weerdata goed kunt vergelijken met andere gelijkaardige weerstations.<br />
+EOT;
+$name = 'cwop';
+$arrPartners[$name]['text']       = <<<EOT
+is een publiek-privaat samenwerkingsverband met drie belangrijke doelstellingen: <br />
+<ul>
+<li> weergegevens verzamelen die door burgers worden bijgedragen,</li>
+<li> deze gegevens beschikbaar houden voor weerdiensten en waarschuwings-/veiligheidsdiensten, en</li>
+<li> om feedback te geven aan degenen die de weergegevens leveren, o.a. door tools om de gegevens te controleren en de kwaliteit ervan te verbeteren.
+</li></ul>
+
+In feite, het webadres, wxqa.com, staat voor weather quality assurance (weer kwaliteitsborging).
+EOT;
+$name = 'pws';
+$arrPartners[$name]['text']       = <<<EOT
+is een groep bederijven die een meer commerci&euml;le rol vervullen maar waar het ook mogelijk is data aan te bieden en te bekijken.
+
+Hun doel is het samenbrengen van gegevens uit persoonlijke weerstations wereldwijd, deze weer te geven op websites en de gegevens voor andere doeleinden beschikbaar te maken.
+EOT;
+$name = 'wp24';
+$arrPartners[$name]['text']       = <<<EOT
+
+EOT;
+$name = 'anWe';
+$arrPartners[$name]['text']       = <<<EOT
+
+EOT;

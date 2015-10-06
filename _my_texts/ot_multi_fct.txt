@@ -1,0 +1,36 @@
+# You have to find the correct addressing for the places you want to use in the forecast dropdown
+#
+# Latitude/longitude  => metno and others
+# ==================
+# go to google maps and click (on the city name) on the map to find the information in the browser address-area
+# example, the town I am  living in:
+# https://www.google.be/maps/place/3012+Wilsele/@50.8904695,4.69451,15z
+#                                                <latitude><longi >do not copy the comma or the rest!
+# METAR => nearby interesting places
+# =====
+# Go to http://www.travelmath.com/nearest-airport/
+# Example type moncton and you get a page where you find 
+# Greater Moncton International Airport (YQM / CYQM ). 
+#                                              METAR  is the 4 letter code only.
+#
+# YaHoo => forecast
+# =====
+# Go to https://weather.yahoo.com/  and search for your city
+# Example for a well known Belgium harbor: 
+#   https://weather.yahoo.com/belgium/antwerp/antwerp-966591/
+#       The number of digits is different 4-8         <yaho>
+#
+#
+# yr.no	Country/region/[subregion/]City
+#
+# To find the YrNo codes visit http://www.yr.no/ and locate the nearest city the place you want to use. 
+# Example http://www.yr.no/place/United_States/Arizona/Carefree/
+#                                <  the yrno codes             >  including the last /
+#
+#
+#latitude |longitude |name        |METAR|yahoo  |yr.no |
+|-33.88   |151.20    |Sydney      |YSSY |966591 |Australia/New_South_Wales/Sydney/  |
+|-27.52   |153.05    |Brisbane    |YBBN |1100661|Australia/Queensland/Brisbane/  |
+|-31.96   |115.91    |Perth       |YPPH |1098081|Australia/Western_Australia/Perth/  |
+|-43.53   |172.64    |Christchurch|NZCH |2348327|New_Zealand/Canterbury/Christchurch/  |
+

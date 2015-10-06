@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="Prekliči"/>
+  <s key="Change" value="Zamenjaj"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="Vremensko napoved omogoča {0}, posredovana s strani Norveškega meteorološkega inštituta in NRK"/>
+  <s key="Forecast from {0}" value="Napoved od {0}"/>
+  <s key="Friday" value="petek"/>
+  <s key="Monday" value="ponedeljek"/>
+  <s key="Saturday" value="sobota"/>
+  <s key="Sunday" value="nedelja"/>
+  <s key="Thursday" value="četrtek"/>
+  <s key="Tuesday" value="torek"/>
+  <s key="Wednesday" value="sreda"/>
+  <s key="Fr" value="pe"/>
+  <s key="Mo" value="po"/>
+  <s key="Sa" value="so"/>
+  <s key="Su" value="ne"/>
+  <s key="Th" value="če"/>
+  <s key="Tu" value="to"/>
+  <s key="We" value="sr"/>
+  <s key="LIVE" value="V ŽIVO"/>
+  <s key="Loading" value="Nalagam"/>
+  <s key="April" value="april"/>
+  <s key="August" value="avgust"/>
+  <s key="December" value="december"/>
+  <s key="February" value="februar"/>
+  <s key="January" value="januar"/>
+  <s key="July" value="julij"/>
+  <s key="June" value="junij"/>
+  <s key="March" value="marec"/>
+  <s key="May" value="maj"/>
+  <s key="November" value="november"/>
+  <s key="October" value="oktober"/>
+  <s key="September" value="september"/>
+  <s key="Network error" value="Napaka v omrežju"/>
+  <s key="No weather" value="Brez vremena"/>
+  <s key="Retry" value="Ponovno poskusi"/>
+  <s key="Tomorrow" value="jutri"/>
+  <s key="Updating weather" value="Osvežujem vreme"/>
+  <s key="Please wait..." value="Prosim počakaj ..."/>
+  <s key="Weather expired" value="Vreme je poteklo"/>
+  <s key="Loading" value="Nalagam"/>
+</body>

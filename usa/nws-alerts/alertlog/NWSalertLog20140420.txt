@@ -1,0 +1,56 @@
+<?php 
+ 
+$daily_log = array (
+  0 => 
+  array (
+    0 => 'River Flood Warning',
+    1 => 'Jackson, IA',
+    2 => 1397988420,
+    3 => 1398276000,
+    4 => 'FFW.gif',
+    5 => 'Dubuque; Jackson',
+    6 => 'FLOOD WARNING REMAINS IN EFFECT UNTIL TUESDAY MORNING',
+  ),
+  1 => 
+  array (
+    0 => 'River Flood Warning',
+    1 => 'Dubuque, IA',
+    2 => 1397988420,
+    3 => 1398276000,
+    4 => 'FFW.gif',
+    5 => 'Dubuque; Jackson',
+    6 => 'FLOOD WARNING REMAINS IN EFFECT UNTIL TUESDAY MORNING',
+  ),
+  2 => 
+  array (
+    0 => 'River Flood Warning',
+    1 => 'Jo Daviess, IL',
+    2 => 1397988420,
+    3 => 1398276000,
+    4 => 'FFW.gif',
+    5 => 'Jo Daviess',
+    6 => 'FLOOD WARNING REMAINS IN EFFECT UNTIL TUESDAY MORNING',
+  ),
+  3 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'Santa Cruz',
+    2 => 1397990520,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE NORTHWESTERLY SWELL EXPECTED TODAY AND TONIGHT',
+  ),
+  4 => 
+  array (
+    0 => 'High Surf Advisory',
+    1 => 'San Francisco',
+    2 => 1397990520,
+    3 => 1398081600,
+    4 => 'SUY.gif',
+    5 => 'Coastal North Bay Including Point Reyes National Seashore; Northern Monterey Bay; San Francisco; San Fransisco Peninsula Coast; Southern Monterey Bay and Big Sur Coast',
+    6 => 'LARGE NORTHWESTERLY SWELL EXPECTED TODAY AND TONIGHT',
+  ),
+);
+
+?>

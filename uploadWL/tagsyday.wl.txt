@@ -1,0 +1,58 @@
+|pagenameYday|tagsydaywl|!     
+|versionYday|3.00 2015-03-29 17:00:00  BETA|!
+|dateYday|01-06-15|! 
+|timeYday|23:45|!         
+
+|fromtempYday|°C|!
+|tempMinYday|9.7|!
+|tempMinYdayTime| 6:19|!
+|tempMaxYday|18.7|!
+|tempMaxYdayTime|16:22|!
+
+|dewpMinYday|5.0|!
+|dewpMinYdayTime|11:58|!
+|dewpMaxYday|11.7|!
+|dewpMaxYdayTime| 0:00|!
+
+|heatMaxYday|17.2|!
+|heatMaxYdayTime|15:13|!
+
+|chilMinYday|9.4]|!
+|chilMinYdayTime| 5:03|!
+
+|frombaroYday|hPa|! 
+|baroMinYday|1010.1|!
+|baroMinYdayTime| 0:06|!
+|baroMaxYday|1016.2|!
+|baroMaxYdayTime|13:25|!
+
+|humiMinYday|46|!
+|humiMinYdayTime|14:40|!
+|humiMaxYday|94|!
+|humiMaxYdayTime| 0:00|!
+
+|fromrainYday|mm|! 
+|rainRateMaxYday|0.0|!
+|rainYday|0.0|!
+
+|etYday|3.56|!
+
+|fromwindYday|m/s|!
+|gustMaxYday|5.4|!
+|gustMaxYTime|13:43|!
+
+|uvMaxYday|5.7|!
+|uvMaxYdayTime|13:42|!
+
+|solarMaxYday|1148|!
+|solarMaxYdayTime|13:49|!
+
+|soilTempMaxYday|13.3#12.8#---#---|!
+|soilTempMaxYdayTime|19:16# 0:00#---#---|!
+|soilTempMinYday|12.8#12.8#---#---|!
+|soilTempMinYdayTime| 0:00# 0:00#---#---|!
+
+|soilMoistMaxYday|37#29#---#---|!
+|soilMoistMaxYdayTime| 0:00#18:51#---#---|!
+|soilMoistMinYday|37#28#---#---|!
+|soilMoistMinYdayTime| 0:00# 0:00#---#---|!
