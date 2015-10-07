@@ -177,7 +177,7 @@ $SITE['loadData']	= 'wsDataLoad.php';		// load data into variables (mostly ajax)
 #---------------------------------------------------------------------------
 # Website CSS files
 #---------------------------------------------------------------------------
-$SITE['CSSscreen']	= 'styleMain30.css';		// general stylesheet all pages
+$SITE['CSSscreen']	= 'css/styleMain30.css';		// general stylesheet all pages
 $SITE['CSSprint']	= 'stylePrint20.css';		// general stylesheet all pages for printing
 $SITE['CSStable']	= 'styleTable20.css';		// general stylesheet all tables
 $SITE['CSSmenuHor']	= 'styleMenuDrop20.css';	// stylesheet horizontal drop down menus

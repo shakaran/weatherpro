@@ -4,7 +4,7 @@
 <head>
 	<meta name="description" content="Weerstation Wilsele-Dorp bij Leuven-  - Welkom" />
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1 "/>
-	<link rel="stylesheet" type="text/css" href="styleMain30.css" media="screen" title="screen" />
+	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSSscreen']; ?>" media="screen" title="screen" />
 	<link rel="stylesheet" type="text/css" href="styleTable20.css" media="screen" title="screen" />
 	<link rel="stylesheet" type="text/css" href="styleMenuVert20.css" media="screen" title="screen" />
 	<link rel="stylesheet" type="text/css" href="styleColom20.css" media="screen" title="screen" />
