@@ -1,0 +1,74 @@
+/* version 3.00 B 2014-12-13 */
+#nav, #nav ul {
+	z-index: 99;
+	padding: 0;
+	list-style-type: none;
+	margin: 0px 0 0 0;
+	list-style: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 75%;
+}
+#nav{  }
+#nav li{
+	z-index: 99;
+	border-radius: 5px;
+	border: 1px solid grey;
+	border-bottom: 3px solid grey; 
+	margin: 0px 2px 0px 6px;
+	list-style-type: none;
+}
+
+#nav li.withImg {
+	background: url(img/flyout.gif) no-repeat right bottom;
+}
+#nav img {max-width: 30px;}
+
+#nav li ul{
+	z-index: 99;
+	position: absolute;
+	min-width: 200px;
+	left: -2000px;
+	margin: -30px 0 0 162px;
+	font-size: 100%;
+}
+#nav li ul li ul{
+	z-index: 98;
+	position: absolute;
+	min-width: 200px;
+	left: -2000px;
+	margin: -40px 0 0 195px;
+	font-size: 100%;
+}
+
+* html #nav ul{
+	margin: -30px 0 0 162px;
+}
+
+#nav li ul li {
+	z-index: 99;
+	min-width: 200px;
+}
+#nav li:hover ul, #nav li.ie_does_hover ul{
+	left: auto;
+}
+#nav li:hover ul li ul, #nav li.ie_does_hover ul li ul{
+	left: -2000px;
+}
+#nav li ul li:hover ul, #nav li ul li:hover ul{
+	left: auto;
+}
+#nav a {
+	min-height: 20px;
+	border-radius: 5px;
+	display: block;
+	text-decoration: none;
+	padding: 2px;
+	font-size: 12px;
+}
+#nav a:link, #nav a:visited{
+	color:  inherit;
+}
+#nav a:hover, #nav a:active{
+	background-color: white;
+	color: black;
+}

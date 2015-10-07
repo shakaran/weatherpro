@@ -1,0 +1,72 @@
+/* version 2.01 */
+
+.genericTable { 
+	border-collapse: collapse;
+	width: 100%;
+	color: black;
+	text-align: center;
+}
+.genericTable small { 
+	color: grey; 
+}
+.genericTable td { 
+	padding: 0px; 
+}
+.trendTable th {text-transform: uppercase;}
+.docTable { 
+	border-collapse: collapse;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	color: black;
+	border-width: 2px;
+}
+.docTable th {
+	text-align: left;
+}
+.docTable h3 {
+	text-align: center;
+	margin: 2px;
+}
+.examp {
+	color: green;
+	float: right;
+}
+th {}
+tr {height: 20px;
+}
+.hdr {
+	height: 25px; 
+	background-color: #DDDDDD;
+	font-weight:bold;
+}
+.row {
+	padding: 0px;
+	font-size: 12px;
+	text-align: center;
+}
+.row a {
+	border-top: 0px solid #424242;
+	padding: 0px;
+	font-size: 12px;
+	text-align: center;
+	width: 50px;
+}
+.genericTable img {border: none;
+}
+.table-top {
+	background-color: #C0C0C0;
+	font-size: 10px;
+	font-weight: bold;
+}
+.row-dark {
+	background-color: #EEEEEE;
+}
+.row-light {
+	background-color: transparent;
+}
+.row-white {
+	background-color: #FFFFFF;
+}
+
+
