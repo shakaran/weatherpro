@@ -20,7 +20,7 @@ echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_
 ?>
 <div class="blockDiv">
 <h3 class="blockHead"><?php langtrans('Weather Underground History page Text') ?></h3>
-<?php include('WU-History.php');?>
+<?php require_once 'WU-History.php'; ?>
 
 
 <h3 class="blockHead">

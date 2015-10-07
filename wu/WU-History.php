@@ -1419,5 +1419,3 @@ exit;
 
 	return($cols);
 }
-
-?>
