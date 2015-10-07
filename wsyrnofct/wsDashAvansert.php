@@ -1,17 +1,7 @@
 <?php
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { //--self downloader --
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsDashAvansert.php';
 $pageVersion	= '3.20 2015-07-14';
 # ----------------------------------------------------------------------
@@ -24,12 +14,15 @@ echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_
 # ----------------------------------------------------------------------
 $strImg	= 'Yr.no 2 '.langtransstr('day graphical forecast for').' '.$SITE['organ'];
 $title	= langtransstr('YRno forecast');
-if (isset ($SITE['pages']['ws_yrno_page']) ) {
+if (isset ($SITE['pages']['ws_yrno_page']) ) 
+{
 	$strLnk	= '"'.$SITE['pages']['ws_yrno_page'].'&amp;lang='.$lang.$extraP.$skiptopText.'" title="'.$title;
 }
-else {	$strLnk	= '"http://www.yr.no/place/'.$SITE['yrnoID'].'" target="_blank" title="'.$title;
+else 
+{
+		$strLnk	= '"http://www.yr.no/place/'.$SITE['yrnoID'].'" target="_blank" title="'.$title;
 }
-include 'wsyrnofct/yrnoavansert4.php';
+require_once 'wsyrnofct/yrnoavansert4.php';
 #
 echo '
 <div class="blockDiv" style="background-color: grey;">
