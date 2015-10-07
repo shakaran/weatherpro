@@ -6,12 +6,12 @@ class Util
 	 * 
 	 * @return void
 	 */
-	public static function checkShowSource()
+	public static function checkShowSource($current_file = NULL)
 	{
-		if(isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view') 
+		echo $current_file;
+		if(isset($_REQUEST['sce']) && ( strtolower($_REQUEST['sce']) == 'view' || strtolower($_REQUEST['sce']) == 'echo' )) 
 		{
-		   $filenameReal = __FILE__;
-		   $download_size = filesize($filenameReal);
+		   $download_size = filesize($current_file);
 		   header('Pragma: public');
 		   header('Cache-Control: private');
 		   header('Cache-Control: no-cache, must-revalidate');
@@ -19,7 +19,7 @@ class Util
 		   header("Accept-Ranges: bytes");
 		   header("Content-Length: $download_size");
 		   header('Connection: close');
-		   readfile($filenameReal);
+		   readfile($current_file);
 		   exit;
 		}
 	}

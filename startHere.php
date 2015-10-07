@@ -1,9 +1,9 @@
 <?php
 ini_set('display_errors', 'On');  
 error_reporting(E_ALL);	
-require 'lib/Util.php';
+require_once 'lib/Util.php';
 
-Util::checkShowSource();
+Util::checkShowSource(__FILE__);
 
 echo '<pre>'.PHP_EOL;
 echo 'startHere.php (v2.8): This small program test your web server settings if they prohibit installing the Leuven-template.

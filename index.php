@@ -4,9 +4,9 @@
 # Based on previous scripts from Ken True (Saratoga.org) and a lot of others. See individual scripts for credits.
 # Use and adapt as you wish.
 #
-require 'lib/Util.php';
+require_once 'lib/Util.php';
 
-Util::checkShowSource();
+Util::checkShowSource(__FILE__);
 
 ob_start();
 $SITE 		= array();	// to store all settings for all scripts

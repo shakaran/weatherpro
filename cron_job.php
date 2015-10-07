@@ -1,7 +1,7 @@
 <?php 
-require 'lib/Util.php';
+require_once 'lib/Util.php';
 
-Util::checkShowSource();
+Util::checkShowSource(__FILE__);
 
 $pageName	= 'cron_job.php';
 $pageVersion	= '3.20 2015-07-26';
