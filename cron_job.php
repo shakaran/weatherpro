@@ -1,17 +1,8 @@
 <?php 
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require 'lib/Util.php';
+
+Util::checkShowSource();
+
 $pageName	= 'cron_job.php';
 $pageVersion	= '3.20 2015-07-26';
 #-------------------------------------------------------------------------------

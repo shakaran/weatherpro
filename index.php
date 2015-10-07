@@ -4,19 +4,10 @@
 # Based on previous scripts from Ken True (Saratoga.org) and a lot of others. See individual scripts for credits.
 # Use and adapt as you wish.
 #
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;    #               display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require 'lib/Util.php';
+
+Util::checkShowSource();
+
 ob_start();
 $SITE 		= array();	// to store all settings for all scripts
 $pathString	= '';		// to store messages form scripts before echo can be used
@@ -225,7 +216,7 @@ if ($head <> ''){				// extras to be included based on the menu settings F.i. ge
 	$p = $save_p; 
 }
 #                                  
-if (!isset($noDocready) ) {			// WU-Graphs  v 1.8.0 / © 2010 Radomir Luza. cannot run with this code, it has its own version of it
+if (!isset($noDocready) ) {			// WU-Graphs  v 1.8.0 / ï¿½ 2010 Radomir Luza. cannot run with this code, it has its own version of it
         echo '<script type="text/javascript">
 var docready=[],$=function(){return{ready:function(fn){docready.push(fn)}}};
 </script>'.PHP_EOL;
