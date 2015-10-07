@@ -1,17 +1,9 @@
-<?php  ini_set('display_errors', 'On');   error_reporting(E_ALL);
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;            # display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+<?php  
+ini_set('display_errors', 'On');   
+error_reporting(E_ALL);
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsLoadSettings.php';
 $pageVersion	= '3.20 2015-10-01';
 #
@@ -20,8 +12,10 @@ $SITE['wsModules'][$pageName] = 'version: ' . $pageVersion;
 $pageFile = basename(__FILE__);			// check to see this is the real script
 if ($pageFile <> $pageName) { $SITE['wsModules'][$pageFile]	= 'this file loaded instead of '.$pageName; }
 if (!isset($pathString)) {$pathString='';}
-if (!function_exists ('ws_message') ){
-        function ws_message ($message,$always=false,&$string=false) {
+if (!function_exists ('ws_message') )
+{
+        function ws_message ($message,$always=false,&$string=false) 
+        {
                 global $wsDebug, $SITE;
                 $echo	= $always;
                 if ( $echo == false && isset ($wsDebug) && $wsDebug == true ) 			{$echo = true;}
