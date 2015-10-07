@@ -5,7 +5,7 @@
 <item	nr      = "wsStartPage"	
         caption = "Actual weather"
         link    = "wsStartPage.php"			
-        css     = "styleColom20.css"
+        css     = "css/styleColom20.css"
         gizmo   = "1"	
 />
 <item	nr      = "wsForecast"	
@@ -161,7 +161,7 @@
 	<item 	nr      = "hwaFullPage"  	show    = "hwaPage"
 		caption = "HWA forecast"	
 		link    = "wsHwa/hwaFullPage.php"	
-		css     = "styleColom20.css" 
+		css     = "css/styleColom20.css" 
         />
 	<item 	nr      = "wsWxsimPrintFull" 	show    = "wxsimPage"
 		caption = "Our own forecast"	
@@ -220,7 +220,7 @@
 		show    ='soilUsed'
 	 	caption = "Soil" 	
 	 	link    = "soil/soilTotals.php"						 
-		css     = "styleColom20.css"
+		css     = "css/styleColom20.css"
         />
 </item>
 
@@ -335,7 +335,7 @@
 		top     = "no"
 		caption = "Another home page"
 		link    = "wsStartPageDemo.php"			
-		css     = "styleColom20.css" 
+		css     = "css/styleColom20.css" 
 		gizmo   = "1"
 	/>
 	<item 	nr      = "90"  		show    = "generatePage"

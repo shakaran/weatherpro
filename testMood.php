@@ -5,9 +5,9 @@
 	<meta name="description" content="Weerstation Wilsele-Dorp bij Leuven-  - Welkom" />
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1 "/>
 	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSSscreen']; ?>" media="screen" title="screen" />
-	<link rel="stylesheet" type="text/css" href="styleTable20.css" media="screen" title="screen" />
-	<link rel="stylesheet" type="text/css" href="styleMenuVert20.css" media="screen" title="screen" />
-	<link rel="stylesheet" type="text/css" href="styleColom20.css" media="screen" title="screen" />
+	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSStable']; ?>" media="screen" title="screen" />
+	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSSmenuVer']; ?>" media="screen" title="screen" />
+	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSSColom']; ?>" media="screen" title="screen" />
 	<link rel="shortcut icon" href="/img/icon.png" type="image/x-icon" />
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Cache-Control" content="no-cache" />

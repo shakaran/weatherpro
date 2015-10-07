@@ -178,11 +178,12 @@ $SITE['loadData']	= 'wsDataLoad.php';		// load data into variables (mostly ajax)
 # Website CSS files
 #---------------------------------------------------------------------------
 $SITE['CSSscreen']	= 'css/styleMain30.css';		// general stylesheet all pages
-$SITE['CSSprint']	= 'stylePrint20.css';		// general stylesheet all pages for printing
-$SITE['CSStable']	= 'styleTable20.css';		// general stylesheet all tables
-$SITE['CSSmenuHor']	= 'styleMenuDrop20.css';	// stylesheet horizontal drop down menus
-$SITE['CSSmenuVer']	= 'styleMenuVert20x.css';	// stylesheet vertical fly-out menus
-$SITE['CSSmood']	= 'styleMood20.css';		// stylesheet for adapting colors based on current  weathercondition
+$SITE['CSSprint']	= 'css/stylePrint20.css';		// general stylesheet all pages for printing
+$SITE['CSStable']	= 'css/styleTable20.css';		// general stylesheet all tables
+$SITE['CSSmenuHor']	= 'css/styleMenuDrop20.css';	// stylesheet horizontal drop down menus
+$SITE['CSSmenuVer']	= 'css/styleMenuVert20x.css';	// stylesheet vertical fly-out menus
+$SITE['CSSmood']	= 'css/styleMood20.css';		// stylesheet for adapting colors based on current  weathercondition
+$SITE['CSSColom']   = 'css/styleColom20.css';       // Unknown
 
 $SITE['noChoiceBackup']	= $SITE['noChoice'];
 $SITE['menuPlaceBackup']= $SITE['menuPlace'];

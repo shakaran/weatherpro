@@ -1,19 +1,10 @@
-<?php ini_set('display_errors', 'On');   error_reporting(E_ALL);
-#
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-#  display source of script if requested so
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+<?php 
+ini_set('display_errors', 'On');   
+error_reporting(E_ALL);
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
+
 function langtransstr ($str) {return $str; }
 $pathString = '';
 #$SITE['menuXml']        = './wsMenuData.xml';
