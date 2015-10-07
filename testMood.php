@@ -17,7 +17,7 @@
 
 	
 	
-	<link rel="stylesheet" type="text/css" href="styleMood20.css" media="screen" title="screen" />
+	<link rel="stylesheet" type="text/css" href="<? echo $SITE['CSSmood']; ?>" media="screen" title="screen" />
 </head>
 
 <body style="background-image: url();">  <!-- no class etc background-image: url(img/background-clouds.jpg); -->
