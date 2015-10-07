@@ -23,4 +23,3 @@ echo '<div style="margin: 5px;">'.PHP_EOL;
 echo $ewndata;
 echo $ewnfooter;
 echo '</div>';
-?>

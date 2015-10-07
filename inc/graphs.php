@@ -1,20 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName		= 'graphs.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.00 2014-09-12';
@@ -207,4 +194,3 @@ function genImageLink ( $imagename, $alttext, $width, $height ) {
 	return '<p style="text-align: center;"><br /><img src="'.$graphImageDir.$imagename.$time.'" alt="'.$alttext.'" style=" width: '.$width.'px; height: '.$height.'px;" /></p>'.PHP_EOL;
 }
 #-----------------------------------------------------------------------------------------
-?>

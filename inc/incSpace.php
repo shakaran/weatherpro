@@ -1,20 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'incSpace.php';		
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.02 2015-04-05';
@@ -420,4 +407,3 @@ function space_load_from_url($cache_fct_name, $url_forecast,&$raw_data) {
         curl_close ($ch);
 	return $dataOK;
 } // eof load from curl
-?>
