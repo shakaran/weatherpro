@@ -76,22 +76,9 @@ if (isset($_REQUEST['detailpage']) ) {
   $hurlURL = $_REQUEST['detailpage'];
 }
 
-if (isset($_REQUEST['sce']) and $_REQUEST['sce'] == 'view' ) {
-//--self downloader --
-   $filenameReal = $_SERVER["PATH_TRANSLATED"];
-   $filenameLcl = substr($PHP_SELF,1);
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 
 // begin code -----------------------------------------------------------
 $t = pathinfo($PHP_SELF);

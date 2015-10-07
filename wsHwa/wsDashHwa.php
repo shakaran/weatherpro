@@ -1,21 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   //--self downloader --
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsDashHwa.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.10 2015-01-23';
@@ -201,5 +187,3 @@ echo '<script type="text/javascript" src="'.$javaFolder.'jquery.js"></script>'.P
 	}
 echo '<script type="text/javascript" src="'.$javaFolder.'highcharts.js"></script>'.PHP_EOL;
 echo '<script type="text/javascript">$=jQuery;jQuery(document).ready(function(){for(n in docready){docready[n]()}});</script>'.PHP_EOL;
-
-?>

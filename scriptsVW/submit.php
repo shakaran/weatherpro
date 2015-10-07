@@ -16,4 +16,3 @@ elseif (isset ($_GET["S"]) ){
 else {  echo 'invalid data'; return;}
 #
 fclose($fp);
-?>

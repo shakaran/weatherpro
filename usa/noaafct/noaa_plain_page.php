@@ -7,19 +7,9 @@ $updateTimes	        = true;		// two lines with recent file / new update informa
 $showHazards            = true;         // show hazard warnings when available
 #
 # --------------- END OF SETTINGS --------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { //--self downloader --
-   $filenameReal = __FILE__;	# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'noaa_plain_page.php';
 $pageVersion	= '3.20 2015-07-29';
 #-------------------------------------------------------------------------------

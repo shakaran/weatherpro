@@ -1,17 +1,7 @@
 <?php
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 # the leuven scripts can not be used / started  without index.php
 if (!isset($SITE)){echo "<h3>invalid call to script ws_metno_page.php</h3>";exit;}
 # ----------------------------------------------------------------------
@@ -253,4 +243,3 @@ if ($metno_meteogram) {
 if ($tableInTabs || $metno_meteogram_in_tabs) {
 	echo '<script type="text/javascript" src="'.$javascriptsDir.'tabber.js"></script>'.PHP_EOL;
 }
-?>

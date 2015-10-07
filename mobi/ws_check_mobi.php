@@ -14,20 +14,9 @@ $skip_time      = 3600;                         // minutes that a mobi user retu
 $mobi_link      = 'mobi';;                      // menu entry on main site for php script to mobi site
 $mobi_site_start= $SITE['mobileSite'];          // redirect or first page of mobile (phone type) site
 # -----------------end of settings -----------------------------
-#	
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {                                               
-   $filenameReal = __FILE__;                    // display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'ws_check_mobi.php';
 $pageVersion	= '3.00 2015-04-22';
 #

@@ -65,4 +65,3 @@ $string.='<tr><td style="text-align: right;"><button id="acceptCookie" name="acc
 </div>
 <div class="textbox center">'.langtransstr('Your settings are stored in a cookie').'!</div>'.PHP_EOL;
 echo $string;
-?>

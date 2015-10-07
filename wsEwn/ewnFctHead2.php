@@ -1,20 +1,9 @@
-<?php ini_set('display_errors', 'Off');   error_reporting(0);
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+<?php 
+ini_set('display_errors', 'Off');   
+error_reporting(0);
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 #-----------------------------------------------------------------------
 # just to know which script version is executing
 #-----------------------------------------------------------------------

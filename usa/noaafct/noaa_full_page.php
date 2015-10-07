@@ -18,20 +18,9 @@ $fcstTable	        = true;		// table with one line for every 3 / 6 hours
 $plainTable             = true;         // table with plain forecast
 $tabHeight 	        = '400';	// to restrict height of tabs to suppress very large/long pages
 # --------------- END OF SETTINGS --------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { //--self downloader --
-   $filenameReal = __FILE__;	# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
-#
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'noaa_full_page.php';
 $pageVersion	= '3.20 2015-07-16';
 #-------------------------------------------------------------------------------

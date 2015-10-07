@@ -220,7 +220,7 @@ $SITE["wsSteelTime"]    = "30";                 # 10 = 999
 # 
 # Miscellaneous
 $SITE["charset"]        = "UTF-8";              # UTF-8 = default UTF-8 character set  |  windows-1252 = windows-1252
-$SITE["topfolder"]      = "weather28/";
+$SITE["topfolder"]      = "./";
 $SITE["password"]       = "";
 #---------------------------------------------------------
 # Partners

@@ -113,21 +113,9 @@
 
 // end of settings -------------------------------------------------------------
 
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   //--self downloader --
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 // Constants
 // don't change $baseURL or $fileName or script may break ;-)
   $mapMainURL = "http://earthquake.usgs.gov/earthquakes/map/";  //USGS website main link
@@ -957,7 +945,7 @@ function QJ_microtime_float()
     /*:: :*/
     /*:: Official Web site: http://www.zipcodeworld.com :*/
     /*:: :*/
-    /*:: Hexa Software Development Center © All Rights Reserved 2004:*/
+    /*:: Hexa Software Development Center ï¿½ All Rights Reserved 2004:*/
     /*:: :*/
     /*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
     function distance($lat1, $lon1, $lat2, $lon2, $unit) { 
@@ -1067,5 +1055,3 @@ function QJ_ISO_Lang ( $inLang) {
 }
   
 // --------------end of functions ---------------------------------------
-
-?>

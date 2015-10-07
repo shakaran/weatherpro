@@ -152,4 +152,3 @@ $noaaEvents['Wind Chill Watch']				= array ('types' => 'Extreme low temperature'
 $noaaEvents['Winter Storm Warning']			= array ('types' => 'Extreme low temperature');
 $noaaEvents['Winter Storm Watch']			= array ('types' => 'Extreme low temperature');
 $noaaEvents['Winter Weather Advisory']		= array ('types' => 'Snow/Ice');
-?>

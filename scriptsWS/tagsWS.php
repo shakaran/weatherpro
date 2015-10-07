@@ -1,18 +1,7 @@
 <?php 	ini_set('display_errors', 'On'); error_reporting(E_ALL);	
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-#  display source of script if requested so
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'tagsWS.php';
 $pageVersion	= '3.11 2015-07-21';
 #
@@ -407,4 +396,3 @@ function wswindate ($datetime){  // for todays time stamps: remove ':' in time a
         return substr($string.'000000',0,14);
 }
 // end of todaytagsScript.php
-?>
