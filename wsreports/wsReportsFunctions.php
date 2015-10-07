@@ -1,18 +1,7 @@
 <?php
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   //--self downloader --
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 if (!isset($SITE)){
 	header ("Location: ../index.php");	// back to index/startpage 
 	exit; 
@@ -139,7 +128,7 @@ function wsReportConvertTemp($amount, $usedunit,$reqUnit='') {
 		$out	= 0;
 	}
 	if ($reqUnit == '') {$toUnit = $SITE['uomTemp'];} else {$toUnit = $reqUnit;}
-	$repl 	= array ('/',' ','&deg;','elsius','¡C');
+	$repl 	= array ('/',' ','&deg;','elsius','ï¿½C');
 	$with 	= array ('','','','','c');
 	$from 	= trim(strtolower(str_replace ($repl,$with,$usedunit)));
 	$to   	= trim(strtolower(str_replace ($repl,$with,$toUnit)));
@@ -300,5 +289,3 @@ if (file_exists($langfile) ) {
 	}  // eo for each lang record
 	echo '<!-- loaded: '.$loaded.' - skipped: '.$skipped.' - invalid: '.$invalid.' - used: '.$nLanglookup.' entries of file '.$langfile.' -->'.PHP_EOL;
 } // eo file exist
-
-?>
