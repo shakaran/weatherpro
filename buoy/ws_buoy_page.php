@@ -8,19 +8,9 @@ $my_bouys 	= 'mybuoy-United_Kingdom.txt';          // configuration file name
 # To find other areas please visit JKen True's bouy page  at http://saratoga-weather.org/scripts-buoy.php#buoydata  
 # There you can download the original set of scripts which also contain other areas with bouys.
 #-------------------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'ws_buoy_page.php';
 $pageVersion	= '3.20 2015-09-06';
 #-------------------------------------------------------------------------------

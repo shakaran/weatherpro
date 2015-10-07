@@ -1,1 +1,1 @@
-<META HTTP-EQUIV="refresh" CONTENT="1; url=weather28/index.php">
+<META HTTP-EQUIV="refresh" CONTENT="1; url=/index.php">

@@ -1,17 +1,7 @@
 <?php #	ini_set('display_errors', 'On');  error_reporting(E_ALL);	
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'cwopstats.php';
 $pageVersion	= '3.20 2015-10-01';
 #-------------------------------------------------------------------------------
@@ -182,5 +172,3 @@ $qcbaro = trim($madis[0][0]);
 $qctemp = trim($madis[0][1]);
 $qcdewp = trim($madis[0][2]);
 $qcwind = trim($madis[0][3]);
-
-?>
