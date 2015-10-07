@@ -1,20 +1,8 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
+
 $pageName	= 'testtags.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '2.6 2014-10-10 11:55:45 ';
@@ -46,7 +34,7 @@ $ymd		= (string) $wdYear.$wdMonth.$wdDay;   //
 $ws['actTime']	= (string) $ymd.$wdHour.$wdMinute.$wdSeconds; // '20120523113945';
 # ------------------------------------------ temperature ---------------
 $to 	= $SITE['uomTemp'];
-$from	= 'C'; 		//  = 'C', 'F',  (or  '°C', '°F', or '&deg;C', '&deg;F' )
+$from	= 'C'; 		//  = 'C', 'F',  (or  'ï¿½C', 'ï¿½F', or '&deg;C', '&deg;F' )
 
 $ws['tempMinTodayTime']	= wdDate('07:09');
 $ws['tempMinYdayTime']	= wdDate('03:47');
@@ -384,7 +372,7 @@ $wsTrends[$i] ['uv']	= '0.7';
 
 #--------------------- soil leaf measurement ---------------------------
 $to 	= $SITE['uomTemp'];
-$from	= 'C'; 		//  = 'C', 'F',  (or  '°C', '°F', or '&deg;C', '&deg;F' )
+$from	= 'C'; 		//  = 'C', 'F',  (or  'ï¿½C', 'ï¿½F', or '&deg;C', '&deg;F' )
 
 # Temp sensor 1 actual value
 $ws['soilTempAct'][1]		= wsConvertTemperature('10.6', $from);  // convert and clean of units
@@ -527,4 +515,3 @@ $ws['leafAct'][4]	        = '0.0';
 #-----------------------------------------------------------------------------------------
 $ws['check_ok']         = '3.00';
 // end of testtags.txt/testtags.php
-?>
