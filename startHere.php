@@ -1,22 +1,10 @@
 <?php
-ini_set('display_errors', 'On');  error_reporting(E_ALL);	
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
-#
+ini_set('display_errors', 'On');  
+error_reporting(E_ALL);	
+require 'lib/Util.php';
+
+Util::checkShowSource();
+
 echo '<pre>'.PHP_EOL;
 echo 'startHere.php (v2.8): This small program test your web server settings if they prohibit installing the Leuven-template.
 <br />You only need to run this program in step3 of the install procedure.
