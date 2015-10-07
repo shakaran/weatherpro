@@ -17,19 +17,9 @@ $printTable		= true;                 //              details table
 $printCredit	        = true;                 //              credit line and debug info
 #
 # --------------- END OF SETTINGS ----------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) { 
-   $filenameReal = __FILE__;			# display source of script if requested so
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wu_fct_page.php';
 $pageVersion	= '3.20 2015-09-20';
 #-------------------------------------------------------------------------------
