@@ -1,20 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsPartners.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.00 2015-05-28';
@@ -93,6 +80,5 @@ echo '<h3 class="blockHead">'.langtransstr('Our weatherinformation as shown on')
 <iframe src="'.$arrPartners[$s]['frame'].'" name="targetFrame" style="width: '.$width.'; margin: 0 auto; height: '.$height.';  border:0; vertical-align: bottom;">
 Your browser cannot display iframes and or no support for Flash
 </iframe>
+</div>
 </div>';
-echo '</div>'.PHP_EOL;
-?>

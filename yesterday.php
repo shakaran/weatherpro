@@ -1,20 +1,7 @@
 <?php ini_set('display_errors', 'On');   error_reporting(E_ALL);
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header('Content-type: text/plain');
-   header('Accept-Ranges: bytes');
-   header('Content-Length: $download_size');
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $SITE		        = array();
 #
 $pageNameYday		= 'yesterday.php';
@@ -125,12 +112,10 @@ if (isset ($SITE['leafUsed']) && $SITE['leafUsed'] && $SITE['leafCount']*1.0 > 0
 } // eo soil
 
 
-
-
 if ( isset($_GET['debug']) ) {echo '<pre>'.PHP_EOL.$string; exit;}  
 #
 if (!file_put_contents($SITE['ydayTags'],$string) ){   
         echo $yesterdayscript.': Could not save '.$SITE['ydayTags'].'.'.$message.PHP_EOL;
 } else {
         echo 'succes - saved '.$SITE['ydayTags'].$message;
-}?>
+}
