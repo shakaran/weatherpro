@@ -1,20 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsWxsimGenerateHtml.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.01 2015-05-30';
@@ -29,7 +16,7 @@ echo '<!-- module '.$pageFile.' ==== '.$SITE['wsModules'][$pageFile]." -->".PHP_
 #
 #-----------------------------------------------------------------------------------------
 #  
-$degree_symbol  = '°';
+$degree_symbol  = 'ï¿½';
 if (isset ($SITE['charset']) && $SITE['charset'] == 'UTF-8') {
         $degree_symbol = iconv('WINDOWS-1252','UTF-8',$degree_symbol);
 }
@@ -1447,5 +1434,3 @@ function myHumidity ($array=''){
 	$tip = '<td style="text-align: right;">'.langtransstr('Humidity').':&nbsp;</td>'.$string;
 	return array ($string, $tip);		
 }
-
-?>

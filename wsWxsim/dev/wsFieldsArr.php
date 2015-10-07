@@ -114,5 +114,3 @@ $lrFieldsArr['zzzzz']	= $csvFieldsArr['Snow Level'] 				='Freezing level when no
 // Snow Level  =  Snow Level (= freezing level when no precip)
 // Convection index =Convection index (1=very unlikely...2=unlikely...3=sctd.possible...4=sctd.likely...5=numerous likely)
 // Severe index (1=very unlikely...2=unlikely...3=sctd.possible...4=sctd.likely...5=numerous likely)
-
-?>

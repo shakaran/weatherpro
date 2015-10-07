@@ -1,20 +1,7 @@
 <?php
-#-----------------------------------------------------------------------
-# display source of script if requested so
-#-----------------------------------------------------------------------
-if (isset($_REQUEST['sce']) && strtolower($_REQUEST['sce']) == 'view' ) {
-   $filenameReal = __FILE__;
-   $download_size = filesize($filenameReal);
-   header('Pragma: public');
-   header('Cache-Control: private');
-   header('Cache-Control: no-cache, must-revalidate');
-   header("Content-type: text/plain");
-   header("Accept-Ranges: bytes");
-   header("Content-Length: $download_size");
-   header('Connection: close');
-   readfile($filenameReal);
-   exit;
-}
+require_once 'lib/Util.php';
+
+Util::checkShowSource(__FILE__);
 $pageName	= 'wsWxsimParser.php';
 if (!isset($SITE)){echo "<h3>invalid call to script $pageName</h3>";exit;}
 $pageVersion	= '3.01 2015-03-18';
@@ -129,7 +116,8 @@ For ($i = 0; $i	< count($WXSIMday); $i++) {  // for every group of parsed fields
 $fileTime       = time();		// save the time we processed this file and saved to cache
 if (!file_put_contents($cacheFile, serialize($wsWxsimPlain))){   
 	echo PHP_EOL."<!-- Could not save data to cache $cacheFile. Please make sure your cache directory exists and is writable. -->".PHP_EOL;
-} else {
+} 
+else 
+{
 	echo "<!-- weatherdata ($cacheFile) saved to cache  -->".PHP_EOL;
-	}
-?>
+}

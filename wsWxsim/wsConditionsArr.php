@@ -141,4 +141,3 @@ $conditionsArr['SCTD.FROS'] = $conditionsArr['SCTD.FROST'] = array ('text' =>'fr
 $conditionsArr['LT. FROST'] = $conditionsArr['LT. FROST']  = array ('text' =>'frost light ', 						'out' =>'light frost',		'code' => -1, 'cond' => 'frost');
 $conditionsArr['MOD. FROS']	= $conditionsArr['MOD. FROST'] = array ('text' =>'frost moderate ', 					'out' =>'moderate frost', 	'code' => -1, 'cond' => 'frost');
 $conditionsArr['HVY. FROS'] = $conditionsArr['HVY. FROST'] = array ('text' =>'frost heavy ', 						'out' =>'frost heavy', 		'code' => -1, 'cond' => 'frost');
-?>
