@@ -34,8 +34,7 @@ $cron_all       = true;				// for all others
 #
 include 'index.php';				// load default start-page
 #
-$seconds	= microtime(true) 
-		- $start_cron_job;		// time spent
+$seconds	= microtime(true) - $start_cron_job;		// time spent
 #
 ob_clean ();					// discard all html
 #
@@ -58,4 +57,3 @@ if ($cron_nws  && isset ($SITE['useCurly']) && ($SITE['useCurly'] == true) ) {
         if (isset ($cron_string) ) {echo '<br />'.$cron_string;}
         echo $text;
 }
-?>
